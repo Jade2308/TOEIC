@@ -1,0 +1,432 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 3",
+    "part": 1,
+    "total_groups": 6,
+    "total_questions": 6
+  },
+  "question_groups": [
+    {
+      "id": "540758ff-2aaf-5613-baf7-e2b3c36b3700",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test3/part1_q1.jpg",
+      "audio_url": "/audio/test3/part1_q1.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q1-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 6.0,
+          "text_en": "1. Look at the picture marked number 1 in your testbook.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q1-2",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 20.0,
+          "text_en": "A. A man is standing in a road. B. A man is wearing a coat. C. A man with tools is bending over. D. A man is putting on a hat.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "ea17204a-d26d-50d1-9c3d-64651424503e",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test3/part1_q5.jpg",
+      "audio_url": "/audio/test3/part1_q5.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q5-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 6.0,
+          "text_en": "Number 5. Look at the picture marked number 5 in your testbook.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q5-2",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 10.0,
+          "text_en": "A. A tablecloth is folded on a chair.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q5-3",
+          "speaker": "Speaker",
+          "start_time": 10.0,
+          "end_time": 14.0,
+          "text_en": "B. A dining area is prepared for a meal.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q5-4",
+          "speaker": "Speaker",
+          "start_time": 14.0,
+          "end_time": 18.0,
+          "text_en": "C. Some chairs are being moved to a different room.",
+          "text_vi": "",
+          "is_trap": true
+        },
+        {
+          "id": "seg-q5-5",
+          "speaker": "Speaker",
+          "start_time": 18.0,
+          "end_time": 23.0,
+          "text_en": "D. Cups and plates are being filled.",
+          "text_vi": "",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "7bff5155-79a0-57e3-a6e6-30fc8f1c5ae1",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test3/part1_q4.jpg",
+      "audio_url": "/audio/test3/part1_q4.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q4-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.6,
+          "text_en": "Number 4. Look at the picture marked number 4 in your testbook.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q4-2",
+          "speaker": "Speaker",
+          "start_time": 5.6,
+          "end_time": 9.1,
+          "text_en": "A. A woman is cleaning the floor.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q4-3",
+          "speaker": "Speaker",
+          "start_time": 9.1,
+          "end_time": 13.1,
+          "text_en": "B. Bottles are being placed on shelves.",
+          "text_vi": "",
+          "is_trap": true
+        },
+        {
+          "id": "seg-q4-4",
+          "speaker": "Speaker",
+          "start_time": 13.1,
+          "end_time": 16.6,
+          "text_en": "C. A woman is holding a bowl.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q4-5",
+          "speaker": "Speaker",
+          "start_time": 16.6,
+          "end_time": 20.6,
+          "text_en": "D. A customer is reading a menu.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "e6d4226b-f568-587f-af09-440811657b24",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test3/part1_q6.jpg",
+      "audio_url": "/audio/test3/part1_q6.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q6-1",
+          "speaker": "Speaker",
+          "start_time": 0.96,
+          "end_time": 6.0,
+          "text_en": "Number 6. Look at the picture marked Number 6 in your testbook.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-2",
+          "speaker": "Speaker",
+          "start_time": 7.04,
+          "end_time": 10.8,
+          "text_en": "A. Some people have gathered in an outdoor seating area.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-3",
+          "speaker": "Speaker",
+          "start_time": 11.6,
+          "end_time": 14.96,
+          "text_en": "B. Umbrellas are covering a buffet counter.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-4",
+          "speaker": "Speaker",
+          "start_time": 15.76,
+          "end_time": 18.64,
+          "text_en": "C. Some chairs are stacked on the lawn.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-5",
+          "speaker": "Speaker",
+          "start_time": 19.6,
+          "end_time": 22.8,
+          "text_en": "D. Some people are laughing at a performance.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-6",
+          "speaker": "Speaker",
+          "start_time": 22.8,
+          "end_time": 27.76,
+          "text_en": "C. Some chairs are locked on the lawn.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-7",
+          "speaker": "Speaker",
+          "start_time": 27.76,
+          "end_time": 31.76,
+          "text_en": "C. Some chairs are locked on the lawn.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "3b519474-1ab9-56d6-be9d-851aa980cee5",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test3/part1_q2.jpg",
+      "audio_url": "/audio/test3/part1_q2.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q2-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.6,
+          "text_en": "2. Look at the picture marked number 2 in your testbook.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-2",
+          "speaker": "Speaker",
+          "start_time": 5.6,
+          "end_time": 9.8,
+          "text_en": "A. There's long grass behind a fence.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-3",
+          "speaker": "Speaker",
+          "start_time": 9.8,
+          "end_time": 13.5,
+          "text_en": "B. There's a door open beneath a light.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-4",
+          "speaker": "Speaker",
+          "start_time": 13.5,
+          "end_time": 17.5,
+          "text_en": "C. There's a pot with flowers by the door.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-5",
+          "speaker": "Speaker",
+          "start_time": 17.5,
+          "end_time": 21.5,
+          "text_en": "D. There's a window overlooking a garden.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-6",
+          "speaker": "Speaker",
+          "start_time": 25.5,
+          "end_time": 28.0,
+          "text_en": "Go on to the next page.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "b9b7c97b-4894-50f1-9cc8-c326d0666665",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test3/part1_q3.jpg",
+      "audio_url": "/audio/test3/part1_q3.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q3-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 6.0,
+          "text_en": "Number 3. Look at the picture marked number 3 in your testbook.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q3-2",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 13.0,
+          "text_en": "A. A man is looking in a mirror. B. A man is using an exercise machine.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q3-3",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 20.0,
+          "text_en": "C. A stairway is being cleaned. D. A basket is hanging from the ceiling.",
+          "text_vi": "",
+          "is_trap": true
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "76af95c2-6654-5b3a-b37c-fbe6611558d8",
+      "group_id": "540758ff-2aaf-5613-baf7-e2b3c36b3700",
+      "part": 1,
+      "question_number": 1,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Look at the picture marked number 1 in your testbook.",
+      "options": {
+        "A": "A man is standing in a road.",
+        "B": "A man is wearing a coat.",
+        "C": "A man with tools is bending over.",
+        "D": "A man is putting on a hat."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích bức ảnh: Hình ảnh miêu tả một người đàn ông đeo đai dụng cụ đang cúi người xuống làm việc ở khu vực lối đi/sỏi đá.\n\nVì sao chọn C: 'A man with tools is bending over' (Một người đàn ông mang theo dụng cụ đang cúi người xuống) miêu tả hoàn toàn chính xác cả tư thế và trang bị của nhân vật trong ảnh.\n\nPhân tích bẫy ETS:\n- (A) 'standing in a road': Sai động từ chỉ tư thế. Anh ấy đang cúi người (bending over), không phải đứng (standing).\n- (B) 'wearing a coat': Sai trang phục. Anh ấy mặc áo sơ mi dài tay xắn lên, không mặc áo khoác (coat).\n- (D) 'putting on a hat': Bẫy thì tiếp diễn chỉ hành động. Anh ấy đã đội sẵn mũ bảo hộ (wearing a hat), không phải đang thực hiện thao tác đội mũ lên đầu (putting on).\n\nMẹo 10s: Quan sát tư thế nổi bật của nhân vật (bending over) kết hợp với chi tiết phụ kiện (tools) để chọn đáp án đúng ngay lập tức.",
+      "evidence_quote": "A man with tools is bending over.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "b06e91cc-d621-5aa3-be7a-89e7753724d6",
+      "group_id": "3b519474-1ab9-56d6-be9d-851aa980cee5",
+      "part": 1,
+      "question_number": 2,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Look at the picture marked number 2 in your testbook.",
+      "options": {
+        "A": "There's long grass behind a fence.",
+        "B": "There's a door open beneath a light.",
+        "C": "There's a pot with flowers by the door.",
+        "D": "There's a window overlooking a garden."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích bức ảnh: Bức ảnh chụp mặt tiền một ngôi nhà có các cửa sổ ở tầng trên nhìn ra khu vườn/bụi cây cảnh phía trước.\n\nVì sao chọn D: 'There's a window overlooking a garden' (Có một cửa sổ nhìn ra một khu vườn). Động từ 'overlook' chỉ vị trí phía trên nhìn xuống/hướng ra không gian bên ngoài.\n\nPhân tích bẫy ETS:\n- (A) 'behind a fence': Trong hình hoàn toàn không xuất hiện hàng rào (fence).\n- (B) 'door open': Cửa ra vào của ngôi nhà đang đóng kín, không mở (open).\n- (C) 'pot with flowers': Hoa và cây cối mọc trực tiếp trên mặt đất ở bụi cây trước nhà, không được trồng trong chậu (pot) đặt bên cạnh cửa.\n\nMẹo 10s: Tập trung vào danh từ chính trong tranh tĩnh (window, garden) và giới từ/động từ chỉ mối quan hệ vị trí giữa chúng (overlooking).",
+      "evidence_quote": "There's a window overlooking a garden.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "9dad0e39-f783-59ce-8c04-f821b9ac8d2a",
+      "group_id": "b9b7c97b-4894-50f1-9cc8-c326d0666665",
+      "part": 1,
+      "question_number": 3,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Look at the picture marked number 3 in your testbook.",
+      "options": {
+        "A": "A man is looking in a mirror.",
+        "B": "A man is using an exercise machine.",
+        "C": "A stairway is being cleaned.",
+        "D": "A basket is hanging from the ceiling."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích bức ảnh: Một người nam giới đang ngồi và luyện tập trên máy đạp xe tập thể dục phòng gym.\n\nVì sao chọn B: 'A man is using an exercise machine' (Một người đàn ông đang sử dụng máy tập thể dục) phản ánh chính xác hành động chính trong tranh.\n\nPhân tích bẫy ETS:\n- (A) 'looking in a mirror': Người đàn ông đang tập trung nhìn về phía trước máy tập, không phải đang soi gương.\n- (C) 'is being cleaned': Bẫy thì tiếp diễn bị động (being V3). Trong tranh không có ai đang lau dọn cầu thang.\n- (D) 'hanging from the ceiling': Chiếc giỏ (basket) nằm trên sàn nhà cạnh chiếc máy, không treo trên trần nhà (ceiling).\n\nMẹo 10s: Tranh có người thực hiện hành động rõ ràng, ưu tiên chọn câu miêu tả động từ hành động trực tiếp của người đó ('using an exercise machine').",
+      "evidence_quote": "A man is using an exercise machine.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "adf3fa1d-c17c-50b6-aadc-f8f94b74d415",
+      "group_id": "7bff5155-79a0-57e3-a6e6-30fc8f1c5ae1",
+      "part": 1,
+      "question_number": 4,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Look at the picture marked number 4 in your testbook.",
+      "options": {
+        "A": "A woman is cleaning the floor.",
+        "B": "Bottles are being placed on shelves.",
+        "C": "A woman is holding a bowl.",
+        "D": "A customer is reading a menu."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích bức ảnh: Một người phụ nữ đội mũ len đang ngồi tại bàn ăn, hai tay đang cầm giữ chiếc bát/tô ăn trên bàn.\n\nVì sao chọn C: 'A woman is holding a bowl' (Một người phụ nữ đang cầm một chiếc bát). Động từ 'holding' miêu tả chuẩn xác vị trí và tư thế của tay nhân vật.\n\nPhân tích bẫy ETS:\n- (A) 'cleaning the floor': Người phụ nữ đang ngồi ăn, không lau sàn nhà.\n- (B) 'being placed on shelves': Bẫy bị động 'being V3'. Các chai lọ nằm cố định ở kệ phía sau, không có người nào đang xếp chai lên kệ.\n- (D) 'reading a menu': Không có thực đơn (menu) nào trong tay người phụ nữ.\n\nMẹo 10s: Chú ý tư thế tay của nhân vật chính. Động từ 'holding' (cầm/giữ) thường xuyên là đáp án đúng trong Part 1.",
+      "evidence_quote": "A woman is holding a bowl.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "4401959c-612f-5f88-8b74-d4c807dad284",
+      "group_id": "ea17204a-d26d-50d1-9c3d-64651424503e",
+      "part": 1,
+      "question_number": 5,
+      "question_type_tag": "passive_being_trap",
+      "question_text": "Look at the picture marked number 5 in your testbook.",
+      "options": {
+        "A": "A tablecloth is folded on a chair.",
+        "B": "A dining area is prepared for a meal.",
+        "C": "Some chairs are being moved to a different room.",
+        "D": "Cups and plates are being filled."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích bức ảnh: Bức ảnh miêu tả một bàn ăn dài được trải khăn chỉn chu và bày sẵn dụng cụ ăn uống (chén, đĩa, ly) trong phòng tiệc. Không có người trong tranh.\n\nVì sao chọn B: 'A dining area is prepared for a meal' (Khu vực ăn uống đã được chuẩn bị cho bữa ăn) miêu tả đúng trạng thái hoàn tất của căn phòng.\n\nPhân tích bẫy ETS:\n- (A) 'folded on a chair': Khăn trải bàn (tablecloth) được trải phẳng trên bàn ăn dài, không phải gấp lại để trên ghế.\n- (C) & (D) 'are being moved' / 'are being filled': Bẫy kinh điển 'being V3' trong bức tranh không có người. Khi không có người tác động trực tiếp, các câu chia thì hiện tại tiếp diễn bị động (is/are being + V3) mô tả hành động đang xảy ra đều là bẫy sai.\n\nMẹo 10s: Tranh vật tĩnh không người -> Loại ngay tất cả lựa chọn chứa cấu trúc 'being + V3'.",
+      "evidence_quote": "A dining area is prepared for a meal.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "9e1cea9b-01d7-5f18-b2a8-8fc0b8d32f8d",
+      "group_id": "e6d4226b-f568-587f-af09-440811657b24",
+      "part": 1,
+      "question_number": 6,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Look at the picture marked number 6 in your testbook.",
+      "options": {
+        "A": "Some people have gathered in an outdoor seating area.",
+        "B": "Umbrellas are covering a buffet counter.",
+        "C": "Some chairs are stacked on the lawn.",
+        "D": "Some people are laughing at a performance."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích bức ảnh: Bức ảnh chụp khung cảnh khuôn viên ngoài trời có nhiều bàn ghế dưới các ô/dù lớn, nhiều người đang ngồi tập trung ăn uống trò chuyện.\n\nVì sao chọn A: 'Some people have gathered in an outdoor seating area' (Một số người đã tập trung ở khu vực ngồi ngoài trời). Động từ 'gathered' (tập trung) và cụm 'outdoor seating area' (khu vực ngồi ngoài trời) tóm tắt bao quát toàn bộ khung cảnh.\n\nPhân tích bẫy ETS:\n- (B) 'buffet counter': Ô che các bàn ăn của khách, không phải che quầy buffet.\n- (C) 'stacked on the lawn': Các ghế đang được mở ra và sử dụng, không phải đang xếp chồng (stacked) lên nhau.\n- (D) 'laughing at a performance': Không có hoạt động biểu diễn sân khấu (performance) nào xuất hiện trong ảnh.\n\nMẹo 10s: Với tranh toàn cảnh đông người, chọn đáp án sử dụng từ tổng quát miêu tả bối cảnh chung (people gathered / outdoor seating area).",
+      "evidence_quote": "Some people have gathered in an outdoor seating area.",
+      "paraphrase_pair": null
+    }
+  ]
+}

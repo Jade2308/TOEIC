@@ -1,0 +1,2341 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 2",
+    "part": 3,
+    "total_groups": 13,
+    "total_questions": 39
+  },
+  "question_groups": [
+    {
+      "id": "d385aaa3-1622-5dab-bfcc-cc79449d4f5a",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part3_g32_34.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g32_34-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Questions 32-34 refer to the following conversation.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g32_34-2",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 10.0,
+          "text_en": "Hello, Forest Grove Photography Services. How can I help you?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g32_34-3",
+          "speaker": "Speaker",
+          "start_time": 10.0,
+          "end_time": 17.0,
+          "text_en": "Hi, I'd like to get a photographer to cover our event. It's a charity basketball game next Tuesday night.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g32_34-4",
+          "speaker": "Speaker",
+          "start_time": 17.0,
+          "end_time": 21.0,
+          "text_en": "I was hoping to get Thomas Zukowski. He works for you, right?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g32_34-5",
+          "speaker": "Speaker",
+          "start_time": 21.0,
+          "end_time": 25.0,
+          "text_en": "Yes, but unfortunately Thomas doesn't usually work evenings.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g32_34-6",
+          "speaker": "Speaker",
+          "start_time": 25.0,
+          "end_time": 29.0,
+          "text_en": "Oh, too bad. Could you recommend somebody else?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g32_34-7",
+          "speaker": "Speaker",
+          "start_time": 29.0,
+          "end_time": 36.0,
+          "text_en": "Before I do that, let me talk to him. He might make an exception. Tom does love basketball.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g32_34-8",
+          "speaker": "Speaker",
+          "start_time": 37.0,
+          "end_time": 42.0,
+          "text_en": "Number 32. Why is the man calling?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g32_34-9",
+          "speaker": "Speaker",
+          "start_time": 49.0,
+          "end_time": 55.0,
+          "text_en": "Number 33. What problem does the woman mention?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g32_34-10",
+          "speaker": "Speaker",
+          "start_time": 59.0,
+          "end_time": 66.0,
+          "text_en": "Number 34. What does the woman say she will do?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "f69529ff-d49b-538c-93fd-1bcecada7c5d",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part3_g35_37.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g35_37-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 6.0,
+          "text_en": "Questions 35-37 refer to the following conversation.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g35_37-2",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 11.0,
+          "text_en": "Good morning. It looks like we received a lot of new orders online last night.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g35_37-3",
+          "speaker": "Speaker",
+          "start_time": 11.0,
+          "end_time": 17.0,
+          "text_en": "Yes, I saw that when I got in this morning. Can you package all of them by yourself?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g35_37-4",
+          "speaker": "Speaker",
+          "start_time": 17.0,
+          "end_time": 21.0,
+          "text_en": "Well, there are so many, I may not be able to finish everything today.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g35_37-5",
+          "speaker": "Speaker",
+          "start_time": 21.0,
+          "end_time": 26.0,
+          "text_en": "Okay, I'll call Maria Zhang and ask if she can come in early today to help.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g35_37-6",
+          "speaker": "Speaker",
+          "start_time": 26.0,
+          "end_time": 31.0,
+          "text_en": "That'd be great. We also have to pack that big shipment for the Henderson order.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g35_37-7",
+          "speaker": "Speaker",
+          "start_time": 31.0,
+          "end_time": 33.0,
+          "text_en": "We finally got all of the items in.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g35_37-8",
+          "speaker": "Speaker",
+          "start_time": 33.0,
+          "end_time": 37.0,
+          "text_en": "Oh, yes. Do that first.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g35_37-9",
+          "speaker": "Speaker",
+          "start_time": 37.0,
+          "end_time": 50.0,
+          "text_en": "Number 35. Where most likely are the speakers?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g35_37-10",
+          "speaker": "Speaker",
+          "start_time": 50.0,
+          "end_time": 55.0,
+          "text_en": "Number 36. Why do the speakers mention Maria Zhang?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g35_37-11",
+          "speaker": "Speaker",
+          "start_time": 55.0,
+          "end_time": 69.0,
+          "text_en": "Number 37. What will the man probably do next?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g35_37-12",
+          "speaker": "Speaker",
+          "start_time": 69.0,
+          "end_time": 74.0,
+          "text_en": "Number 36.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "3341b75e-fbe6-5544-ad71-0d29ab18143e",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part3_g38_40.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g38_40-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 4.7,
+          "text_en": "Questions 38-40 refer to the following conversation.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g38_40-2",
+          "speaker": "Speaker",
+          "start_time": 4.7,
+          "end_time": 10.2,
+          "text_en": "Haruna, we've planned most of the details for the corporate retreat, including housing",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g38_40-3",
+          "speaker": "Speaker",
+          "start_time": 10.2,
+          "end_time": 15.32,
+          "text_en": "and most activities, but we still need to decide where to go for Saturday's closing dinner.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g38_40-4",
+          "speaker": "Speaker",
+          "start_time": 15.32,
+          "end_time": 18.32,
+          "text_en": "Yes, I sent you several menus.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g38_40-5",
+          "speaker": "Speaker",
+          "start_time": 18.32,
+          "end_time": 20.2,
+          "text_en": "Did you like any of the places?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g38_40-6",
+          "speaker": "Speaker",
+          "start_time": 20.2,
+          "end_time": 21.96,
+          "text_en": "McNally's is close by.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g38_40-7",
+          "speaker": "Speaker",
+          "start_time": 21.96,
+          "end_time": 24.4,
+          "text_en": "Yes, that would be convenient.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g38_40-8",
+          "speaker": "Speaker",
+          "start_time": 24.4,
+          "end_time": 29.12,
+          "text_en": "We could even walk there from a hotel, but the prices are a little high.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g38_40-9",
+          "speaker": "Speaker",
+          "start_time": 29.12,
+          "end_time": 33.96,
+          "text_en": "I agree, but I could see if they can offer us a reduced catering rate rather than ordering",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g38_40-10",
+          "speaker": "Speaker",
+          "start_time": 33.96,
+          "end_time": 37.32,
+          "text_en": "off the regular menu.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g38_40-11",
+          "speaker": "Speaker",
+          "start_time": 37.32,
+          "end_time": 49.56,
+          "text_en": "Number 38-What do the speakers need to choose?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g38_40-12",
+          "speaker": "Speaker",
+          "start_time": 49.56,
+          "end_time": 59.08,
+          "text_en": "Number 39-What do the speakers like about McNally's?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g38_40-13",
+          "speaker": "Speaker",
+          "start_time": 59.08,
+          "end_time": 66.08,
+          "text_en": "Number 40-What does the woman offer to do?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "664d6e8f-b62a-582c-abed-8f224e0bfa17",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part3_g41_43.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g41_43-1",
+          "speaker": "Speaker",
+          "start_time": 0.4,
+          "end_time": 6.08,
+          "text_en": "Questions 41 through 43 refer to the following conversation with three speakers.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g41_43-2",
+          "speaker": "Speaker",
+          "start_time": 7.2,
+          "end_time": 13.12,
+          "text_en": "Janelle and Rico, could you give me an update on how our new medical record software is coming?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g41_43-3",
+          "speaker": "Speaker",
+          "start_time": 13.12,
+          "end_time": 18.16,
+          "text_en": "Sure. Per the customer's request, I've updated the logo and changed the font.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g41_43-4",
+          "speaker": "Speaker",
+          "start_time": 18.16,
+          "end_time": 21.6,
+          "text_en": "The customer has communicated with us a lot on this project,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g41_43-5",
+          "speaker": "Speaker",
+          "start_time": 21.6,
+          "end_time": 25.36,
+          "text_en": "having their feedback at every stage of the process has been helpful.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g41_43-6",
+          "speaker": "Speaker",
+          "start_time": 25.36,
+          "end_time": 29.36,
+          "text_en": "Excellent. It sounds like we're on schedule for completing our beta version.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g41_43-7",
+          "speaker": "Speaker",
+          "start_time": 29.36,
+          "end_time": 31.36,
+          "text_en": "Then we can hand it off to our marketing team.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g41_43-8",
+          "speaker": "Speaker",
+          "start_time": 33.6,
+          "end_time": 37.68,
+          "text_en": "Number 41. What does the speaker's company produce?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g41_43-9",
+          "speaker": "Speaker",
+          "start_time": 45.92,
+          "end_time": 50.08,
+          "text_en": "Number 42. What does the man say has been helpful?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g41_43-10",
+          "speaker": "Speaker",
+          "start_time": 50.08,
+          "end_time": 64.08,
+          "text_en": "Number 43. What is the next step in the project that the speakers are discussing?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g41_43-11",
+          "speaker": "Speaker",
+          "start_time": 64.08,
+          "end_time": 74.08,
+          "text_en": "Number 14. Go on to the next page.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "3b262d42-a463-5801-8aa6-24e3dbda0a43",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part3_g44_46.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g44_46-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Questions 44-46 refer to the following conversation.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g44_46-2",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 9.0,
+          "text_en": "Hello, this is Ian Nelson from Regal Bathrooms.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g44_46-3",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 14.0,
+          "text_en": "I'm following up to make sure that you're pleased with the job our workers did in your house.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g44_46-4",
+          "speaker": "Speaker",
+          "start_time": 14.0,
+          "end_time": 17.0,
+          "text_en": "Thank you for calling. Yes, they did a great job.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g44_46-5",
+          "speaker": "Speaker",
+          "start_time": 17.0,
+          "end_time": 23.0,
+          "text_en": "The bathroom floor was replaced and the new tile looks great. I'm very happy with the job.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g44_46-6",
+          "speaker": "Speaker",
+          "start_time": 23.0,
+          "end_time": 29.0,
+          "text_en": "That's good to hear. If there are other jobs you need done, I hope you'll reach out to us again.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g44_46-7",
+          "speaker": "Speaker",
+          "start_time": 29.0,
+          "end_time": 35.0,
+          "text_en": "That reminds me, I was thinking of replacing my kitchen cabinets. Is that something you'd possibly do?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g44_46-8",
+          "speaker": "Speaker",
+          "start_time": 35.0,
+          "end_time": 42.0,
+          "text_en": "We don't, but I can recommend a company I often work with. Their customers have been very satisfied.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g44_46-9",
+          "speaker": "Speaker",
+          "start_time": 42.0,
+          "end_time": 46.0,
+          "text_en": "Let me get their phone number, one second. Thanks.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g44_46-10",
+          "speaker": "Speaker",
+          "start_time": 47.0,
+          "end_time": 52.0,
+          "text_en": "Number 44. What is the purpose of the phone call?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g44_46-11",
+          "speaker": "Speaker",
+          "start_time": 59.0,
+          "end_time": 66.0,
+          "text_en": "Number 45. What does the man say about replacing kitchen cabinets?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g44_46-12",
+          "speaker": "Speaker",
+          "start_time": 72.0,
+          "end_time": 78.0,
+          "text_en": "Number 46. What will the man most likely do next?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "29948203-fc64-570b-9827-d61aa6047913",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part3_g47_49.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g47_49-1",
+          "speaker": "Speaker",
+          "start_time": 1.0,
+          "end_time": 7.0,
+          "text_en": "Questions 47-49 refer to the following conversation.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g47_49-2",
+          "speaker": "Speaker",
+          "start_time": 7.0,
+          "end_time": 12.0,
+          "text_en": "My name is Laura. I refill my medication here at this pharmacy once a month,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g47_49-3",
+          "speaker": "Speaker",
+          "start_time": 12.0,
+          "end_time": 16.0,
+          "text_en": "but on Monday I'm going to travel abroad for work for two months,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g47_49-4",
+          "speaker": "Speaker",
+          "start_time": 16.0,
+          "end_time": 19.0,
+          "text_en": "and I wonder if I can get a two-month refill this time.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g47_49-5",
+          "speaker": "Speaker",
+          "start_time": 19.0,
+          "end_time": 21.0,
+          "text_en": "It shouldn't be a problem.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g47_49-6",
+          "speaker": "Speaker",
+          "start_time": 21.0,
+          "end_time": 26.0,
+          "text_en": "However, your doctor must send us the two-month prescription, so you need to contact her first.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g47_49-7",
+          "speaker": "Speaker",
+          "start_time": 26.0,
+          "end_time": 30.0,
+          "text_en": "Oh, I see. I'll give her a call during my lunch break today.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g47_49-8",
+          "speaker": "Speaker",
+          "start_time": 30.0,
+          "end_time": 32.0,
+          "text_en": "When are you open until today?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g47_49-9",
+          "speaker": "Speaker",
+          "start_time": 32.0,
+          "end_time": 34.0,
+          "text_en": "Until 9 p.m.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g47_49-10",
+          "speaker": "Speaker",
+          "start_time": 34.0,
+          "end_time": 41.0,
+          "text_en": "But once we receive your doctor's prescription, we can deliver the medication directly to your home.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g47_49-11",
+          "speaker": "Speaker",
+          "start_time": 41.0,
+          "end_time": 54.0,
+          "text_en": "Number 47-Where is the conversation taking place?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g47_49-12",
+          "speaker": "Speaker",
+          "start_time": 54.0,
+          "end_time": 67.0,
+          "text_en": "Number 48-What does the woman say she will do at lunch today?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g47_49-13",
+          "speaker": "Speaker",
+          "start_time": 67.0,
+          "end_time": 79.0,
+          "text_en": "Number 49-What does the man offer to do?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "f5e869f7-01a4-5fa3-9b80-3a4ea0929153",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part3_g50_52.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g50_52-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Questions 50 through 52 refer to the following conversation.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g50_52-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 8.0,
+          "text_en": "Miller's Sporting Goods, Joey speaking.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g50_52-3",
+          "speaker": "Speaker",
+          "start_time": 8.0,
+          "end_time": 11.0,
+          "text_en": "Hello, I'm calling from West End High School.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g50_52-4",
+          "speaker": "Speaker",
+          "start_time": 11.0,
+          "end_time": 15.0,
+          "text_en": "We're looking to make a big purchase for our student baseball teams.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g50_52-5",
+          "speaker": "Speaker",
+          "start_time": 15.0,
+          "end_time": 19.0,
+          "text_en": "Our equipment is getting old and we would like to get new uniforms too.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g50_52-6",
+          "speaker": "Speaker",
+          "start_time": 19.0,
+          "end_time": 21.0,
+          "text_en": "We have budget restrictions though.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g50_52-7",
+          "speaker": "Speaker",
+          "start_time": 21.0,
+          "end_time": 25.0,
+          "text_en": "Well, we do offer discounts for bulk purchases,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g50_52-8",
+          "speaker": "Speaker",
+          "start_time": 25.0,
+          "end_time": 28.0,
+          "text_en": "and we have a number of price ranges for uniforms.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g50_52-9",
+          "speaker": "Speaker",
+          "start_time": 28.0,
+          "end_time": 30.0,
+          "text_en": "Many are very reasonable.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g50_52-10",
+          "speaker": "Speaker",
+          "start_time": 30.0,
+          "end_time": 35.0,
+          "text_en": "Let me get the manager on the phone and you can discuss the specifics.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g50_52-11",
+          "speaker": "Speaker",
+          "start_time": 35.0,
+          "end_time": 40.0,
+          "text_en": "50. Where does the woman work?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g50_52-12",
+          "speaker": "Speaker",
+          "start_time": 47.0,
+          "end_time": 52.0,
+          "text_en": "51. What is the woman concerned about?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g50_52-13",
+          "speaker": "Speaker",
+          "start_time": 58.0,
+          "end_time": 64.0,
+          "text_en": "52. What will the man do next?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "8c76bd18-cb29-5b9e-ae45-7c4665c48833",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part3_g53_55.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g53_55-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Questions 53 through 55 refer to the following conversation.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 8.0,
+          "text_en": "Hi, this is Gemini Flowers.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-3",
+          "speaker": "Speaker",
+          "start_time": 8.0,
+          "end_time": 12.0,
+          "text_en": "I'm calling about the order you placed for your award luncheon on July 12th.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-4",
+          "speaker": "Speaker",
+          "start_time": 12.0,
+          "end_time": 16.0,
+          "text_en": "Unfortunately, our supplier is out of Pink Roses.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-5",
+          "speaker": "Speaker",
+          "start_time": 16.0,
+          "end_time": 19.0,
+          "text_en": "Oh no, Pink matches our corporate logo.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-6",
+          "speaker": "Speaker",
+          "start_time": 19.0,
+          "end_time": 22.0,
+          "text_en": "I ordered them especially for this occasion.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-7",
+          "speaker": "Speaker",
+          "start_time": 22.0,
+          "end_time": 25.0,
+          "text_en": "I understand your disappointment, sir.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-8",
+          "speaker": "Speaker",
+          "start_time": 25.0,
+          "end_time": 29.0,
+          "text_en": "I can offer a 10% discount on the total cost of your order",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-9",
+          "speaker": "Speaker",
+          "start_time": 29.0,
+          "end_time": 32.0,
+          "text_en": "and replace the Pink Roses with yellow ones.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-10",
+          "speaker": "Speaker",
+          "start_time": 32.0,
+          "end_time": 35.0,
+          "text_en": "Well, I didn't tell anyone about the roses.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-11",
+          "speaker": "Speaker",
+          "start_time": 35.0,
+          "end_time": 39.0,
+          "text_en": "I suppose no one will really be disappointed.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-12",
+          "speaker": "Speaker",
+          "start_time": 39.0,
+          "end_time": 44.0,
+          "text_en": "53. What problem does the woman mention?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-13",
+          "speaker": "Speaker",
+          "start_time": 51.0,
+          "end_time": 57.0,
+          "text_en": "54. What does the man say about his company's logo?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-14",
+          "speaker": "Speaker",
+          "start_time": 59.0,
+          "end_time": 69.0,
+          "text_en": "55. What does the man mean when he says,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g53_55-15",
+          "speaker": "Speaker",
+          "start_time": 69.0,
+          "end_time": 74.0,
+          "text_en": "I suppose no one will really be disappointed.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "584a4b9d-52fb-5df2-b28e-e6e41879f483",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part3_g56_58.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g56_58-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 7.0,
+          "text_en": "Questions 56-58 refer to the following conversation with three speakers.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g56_58-2",
+          "speaker": "Speaker",
+          "start_time": 7.0,
+          "end_time": 11.0,
+          "text_en": "Unfortunately, our development team has some bad news.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g56_58-3",
+          "speaker": "Speaker",
+          "start_time": 11.0,
+          "end_time": 17.0,
+          "text_en": "It turns out we'll need to push back the shipment of the prototype motor we've been developing for our client.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g56_58-4",
+          "speaker": "Speaker",
+          "start_time": 17.0,
+          "end_time": 20.0,
+          "text_en": "Uh oh, why will there be a delay?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g56_58-5",
+          "speaker": "Speaker",
+          "start_time": 20.0,
+          "end_time": 25.0,
+          "text_en": "Well, some of the components we received to build the prototype are failing initial tests,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g56_58-6",
+          "speaker": "Speaker",
+          "start_time": 25.0,
+          "end_time": 28.0,
+          "text_en": "so we won't be able to make the delivery deadline.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g56_58-7",
+          "speaker": "Speaker",
+          "start_time": 28.0,
+          "end_time": 31.0,
+          "text_en": "Janet, could you let the client know?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g56_58-8",
+          "speaker": "Speaker",
+          "start_time": 31.0,
+          "end_time": 33.0,
+          "text_en": "Yes, I'll contact them right away.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g56_58-9",
+          "speaker": "Speaker",
+          "start_time": 33.0,
+          "end_time": 40.0,
+          "text_en": "And I'd like the development team to start giving me daily briefings about progress on this issue.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g56_58-10",
+          "speaker": "Speaker",
+          "start_time": 40.0,
+          "end_time": 54.0,
+          "text_en": "Number 56- What kind of company do the speakers most likely work for?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g56_58-11",
+          "speaker": "Speaker",
+          "start_time": 54.0,
+          "end_time": 66.0,
+          "text_en": "Number 57- What problem are the speakers discussing?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g56_58-12",
+          "speaker": "Speaker",
+          "start_time": 66.0,
+          "end_time": 78.0,
+          "text_en": "Number 58- What does the man request?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "0d80f7f1-2fae-594b-b30d-c5f6b89437b2",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part3_g59_61.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g59_61-1",
+          "speaker": "Speaker",
+          "start_time": 0.56,
+          "end_time": 4.96,
+          "text_en": "Questions 59-61 refer to the following conversation.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g59_61-2",
+          "speaker": "Speaker",
+          "start_time": 6.16,
+          "end_time": 9.52,
+          "text_en": "Good evening, legend hotel. How may I help you?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g59_61-3",
+          "speaker": "Speaker",
+          "start_time": 9.52,
+          "end_time": 14.8,
+          "text_en": "Hello, I'm at the local airport. Does the hotel run shuttle buses to here?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g59_61-4",
+          "speaker": "Speaker",
+          "start_time": 14.8,
+          "end_time": 20.24,
+          "text_en": "We usually don't, but was your flight originally scheduled for Central Airport?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g59_61-5",
+          "speaker": "Speaker",
+          "start_time": 20.24,
+          "end_time": 23.92,
+          "text_en": "It was, but apparently there's a problem at Central.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g59_61-6",
+          "speaker": "Speaker",
+          "start_time": 23.92,
+          "end_time": 29.52,
+          "text_en": "Yes, there's a personnel shortage, but several flights have been re-routed to the local airport.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g59_61-7",
+          "speaker": "Speaker",
+          "start_time": 29.6,
+          "end_time": 32.24,
+          "text_en": "We have started running an airport shuttle this morning.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g59_61-8",
+          "speaker": "Speaker",
+          "start_time": 32.88,
+          "end_time": 36.64,
+          "text_en": "Okay, that's good news. When is the next shuttle?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g59_61-9",
+          "speaker": "Speaker",
+          "start_time": 36.64,
+          "end_time": 40.48,
+          "text_en": "Buses run every half hour. What's your reservation number?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g59_61-10",
+          "speaker": "Speaker",
+          "start_time": 40.48,
+          "end_time": 43.2,
+          "text_en": "I'll ensure that your room is ready for you when you arrive.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g59_61-11",
+          "speaker": "Speaker",
+          "start_time": 45.44,
+          "end_time": 53.76,
+          "text_en": "Number 59. What does the woman say about Central Airport?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g59_61-12",
+          "speaker": "Speaker",
+          "start_time": 54.4,
+          "end_time": 62.72,
+          "text_en": "Number 60. Why does the man say, that's good news.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g59_61-13",
+          "speaker": "Speaker",
+          "start_time": 71.04,
+          "end_time": 75.12,
+          "text_en": "Number 61. What will the woman do for the man?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "f9c6d003-e736-5d7e-a3a0-21dec89b0a5d",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": "/images/test2/part3_g62_64.png",
+      "audio_url": "/audio/test2/part3_g62_64.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g62_64-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 7.0,
+          "text_en": "Question 62 through 64 refer to the following conversation and images.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g62_64-2",
+          "speaker": "Speaker",
+          "start_time": 7.0,
+          "end_time": 14.0,
+          "text_en": "Hi, Marla. I'm calling to check whether you received my outline of the design project for your apartment remodeling.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g62_64-3",
+          "speaker": "Speaker",
+          "start_time": 14.0,
+          "end_time": 16.0,
+          "text_en": "I emailed it to you yesterday.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g62_64-4",
+          "speaker": "Speaker",
+          "start_time": 16.0,
+          "end_time": 24.0,
+          "text_en": "Yes, thank you for doing such a great job. I really liked your idea of opening up the kitchen and creating an open space with the living room.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g62_64-5",
+          "speaker": "Speaker",
+          "start_time": 24.0,
+          "end_time": 29.0,
+          "text_en": "Great. If everything looks good to you, I can start ordering the supplies tomorrow.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g62_64-6",
+          "speaker": "Speaker",
+          "start_time": 29.0,
+          "end_time": 40.0,
+          "text_en": "Actually, I don't like the ceramic tiles you picked for the kitchen. I like the marble ones much better. I know they are more expensive, but it's a small space.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g62_64-7",
+          "speaker": "Speaker",
+          "start_time": 40.0,
+          "end_time": 46.0,
+          "text_en": "Number 62. What did the man do yesterday?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g62_64-8",
+          "speaker": "Speaker",
+          "start_time": 46.0,
+          "end_time": 58.0,
+          "text_en": "Number 63. What does the woman say she likes?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g62_64-9",
+          "speaker": "Speaker",
+          "start_time": 58.0,
+          "end_time": 72.0,
+          "text_en": "Number 64. Look at the graphic. How much will the woman pay for each tile?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g62_64-10",
+          "speaker": "Speaker",
+          "start_time": 72.0,
+          "end_time": 84.0,
+          "text_en": "Go on to the next page.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "642e7d09-7da2-55b8-b746-29da843b2254",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": "/images/test2/part3_g65_67.png",
+      "audio_url": "/audio/test2/part3_g65_67.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g65_67-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 7.0,
+          "text_en": "Question 65 through 67 refer to the following conversation and price list.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g65_67-2",
+          "speaker": "Speaker",
+          "start_time": 7.0,
+          "end_time": 14.0,
+          "text_en": "Hi, I'd like to make a reservation for a group of clients that will be visiting our company from the first to the sixth of June.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g65_67-3",
+          "speaker": "Speaker",
+          "start_time": 14.0,
+          "end_time": 16.0,
+          "text_en": "I need eight rooms.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g65_67-4",
+          "speaker": "Speaker",
+          "start_time": 16.0,
+          "end_time": 25.0,
+          "text_en": "We do have availability for that period. The type of room I recommend for you is normally 99 euros per night, but we can offer a group discount.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g65_67-5",
+          "speaker": "Speaker",
+          "start_time": 25.0,
+          "end_time": 33.0,
+          "text_en": "That'll work. Also, on June 5th, we want to take our clients on a tour of the local attractions. Could you help arrange that?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g65_67-6",
+          "speaker": "Speaker",
+          "start_time": 33.0,
+          "end_time": 43.0,
+          "text_en": "We have an event planner here who will be able to help you. His name is Pablo Gonzalez. I'll connect you to his office once I've completed your reservation.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g65_67-7",
+          "speaker": "Speaker",
+          "start_time": 43.0,
+          "end_time": 49.0,
+          "text_en": "Number 65. Why is the man calling?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g65_67-8",
+          "speaker": "Speaker",
+          "start_time": 55.0,
+          "end_time": 73.0,
+          "text_en": "Number 66. Look at the graphic. Which room type does the woman mention?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g65_67-9",
+          "speaker": "Speaker",
+          "start_time": 73.0,
+          "end_time": 79.0,
+          "text_en": "Number 67. Who is Pablo Gonzalez?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "328a56eb-d349-5139-b0bd-e276765e0fcc",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 3,
+      "passage_text": null,
+      "image_url": "/images/test2/part3_g68_70.png",
+      "audio_url": "/audio/test2/part3_g68_70.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p3-g68_70-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 7.0,
+          "text_en": "Question 68 through 70 refer to the following conversation and bar graph.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-2",
+          "speaker": "Speaker",
+          "start_time": 7.0,
+          "end_time": 14.0,
+          "text_en": "Hi Joanna. The management group needs to submit nominees for this year's award for Outstanding Employee.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-3",
+          "speaker": "Speaker",
+          "start_time": 14.0,
+          "end_time": 19.0,
+          "text_en": "My supervisor wants to know if any managers have nominated anyone yet.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-4",
+          "speaker": "Speaker",
+          "start_time": 19.0,
+          "end_time": 24.0,
+          "text_en": "Not yet Charles. I emailed everyone about it a week ago but I haven't heard anything yet.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-5",
+          "speaker": "Speaker",
+          "start_time": 24.0,
+          "end_time": 28.0,
+          "text_en": "I'll have to follow up with the managers and let them know the deadline is coming up.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-6",
+          "speaker": "Speaker",
+          "start_time": 28.0,
+          "end_time": 37.0,
+          "text_en": "Okay, well, I printed out a breakdown of the customer service representatives with the most five-star reviews from customers last year.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-7",
+          "speaker": "Speaker",
+          "start_time": 37.0,
+          "end_time": 40.0,
+          "text_en": "We had someone who was really outstanding.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-8",
+          "speaker": "Speaker",
+          "start_time": 40.0,
+          "end_time": 46.0,
+          "text_en": "Those are excellent numbers. Could you go ahead and submit a nomination?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-9",
+          "speaker": "Speaker",
+          "start_time": 46.0,
+          "end_time": 52.0,
+          "text_en": "Number 68. What is the conversation mainly about?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-10",
+          "speaker": "Speaker",
+          "start_time": 59.0,
+          "end_time": 65.0,
+          "text_en": "Number 69. Who does the woman say she will send a reminder to?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-11",
+          "speaker": "Speaker",
+          "start_time": 72.0,
+          "end_time": 80.0,
+          "text_en": "Number 70. Look at the graphic. Which representative is the man most likely talking about?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-12",
+          "speaker": "Speaker",
+          "start_time": 89.0,
+          "end_time": 95.0,
+          "text_en": "Number 68. Who do you want to submit to the student?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-13",
+          "speaker": "Speaker",
+          "start_time": 95.0,
+          "end_time": 100.0,
+          "text_en": "Number 75. Who do you want to submit to the student?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-g68_70-14",
+          "speaker": "Speaker",
+          "start_time": 100.0,
+          "end_time": 107.0,
+          "text_en": "Number 68. Who do you want to submit to the student?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "bff3dfec-a178-58b6-892a-f2566bd60079",
+      "group_id": "d385aaa3-1622-5dab-bfcc-cc79449d4f5a",
+      "part": 3,
+      "question_number": 32,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Why is the man calling?",
+      "options": {
+        "A": "To rent a facility",
+        "B": "To hire a photographer",
+        "C": "To request a price list",
+        "D": "To schedule a repair"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Người đàn ông gọi điện để tìm một nhiếp ảnh gia cho sự kiện của mình.Câu trả lời đúng: Người đàn ông nói rõ \"I'd like to get a photographer to cover our event.\" (Tôi muốn thuê một nhiếp ảnh gia để chụp ảnh sự kiện của chúng tôi). Do đó, mục đích cuộc gọi là để thuê nhiếp ảnh gia.Bẫy đề thi ETS: Các lựa chọn khác không được đề cập hoặc không phải là mục đích chính của cuộc gọi. (A) thuê cơ sở vật chất, (C) yêu cầu bảng giá, (D) lên lịch sửa chữa đều không đúng.Mẹo phản xạ nhanh: Tập trung vào câu mở đầu của người gọi để xác định mục đích chính của cuộc hội thoại.",
+      "evidence_quote": "I'd like to get a photographer to cover our event.",
+      "paraphrase_pair": {
+        "original": "get a photographer to cover our event",
+        "paraphrased": "hire a photographer"
+      }
+    },
+    {
+      "id": "3d45922c-0566-5d39-ba36-700f397843f6",
+      "group_id": "d385aaa3-1622-5dab-bfcc-cc79449d4f5a",
+      "part": 3,
+      "question_number": 33,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What problem does the woman mention?",
+      "options": {
+        "A": "Her employee does not have transportation.",
+        "B": "Her service does not cover sports events.",
+        "C": "The weather will be bad on Tuesday.",
+        "D": "The time the man requested is too late."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Người đàn ông muốn thuê Thomas Zukowski cho sự kiện bóng rổ từ thiện vào tối thứ Ba. Người phụ nữ trả lời về lịch làm việc của Thomas.Câu trả lời đúng: Người phụ nữ nói \"Thomas doesn't usually work evenings.\" (Thomas thường không làm việc vào buổi tối). Vì sự kiện là vào tối thứ Ba, nên thời gian người đàn ông yêu cầu là quá muộn đối với Thomas.Bẫy đề thi ETS: Các lựa chọn khác là thông tin gây nhiễu hoặc không liên quan đến vấn đề chính được đề cập. (A) thiếu phương tiện đi lại, (B) dịch vụ không bao gồm sự kiện thể thao, (C) thời tiết xấu vào thứ Ba đều không được nhắc đến.Mẹo phản xạ nhanh: Lắng nghe kỹ phản hồi của người phụ nữ về yêu cầu của người đàn ông để tìm ra vấn đề.",
+      "evidence_quote": "Thomas doesn't usually work evenings.",
+      "paraphrase_pair": {
+        "original": "Thomas doesn't usually work evenings",
+        "paraphrased": "The time the man requested is too late"
+      }
+    },
+    {
+      "id": "e6168893-48c7-5e93-8143-805bcf967ca5",
+      "group_id": "d385aaa3-1622-5dab-bfcc-cc79449d4f5a",
+      "part": 3,
+      "question_number": 34,
+      "question_type_tag": "instruction_action",
+      "question_text": "What does the woman say she will do?",
+      "options": {
+        "A": "Issue a refund",
+        "B": "Cancel an order",
+        "C": "Talk to an employee",
+        "D": "E-mail her manager"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Người đàn ông hỏi liệu người phụ nữ có thể giới thiệu người khác không, sau khi biết Thomas không làm việc buổi tối.Câu trả lời đúng: Người phụ nữ trả lời \"Before I do that, let me talk to him.\" (Trước khi làm điều đó, hãy để tôi nói chuyện với anh ấy). \"Him\" ở đây là Thomas, một nhân viên của công ty.Bẫy đề thi ETS: Các lựa chọn (A) hoàn tiền, (B) hủy đơn hàng, (D) gửi email cho quản lý đều không được đề cập. \"Talk to him\" là một cách diễn đạt trực tiếp cho việc nói chuyện với một nhân viên.Mẹo phản xạ nhanh: Tìm kiếm các cụm từ chỉ hành động hoặc lời hứa của người nói để xác định bước tiếp theo.",
+      "evidence_quote": "Before I do that, let me talk to him.",
+      "paraphrase_pair": {
+        "original": "talk to him",
+        "paraphrased": "Talk to an employee"
+      }
+    },
+    {
+      "id": "f67b871b-0d8f-541c-afee-c5fe435caa04",
+      "group_id": "f69529ff-d49b-538c-93fd-1bcecada7c5d",
+      "part": 3,
+      "question_number": 35,
+      "question_type_tag": "inference",
+      "question_text": "Where most likely are the speakers?",
+      "options": {
+        "A": "In a restaurant",
+        "B": "In a school",
+        "C": "In a warehouse",
+        "D": "In a library"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Người đàn ông và người phụ nữ đang thảo luận về việc nhận nhiều đơn hàng mới và cần đóng gói chúng.Câu trả lời đúng: Các cụm từ như \"received a lot of new orders online\", \"package all of them\", \"pack that big shipment\", \"got all of the items in\" đều chỉ ra rằng họ đang ở một nơi xử lý và đóng gói hàng hóa, tức là một nhà kho (warehouse).Bẫy đề thi ETS: Các lựa chọn (A) nhà hàng, (B) trường học, (D) thư viện không liên quan đến việc đóng gói và vận chuyển đơn hàng.Mẹo phản xạ nhanh: Tổng hợp các từ khóa liên quan đến công việc và môi trường làm việc để suy luận địa điểm.",
+      "evidence_quote": "received a lot of new orders online last night. Can you package all of them by yourself? We also have to pack that big shipment for the Henderson order. We finally got all of the items in.",
+      "paraphrase_pair": {
+        "original": "package all of them",
+        "paraphrased": "In a warehouse"
+      }
+    },
+    {
+      "id": "f9a3481d-cddf-5695-b9af-2fa3dc79c5a1",
+      "group_id": "f69529ff-d49b-538c-93fd-1bcecada7c5d",
+      "part": 3,
+      "question_number": 36,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Why do the speakers mention Maria Jeong?",
+      "options": {
+        "A": "She placed a very large order.",
+        "B": "She wants to replace a product.",
+        "C": "She is unable to work today.",
+        "D": "She may be able to help with a task."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Người đàn ông nói rằng có quá nhiều đơn hàng để anh ấy hoàn thành một mình.Câu trả lời đúng: Người phụ nữ nói \"I'll call Maria Jeong and ask if she can come in early today to help.\" (Tôi sẽ gọi Maria Jeong và hỏi xem cô ấy có thể đến sớm hôm nay để giúp không). Điều này cho thấy Maria Jeong có thể giúp đỡ công việc.Bẫy đề thi ETS: Các lựa chọn (A) đặt hàng lớn, (B) muốn thay thế sản phẩm, (C) không thể làm việc hôm nay đều không đúng với ngữ cảnh.Mẹo phản xạ nhanh: Lắng nghe lý do cụ thể khi một cái tên được nhắc đến trong cuộc hội thoại.",
+      "evidence_quote": "I'll call Maria Jeong and ask if she can come in early today to help.",
+      "paraphrase_pair": {
+        "original": "ask if she can come in early today to help",
+        "paraphrased": "She may be able to help with a task"
+      }
+    },
+    {
+      "id": "8ba760ba-8f86-555a-b396-249ade7aedd3",
+      "group_id": "f69529ff-d49b-538c-93fd-1bcecada7c5d",
+      "part": 3,
+      "question_number": 37,
+      "question_type_tag": "instruction_action",
+      "question_text": "What will the man probably do next?",
+      "options": {
+        "A": "Pack an order",
+        "B": "Call a colleague",
+        "C": "Process a refund",
+        "D": "Write to a customer"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Người phụ nữ đã đề nghị gọi Maria Jeong để giúp đỡ, và người đàn ông đồng ý. Sau đó, người đàn ông nhắc đến một lô hàng lớn cần đóng gói.Câu trả lời đúng: Người đàn ông nói \"We also have to pack that big shipment for the Henderson order. We finally got all of the items in.\" (Chúng ta cũng phải đóng gói lô hàng lớn đó cho đơn hàng của Henderson. Cuối cùng chúng ta đã có đủ tất cả các mặt hàng). Người phụ nữ trả lời \"Oh, yes, do that first.\" (Ồ, vâng, làm điều đó trước đi). Điều này chỉ ra rằng việc đóng gói đơn hàng là hành động tiếp theo.Bẫy đề thi ETS: Các lựa chọn (B) gọi đồng nghiệp (đã được người phụ nữ đề xuất), (C) xử lý hoàn tiền, (D) viết thư cho khách hàng đều không phải là hành động tiếp theo trực tiếp được nhắc đến.Mẹo phản xạ nhanh: Chú ý đến các câu cuối cùng của cuộc hội thoại, đặc biệt là khi có sự đồng thuận về một hành động cụ thể.",
+      "evidence_quote": "We also have to pack that big shipment for the Henderson order. We finally got all of the items in. Oh, yes, do that first.",
+      "paraphrase_pair": {
+        "original": "pack that big shipment",
+        "paraphrased": "Pack an order"
+      }
+    },
+    {
+      "id": "6cac25de-b3bb-513c-834d-5c5e54faf909",
+      "group_id": "3341b75e-fbe6-5544-ad71-0d29ab18143e",
+      "part": 3,
+      "question_number": 38,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What do the speakers need to choose?",
+      "options": {
+        "A": "An introductory activity for a retreat",
+        "B": "A residential site for a retreat",
+        "C": "Decorations for a party",
+        "D": "A location for a dinner"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Người đàn ông đang nói về việc lên kế hoạch cho buổi họp mặt công ty và những gì còn thiếu.Câu trả lời đúng: Người đàn ông nói \"we still need to decide where to go for Saturday's closing dinner.\" (chúng ta vẫn cần quyết định địa điểm cho bữa tối bế mạc vào thứ Bảy). Điều này trực tiếp chỉ ra rằng họ cần chọn một địa điểm ăn tối.Bẫy đề thi ETS: Các lựa chọn (A) hoạt động mở đầu, (B) địa điểm lưu trú, (C) trang trí tiệc đều là các chi tiết khác của buổi họp mặt nhưng không phải là điều họ đang cần chọn.Mẹo phản xạ nhanh: Tìm kiếm các cụm từ chỉ sự cần thiết hoặc quyết định về một địa điểm hoặc sự kiện.",
+      "evidence_quote": "we still need to decide where to go for Saturday's closing dinner.",
+      "paraphrase_pair": {
+        "original": "decide where to go for Saturday's closing dinner",
+        "paraphrased": "A location for a dinner"
+      }
+    },
+    {
+      "id": "cf812c5f-d296-55b6-88e2-7657dbf5358e",
+      "group_id": "3341b75e-fbe6-5544-ad71-0d29ab18143e",
+      "part": 3,
+      "question_number": 39,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What do the speakers like about McNally's?",
+      "options": {
+        "A": "It is nearby.",
+        "B": "It is open late.",
+        "C": "It is highly recommended.",
+        "D": "It has been remodeled."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Người phụ nữ đề cập đến McNally's như một lựa chọn cho bữa tối.Câu trả lời đúng: Người phụ nữ nói \"McNally's is close by.\" (McNally's ở gần đây). Người đàn ông đồng ý \"Yes, that would be convenient. We could even walk there from the hotel.\" (Vâng, điều đó sẽ tiện lợi. Chúng ta thậm chí có thể đi bộ từ khách sạn đến đó). Điều này cho thấy họ thích McNally's vì nó ở gần.Bẫy đề thi ETS: Các lựa chọn (B) mở cửa muộn, (C) được giới thiệu nhiều, (D) đã được tu sửa đều không được đề cập trong cuộc hội thoại.Mẹo phản xạ nhanh: Lắng nghe các tính từ mô tả hoặc nhận xét tích cực về một địa điểm cụ thể.",
+      "evidence_quote": "McNally's is close by. Yes, that would be convenient. We could even walk there from the hotel.",
+      "paraphrase_pair": {
+        "original": "McNally's is close by",
+        "paraphrased": "It is nearby"
+      }
+    },
+    {
+      "id": "2101aac6-7c1e-5ae3-89a2-c428c238317a",
+      "group_id": "3341b75e-fbe6-5544-ad71-0d29ab18143e",
+      "part": 3,
+      "question_number": 40,
+      "question_type_tag": "instruction_action",
+      "question_text": "What does the woman offer to do?",
+      "options": {
+        "A": "See what the retreat attendees prefer",
+        "B": "Find an alternative site",
+        "C": "Discuss pricing options",
+        "D": "Contact a hotel"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Người đàn ông và người phụ nữ đang thảo luận về giá cả của McNally's, cho rằng nó hơi cao.Câu trả lời đúng: Người phụ nữ nói \"I could see if they can offer us a reduced catering rate, rather than ordering off the regular menu.\" (Tôi có thể xem liệu họ có thể giảm giá dịch vụ ăn uống cho chúng ta không, thay vì gọi món từ thực đơn thông thường). Điều này có nghĩa là cô ấy sẽ thảo luận các lựa chọn về giá cả.Bẫy đề thi ETS: Các lựa chọn (A) xem xét sở thích của người tham dự, (B) tìm địa điểm thay thế, (D) liên hệ khách sạn đều không phải là lời đề nghị trực tiếp của người phụ nữ trong ngữ cảnh này.Mẹo phản xạ nhanh: Tìm kiếm các cụm từ như \"I could see if...\" hoặc \"I can offer...\" để xác định lời đề nghị.",
+      "evidence_quote": "I could see if they can offer us a reduced catering rate, rather than ordering off the regular menu.",
+      "paraphrase_pair": {
+        "original": "see if they can offer us a reduced catering rate",
+        "paraphrased": "Discuss pricing options"
+      }
+    },
+    {
+      "id": "30a780df-9ac5-5d69-ab93-c4c98638c6fb",
+      "group_id": "664d6e8f-b62a-582c-abed-8f224e0bfa17",
+      "part": 3,
+      "question_number": 41,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What does the speakers' company produce?",
+      "options": {
+        "A": "Computers",
+        "B": "Software",
+        "C": "Web sites",
+        "D": "Medical equipment"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Người phụ nữ mở đầu cuộc trò chuyện bằng cách hỏi về tiến độ của một sản phẩm mới.Câu trả lời đúng: Người phụ nữ hỏi \"could you give me an update on how our new medical records software is coming?\" (bạn có thể cập nhật cho tôi về phần mềm hồ sơ y tế mới của chúng ta đang tiến triển như thế nào không?). Từ \"software\" trực tiếp chỉ ra rằng công ty sản xuất phần mềm.Bẫy đề thi ETS: Các lựa chọn (A) máy tính, (C) trang web, (D) thiết bị y tế đều không phải là sản phẩm chính được nhắc đến. \"Medical records\" có thể gây nhiễu nếu không chú ý đến từ \"software\".Mẹo phản xạ nhanh: Tìm kiếm các từ khóa mô tả sản phẩm hoặc dịch vụ chính của công ty ngay từ đầu cuộc hội thoại.",
+      "evidence_quote": "our new medical records software",
+      "paraphrase_pair": {
+        "original": "medical records software",
+        "paraphrased": "Software"
+      }
+    },
+    {
+      "id": "b5038451-7fc5-5a7e-9b77-454fbe1295eb",
+      "group_id": "664d6e8f-b62a-582c-abed-8f224e0bfa17",
+      "part": 3,
+      "question_number": 42,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What does the man say has been helpful?",
+      "options": {
+        "A": "Focus group data",
+        "B": "An engineering consultant",
+        "C": "A search engine",
+        "D": "Customer feedback"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Người đàn ông đang nói về sự tương tác với khách hàng trong dự án.Câu trả lời đúng: Người đàn ông nói \"The customer has communicated with us a lot on this project. Having their feedback at every stage of the process has been helpful.\" (Khách hàng đã liên lạc với chúng tôi rất nhiều trong dự án này. Việc có phản hồi của họ ở mỗi giai đoạn của quá trình đã rất hữu ích). \"Feedback\" (phản hồi) từ khách hàng là điều hữu ích.Bẫy đề thi ETS: Các lựa chọn (A) dữ liệu nhóm tập trung, (B) tư vấn kỹ thuật, (C) công cụ tìm kiếm đều không được đề cập là yếu tố hữu ích trong ngữ cảnh này.Mẹo phản xạ nhanh: Lắng nghe các từ khóa như \"feedback\", \"input\" hoặc \"suggestions\" khi người nói đề cập đến điều gì đó hữu ích.",
+      "evidence_quote": "Having their feedback at every stage of the process has been helpful.",
+      "paraphrase_pair": {
+        "original": "Having their feedback at every stage of the process has been helpful",
+        "paraphrased": "Customer feedback"
+      }
+    },
+    {
+      "id": "57353c18-1d9a-54b6-bda8-bb448e7ef7fb",
+      "group_id": "664d6e8f-b62a-582c-abed-8f224e0bfa17",
+      "part": 3,
+      "question_number": 43,
+      "question_type_tag": "instruction_action",
+      "question_text": "What is the next step in the project that the speakers are discussing?",
+      "options": {
+        "A": "Giving a presentation to the client",
+        "B": "Sending a product to another group in the company",
+        "C": "Creating a schedule for the next phase of development",
+        "D": "Determining the price of a product"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Người phụ nữ đang tổng kết về tiến độ của dự án.Câu trả lời đúng: Người phụ nữ nói \"It sounds like we're on schedule for completing our beta version. Then we can hand it off to our marketing team.\" (Có vẻ như chúng ta đang đúng tiến độ để hoàn thành phiên bản beta. Sau đó chúng ta có thể chuyển giao nó cho đội marketing). \"Hand it off to our marketing team\" có nghĩa là gửi sản phẩm (phiên bản beta) cho một nhóm khác trong công ty.Bẫy đề thi ETS: Các lựa chọn (A) thuyết trình cho khách hàng, (C) tạo lịch trình phát triển, (D) xác định giá sản phẩm đều không phải là bước tiếp theo được đề cập trực tiếp.Mẹo phản xạ nhanh: Tìm kiếm các cụm từ chỉ sự chuyển giao hoặc bước tiếp theo trong một quy trình làm việc.",
+      "evidence_quote": "Then we can hand it off to our marketing team.",
+      "paraphrase_pair": {
+        "original": "hand it off to our marketing team",
+        "paraphrased": "Sending a product to another group in the company"
+      }
+    },
+    {
+      "id": "9f605b03-887e-5fdc-b687-1ea6816b03fb",
+      "group_id": "3b262d42-a463-5801-8aa6-24e3dbda0a43",
+      "part": 3,
+      "question_number": 44,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What is the purpose of the phone call?",
+      "options": {
+        "A": "To help a customer choose a product",
+        "B": "To check on a customer's satisfaction",
+        "C": "To inform a customer of a price estimate",
+        "D": "To advertise a special offer"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Người đàn ông giới thiệu tên và công ty, sau đó nêu lý do cuộc gọi.Câu trả lời đúng: Người đàn ông nói \"I'm following up to make sure that you're pleased with the job our workers did in your house.\" (Tôi đang gọi để theo dõi, đảm bảo rằng quý khách hài lòng với công việc mà nhân viên của chúng tôi đã làm tại nhà quý khách). \"Following up to make sure you're pleased\" có nghĩa là kiểm tra sự hài lòng của khách hàng.Bẫy đề thi ETS: Các lựa chọn (A) giúp chọn sản phẩm, (C) thông báo ước tính giá, (D) quảng cáo ưu đãi đặc biệt đều không phải là mục đích cuộc gọi.Mẹo phản xạ nhanh: Chú ý đến câu mở đầu của người gọi, đặc biệt là các cụm từ như \"following up\", \"checking in\" để xác định mục đích.",
+      "evidence_quote": "I'm following up to make sure that you're pleased with the job our workers did in your house.",
+      "paraphrase_pair": {
+        "original": "following up to make sure that you're pleased with the job",
+        "paraphrased": "check on a customer's satisfaction"
+      }
+    },
+    {
+      "id": "d5f865a0-b7cf-5141-89ab-ce2b1f75d645",
+      "group_id": "3b262d42-a463-5801-8aa6-24e3dbda0a43",
+      "part": 3,
+      "question_number": 45,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What does the man say about replacing kitchen cabinets?",
+      "options": {
+        "A": "He guarantees his company will do a good job.",
+        "B": "His company is too busy to do the work.",
+        "C": "His company does not do that type of work.",
+        "D": "He thinks it will be an expensive job."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Người phụ nữ hỏi liệu công ty của người đàn ông có thay thế tủ bếp không.Câu trả lời đúng: Người phụ nữ hỏi \"I was thinking of replacing my kitchen cabinets. Is that something you'd possibly do?\" (Tôi đang nghĩ đến việc thay tủ bếp. Đó có phải là việc công ty anh có thể làm không?). Người đàn ông trả lời \"We don't,\" (Chúng tôi không làm). Điều này có nghĩa là công ty của anh ấy không làm loại công việc đó.Bẫy đề thi ETS: Các lựa chọn (A) đảm bảo công việc tốt, (B) quá bận, (D) tốn kém đều không được đề cập.Mẹo phản xạ nhanh: Lắng nghe câu trả lời trực tiếp \"Yes\" hoặc \"No\" hoặc các cụm từ phủ định để xác định khả năng thực hiện công việc.",
+      "evidence_quote": "Is that something you'd possibly do?\" Man: \"We don't, but I can recommend a company I often work with.\"",
+      "paraphrase_pair": {
+        "original": "We don't",
+        "paraphrased": "His company does not do that type of work"
+      }
+    },
+    {
+      "id": "65c47556-7197-559d-810f-01460a54d43b",
+      "group_id": "3b262d42-a463-5801-8aa6-24e3dbda0a43",
+      "part": 3,
+      "question_number": 46,
+      "question_type_tag": "instruction_action",
+      "question_text": "What will the man most likely do next?",
+      "options": {
+        "A": "Send workers to the woman's house",
+        "B": "Find a telephone number for the woman",
+        "C": "Check kitchen cabinet prices",
+        "D": "Discuss a new product with some workers"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Người phụ nữ hỏi về việc thay tủ bếp, và người đàn ông nói công ty anh ấy không làm nhưng có thể giới thiệu công ty khác.Câu trả lời đúng: Người đàn ông nói \"I can recommend a company I often work with. Their customers have been very satisfied. Let me get their phone number. One second.\" (Tôi có thể giới thiệu một công ty mà tôi thường làm việc cùng. Khách hàng của họ rất hài lòng. Để tôi tìm số điện thoại của họ. Một giây thôi). Điều này cho thấy anh ấy sẽ tìm số điện thoại cho người phụ nữ.Bẫy đề thi ETS: Các lựa chọn (A) gửi nhân viên, (C) kiểm tra giá tủ bếp, (D) thảo luận sản phẩm mới đều không phải là hành động tiếp theo của người đàn ông.Mẹo phản xạ nhanh: Chú ý đến các cụm từ chỉ hành động sắp tới, đặc biệt là khi có lời đề nghị giúp đỡ.",
+      "evidence_quote": "Let me get their phone number. One second.",
+      "paraphrase_pair": {
+        "original": "Let me get their phone number",
+        "paraphrased": "Find a telephone number for the woman"
+      }
+    },
+    {
+      "id": "bd75ecb4-7d21-5444-a788-747541ed806a",
+      "group_id": "29948203-fc64-570b-9827-d61aa6047913",
+      "part": 3,
+      "question_number": 47,
+      "question_type_tag": "inference",
+      "question_text": "Where is the conversation taking place?",
+      "options": {
+        "A": "At a travel agency",
+        "B": "At a pharmacy",
+        "C": "At a mobile phone store",
+        "D": "At a hotel"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Người phụ nữ đang nói về việc lấy thuốc và cần một đơn thuốc mới.Câu trả lời đúng: Người phụ nữ nói \"I refill my medication here at this pharmacy once a month.\" (Tôi lấy thuốc ở hiệu thuốc này mỗi tháng một lần). Từ \"pharmacy\" (hiệu thuốc) trực tiếp chỉ ra địa điểm cuộc trò chuyện.Bẫy đề thi ETS: Các lựa chọn (A) đại lý du lịch, (C) cửa hàng điện thoại di động, (D) khách sạn đều không liên quan đến việc lấy thuốc.Mẹo phản xạ nhanh: Lắng nghe các từ khóa liên quan đến sản phẩm hoặc dịch vụ được cung cấp để xác định địa điểm.",
+      "evidence_quote": "I refill my medication here at this pharmacy once a month.",
+      "paraphrase_pair": {
+        "original": "this pharmacy",
+        "paraphrased": "At a pharmacy"
+      }
+    },
+    {
+      "id": "26abbebf-62ea-5b85-bec7-46a3b1c2578a",
+      "group_id": "29948203-fc64-570b-9827-d61aa6047913",
+      "part": 3,
+      "question_number": 48,
+      "question_type_tag": "instruction_action",
+      "question_text": "What does the woman say she will do at lunch today?",
+      "options": {
+        "A": "Go to the airport",
+        "B": "Print out a ticket",
+        "C": "Register for a giveaway",
+        "D": "Call a doctor"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Người phụ nữ cần đơn thuốc hai tháng từ bác sĩ của mình.Câu trả lời đúng: Người phụ nữ nói \"I'll give her a call during my lunch break today.\" (Tôi sẽ gọi cho cô ấy trong giờ nghỉ trưa hôm nay). \"Her\" ở đây là bác sĩ của cô ấy.Bẫy đề thi ETS: Các lựa chọn (A) đi sân bay, (B) in vé, (C) đăng ký quà tặng đều không được đề cập.Mẹo phản xạ nhanh: Tìm kiếm các cụm từ chỉ hành động cụ thể và thời gian thực hiện hành động đó.",
+      "evidence_quote": "I'll give her a call during my lunch break today.",
+      "paraphrase_pair": {
+        "original": "give her a call",
+        "paraphrased": "Call a doctor"
+      }
+    },
+    {
+      "id": "fa68a3a4-1458-51f6-b539-64c9f26515a0",
+      "group_id": "29948203-fc64-570b-9827-d61aa6047913",
+      "part": 3,
+      "question_number": 49,
+      "question_type_tag": "instruction_action",
+      "question_text": "What does the man offer to do?",
+      "options": {
+        "A": "Arrange a delivery",
+        "B": "Postpone an appointment",
+        "C": "Check a discount rate",
+        "D": "Download an application"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Người phụ nữ đã hỏi về giờ mở cửa và người đàn ông trả lời.Câu trả lời đúng: Người đàn ông nói \"But once we receive your doctor's prescription, we can deliver the medication directly to your home.\" (Nhưng một khi chúng tôi nhận được đơn thuốc của bác sĩ, chúng tôi có thể giao thuốc trực tiếp đến nhà quý khách). \"Deliver the medication directly to your home\" có nghĩa là sắp xếp việc giao hàng.Bẫy đề thi ETS: Các lựa chọn (B) hoãn cuộc hẹn, (C) kiểm tra tỷ lệ chiết khấu, (D) tải ứng dụng đều không phải là lời đề nghị của người đàn ông.Mẹo phản xạ nhanh: Lắng nghe các cụm từ chỉ lời đề nghị giúp đỡ hoặc dịch vụ bổ sung.",
+      "evidence_quote": "we can deliver the medication directly to your home.",
+      "paraphrase_pair": {
+        "original": "deliver the medication directly to your home",
+        "paraphrased": "Arrange a delivery"
+      }
+    },
+    {
+      "id": "143a73dc-5776-53cb-bf0e-6e8e75b0a244",
+      "group_id": "f5e869f7-01a4-5fa3-9b80-3a4ea0929153",
+      "part": 3,
+      "question_number": 50,
+      "question_type_tag": "Detail",
+      "question_text": "Where does the woman work?",
+      "options": {
+        "A": "At a baseball stadium",
+        "B": "At a fitness center",
+        "C": "At a shipping warehouse",
+        "D": "At a school"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Người phụ nữ nói \"I'm calling from West End High School\" (Tôi gọi từ Trường Trung học West End), do đó cô ấy làm việc tại một trường học.",
+      "evidence_quote": "I'm calling from West End High School.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "eb6c3692-303a-5254-b720-d3e4ef351785",
+      "group_id": "f5e869f7-01a4-5fa3-9b80-3a4ea0929153",
+      "part": 3,
+      "question_number": 51,
+      "question_type_tag": "Detail",
+      "question_text": "What is the woman concerned about?",
+      "options": {
+        "A": "A store's closing time",
+        "B": "Overall costs",
+        "C": "When an order will be received",
+        "D": "The color of some uniforms"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Người phụ nữ đề cập \"We have budget restrictions, though\" (Tuy nhiên, chúng tôi có giới hạn ngân sách), điều này thể hiện sự lo lắng về chi phí tổng thể.",
+      "evidence_quote": "We have budget restrictions, though.",
+      "paraphrase_pair": {
+        "original": "budget restrictions",
+        "paraphrased": "Overall costs"
+      }
+    },
+    {
+      "id": "12d07554-10bc-5b85-92f5-37eb911849b7",
+      "group_id": "f5e869f7-01a4-5fa3-9b80-3a4ea0929153",
+      "part": 3,
+      "question_number": 52,
+      "question_type_tag": "Action",
+      "question_text": "What will the man do next?",
+      "options": {
+        "A": "Look up some prices",
+        "B": "Package an order",
+        "C": "Call a manager",
+        "D": "Check the store's inventory"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Người đàn ông nói \"Let me get the manager on the phone\" (Để tôi nối máy với người quản lý), nghĩa là ông ấy sẽ gọi cho quản lý.",
+      "evidence_quote": "Let me get the manager on the phone, and you can discuss the specifics.",
+      "paraphrase_pair": {
+        "original": "get the manager on the phone",
+        "paraphrased": "Call a manager"
+      }
+    },
+    {
+      "id": "c8c4446b-6c5f-5643-aadf-a5b308320fac",
+      "group_id": "8c76bd18-cb29-5b9e-ae45-7c4665c48833",
+      "part": 3,
+      "question_number": 53,
+      "question_type_tag": "Problem",
+      "question_text": "What problem does the woman mention?",
+      "options": {
+        "A": "There is no time to create centerpieces.",
+        "B": "The shop never received the man's order.",
+        "C": "A supplier cannot fulfill an order.",
+        "D": "The wrong date is on the order form."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Người phụ nữ thông báo \"our supplier is out of pink roses\" (nhà cung cấp của chúng tôi đã hết hoa hồng màu hồng), nghĩa là nhà cung cấp không thể đáp ứng đơn hàng.",
+      "evidence_quote": "Unfortunately, our supplier is out of pink roses.",
+      "paraphrase_pair": {
+        "original": "is out of pink roses",
+        "paraphrased": "cannot fulfill an order"
+      }
+    },
+    {
+      "id": "e266a110-fed9-554d-9aab-ccf9d8fb6bd9",
+      "group_id": "8c76bd18-cb29-5b9e-ae45-7c4665c48833",
+      "part": 3,
+      "question_number": 54,
+      "question_type_tag": "Detail",
+      "question_text": "What does the man say about his company's logo?",
+      "options": {
+        "A": "It was designed many years ago.",
+        "B": "It contains the color pink.",
+        "C": "It won an award.",
+        "D": "It features a drawing of flowers."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Người đàn ông nói \"Pink matches our corporate logo!\" (Màu hồng ăn khớp với logo công ty chúng tôi!), tức logo công ty có màu hồng.",
+      "evidence_quote": "Pink matches our corporate logo!",
+      "paraphrase_pair": {
+        "original": "Pink matches our corporate logo",
+        "paraphrased": "It contains the color pink"
+      }
+    },
+    {
+      "id": "d4e4488c-1ede-5859-bfd6-ab6204e67b5d",
+      "group_id": "8c76bd18-cb29-5b9e-ae45-7c4665c48833",
+      "part": 3,
+      "question_number": 55,
+      "question_type_tag": "Inference",
+      "question_text": "What does the man mean when he says, \"I suppose no one will really be disappointed\"?",
+      "options": {
+        "A": "He will postpone the luncheon.",
+        "B": "He will accept the woman's offer.",
+        "C": "He will find a replacement award.",
+        "D": "He will modify the company's logo."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Sau khi người phụ nữ đề xuất giảm giá 10% và thay thế bằng hoa hồng màu vàng, người đàn ông nhận định sẽ không ai thất vọng vì ông chưa nói với ai về loại hoa, tức là ông chấp nhận lời đề nghị thay đổi này.",
+      "evidence_quote": "Well, I didn't tell anyone about the roses. I suppose no one will really be disappointed.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "f35e7b6d-a9e0-59a9-b8e4-30627258c5b7",
+      "group_id": "584a4b9d-52fb-5df2-b28e-e6e41879f483",
+      "part": 3,
+      "question_number": 56,
+      "question_type_tag": "Gist",
+      "question_text": "What kind of company do the speakers most likely work for?",
+      "options": {
+        "A": "Manufacturing",
+        "B": "Financial",
+        "C": "Publishing",
+        "D": "Educational"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Các diễn giả đề cập đến \"development team\" (đội ngũ phát triển), \"prototype motor\" (động cơ mẫu) và \"components\" (linh kiện), cho thấy họ làm việc tại một công ty sản xuất (Manufacturing).",
+      "evidence_quote": "we'll need to push back the shipment of the prototype motor we've been developing for our client.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "1cdfb87b-71eb-5edc-8b3e-9a0e16e239ed",
+      "group_id": "584a4b9d-52fb-5df2-b28e-e6e41879f483",
+      "part": 3,
+      "question_number": 57,
+      "question_type_tag": "Gist",
+      "question_text": "What problem are the speakers discussing?",
+      "options": {
+        "A": "A pause while more funding is obtained",
+        "B": "A delay in making a delivery",
+        "C": "A need for the company to relocate",
+        "D": "The loss of some experienced staff"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Người phụ nữ giải thích \"we'll need to push back the shipment... we won't be able to make the delivery deadline\" (chúng ta sẽ cần hoãn việc giao hàng... không thể kịp thời hạn giao hàng), nghĩa là họ đang thảo luận về việc hoãn/chậm trễ giao hàng.",
+      "evidence_quote": "we'll need to push back the shipment of the prototype motor we've been developing for our client.",
+      "paraphrase_pair": {
+        "original": "push back the shipment",
+        "paraphrased": "A delay in making a delivery"
+      }
+    },
+    {
+      "id": "1a119f76-3705-5af9-879c-9118a9f77d73",
+      "group_id": "584a4b9d-52fb-5df2-b28e-e6e41879f483",
+      "part": 3,
+      "question_number": 58,
+      "question_type_tag": "Detail",
+      "question_text": "What does the man request?",
+      "options": {
+        "A": "A report from the client",
+        "B": "A faster pace of work",
+        "C": "Additional employees",
+        "D": "Daily updates from the team"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Người đàn ông yêu cầu \"I'd like the development team to start giving me daily briefings about progress\" (Tôi muốn đội phát triển bắt đầu báo cáo ngắn hàng ngày cho tôi về tiến độ), tương đương với Daily updates.",
+      "evidence_quote": "I'd like the development team to start giving me daily briefings about progress on this issue.",
+      "paraphrase_pair": {
+        "original": "daily briefings",
+        "paraphrased": "Daily updates"
+      }
+    },
+    {
+      "id": "d91abc1f-cf2b-52d9-9a47-f263f49c3642",
+      "group_id": "0d80f7f1-2fae-594b-b30d-c5f6b89437b2",
+      "part": 3,
+      "question_number": 59,
+      "question_type_tag": "Detail",
+      "question_text": "What does the woman say about Central Airport?",
+      "options": {
+        "A": "The airport operates two shuttles.",
+        "B": "There are not enough people working there.",
+        "C": "It is not far from the Legend Hotel.",
+        "D": "It is more modern than the local airport."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Người phụ nữ cho biết \"there's a personnel shortage\" (ở đó đang thiếu nhân sự), nghĩa là không có đủ người làm việc tại Sân bay Central.",
+      "evidence_quote": "there's a personnel shortage, but several flights have been rerouted to the local airport.",
+      "paraphrase_pair": {
+        "original": "a personnel shortage",
+        "paraphrased": "not enough people working there"
+      }
+    },
+    {
+      "id": "5197618d-7fb5-55fe-ad2d-a8c9e537da25",
+      "group_id": "0d80f7f1-2fae-594b-b30d-c5f6b89437b2",
+      "part": 3,
+      "question_number": 60,
+      "question_type_tag": "Inference",
+      "question_text": "Why does the man say, \"That's good news\"?",
+      "options": {
+        "A": "He will be able to take a shuttle to the hotel.",
+        "B": "His flight was rescheduled.",
+        "C": "Central Airport will reopen soon.",
+        "D": "He will be able to change his hotel reservation."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Người phụ nữ thông báo rằng khách sạn đã bắt đầu vận hành xe đưa đón đến sân bay địa phương từ sáng nay. Người đàn ông trả lời \"That's good news\" vì ông ấy có thể đón xe bus này để về khách sạn.",
+      "evidence_quote": "We have started running an airport shuttle this morning. Man: OK. That's good news.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "9a24ad31-ab13-56bf-aede-315d176f2833",
+      "group_id": "0d80f7f1-2fae-594b-b30d-c5f6b89437b2",
+      "part": 3,
+      "question_number": 61,
+      "question_type_tag": "Action",
+      "question_text": "What will the woman do for the man?",
+      "options": {
+        "A": "Give him the shuttle company's phone number",
+        "B": "Find information about Central Airport",
+        "C": "Give him a discount on his reservation",
+        "D": "Make sure that his room has been prepared"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Người phụ nữ cam kết \"I'll ensure that your room is ready for you when you arrive\" (Tôi sẽ đảm bảo rằng phòng của ông sẵn sàng khi ông đến), ứng với đáp án D.",
+      "evidence_quote": "I'll ensure that your room is ready for you when you arrive.",
+      "paraphrase_pair": {
+        "original": "ensure that your room is ready",
+        "paraphrased": "Make sure that his room has been prepared"
+      }
+    },
+    {
+      "id": "3d487151-9e16-5649-9af7-6bf3045df6f0",
+      "group_id": "f9c6d003-e736-5d7e-a3a0-21dec89b0a5d",
+      "part": 3,
+      "question_number": 62,
+      "question_type_tag": "Detail",
+      "question_text": "What did the man do yesterday?",
+      "options": {
+        "A": "He visited a property.",
+        "B": "He contacted a supplier.",
+        "C": "He sent a plan.",
+        "D": "He took some measurements."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Người đàn ông nói \"I e-mailed it [outline of the design project] to you yesterday\" (Tôi đã gửi bản phác thảo kế hoạch thiết kế qua email cho cô ngày hôm qua), tức là ông ấy đã gửi một kế hoạch.",
+      "evidence_quote": "I'm calling to check whether you received my outline of the design project for your apartment remodeling. I e-mailed it to you yesterday.",
+      "paraphrase_pair": {
+        "original": "outline of the design project",
+        "paraphrased": "a plan"
+      }
+    },
+    {
+      "id": "4ecdb36f-2ebe-5163-b98c-32b891d01fe9",
+      "group_id": "f9c6d003-e736-5d7e-a3a0-21dec89b0a5d",
+      "part": 3,
+      "question_number": 63,
+      "question_type_tag": "Detail",
+      "question_text": "What does the woman say she likes?",
+      "options": {
+        "A": "The cost the man has estimated",
+        "B": "The open-space design",
+        "C": "The colors the man has selected",
+        "D": "The remodeling timeline"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Người phụ nữ nói \"I really liked your idea of opening up the kitchen and creating an open space with the living room\" (Tôi rất thích ý tưởng mở rộng bếp và tạo không gian mở với phòng khách).",
+      "evidence_quote": "I really liked your idea of opening up the kitchen and creating an open space with the living room.",
+      "paraphrase_pair": {
+        "original": "creating an open space",
+        "paraphrased": "The open-space design"
+      }
+    },
+    {
+      "id": "b7093c1c-dd95-5392-b754-264d70bb15d5",
+      "group_id": "f9c6d003-e736-5d7e-a3a0-21dec89b0a5d",
+      "part": 3,
+      "question_number": 64,
+      "question_type_tag": "Graphic",
+      "question_text": "Look at the graphic. How much will the woman pay for each tile?",
+      "options": {
+        "A": "$12.00",
+        "B": "$6.50",
+        "C": "$4.99",
+        "D": "$2.50"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Người phụ nữ thích gạch đá cẩm thạch hơn (\"I like the marble ones much better\"). Quan sát hình ảnh, loại gạch \"Marble Tile\" có mức giá là $6.50.",
+      "evidence_quote": "I like the marble ones much better.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "b4764677-702a-51c8-9d39-ff0102c69718",
+      "group_id": "642e7d09-7da2-55b8-b746-29da843b2254",
+      "part": 3,
+      "question_number": 65,
+      "question_type_tag": "Gist",
+      "question_text": "Why is the man calling?",
+      "options": {
+        "A": "To request a room change",
+        "B": "To make a group reservation",
+        "C": "To order room service",
+        "D": "To complain about noise"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Người đàn ông cho biết lý do gọi điện ngay từ đầu: \"I'd like to make a reservation for a group of clients... I need eight rooms\" (Tôi muốn đặt phòng cho một nhóm khách hàng... Tôi cần 8 phòng).",
+      "evidence_quote": "I'd like to make a reservation for a group of clients that will be visiting our company from the first to the sixth of June. I need eight rooms.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "7914f2fb-e5c0-5a21-9058-2edcc0a59999",
+      "group_id": "642e7d09-7da2-55b8-b746-29da843b2254",
+      "part": 3,
+      "question_number": 66,
+      "question_type_tag": "Graphic",
+      "question_text": "Look at the graphic. Which room type does the woman mention?",
+      "options": {
+        "A": "Executive suite",
+        "B": "Deluxe double",
+        "C": "Standard king",
+        "D": "Single basic"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Người phụ nữ nói loại phòng cô ấy gợi ý thông thường có giá \"99 euros per night\". Đối chiếu hình ảnh bảng giá, loại phòng giá €99 chính là \"Standard king\".",
+      "evidence_quote": "The type of room I recommend for you is normally 99 euros per night",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "a04eb11a-c00a-595c-b906-a8ddb64a8add",
+      "group_id": "642e7d09-7da2-55b8-b746-29da843b2254",
+      "part": 3,
+      "question_number": 67,
+      "question_type_tag": "Detail",
+      "question_text": "Who is Pablo Gonzales?",
+      "options": {
+        "A": "An accountant",
+        "B": "A client",
+        "C": "A bus driver",
+        "D": "An event planner"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Người phụ nữ giới thiệu \"We have an event planner here who'll be able to help you. His name is Pablo Gonzales\" (Chúng tôi có một chuyên viên lên kế hoạch sự kiện ở đây... Tên ông ấy là Pablo Gonzales).",
+      "evidence_quote": "We have an event planner here who'll be able to help you. His name is Pablo Gonzales.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "813f0e47-c015-526c-9a32-edf36517fea6",
+      "group_id": "328a56eb-d349-5139-b0bd-e276765e0fcc",
+      "part": 3,
+      "question_number": 68,
+      "question_type_tag": "Gist",
+      "question_text": "What is the conversation mainly about?",
+      "options": {
+        "A": "A sales strategy",
+        "B": "An improvement in customer service",
+        "C": "A new manager",
+        "D": "An award"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Cuộc trò chuyện tập trung vào việc công ty giành được giải thưởng \"Customer Satisfaction Award\" (Giải thưởng về mức độ hài lòng của khách hàng).",
+      "evidence_quote": "Our company won the regional Customer Satisfaction Award again this year!",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "85a011bd-5f46-5125-99cf-237b0f1e601c",
+      "group_id": "328a56eb-d349-5139-b0bd-e276765e0fcc",
+      "part": 3,
+      "question_number": 69,
+      "question_type_tag": "Action",
+      "question_text": "Who does the woman say she will send a reminder to?",
+      "options": {
+        "A": "The management team",
+        "B": "The customer service representatives",
+        "C": "A magazine editor",
+        "D": "A repair technician"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Người phụ nữ cho biết cô sẽ gửi email cho ban quản lý: \"I'll send an email to the management team\".",
+      "evidence_quote": "I'll send an email to the management team to let them know about the award and Rebecca's achievement.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c3cc8037-b14e-5d42-b615-69a01774c3bf",
+      "group_id": "328a56eb-d349-5139-b0bd-e276765e0fcc",
+      "part": 3,
+      "question_number": 70,
+      "question_type_tag": "Graphic",
+      "question_text": "Look at the graphic. Which representative is the man most likely talking about?",
+      "options": {
+        "A": "Jorge",
+        "B": "Rebecca",
+        "C": "Jada",
+        "D": "Kent"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Người đàn ông nhắc tới đại diện nhận được hơn 400 đánh giá 5 sao (\"received over 400 five-star reviews\"). Quan sát biểu đồ cột, người đạt chỉ số này (gần 500) chính là Rebecca.",
+      "evidence_quote": "Yes, especially Rebecca. She received over 400 five-star reviews from customers!",
+      "paraphrase_pair": null
+    }
+  ]
+}

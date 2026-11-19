@@ -1,0 +1,18 @@
+# TOEIC Adaptive Coaching - Python Data Pipeline Requirements
+# Conda Environment: toeic-pipeline
+
+# Faster-Whisper & CTranslate2 for GPU Audio Transcription (RTX 3060 CUDA float16)
+faster-whisper>=1.2.1
+ctranslate2>=4.8.4
+
+# Google GenAI SDK (Gemini 2.5 Flash / Gemini 3.8 Flash with Structured Outputs)
+google-genai>=2.33.0
+pydantic>=2.14.0
+
+# Audio & PDF utilities
+pydub>=0.25.1
+
+# Environment & Database integration
+python-dotenv>=1.2.0
+supabase>=2.33.0
+tqdm>=4.70.0

@@ -1,0 +1,18 @@
+# TOEIC Adaptive Coaching - Python Data Pipeline Requirements (100% Local Storage)
+
+# Faster-Whisper & CTranslate2 for Audio Transcription (CPU int8 / CUDA float16)
+faster-whisper>=1.2.1
+ctranslate2>=4.8.4
+
+# Google GenAI SDK (Gemini Flash with Structured Outputs)
+google-genai>=2.33.0
+pydantic>=2.14.0
+
+# Audio, PDF & Image cropping utilities
+pydub>=0.25.1
+pymupdf>=1.24.0
+pillow>=10.0.0
+
+# Environment & CLI progress
+python-dotenv>=1.2.0
+tqdm>=4.70.0

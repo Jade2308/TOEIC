@@ -1,0 +1,1544 @@
+{
+  "test_name": "ETS TOEIC 2023 - Test 1",
+  "part": 3,
+  "total_groups": 13,
+  "total_questions": 39,
+  "question_groups": [
+    {
+      "id": "20ac7d25-c479-55c3-9e68-faa4b1b74729",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": null,
+      "audio_url": "/audio/test1/part3_g32_34.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-32-01",
+          "speaker": "Woman",
+          "start_time": 6.18,
+          "end_time": 31.64,
+          "text_en": "Hello. I'm calling about my tickets for tonight's baseball game. I'm hoping to upgrade my seats so we can sit closer to the field. The reservation is under my name: Joanna Reynolds.",
+          "text_vi": "Xin chào. Tôi gọi điện về vé xem trận bóng chày tối nay. Tôi muốn nâng hạng ghế để có thể ngồi gần sân hơn. Đặt chỗ dưới tên tôi: Joanna Reynolds.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-32-02",
+          "speaker": "Man",
+          "start_time": 31.64,
+          "end_time": 57.1,
+          "text_en": "Let me take a look. Hmm. I'm sorry, Ms. Reynolds, but our system seems to be down at the moment. I can do the exchange manually, but it'll take a little longer.",
+          "text_vi": "Để tôi kiểm tra xem. Hừm. Tôi rất xin lỗi, cô Reynolds, nhưng hiện tại hệ thống của chúng tôi dường như đang bị sập. Tôi có thể thực hiện đổi thủ công, nhưng sẽ mất thêm chút thời gian.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-32-03",
+          "speaker": "Woman",
+          "start_time": 57.1,
+          "end_time": 82.56,
+          "text_en": "No problem. I have time.",
+          "text_vi": "Không sao cả. Tôi có thời gian mà.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-32-04",
+          "speaker": "Man",
+          "start_time": 82.56,
+          "end_time": 108.02,
+          "text_en": "Thanks. Oh, and just a reminder that better seats will cost more—you'll need to pay about 15 dollars more per seat.",
+          "text_vi": "Cảm ơn cô. À, và xin lưu ý thêm là chỗ ngồi tốt hơn sẽ đắt hơn—cô sẽ cần trả thêm khoảng 15 đô la cho mỗi ghế.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "31d17d01-b91e-5434-be84-38097f30d5f9",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": null,
+      "audio_url": "/audio/test1/part3_g35_37.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-35-01",
+          "speaker": "Woman",
+          "start_time": 6.82,
+          "end_time": 31.02,
+          "text_en": "Thilo, are you going to the company lunch later this morning at Sullivan Bistro? I'm not sure how to get there.",
+          "text_vi": "Thilo, anh có đi ăn bữa trưa của công ty muộn hơn sáng nay ở Sullivan Bistro không? Tôi không biết đường đến đó.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-35-02",
+          "speaker": "Man",
+          "start_time": 31.02,
+          "end_time": 55.23,
+          "text_en": "Well, the train stops right near it on Hanover Street, but you'd have to transfer a few times. You know, I'm getting a ride with Farida, and she has a van.",
+          "text_vi": "À, tàu dừng ngay gần đó ở phố Hanover, nhưng cô sẽ phải chuyển tàu vài lần. Cô biết đấy, tôi đang đi nhờ xe với Farida, và cô ấy có một chiếc xe van.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-35-03",
+          "speaker": "Woman",
+          "start_time": 55.23,
+          "end_time": 79.44,
+          "text_en": "Oh, that would be convenient! Do you know where her desk is?",
+          "text_vi": "Ồ, thế thì tiện quá! Anh có biết bàn làm việc của cô ấy ở đâu không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-35-04",
+          "speaker": "Man",
+          "start_time": 79.44,
+          "end_time": 103.64,
+          "text_en": "Yes. She has the cubicle closest to the stairs.",
+          "text_vi": "Có chứ. Cô ấy ngồi ở ô làm việc gần cầu thang nhất.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "f465e133-71cf-5263-afc0-72ba17c82e94",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": null,
+      "audio_url": "/audio/test1/part3_g38_40.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-38-01",
+          "speaker": "Man",
+          "start_time": 5.3,
+          "end_time": 39.49,
+          "text_en": "Hi, Sarika. We need a new assistant manager here at Jeera Groceries. You've been one of our best cashiers for two years now. Are you interested in the position?",
+          "text_vi": "Chào Sarika. Chúng tôi đang cần một trợ lý quản lý mới tại Cửa hàng thực phẩm Jeera. Cô đã là một trong những nhân viên thu ngân giỏi nhất của chúng tôi được 2 năm rồi. Cô có quan tâm đến vị trí này không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-38-02",
+          "speaker": "Woman",
+          "start_time": 39.49,
+          "end_time": 73.69,
+          "text_en": "Wow. I definitely am. My one concern is the working hours. Would my schedule change significantly?",
+          "text_vi": "Ồ. Tôi chắc chắn là có rồi. Mối bận tâm duy nhất của tôi là giờ làm việc. Lịch làm việc của tôi có thay đổi đáng kể không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-38-03",
+          "speaker": "Man",
+          "start_time": 73.69,
+          "end_time": 107.88,
+          "text_en": "You might have to work overtime once in a while, like when food deliveries arrive late, but that doesn't happen often. Why don't you think about it for a few days? Let me know what you decide.",
+          "text_vi": "Thỉnh thoảng cô có thể phải làm thêm giờ, chẳng hạn như khi các chuyến giao thực phẩm đến muộn, nhưng điều đó không thường xuyên xảy ra. Sao cô không suy nghĩ về điều đó vài ngày nhỉ? Hãy báo cho tôi biết quyết định của cô nhé.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "a8ea8c4a-a556-55b3-9289-62d1b24cbeb2",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": null,
+      "audio_url": "/audio/test1/part3_g41_43.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-41-01",
+          "speaker": "Man",
+          "start_time": 6.36,
+          "end_time": 25.81,
+          "text_en": "Good morning. This is Westerly Travel's customer service. How may I help you?",
+          "text_vi": "Xin chào buổi sáng. Đây là bộ phận chăm sóc khách hàng của Westerly Travel. Tôi có thể giúp gì cho quý khách?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-41-02",
+          "speaker": "Woman",
+          "start_time": 25.81,
+          "end_time": 45.26,
+          "text_en": "Yes, I was supposed to take the two P.M. from Denver to Colorado Springs, but it was canceled. I need to book a different train. I'm presenting at a trade show first thing in the morning, so I'm hoping you can get me on another train today.",
+          "text_vi": "Vâng, đúng ra tôi phải đi chuyến tàu lúc 2 giờ chiều từ Denver đến Colorado Springs, nhưng nó đã bị hủy. Tôi cần đặt một chuyến tàu khác. Tôi sẽ thuyết trình tại một hội chợ thương mại vào sáng sớm mai, vì vậy tôi hy vọng anh có thể xếp tôi vào một chuyến tàu khác trong ngày hôm nay.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-41-03",
+          "speaker": "Man",
+          "start_time": 45.26,
+          "end_time": 64.7,
+          "text_en": "The four P.M. departure gets you in by six thirty, and there are plenty of seats available.",
+          "text_vi": "Chuyến khởi hành lúc 4 giờ chiều sẽ đưa cô đến nơi lúc 6 giờ 30, và hiện còn rất nhiều chỗ trống.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-41-04",
+          "speaker": "Woman",
+          "start_time": 64.7,
+          "end_time": 84.15,
+          "text_en": "That sounds great.",
+          "text_vi": "Nghe tuyệt quá.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-41-05",
+          "speaker": "Man",
+          "start_time": 84.15,
+          "end_time": 103.6,
+          "text_en": "And to apologize for the inconvenience, I've upgraded you to business class at no extra charge.",
+          "text_vi": "Và để xin lỗi vì sự bất tiện này, tôi đã nâng hạng cho cô lên khoang thương gia mà không tính thêm phí.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "0314e089-ab01-57cf-ae1b-06b8dad65434",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": null,
+      "audio_url": "/audio/test1/part3_g44_46.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-44-01",
+          "speaker": "Man",
+          "start_time": 6.56,
+          "end_time": 31.55,
+          "text_en": "Hi, I'm calling about the sedan I test-drove yesterday at your dealership.",
+          "text_vi": "Xin chào, tôi gọi điện về chiếc xe sedan mà tôi đã lái thử hôm qua tại đại lý của bạn.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-44-02",
+          "speaker": "Woman",
+          "start_time": 31.55,
+          "end_time": 56.54,
+          "text_en": "Oh, hello, Mr. Alvarez! Are you interested in purchasing it?",
+          "text_vi": "Ồ, xin chào ông Alvarez! Ông có quan tâm đến việc mua nó không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-44-03",
+          "speaker": "Man",
+          "start_time": 56.54,
+          "end_time": 81.53,
+          "text_en": "I might be, but you sent me some information by e-mail this morning, and several important details were missing, like the financing options and the warranty terms.",
+          "text_vi": "Có thể đấy, nhưng sáng nay bạn đã gửi cho tôi một số thông tin qua email và thiếu một vài chi tiết quan trọng, chẳng hạn như các lựa chọn hỗ trợ tài chính và các điều khoản bảo hành.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-44-04",
+          "speaker": "Woman",
+          "start_time": 81.53,
+          "end_time": 106.52,
+          "text_en": "I'm so sorry about that. Our sales manager has been updating those policies today. Let me give him a call right away to get the latest paperwork, and I'll send it over to you.",
+          "text_vi": "Tôi rất xin lỗi về điều đó. Giám đốc bán hàng của chúng tôi đang cập nhật các chính sách đó hôm nay. Để tôi gọi điện cho anh ấy ngay để lấy giấy tờ mới nhất, rồi tôi sẽ gửi qua cho ông.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "63021e47-40ac-55a5-9506-ca7af9406ad7",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": null,
+      "audio_url": "/audio/test1/part3_g47_49.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-47-01",
+          "speaker": "Man",
+          "start_time": 6.26,
+          "end_time": 31.66,
+          "text_en": "Amina, how are plans progressing for the September release of our new model of mobile phone?",
+          "text_vi": "Amina, kế hoạch ra mắt mẫu điện thoại di động mới vào tháng 9 đang tiến triển như thế nào rồi?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-47-02",
+          "speaker": "Woman",
+          "start_time": 31.66,
+          "end_time": 57.05,
+          "text_en": "Good. Right now, the marketing department is looking at advertising options and thinking about the best way to get maximum exposure in the media.",
+          "text_vi": "Tốt lắm. Hiện tại, bộ phận tiếp thị đang xem xét các phương án quảng cáo và suy nghĩ về cách tốt nhất để tiếp cận truyền thông tối đa.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-47-03",
+          "speaker": "Man",
+          "start_time": 57.05,
+          "end_time": 82.45,
+          "text_en": "Great. And what's the update from our manufacturer about when they'll begin production? Last time we spoke, you mentioned that the factory was at full capacity with other projects, and I'm worried that'll affect our timeline.",
+          "text_vi": "Tuyệt vời. Còn thông tin cập nhật từ nhà sản xuất của chúng ta về thời điểm họ bắt đầu sản xuất thì sao? Lần trước chúng ta nói chuyện, bạn có đề cập rằng nhà máy đã hoạt động hết công suất cho các dự án khác, và tôi lo lắng điều đó sẽ ảnh hưởng đến tiến độ của chúng ta.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-47-04",
+          "speaker": "Woman",
+          "start_time": 82.45,
+          "end_time": 107.84,
+          "text_en": "I just spoke with them, and they'll free up room for us soon.",
+          "text_vi": "Tôi vừa nói chuyện với họ, và họ sẽ sớm thu xếp chỗ trống cho chúng ta thôi.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "35e241ae-f382-5bac-9d86-ed5cf957bcb9",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": null,
+      "audio_url": "/audio/test1/part3_g50_52.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-50-01",
+          "speaker": "Woman",
+          "start_time": 6.34,
+          "end_time": 26.51,
+          "text_en": "Hi, Luca. Is the restaurant almost ready for this afternoon's awards dinner?",
+          "text_vi": "Chào Luca. Nhà hàng đã gần sẵn sàng cho bữa tiệc trao giải chiều nay chưa?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-50-02",
+          "speaker": "Man",
+          "start_time": 26.51,
+          "end_time": 46.68,
+          "text_en": "Actually, now that the room's been set up, I see that we're short a few tables and chairs.",
+          "text_vi": "Thực ra, sau khi sắp xếp phòng xong, tôi thấy chúng ta đang thiếu vài bộ bàn ghế.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-50-03",
+          "speaker": "Woman",
+          "start_time": 46.68,
+          "end_time": 66.84,
+          "text_en": "Oh, I've already taken care of that. I called a rental company, and they'll be delivering the furniture we need in an hour.",
+          "text_vi": "Ồ, tôi đã xử lý việc đó rồi. Tôi đã gọi cho một công ty cho thuê và họ sẽ giao đồ nội thất chúng ta cần trong một giờ nữa.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-50-04",
+          "speaker": "Man",
+          "start_time": 66.84,
+          "end_time": 87.01,
+          "text_en": "Thanks for doing that. Did you also look over the final guest list? I haven't had time to do that yet.",
+          "text_vi": "Cảm ơn cô đã làm điều đó. Cô đã xem qua danh sách khách mời cuối cùng chưa? Tôi vẫn chưa có thời gian làm việc đó.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-50-05",
+          "speaker": "Woman",
+          "start_time": 87.01,
+          "end_time": 107.18,
+          "text_en": "No, I haven't. Why don't we do that together now?",
+          "text_vi": "Tôi chưa. Sao chúng ta không cùng nhau xem xét ngay bây giờ nhỉ?",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "9fb06283-e4b6-5405-aa95-f7d442aa006c",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": null,
+      "audio_url": "/audio/test1/part3_g53_55.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-53-01",
+          "speaker": "Man",
+          "start_time": 6.66,
+          "end_time": 32.09,
+          "text_en": "Marcella, we have a problem with the business conference we're hosting next week. I just got a call from the conference center, and they said there's been water damage to three of the meeting rooms.",
+          "text_vi": "Marcella, chúng ta có vấn đề với hội nghị kinh doanh mà chúng ta tổ chức vào tuần tới. Tôi vừa nhận được cuộc gọi từ trung tâm hội nghị, họ nói rằng có ba phòng họp bị thiệt hại do nước tràn vào.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-53-02",
+          "speaker": "Woman",
+          "start_time": 32.09,
+          "end_time": 57.52,
+          "text_en": "Oh no! But the rooms will be repaired in time for our conference, right?",
+          "text_vi": "Ôi không! Nhưng các phòng sẽ được sửa chữa kịp thời cho hội nghị của chúng ta, đúng không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-53-03",
+          "speaker": "Man",
+          "start_time": 57.52,
+          "end_time": 82.95,
+          "text_en": "They said there's a lot of damage.",
+          "text_vi": "Họ nói có rất nhiều thiệt hại.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-53-04",
+          "speaker": "Woman",
+          "start_time": 82.95,
+          "end_time": 108.38,
+          "text_en": "OK. Well, the weather's supposed to be nice, so we could host some of the seminars outdoors. It's a little unconventional, but there's plenty of space surrounding the conference center.",
+          "text_vi": "Được rồi. Chà, thời tiết dự kiến sẽ đẹp, nên chúng ta có thể tổ chức một số buổi hội thảo ở ngoài trời. Việc này hơi khác thường một chút, nhưng có rất nhiều không gian xung quanh trung tâm hội nghị.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "1ec3f7ac-2678-5018-9d3e-ecbc9f4c2047",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": null,
+      "audio_url": "/audio/test1/part3_g56_58.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-56-01",
+          "speaker": "Francesca",
+          "start_time": 7.84,
+          "end_time": 28.14,
+          "text_en": "Marion, have you had a chance to test the new patient record software yet?",
+          "text_vi": "Marion, bạn đã có cơ hội dùng thử phần mềm hồ sơ bệnh nhân mới chưa?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-56-02",
+          "speaker": "Marion",
+          "start_time": 28.14,
+          "end_time": 48.45,
+          "text_en": "I did. It seems very user-friendly, but I'm wondering why so many clinics have been switching to it recently.",
+          "text_vi": "Tôi đã thử rồi. Nó có vẻ rất thân thiện với người dùng, nhưng tôi đang băn khoăn tại sao gần đây lại có nhiều phòng khám chuyển sang dùng nó như vậy.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-56-03",
+          "speaker": "Man",
+          "start_time": 48.45,
+          "end_time": 68.75,
+          "text_en": "Well, according to industry reports, it makes patient health records and test results much easier to access from any department or device, which saves a lot of time.",
+          "text_vi": "À, theo các báo cáo trong ngành thì nó giúp hồ sơ sức khỏe và kết quả xét nghiệm của bệnh nhân dễ truy cập hơn rất nhiều từ bất kỳ phòng ban hoặc thiết bị nào, điều này giúp tiết kiệm rất nhiều thời gian.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-56-04",
+          "speaker": "Francesca",
+          "start_time": 68.75,
+          "end_time": 89.06,
+          "text_en": "Exactly. We're thinking about transitioning to it next month. Marion, would you be able to reach out to some IT service providers to compare their setup and maintenance costs?",
+          "text_vi": "Chính xác. Chúng tôi đang nghĩ đến việc chuyển đổi sang nó vào tháng tới. Marion, bạn có thể liên hệ với một số nhà cung cấp dịch vụ công nghệ thông tin để so sánh chi phí thiết lập và bảo trì của họ không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-56-05",
+          "speaker": "Marion",
+          "start_time": 89.06,
+          "end_time": 109.36,
+          "text_en": "Sure, I'll get in touch with a few companies this afternoon to see what they offer.",
+          "text_vi": "Chắc chắn rồi, tôi sẽ liên hệ với một vài công ty vào chiều nay để xem họ cung cấp những gói dịch vụ gì.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "c804acfa-6980-5b86-9d70-9860c6e95095",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": null,
+      "audio_url": "/audio/test1/part3_g59_61.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-59-01",
+          "speaker": "Woman",
+          "start_time": 8.08,
+          "end_time": 33.27,
+          "text_en": "Let's start the product innovation meeting. We've decided to sell fruit and nut bars, so we're developing different types of snack bars. What are your thoughts, Stan?",
+          "text_vi": "Hãy bắt đầu cuộc họp đổi mới sản phẩm. Chúng ta đã quyết định bán các loại thanh trái cây và hạt, vì vậy chúng ta đang phát triển các loại thanh ăn vặt khác nhau. Stan, anh nghĩ sao?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-59-02",
+          "speaker": "Man",
+          "start_time": 33.27,
+          "end_time": 58.47,
+          "text_en": "Well, for the snack bars to sell well, they need to be popular, so we should develop nut-free snack bars. Also, to prevent contamination between the two production areas, separate equipment will be needed.",
+          "text_vi": "À, để các thanh ăn vặt bán chạy, chúng cần phải phổ biến, vì vậy chúng ta nên phát triển các thanh ăn vặt không hạt. Ngoài ra, để ngăn ngừa ô nhiễm giữa hai khu vực sản xuất, sẽ cần có thiết bị riêng biệt.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-59-03",
+          "speaker": "Woman",
+          "start_time": 58.47,
+          "end_time": 83.67,
+          "text_en": "There's no space for that in this market. Pedro, have you seen the new production facility in Glenview? Is there space for new equipment there?",
+          "text_vi": "Không có chỗ cho việc đó ở thị trường này. Pedro, anh đã xem cơ sở sản xuất mới ở Glenview chưa? Có chỗ cho thiết bị mới ở đó không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-59-04",
+          "speaker": "Man",
+          "start_time": 83.67,
+          "end_time": 108.86,
+          "text_en": "I think there's some extra space there. But I'll need to check with the facility manager.",
+          "text_vi": "Tôi nghĩ có một ít không gian trống ở đó. Nhưng tôi sẽ cần kiểm tra với quản lý cơ sở.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "4f7b24b8-08c2-5948-998a-c6782915b108",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": "/images/test1/part3_g62_64.png",
+      "audio_url": "/audio/test1/part3_g62_64.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-62-01",
+          "speaker": "Man",
+          "start_time": 7.56,
+          "end_time": 20.08,
+          "text_en": "Welcome to the Boat Center. How may I help you?",
+          "text_vi": "Chào mừng đến với Trung tâm Thuyền. Tôi có thể giúp gì cho quý khách?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-62-02",
+          "speaker": "Woman",
+          "start_time": 20.08,
+          "end_time": 32.6,
+          "text_en": "Hi. Do you have any tickets for the Sea-Ride Special tour today? I was hoping to catch a last-minute tour.",
+          "text_vi": "Chào anh. Hôm nay có vé cho chuyến tham quan đặc biệt Sea-Ride không? Tôi hy vọng có thể tham gia một chuyến đi vào phút chót.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-62-03",
+          "speaker": "Man",
+          "start_time": 32.6,
+          "end_time": 45.12,
+          "text_en": "Oh, I'm sorry. We're sold out. It's a really popular tour this time of year because the penguins are migrating through the area.",
+          "text_vi": "Ồ, tôi xin lỗi. Chúng tôi đã bán hết vé rồi. Đây là một chuyến tham quan rất phổ biến vào thời điểm này trong năm vì chim cánh cụt đang di cư qua khu vực này.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-62-04",
+          "speaker": "Woman",
+          "start_time": 45.12,
+          "end_time": 57.64,
+          "text_en": "Oh, too bad. I'm leaving tomorrow morning, and I was really hoping to take one of your tours.",
+          "text_vi": "Ồ, tiếc quá. Tôi sẽ rời đi vào sáng mai, và tôi thực sự hy vọng có thể tham gia một trong các chuyến tham quan của anh.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-62-05",
+          "speaker": "Man",
+          "start_time": 57.64,
+          "end_time": 70.16,
+          "text_en": "Well, the Island Exploration tour still has a couple of spots left.",
+          "text_vi": "À, chuyến tham quan Khám phá Đảo vẫn còn vài chỗ trống.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-62-06",
+          "speaker": "Woman",
+          "start_time": 70.16,
+          "end_time": 82.68,
+          "text_en": "Great! And that'll give me time to get something to eat before it starts. I see there's a coffee shop just down the street.",
+          "text_vi": "Tuyệt vời! Và điều đó sẽ cho tôi thời gian để ăn gì đó trước khi chuyến đi bắt đầu. Tôi thấy có một quán cà phê ngay dưới phố.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-62-07",
+          "speaker": "Man",
+          "start_time": 82.68,
+          "end_time": 95.2,
+          "text_en": "Yes, there are lockers at the boat center.",
+          "text_vi": "Vâng, có tủ khóa ở trung tâm thuyền.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-62-08",
+          "speaker": "Woman",
+          "start_time": 95.2,
+          "end_time": 107.72,
+          "text_en": "Okay, I'll be back tomorrow morning.",
+          "text_vi": "Được rồi, tôi sẽ quay lại vào sáng mai.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "ac553024-6e13-5efd-b0ba-4b5adcb9a706",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": "/images/test1/part3_g65_67.png",
+      "audio_url": "/audio/test1/part3_g65_67.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-65-01",
+          "speaker": "Man",
+          "start_time": 7.18,
+          "end_time": 32.06,
+          "text_en": "Hi. I'm here for the health and wellness conference. I parked in the event center parking area. I was wondering, is parking free for conference attendees?",
+          "text_vi": "Chào. Tôi đến đây để tham dự hội nghị sức khỏe và thể chất. Tôi đã đậu xe ở khu vực đậu xe trung tâm sự kiện. Tôi tự hỏi, liệu việc đậu xe có miễn phí cho những người tham dự hội nghị không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-65-02",
+          "speaker": "Woman",
+          "start_time": 32.06,
+          "end_time": 56.95,
+          "text_en": "No. I'm sorry. We don't provide any reimbursements for parking. But if you're willing to move your car, there's a cheaper parking area at Seventh Avenue and Vine Street. It's about a block away.",
+          "text_vi": "Không. Tôi xin lỗi. Chúng tôi không hoàn trả bất kỳ chi phí đậu xe nào. Nhưng nếu anh sẵn lòng di chuyển xe, có một khu vực đậu xe rẻ hơn ở Đại lộ Seventh và Phố Vine. Nó cách đây khoảng một dãy nhà.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-65-03",
+          "speaker": "Man",
+          "start_time": 56.95,
+          "end_time": 81.84,
+          "text_en": "Oh, unfortunately, I don't have time. I'm scheduled to attend the strength-training seminar that starts in fifteen minutes. But tomorrow I'll get here earlier and park at the other lot. Seventh and Vine, you said. Right?",
+          "text_vi": "Ồ, thật không may, tôi không có thời gian. Tôi có lịch tham dự buổi hội thảo tập luyện sức mạnh sẽ bắt đầu trong mười lăm phút nữa. Nhưng ngày mai tôi sẽ đến sớm hơn và đậu xe ở bãi khác. Đại lộ Seventh và Phố Vine, anh nói đúng không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-65-04",
+          "speaker": "Woman",
+          "start_time": 81.84,
+          "end_time": 106.72,
+          "text_en": "That's correct.",
+          "text_vi": "Đúng vậy.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "3395059d-1374-574c-ab1b-f319e8524779",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 3,
+      "image_url": "/images/test1/part3_g68_70.png",
+      "audio_url": "/audio/test1/part3_g68_70.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p3-68-01",
+          "speaker": "Man",
+          "start_time": 7.92,
+          "end_time": 20.25,
+          "text_en": "Molina's Office Store. How can I help you?",
+          "text_vi": "Cửa hàng văn phòng Molina. Tôi có thể giúp gì cho quý khách?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-68-02",
+          "speaker": "Woman",
+          "start_time": 20.25,
+          "end_time": 32.59,
+          "text_en": "Hi. I've been trying to order a product on your Web site, but every time I get to the checkout screen, everything freezes, and I can't place the order.",
+          "text_vi": "Chào anh. Tôi đã cố gắng đặt hàng một sản phẩm trên trang web của anh, nhưng mỗi lần tôi đến màn hình thanh toán, mọi thứ đều bị đơ, và tôi không thể đặt hàng được.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-68-03",
+          "speaker": "Man",
+          "start_time": 32.59,
+          "end_time": 44.92,
+          "text_en": "What are you trying to buy?",
+          "text_vi": "Quý khách đang muốn mua gì?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-68-04",
+          "speaker": "Woman",
+          "start_time": 44.92,
+          "end_time": 57.26,
+          "text_en": "The Enzo 5000 scanner.",
+          "text_vi": "Máy quét Enzo 5000.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-68-05",
+          "speaker": "Man",
+          "start_time": 57.26,
+          "end_time": 69.59,
+          "text_en": "Hmm. That product's currently out of stock. Can I recommend the Rhenium 60 instead? It's a popular model.",
+          "text_vi": "Hmm. Sản phẩm đó hiện đang hết hàng. Tôi có thể giới thiệu máy Rhenium 60 thay thế không? Đó là một mẫu phổ biến.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-68-06",
+          "speaker": "Woman",
+          "start_time": 69.59,
+          "end_time": 81.93,
+          "text_en": "I really need the Enzo 5000—I'm an artist and I make my own prints, so I need a model that produces top-quality images.",
+          "text_vi": "Tôi thực sự cần Enzo 5000—tôi là một nghệ sĩ và tôi tự in các bản in của mình, vì vậy tôi cần một mẫu máy tạo ra hình ảnh chất lượng hàng đầu.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-68-07",
+          "speaker": "Man",
+          "start_time": 81.93,
+          "end_time": 94.27,
+          "text_en": "I see. Well, we're expecting a shipment tomorrow. If it includes the model you're looking for, I can reserve it for you.",
+          "text_vi": "Tôi hiểu rồi. À, chúng tôi dự kiến có một lô hàng vào ngày mai. Nếu có mẫu máy quý khách đang tìm, tôi có thể đặt trước cho quý khách.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p3-68-08",
+          "speaker": "Woman",
+          "start_time": 94.27,
+          "end_time": 106.6,
+          "text_en": "That would be great. Thank you.",
+          "text_vi": "Tuyệt vời quá. Cảm ơn anh.",
+          "is_trap": false
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "5d7d491c-6232-5650-8b80-1a67035a3600",
+      "group_id": "20ac7d25-c479-55c3-9e68-faa4b1b74729",
+      "question_number": 32,
+      "part": 3,
+      "question_text": "Why is the woman calling?",
+      "options": {
+        "A": "To request a ticket change",
+        "B": "To make a dinner reservation",
+        "C": "To order merchandise",
+        "D": "To plan a vacation"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch câu hỏi & đáp án:\nTại sao người phụ nữ lại gọi điện?\n(A) Để yêu cầu đổi vé\n(B) Để đặt chỗ ăn tối\n(C) Để đặt mua hàng hóa\n(D) Để lên kế hoạch cho kỳ nghỉ\n\nGiải thích chi tiết:\nNgười phụ nữ nói: \"I'm calling about my tickets for tonight's baseball game. I'm hoping to upgrade my seats...\" (Tôi gọi về vé xem bóng chày tối nay. Tôi muốn nâng hạng ghế ngồi...). Việc nâng hạng ghế (upgrade seats) chính là yêu cầu đổi vé (request a ticket change). Do đó, đáp án đúng là (A).\n\nTừ vựng then chốt:\n- upgrade seats = đổi chỗ/nâng hạng ghế\n- ticket change = thay đổi vé",
+      "question_type_tag": "wh_why",
+      "evidence_quote": "I'm calling about my tickets for tonight's baseball game. I'm hoping to upgrade my seats so we can sit closer to the field.",
+      "paraphrase_pair": {
+        "original": "upgrade my seats",
+        "paraphrased": "request a ticket change"
+      },
+      "image_url": null
+    },
+    {
+      "id": "33ae3ccd-a0e3-5188-8c46-bc1b25fa5a51",
+      "group_id": "20ac7d25-c479-55c3-9e68-faa4b1b74729",
+      "question_number": 33,
+      "part": 3,
+      "question_text": "Why does the man apologize?",
+      "options": {
+        "A": "An event was canceled.",
+        "B": "A line is very long.",
+        "C": "A payment option is unavailable.",
+        "D": "A computer program is not working."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch câu hỏi & đáp án:\nTại sao người đàn ông lại xin lỗi?\n(A) Một sự kiện đã bị hủy bỏ.\n(B) Hàng đợi rất dài.\n(C) Phương thức thanh toán không khả dụng.\n(D) Một chương trình máy tính không hoạt động.\n\nGiải thích chi tiết:\nNgười đàn ông nói lời xin lỗi: \"I'm sorry, Ms. Reynolds, but our system seems to be down at the moment.\" Cụm từ \"system is down\" nghĩa là hệ thống máy tính gặp sự cố, bị sập hay không hoạt động (\"A computer program is not working\"). Do đó, đáp án chính xác là (D).\n\nTừ vựng then chốt:\n- system is down = hệ thống ngưng hoạt động / sập\n- not working = không hoạt động",
+      "question_type_tag": "wh_why",
+      "evidence_quote": "I'm sorry, Ms. Reynolds, but our system seems to be down at the moment.",
+      "paraphrase_pair": {
+        "original": "our system seems to be down",
+        "paraphrased": "A computer program is not working"
+      },
+      "image_url": null
+    },
+    {
+      "id": "e508f9b5-7cdd-54de-b0fe-a83d52a0ad59",
+      "group_id": "20ac7d25-c479-55c3-9e68-faa4b1b74729",
+      "question_number": 34,
+      "part": 3,
+      "question_text": "What does the man remind the woman about?",
+      "options": {
+        "A": "A meal voucher",
+        "B": "Some free souvenirs",
+        "C": "An increase in price",
+        "D": "A refund policy"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dịch câu hỏi & đáp án:\nNgười đàn ông nhắc nhở người phụ nữ về điều gì?\n(A) Phiếu ăn uống\n(B) Một số quà lưu niệm miễn phí\n(C) Việc tăng giá tiền\n(D) Chính sách hoàn tiền\n\nGiải thích chi tiết:\nNgười đàn ông nhắc: \"just a reminder that better seats will cost more—you'll need to pay about 15 dollars more per seat.\" (xin nhắc cô là ghế tốt hơn sẽ tốn kém hơn—cô cần trả thêm khoảng 15 đô la mỗi ghế). \"cost more\" tương đương với \"an increase in price\". Do đó, chọn (C).\n\nTừ vựng then chốt:\n- cost more = tốn nhiều tiền hơn / đắt hơn\n- an increase in price = sự tăng giá",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "just a reminder that better seats will cost more—you'll need to pay about 15 dollars more per seat.",
+      "paraphrase_pair": {
+        "original": "better seats will cost more",
+        "paraphrased": "An increase in price"
+      },
+      "image_url": null
+    },
+    {
+      "id": "bba37afa-32c3-5739-93bc-2de33f0c3cfd",
+      "group_id": "31d17d01-b91e-5434-be84-38097f30d5f9",
+      "question_number": 35,
+      "part": 3,
+      "question_text": "What event will the speakers be attending later today?",
+      "options": {
+        "A": "A job fair",
+        "B": "A film screening",
+        "C": "A lunch",
+        "D": "A conference"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dịch câu hỏi & đáp án:\nCác người nói sẽ tham dự sự kiện nào vào ngày hôm nay?\n(A) Hội chợ việc làm\n(B) Buổi chiếu phim\n(C) Bữa ăn trưa\n(D) Một hội nghị\n\nGiải thích chi tiết:\nNgười phụ nữ hỏi: \"are you going to the company lunch later this morning at Sullivan Bistro?\" và người đàn ông xác nhận mình sẽ đi bằng cách nói \"I'm getting a ride with Farida\". Sự kiện được đề cập rõ ràng là \"company lunch\" (bữa ăn trưa của công ty). Đáp án đúng là (C).\n\nTừ vựng then chốt:\n- company lunch = bữa trưa công ty",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "are you going to the company lunch later this morning at Sullivan Bistro?",
+      "paraphrase_pair": {
+        "original": "company lunch",
+        "paraphrased": "A lunch"
+      },
+      "image_url": null
+    },
+    {
+      "id": "bfebd1c9-76db-55dc-b020-175af90d279e",
+      "group_id": "31d17d01-b91e-5434-be84-38097f30d5f9",
+      "question_number": 36,
+      "part": 3,
+      "question_text": "Why does the man say, “she has a van”?",
+      "options": {
+        "A": "To suggest inquiring about a ride",
+        "B": "To express surprise at a coworker's choice of vehicle",
+        "C": "To explain why a coworker was late",
+        "D": "To clarify that a coworker helped him move"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch câu hỏi & đáp án:\nTại sao người đàn ông lại nói: \"cô ấy có một chiếc xe van\"?\n(A) Để gợi ý việc hỏi xin đi nhờ xe\n(B) Để bày tỏ sự ngạc nhiên trước lựa chọn phương tiện của đồng nghiệp\n(C) Để giải thích lý do tại sao một đồng nghiệp lại đến muộn\n(D) Để làm rõ việc một đồng nghiệp đã giúp anh ấy chuyển nhà\n\nGiải thích chi tiết:\nNgười phụ nữ nói cô ấy không biết đi đường nào. Người đàn ông nói đi tàu phải đổi chuyến nhiều lần, rồi nói thêm anh ấy đi nhờ Farida và \"she has a van\" (xe van rộng rãi có thể chở thêm người), ngụ ý người phụ nữ có thể hỏi đi nhờ cùng. Người phụ nữ cũng ngay lập tức hiểu ý và reo lên \"Oh, that would be convenient!\" rồi hỏi vị trí bàn của Farida. Do đó, đáp án đúng là (A).\n\nTừ vựng then chốt:\n- get a ride / give a ride = đi nhờ xe / cho đi nhờ xe\n- inquire about = hỏi thăm, tìm hiểu về",
+      "question_type_tag": "intent",
+      "evidence_quote": "I'm not sure how to get there. [...] You know, I'm getting a ride with Farida, and she has a van.",
+      "paraphrase_pair": {
+        "original": "she has a van",
+        "paraphrased": "To suggest inquiring about a ride"
+      },
+      "image_url": null
+    },
+    {
+      "id": "d54dcb75-d412-5d5e-87ac-74dd38e5cb43",
+      "group_id": "31d17d01-b91e-5434-be84-38097f30d5f9",
+      "question_number": 37,
+      "part": 3,
+      "question_text": "What will the woman most likely do next?",
+      "options": {
+        "A": "Reschedule an event",
+        "B": "Talk to another coworker",
+        "C": "Request time off",
+        "D": "Make a phone call"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch câu hỏi & đáp án:\nNgười phụ nữ rất có thể sẽ làm gì tiếp theo?\n(A) Dời lại lịch một sự kiện\n(B) Nói chuyện với một đồng nghiệp khác\n(C) Xin nghỉ phép\n(D) Gọi một cuộc điện thoại\n\nGiải thích chi tiết:\nSau khi biết Farida có xe van, người phụ nữ hỏi: \"Do you know where her desk is?\" (Anh có biết bàn làm việc của cô ấy ở đâu không?) và người đàn ông chỉ chỗ ngồi của Farida ở gần cầu thang. Điều này cho thấy người phụ nữ sẽ đến gặp Farida (một đồng nghiệp khác) để xin đi nhờ xe. Do đó, đáp án là (B).\n\nTừ vựng then chốt:\n- cubicle = ô làm việc, góc làm việc\n- coworker = đồng nghiệp",
+      "question_type_tag": "instruction_action",
+      "evidence_quote": "Do you know where her desk is? - Yes. She has the cubicle closest to the stairs.",
+      "paraphrase_pair": {
+        "original": "where her desk is? - She has the cubicle closest to the stairs",
+        "paraphrased": "Talk to another coworker"
+      },
+      "image_url": null
+    },
+    {
+      "id": "d2e40be0-ad93-5861-95ef-8dfe38ebb284",
+      "group_id": "f465e133-71cf-5263-afc0-72ba17c82e94",
+      "question_number": 38,
+      "part": 3,
+      "question_text": "Where do the speakers work?",
+      "options": {
+        "A": "At a grocery store",
+        "B": "At a shipping facility",
+        "C": "At a restaurant",
+        "D": "At a doctor's office"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch câu hỏi & đáp án:\nCác người nói làm việc ở đâu?\n(A) Tại một cửa hàng tạp hóa / thực phẩm\n(B) Tại một cơ sở vận chuyển hàng hóa\n(C) Tại một nhà hàng\n(D) Tại phòng khám bác sĩ\n\nGiải thích chi tiết:\nNgười đàn ông nói: \"We need a new assistant manager here at Jeera Groceries. You've been one of our best cashiers...\" (Chúng ta cần trợ lý quản lý tại Jeera Groceries. Bạn đã là thu ngân giỏi nhất...). Tên nơi làm việc có chữ \"Groceries\" kết hợp với từ \"cashier\" cho thấy nơi làm việc là một cửa hàng thực phẩm/tạp hóa (\"grocery store\"). Chọn (A).\n\nTừ vựng then chốt:\n- groceries = hàng tạp hóa, thực phẩm\n- grocery store = cửa hàng thực phẩm/tạp hóa",
+      "question_type_tag": "wh_where",
+      "evidence_quote": "We need a new assistant manager here at Jeera Groceries. You've been one of our best cashiers for two years now.",
+      "paraphrase_pair": {
+        "original": "Jeera Groceries",
+        "paraphrased": "grocery store"
+      },
+      "image_url": null
+    },
+    {
+      "id": "ef74f79b-bdaf-5ba7-a38f-cbcf8a44d03f",
+      "group_id": "f465e133-71cf-5263-afc0-72ba17c82e94",
+      "question_number": 39,
+      "part": 3,
+      "question_text": "What does the woman say she is concerned about?",
+      "options": {
+        "A": "Fuel prices",
+        "B": "Her work hours",
+        "C": "A staff shortage",
+        "D": "An inventory process"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch câu hỏi & đáp án:\nNgười phụ nữ nói cô ấy lo lắng/bận tâm về điều gì?\n(A) Giá nhiên liệu\n(B) Giờ làm việc của cô ấy\n(C) Sự thiếu hụt nhân sự\n(D) Quy trình kiểm kê hàng hóa\n\nGiải thích chi tiết:\nNgười phụ nữ trả lời trực tiếp: \"My one concern is the working hours.\" (Mối bận tâm duy nhất của tôi là giờ làm việc). Do đó đáp án chính xác là (B) Her work hours.\n\nTừ vựng then chốt:\n- concern = mối bận tâm, lo lắng\n- working hours = work hours = giờ làm việc",
+      "question_type_tag": "detail_lookup",
+      "evidence_quote": "My one concern is the working hours. Would my schedule change significantly?",
+      "paraphrase_pair": {
+        "original": "working hours",
+        "paraphrased": "Her work hours"
+      },
+      "image_url": null
+    },
+    {
+      "id": "27bd95d2-42f6-5802-85d3-daa02ec21b65",
+      "group_id": "f465e133-71cf-5263-afc0-72ba17c82e94",
+      "question_number": 40,
+      "part": 3,
+      "question_text": "What does the man suggest that the woman do?",
+      "options": {
+        "A": "Complete a training program",
+        "B": "Order extra equipment",
+        "C": "Hire a consultant",
+        "D": "Take time to make a decision"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch câu hỏi & đáp án:\nNgười đàn ông đề xuất người phụ nữ làm gì?\n(A) Hoàn thành một chương trình đào tạo\n(B) Đặt thêm thiết bị\n(C) Thuê chuyên gia tư vấn\n(D) Dành thời gian để đưa ra quyết định\n\nGiải thích chi tiết:\nNgười đàn ông gợi ý bằng câu: \"Why don't you think about it for a few days? Let me know what you decide.\" (Sao cô không suy nghĩ về nó trong vài ngày? Hãy cho tôi biết cô quyết định thế nào). Hành động \"suy nghĩ trong vài ngày để quyết định\" được diễn đạt lại là \"Take time to make a decision\" (Dành thời gian đưa ra quyết định). Đáp án đúng là (D).\n\nTừ vựng then chốt:\n- think about it for a few days = suy nghĩ vài ngày\n- make a decision = đưa ra quyết định",
+      "question_type_tag": "instruction_action",
+      "evidence_quote": "Why don't you think about it for a few days? Let me know what you decide.",
+      "paraphrase_pair": {
+        "original": "think about it for a few days ... decide",
+        "paraphrased": "Take time to make a decision"
+      },
+      "image_url": null
+    },
+    {
+      "id": "15659dc6-6e49-549f-9935-be3e9259226c",
+      "group_id": "a8ea8c4a-a556-55b3-9289-62d1b24cbeb2",
+      "question_number": 41,
+      "part": 3,
+      "question_text": "Why is the woman calling?",
+      "options": {
+        "A": "Her taxi never arrived.",
+        "B": "Her luggage is missing.",
+        "C": "Her train was canceled.",
+        "D": "Her ticket is lost."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dịch câu hỏi & đáp án:\nTại sao người phụ nữ gọi điện?\n(A) Taxi của cô ấy không bao giờ đến.\n(B) Hành lý của cô ấy bị thất lạc.\n(C) Chuyến tàu của cô ấy đã bị hủy.\n(D) Vé của cô ấy bị mất.\n\nGiải thích chi tiết:\nNgười phụ nữ giải thích nguyên nhân gọi: \"I was supposed to take the two P.M. from Denver to Colorado Springs, but it was canceled. I need to book a different train.\" (Chuyến tàu 2 giờ chiều đã bị hủy. Tôi cần đặt chuyến khác). Vì vậy lý do gọi là chuyến tàu của cô ấy bị hủy. Đáp án đúng là (C).\n\nTừ vựng then chốt:\n- be supposed to = theo dự kiến phải...\n- canceled = bị hủy bỏ",
+      "question_type_tag": "wh_why",
+      "evidence_quote": "I was supposed to take the two P.M. from Denver to Colorado Springs, but it was canceled. I need to book a different train.",
+      "paraphrase_pair": {
+        "original": "the two P.M. [train] ... was canceled",
+        "paraphrased": "Her train was canceled"
+      },
+      "image_url": null
+    },
+    {
+      "id": "3a930286-e04f-5072-9982-67e7f48ecf90",
+      "group_id": "a8ea8c4a-a556-55b3-9289-62d1b24cbeb2",
+      "question_number": 42,
+      "part": 3,
+      "question_text": "What event is the woman planning to attend?",
+      "options": {
+        "A": "An awards ceremony",
+        "B": "A trade show",
+        "C": "An art exhibit opening",
+        "D": "A building inspection"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch câu hỏi & đáp án:\nNgười phụ nữ dự định tham dự sự kiện nào?\n(A) Một lễ trao giải\n(B) Một hội chợ thương mại / triển lãm thương mại\n(C) Lễ khai mạc triển lãm nghệ thuật\n(D) Một cuộc kiểm tra công trình xây dựng\n\nGiải thích chi tiết:\nNgười phụ nữ nói rõ: \"I'm presenting at a trade show first thing in the morning...\" (Tôi sẽ thuyết trình tại một hội chợ thương mại vào sáng sớm mai...). Sự kiện cô tham gia là hội chợ thương mại (\"a trade show\"). Chọn đáp án (B).\n\nTừ vựng then chốt:\n- trade show = hội chợ / triển lãm thương mại\n- present = thuyết trình, trình bày",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "I'm presenting at a trade show first thing in the morning, so I'm hoping you can get me on another train today.",
+      "paraphrase_pair": {
+        "original": "presenting at a trade show",
+        "paraphrased": "A trade show"
+      },
+      "image_url": null
+    },
+    {
+      "id": "ce2d8eab-d4d0-54a0-bd21-5490ad8e3a49",
+      "group_id": "a8ea8c4a-a556-55b3-9289-62d1b24cbeb2",
+      "question_number": 43,
+      "part": 3,
+      "question_text": "What does the man give the woman as an apology?",
+      "options": {
+        "A": "A partial discount",
+        "B": "Vouchers for future travel",
+        "C": "A full refund",
+        "D": "A better seat"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch câu hỏi & đáp án:\nNgười đàn ông tặng/đưa cho người phụ nữ điều gì để tạ lỗi?\n(A) Giảm giá một phần\n(B) Phiếu ưu đãi cho các chuyến đi trong tương lai\n(C) Hoàn tiền toàn bộ\n(D) Một chỗ ngồi tốt hơn\n\nGiải thích chi tiết:\nNgười đàn ông nói ở cuối đoạn: \"And to apologize for the inconvenience, I've upgraded you to business class at no extra charge.\" Việc nâng hạng lên khoang thương gia (upgraded to business class) chính là cho khách một chỗ ngồi tốt hơn (A better seat). Do đó, đáp án đúng là (D).\n\nTừ vựng then chốt:\n- apologize for the inconvenience = xin lỗi vì sự bất tiện\n- upgrade to business class = nâng hạng lên vé thương gia = a better seat",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "And to apologize for the inconvenience, I've upgraded you to business class at no extra charge.",
+      "paraphrase_pair": {
+        "original": "upgraded you to business class",
+        "paraphrased": "A better seat"
+      },
+      "image_url": null
+    },
+    {
+      "id": "248f5ac3-8c5a-5e02-85f8-67c8402606a3",
+      "group_id": "0314e089-ab01-57cf-ae1b-06b8dad65434",
+      "question_number": 44,
+      "part": 3,
+      "question_text": "Where does the woman work?",
+      "options": {
+        "A": "At a distribution center",
+        "B": "At a conference center",
+        "C": "At a car dealership",
+        "D": "At a real estate agency"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "1. Dịch câu hỏi & đáp án: Người phụ nữ làm việc ở đâu? (A) Tại trung tâm phân phối, (B) Tại trung tâm hội nghị, (C) Tại đại lý ô tô, (D) Tại công ty bất động sản.\n2. Phân tích dẫn chứng: Người đàn ông nói 'I'm calling about the sedan I test-drove yesterday at your dealership' (Tôi gọi về chiếc xe sedan tôi lái thử hôm qua tại đại lý của bạn). Từ 'sedan' (xe ô tô 4 chỗ) và 'test-drove' (lái thử xe) chỉ ra rằng người phụ nữ làm việc tại đại lý bán ô tô (car dealership).\n3. Phân tích bẫy: Các đáp án A, B, D không được đề cập.",
+      "question_type_tag": "wh_where",
+      "evidence_quote": "Hi, I'm calling about the sedan I test-drove yesterday at your dealership.",
+      "paraphrase_pair": {
+        "original": "sedan I test-drove yesterday at your dealership",
+        "paraphrased": "At a car dealership"
+      },
+      "image_url": null
+    },
+    {
+      "id": "c2ce7836-7402-5e41-aecd-8bb24da8a19d",
+      "group_id": "0314e089-ab01-57cf-ae1b-06b8dad65434",
+      "question_number": 45,
+      "part": 3,
+      "question_text": "What problem with some e-mails does the man mention?",
+      "options": {
+        "A": "Confusion about the intended recipients",
+        "B": "A delay in message delivery",
+        "C": "An incorrectly typed word",
+        "D": "Lack of information"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "1. Dịch câu hỏi & đáp án: Người đàn ông đề cập đến vấn đề gì với các email? (A) Nhầm lẫn về người nhận dự kiến, (B) Sự chậm trễ trong việc gửi thư, (C) Từ gõ sai chính tả, (D) Thiếu thông tin.\n2. Phân tích dẫn chứng: Người đàn ông nói 'several important details were missing' (nhiều chi tiết quan trọng bị thiếu), tương đương với 'Lack of information'.\n3. Do đó, đáp án chính xác là (D).",
+      "question_type_tag": "detail_lookup",
+      "evidence_quote": "several important details were missing, like the financing options and the warranty terms.",
+      "paraphrase_pair": {
+        "original": "several important details were missing",
+        "paraphrased": "Lack of information"
+      },
+      "image_url": null
+    },
+    {
+      "id": "ff9ce8bd-00cc-5d99-bb09-8428acc850c2",
+      "group_id": "0314e089-ab01-57cf-ae1b-06b8dad65434",
+      "question_number": 46,
+      "part": 3,
+      "question_text": "What will the woman most likely do next?",
+      "options": {
+        "A": "Arrange a meeting",
+        "B": "Make a phone call",
+        "C": "Speak to her employees",
+        "D": "Review an invoice"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "1. Dịch câu hỏi & đáp án: Người phụ nữ có khả năng sẽ làm gì tiếp theo? (A) Sắp xếp một cuộc họp, (B) Gọi một cuộc điện thoại, (C) Nói chuyện với nhân viên của cô ấy, (D) Xem lại hóa đơn.\n2. Phân tích dẫn chứng: Người phụ nữ nói 'Let me give him a call right away...' (Để tôi gọi điện cho anh ấy ngay...). Cụm từ 'give someone a call' đồng nghĩa với 'Make a phone call'.\n3. Do đó, đáp án chính xác là (B).",
+      "question_type_tag": "instruction_action",
+      "evidence_quote": "Let me give him a call right away to get the latest paperwork",
+      "paraphrase_pair": {
+        "original": "give him a call",
+        "paraphrased": "Make a phone call"
+      },
+      "image_url": null
+    },
+    {
+      "id": "f11c6072-482b-51bf-b88e-5aa930f4fa14",
+      "group_id": "63021e47-40ac-55a5-9506-ca7af9406ad7",
+      "question_number": 47,
+      "part": 3,
+      "question_text": "What is the conversation mainly about?",
+      "options": {
+        "A": "A policy change",
+        "B": "A product launch",
+        "C": "Some customer feedback",
+        "D": "A scheduled maintenance visit"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "1. Dịch câu hỏi & đáp án: Cuộc trò chuyện chủ yếu về vấn đề gì? (A) Thay đổi chính sách, (B) Ra mắt sản phẩm, (C) Một số phản hồi của khách hàng, (D) Chuyến bảo trì theo lịch trình.\n2. Phân tích dẫn chứng: Người đàn ông mở đầu bằng câu hỏi về 'September release of our new model of mobile phone' (sự ra mắt mẫu điện thoại di động mới vào tháng Chín). Cụm từ 'release of our new model' được paraphrase thành 'A product launch'.\n3. Do đó, đáp án là (B).",
+      "question_type_tag": "detail_lookup",
+      "evidence_quote": "how are plans progressing for the September release of our new model of mobile phone?",
+      "paraphrase_pair": {
+        "original": "release of our new model of mobile phone",
+        "paraphrased": "A product launch"
+      },
+      "image_url": null
+    },
+    {
+      "id": "87a63472-8518-5aaf-b602-f69004a8c924",
+      "group_id": "63021e47-40ac-55a5-9506-ca7af9406ad7",
+      "question_number": 48,
+      "part": 3,
+      "question_text": "What does the woman say people at the company are currently working on?",
+      "options": {
+        "A": "Exploring publicity options",
+        "B": "Finding a new vendor",
+        "C": "Assembling a sales team",
+        "D": "Negotiating a monthly fee"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "1. Dịch câu hỏi & đáp án: Người phụ nữ nói mọi người ở công ty hiện đang làm gì? (A) Khám phá các phương án quảng bá, (B) Tìm nhà cung cấp mới, (C) Tập hợp đội ngũ bán hàng, (D) Thương lượng mức phí hàng tháng.\n2. Phân tích dẫn chứng: Người phụ nữ nói 'the marketing department is looking at advertising options and thinking about the best way to get maximum exposure in the media' (phòng tiếp thị đang xem xét các lựa chọn quảng cáo và nghĩ cách tiếp cận truyền thông tối đa). Cụm 'looking at advertising options' tương đương với 'Exploring publicity options'.\n3. Do đó, đáp án đúng là (A).",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "Right now, the marketing department is looking at advertising options and thinking about the best way to get maximum exposure in the media.",
+      "paraphrase_pair": {
+        "original": "looking at advertising options",
+        "paraphrased": "Exploring publicity options"
+      },
+      "image_url": null
+    },
+    {
+      "id": "34881eef-3b6f-5ce6-bec7-1db69cd7a285",
+      "group_id": "63021e47-40ac-55a5-9506-ca7af9406ad7",
+      "question_number": 49,
+      "part": 3,
+      "question_text": "Why is the man concerned?",
+      "options": {
+        "A": "Customers have complained.",
+        "B": "Price estimates are high.",
+        "C": "Some changes require approval.",
+        "D": "A plan may be delayed."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "1. Dịch câu hỏi & đáp án: Tại sao người đàn ông lại lo lắng? (A) Khách hàng đã phàn nàn, (B) Ước tính giá cả cao, (C) Một số thay đổi cần được phê duyệt, (D) Một kế hoạch có thể bị trì hoãn.\n2. Phân tích dẫn chứng: Người đàn ông nói 'I'm worried that'll affect our timeline' (Tôi lo rằng điều đó sẽ ảnh hưởng đến tiến độ của chúng ta). Việc ảnh hưởng tới tiến độ sản xuất đồng nghĩa với 'A plan may be delayed'.\n3. Do đó, chọn (D).",
+      "question_type_tag": "wh_why",
+      "evidence_quote": "you mentioned that the factory was at full capacity with other projects, and I'm worried that'll affect our timeline.",
+      "paraphrase_pair": {
+        "original": "affect our timeline",
+        "paraphrased": "A plan may be delayed"
+      },
+      "image_url": null
+    },
+    {
+      "id": "a913a0ac-ee1b-5f99-81e6-a4fd2c8eaf25",
+      "group_id": "35e241ae-f382-5bac-9d86-ed5cf957bcb9",
+      "question_number": 50,
+      "part": 3,
+      "question_text": "What are the speakers preparing for?",
+      "options": {
+        "A": "An interview",
+        "B": "A food delivery",
+        "C": "A special event",
+        "D": "An inspection"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "1. Dịch câu hỏi & đáp án: Các người nói đang chuẩn bị cho điều gì? (A) Một cuộc phỏng vấn, (B) Giao đồ ăn, (C) Một sự kiện đặc biệt, (D) Một cuộc thanh tra.\n2. Phân tích dẫn chứng: Người phụ nữ hỏi 'Is the restaurant almost ready for this afternoon's awards dinner?' (Nhà hàng đã sẵn sàng cho bữa tối trao giải chiều nay chưa?). Bữa tối trao giải (awards dinner) là một sự kiện đặc biệt (A special event).\n3. Do đó, chọn (C).",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "Is the restaurant almost ready for this afternoon's awards dinner?",
+      "paraphrase_pair": {
+        "original": "awards dinner",
+        "paraphrased": "A special event"
+      },
+      "image_url": null
+    },
+    {
+      "id": "720c8813-3444-52a5-b04f-d2a789258de1",
+      "group_id": "35e241ae-f382-5bac-9d86-ed5cf957bcb9",
+      "question_number": 51,
+      "part": 3,
+      "question_text": "What does the woman say will be delivered in an hour?",
+      "options": {
+        "A": "Some flower arrangements",
+        "B": "Some gifts for attendees",
+        "C": "Some audio equipment",
+        "D": "Some tables and chairs"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "1. Dịch câu hỏi & đáp án: Người phụ nữ nói cái gì sẽ được giao trong vòng một giờ nữa? (A) Một số lẵng hoa, (B) Quà tặng cho người tham dự, (C) Thiết bị âm thanh, (D) Một số bàn ghế.\n2. Phân tích dẫn chứng: Người đàn ông nói thiếu 'a few tables and chairs', sau đó người phụ nữ bảo đã liên hệ công ty cho thuê và 'they'll be delivering the furniture we need in an hour'. Ở đây 'furniture' ám chỉ 'tables and chairs'.\n3. Do đó, đáp án đúng là (D).",
+      "question_type_tag": "detail_lookup",
+      "evidence_quote": "I see that we're short a few tables and chairs. ... they'll be delivering the furniture we need in an hour.",
+      "paraphrase_pair": {
+        "original": "the furniture",
+        "paraphrased": "tables and chairs"
+      },
+      "image_url": null
+    },
+    {
+      "id": "25f5dd52-b393-5a9d-909a-e2897734a7ca",
+      "group_id": "35e241ae-f382-5bac-9d86-ed5cf957bcb9",
+      "question_number": 52,
+      "part": 3,
+      "question_text": "What will the speakers most likely do next?",
+      "options": {
+        "A": "Review a guest list",
+        "B": "Meet with a photographer",
+        "C": "Take a break",
+        "D": "Taste some food"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "1. Dịch câu hỏi & đáp án: Những người nói có khả năng sẽ làm gì tiếp theo? (A) Xem lại danh sách khách mời, (B) Gặp nhiếp ảnh gia, (C) Nghỉ giải lao, (D) Nếm thử thức ăn.\n2. Phân tích dẫn chứng: Người đàn ông hỏi 'Did you also look over the final guest list?' và người phụ nữ đề nghị 'Why don't we do that together now?'. Cụm 'look over' bằng nghĩa với 'review'.\n3. Do đó, đáp án đúng là (A).",
+      "question_type_tag": "instruction_action",
+      "evidence_quote": "Did you also look over the final guest list? ... Why don't we do that together now?",
+      "paraphrase_pair": {
+        "original": "look over the final guest list",
+        "paraphrased": "Review a guest list"
+      },
+      "image_url": null
+    },
+    {
+      "id": "1152ec65-9b27-5bc4-8e84-6ca0c75f949b",
+      "group_id": "9fb06283-e4b6-5405-aa95-f7d442aa006c",
+      "question_number": 53,
+      "part": 3,
+      "question_text": "What event are the speakers discussing?",
+      "options": {
+        "A": "A bank opening",
+        "B": "A contest",
+        "C": "A business conference",
+        "D": "A company anniversary"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "1. Dịch câu hỏi & đáp án: Các người nói đang thảo luận về sự kiện nào? (A) Khai trương ngân hàng, (B) Một cuộc thi, (C) Một hội nghị kinh doanh, (D) Kỷ niệm thành lập công ty.\n2. Phân tích dẫn chứng: Người đàn ông nói ngay câu đầu tiên: 'we have a problem with the business conference we're hosting next week'.\n3. Do đó, đáp án chính xác là (C).",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "Marcella, we have a problem with the business conference we're hosting next week.",
+      "paraphrase_pair": {
+        "original": "business conference",
+        "paraphrased": "A business conference"
+      },
+      "image_url": null
+    },
+    {
+      "id": "2bb4ed67-3fed-5e4d-a074-1b04d11ed562",
+      "group_id": "9fb06283-e4b6-5405-aa95-f7d442aa006c",
+      "question_number": 54,
+      "part": 3,
+      "question_text": "What does the man mean when he says, \"there's a lot of damage\"?",
+      "options": {
+        "A": "He finally fully understands a problem.",
+        "B": "The woman should expect a bill in the mail.",
+        "C": "The woman's assumption is incorrect.",
+        "D": "A schedule needs to be adjusted."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "1. Dịch câu hỏi & đáp án: Người đàn ông có ý gì khi nói \"there's a lot of damage\" (Có rất nhiều thiệt hại)? (A) Cuối cùng anh ấy đã hiểu rõ vấn đề, (B) Người phụ nữ nên chờ một hóa đơn qua thư, (C) Giả định của người phụ nữ là không chính xác, (D) Cần phải điều chỉnh lại lịch trình.\n2. Phân tích ngữ cảnh câu nói: Người phụ nữ hỏi phỏng đoán rằng: 'Nhưng các phòng sẽ được sửa chữa kịp cho hội nghị của chúng ta, đúng không?'. Người đàn ông đáp lại 'They said there's a lot of damage' mang hàm ý ngầm là mức độ hư hỏng nặng nên không thể sửa kịp như người phụ nữ kỳ vọng/phỏng đoán. Tức là giả định của cô ấy không đúng.\n3. Do đó, đáp án chính xác là (C).",
+      "question_type_tag": "intent",
+      "evidence_quote": "Woman: But the rooms will be repaired in time for our conference, right? / Man: They said there's a lot of damage.",
+      "paraphrase_pair": null,
+      "image_url": null
+    },
+    {
+      "id": "635bd31f-55cd-532a-91fd-c0155e685877",
+      "group_id": "9fb06283-e4b6-5405-aa95-f7d442aa006c",
+      "question_number": 55,
+      "part": 3,
+      "question_text": "What does the woman recommend?",
+      "options": {
+        "A": "Using an outdoor area",
+        "B": "Arranging technical support",
+        "C": "Confirming a catering menu",
+        "D": "Interviewing some job applicants"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "1. Dịch câu hỏi & đáp án: Người phụ nữ gợi ý/đề xuất điều gì? (A) Sử dụng khu vực ngoài trời, (B) Sắp xếp hỗ trợ kỹ thuật, (C) Xác nhận thực đơn ăn uống, (D) Phỏng vấn một số ứng viên xin việc.\n2. Phân tích dẫn chứng: Người phụ nữ nói: 'Well, the weather's supposed to be nice, so we could host some of the seminars outdoors.' (Thời tiết dự kiến sẽ đẹp nên chúng ta có thể tổ chức một số buổi hội thảo ngoài trời). Cụm 'host ... outdoors' tương đương với 'Using an outdoor area'.\n3. Do đó, đáp án là (A).",
+      "question_type_tag": "detail_lookup",
+      "evidence_quote": "Well, the weather's supposed to be nice, so we could host some of the seminars outdoors.",
+      "paraphrase_pair": {
+        "original": "host some of the seminars outdoors",
+        "paraphrased": "Using an outdoor area"
+      },
+      "image_url": null
+    },
+    {
+      "id": "28f56dca-9770-5da7-bae9-26d48a15460b",
+      "group_id": "1ec3f7ac-2678-5018-9d3e-ecbc9f4c2047",
+      "question_number": 56,
+      "part": 3,
+      "question_text": "What industry do the speakers most likely work in?",
+      "options": {
+        "A": "Medicine",
+        "B": "Music",
+        "C": "Publishing",
+        "D": "Finance"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "1. Dịch câu hỏi: Các người nói có khả năng cao làm việc trong ngành nào nhất?\n- (A) Y tế / Y học\n- (B) Âm nhạc\n- (C) Xuất bản\n- (D) Tài chính\n\n2. Phân tích dẫn chứng: Francesca mở đầu cuộc trò chuyện bằng câu hỏi: 'Marion, have you had a chance to test the new patient record software yet?' (Marion, bạn đã có cơ hội dùng thử phần mềm hồ sơ bệnh nhân mới chưa?). Trong đoạn hội thoại tiếp theo, các từ khóa như 'clinics' (phòng khám), 'patient health records' (hồ sơ sức khỏe bệnh nhân) xuất hiện liên tục. Do đó, người nói làm việc trong lĩnh vực y tế (Medicine).\n\n3. Bẫy & Lời khuyên: Các từ vựng thuộc chủ đề y tế thường gặp trong Part 3 gồm: patient (bệnh nhân), record (hồ sơ), clinic (phòng khám), doctor/nurse (bác sĩ/y tá).",
+      "question_type_tag": "Overview - Field/Occupation",
+      "evidence_quote": "Marion, have you had a chance to test the new patient record software yet?",
+      "paraphrase_pair": {
+        "original": "patient record software / clinics / patient health records",
+        "paraphrased": "Medicine"
+      },
+      "image_url": null
+    },
+    {
+      "id": "6552ee65-e4be-5504-a4dd-2809c3dcc576",
+      "group_id": "1ec3f7ac-2678-5018-9d3e-ecbc9f4c2047",
+      "question_number": 57,
+      "part": 3,
+      "question_text": "According to the man, why has a software program become popular?",
+      "options": {
+        "A": "It is less expensive than similar products.",
+        "B": "It makes information more accessible.",
+        "C": "It reduces environmental impact.",
+        "D": "It comes with customer support."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "1. Dịch câu hỏi: Theo người đàn ông, tại sao một chương trình phần mềm lại trở nên phổ biến?\n- (A) Nó rẻ hơn so với các sản phẩm tương tự.\n- (B) Nó làm cho thông tin dễ tiếp cận/truy cập hơn.\n- (C) Nó làm giảm tác động đến môi trường.\n- (D) Nó đi kèm với dịch vụ hỗ trợ khách hàng.\n\n2. Phân tích dẫn chứng: Người đàn ông nói: '...it makes patient health records and test results much easier to access from any department or device...' (nó giúp hồ sơ sức khỏe và kết quả xét nghiệm của bệnh nhân dễ truy cập hơn rất nhiều từ bất kỳ phòng ban hoặc thiết bị nào). Cụm 'much easier to access' được diễn đạt lại (paraphrase) thành 'more accessible', và 'patient health records and test results' chính là 'information'.\n\n3. Lựa chọn đáp án đúng: (B) là đáp án hoàn toàn chính xác.",
+      "question_type_tag": "Detail - Reason",
+      "evidence_quote": "Well, according to industry reports, it makes patient health records and test results much easier to access from any department or device, which saves a lot of time.",
+      "paraphrase_pair": {
+        "original": "makes patient health records and test results much easier to access",
+        "paraphrased": "makes information more accessible"
+      },
+      "image_url": null
+    },
+    {
+      "id": "232ba345-2311-5f97-a22a-4ae5b0672baf",
+      "group_id": "1ec3f7ac-2678-5018-9d3e-ecbc9f4c2047",
+      "question_number": 58,
+      "part": 3,
+      "question_text": "What might Marion still need to do?",
+      "options": {
+        "A": "Contact some service providers",
+        "B": "Sign a release form",
+        "C": "Check some financial information",
+        "D": "Repair some equipment"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "1. Dịch câu hỏi: Marion có thể vẫn cần phải làm gì?\n- (A) Liên hệ với một số nhà cung cấp dịch vụ\n- (B) Ký vào mẫu đơn miễn trừ/phát hành\n- (C) Kiểm tra một số thông tin tài chính\n- (D) Sửa chữa một số thiết bị\n\n2. Phân tích dẫn chứng: Francesca đề nghị Marion: 'Marion, would you be able to reach out to some IT service providers to compare their setup and maintenance costs?' và Marion đồng ý: 'Sure, I'll get in touch with a few companies this afternoon...'. Cụm 'reach out to' / 'get in touch with' đồng nghĩa với 'contact'. Do đó, Marion sẽ cần liên hệ các nhà cung cấp dịch vụ.\n\n3. Lựa chọn đáp án đúng: (A).",
+      "question_type_tag": "Action / Next Step",
+      "evidence_quote": "Marion, would you be able to reach out to some IT service providers to compare their setup and maintenance costs?",
+      "paraphrase_pair": {
+        "original": "reach out to some IT service providers / get in touch with a few companies",
+        "paraphrased": "Contact some service providers"
+      },
+      "image_url": null
+    },
+    {
+      "id": "4881f24d-c44e-58a0-8d8d-ec5a846e0e7d",
+      "group_id": "c804acfa-6980-5b86-9d70-9860c6e95095",
+      "question_number": 59,
+      "part": 3,
+      "question_text": "What are the speakers discussing?",
+      "options": {
+        "A": "Proposing a business merger",
+        "B": "Relocating a company's headquarters",
+        "C": "Developing additional products",
+        "D": "Hiring more employees"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dịch câu hỏi: Các diễn giả đang thảo luận về điều gì?\nCác lựa chọn:\nA. Đề xuất sáp nhập kinh doanh\nB. Di dời trụ sở công ty\nC. Phát triển các sản phẩm bổ sung\nD. Thuê thêm nhân viên\n\nGiải thích: Người phụ nữ nói \"We've decided to sell fruit and nut bars, so we're developing different types of snack bars.\" (Chúng ta đã quyết định bán các loại thanh trái cây và hạt, vì vậy chúng ta đang phát triển các loại thanh ăn vặt khác nhau.) Điều này cho thấy họ đang trong quá trình tạo ra các sản phẩm mới, tức là phát triển các sản phẩm bổ sung. Do đó, đáp án C là chính xác.\n\nPhân tích bẫy:\nA. Không có thông tin nào về việc sáp nhập kinh doanh.\nB. Không có thông tin nào về việc di dời trụ sở.\nD. Mặc dù có thể cần thêm nhân viên nếu sản phẩm thành công, nhưng trọng tâm chính của cuộc thảo luận là về việc phát triển sản phẩm.",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "We've decided to sell fruit and nut bars, so we're developing different types of snack bars.",
+      "paraphrase_pair": {
+        "original": "developing different types of snack bars",
+        "paraphrased": "Developing additional products"
+      },
+      "image_url": null
+    },
+    {
+      "id": "0114927a-d1e0-5d52-baeb-57abcd7bbc71",
+      "group_id": "c804acfa-6980-5b86-9d70-9860c6e95095",
+      "question_number": 60,
+      "part": 3,
+      "question_text": "What challenge does Stan mention?",
+      "options": {
+        "A": "A profit margin will decrease.",
+        "B": "Additional equipment will be needed.",
+        "C": "There are not enough job applicants.",
+        "D": "There are delays in production."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch câu hỏi: Stan đề cập đến thách thức nào?\nCác lựa chọn:\nA. Biên lợi nhuận sẽ giảm.\nB. Sẽ cần thêm thiết bị.\nC. Không có đủ ứng viên xin việc.\nD. Có sự chậm trễ trong sản xuất.\n\nGiải thích: Người đàn ông (Stan) nói \"to prevent contamination between the two production areas, separate equipment will be needed.\" (để ngăn ngừa ô nhiễm giữa hai khu vực sản xuất, sẽ cần có thiết bị riêng biệt.) Điều này trực tiếp chỉ ra rằng cần có thêm thiết bị. Do đó, đáp án B là chính xác.\n\nPhân tích bẫy:\nA, C, D. Không có thông tin nào trong đoạn hội thoại đề cập đến việc giảm biên lợi nhuận, thiếu ứng viên hay chậm trễ sản xuất.",
+      "question_type_tag": "detail_lookup",
+      "evidence_quote": "to prevent contamination between the two production areas, separate equipment will be needed.",
+      "paraphrase_pair": {
+        "original": "separate equipment will be needed",
+        "paraphrased": "Additional equipment will be needed"
+      },
+      "image_url": null
+    },
+    {
+      "id": "02e941ca-7639-5ea5-8648-f002d642d9f5",
+      "group_id": "c804acfa-6980-5b86-9d70-9860c6e95095",
+      "question_number": 61,
+      "part": 3,
+      "question_text": "What does Pedro say he will do?",
+      "options": {
+        "A": "Contact a facility manager",
+        "B": "Adjust a budget",
+        "C": "Change a work schedule",
+        "D": "Research a product"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch câu hỏi: Pedro nói anh ấy sẽ làm gì?\nCác lựa chọn:\nA. Liên hệ với quản lý cơ sở\nB. Điều chỉnh ngân sách\nC. Thay đổi lịch làm việc\nD. Nghiên cứu sản phẩm\n\nGiải thích: Người đàn ông (Pedro) nói \"But I'll need to check with the facility manager.\" (Nhưng tôi sẽ cần kiểm tra với quản lý cơ sở.) Điều này trực tiếp chỉ ra rằng anh ấy sẽ liên hệ với quản lý cơ sở. Do đó, đáp án A là chính xác.\n\nPhân tích bẫy:\nB, C, D. Không có thông tin nào trong đoạn hội thoại đề cập đến việc điều chỉnh ngân sách, thay đổi lịch làm việc hay nghiên cứu sản phẩm.",
+      "question_type_tag": "instruction_action",
+      "evidence_quote": "But I'll need to check with the facility manager.",
+      "paraphrase_pair": {
+        "original": "check with the facility manager",
+        "paraphrased": "Contact a facility manager"
+      },
+      "image_url": null
+    },
+    {
+      "id": "a8b67140-1211-5886-b485-90fce0d606fa",
+      "group_id": "4f7b24b8-08c2-5948-998a-c6782915b108",
+      "question_number": 62,
+      "part": 3,
+      "question_text": "According to the man, why is today's Sea-Ride Special tour popular?",
+      "options": {
+        "A": "It offers a chance to see migrating birds.",
+        "B": "Water conditions are likely to be favorable.",
+        "C": "A guest chef is preparing lunch.",
+        "D": "Someone special will be guiding the tour."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch câu hỏi: Theo người đàn ông, tại sao chuyến tham quan đặc biệt Sea-Ride hôm nay lại phổ biến?\nCác lựa chọn:\nA. Nó mang đến cơ hội nhìn thấy các loài chim di cư.\nB. Điều kiện nước có thể thuận lợi.\nC. Một đầu bếp khách mời đang chuẩn bị bữa trưa.\nD. Một người đặc biệt sẽ hướng dẫn chuyến tham quan.\n\nGiải thích: Người đàn ông nói \"It's a really popular tour this time of year because the penguins are migrating through the area.\" (Đây là một chuyến tham quan rất phổ biến vào thời điểm này trong năm vì chim cánh cụt đang di cư qua khu vực này.) Chim cánh cụt là một loài chim, vì vậy đáp án A là chính xác.\n\nPhân tích bẫy:\nB, C, D. Không có thông tin nào trong đoạn hội thoại đề cập đến điều kiện nước, đầu bếp khách mời hay người hướng dẫn đặc biệt.",
+      "question_type_tag": "wh_why",
+      "evidence_quote": "It's a really popular tour this time of year because the penguins are migrating through the area.",
+      "paraphrase_pair": {
+        "original": "the penguins are migrating through the area",
+        "paraphrased": "It offers a chance to see migrating birds"
+      },
+      "image_url": null
+    },
+    {
+      "id": "58ce3355-1de3-56f4-bbf4-616360c5a8e4",
+      "group_id": "4f7b24b8-08c2-5948-998a-c6782915b108",
+      "question_number": 63,
+      "part": 3,
+      "question_text": "Look at the graphic. What time will the woman depart on a tour?",
+      "options": {
+        "A": "At 9 A.M.",
+        "B": "At 10 A.M.",
+        "C": "At 11 A.M.",
+        "D": "At 12 P.M."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch câu hỏi: Nhìn vào biểu đồ. Người phụ nữ sẽ khởi hành chuyến tham quan vào lúc mấy giờ?\nCác lựa chọn:\nA. 9 giờ sáng\nB. 10 giờ sáng\nC. 11 giờ sáng\nD. 12 giờ trưa\n\nGiải thích: Người phụ nữ ban đầu muốn tham gia chuyến Sea-Ride Special hôm nay nhưng đã hết vé. Người đàn ông sau đó nói \"Well, the Island Exploration tour still has a couple of spots left.\" (À, chuyến tham quan Khám phá Đảo vẫn còn vài chỗ trống.) Người phụ nữ đồng ý tham gia chuyến này. Nhìn vào biểu đồ, chuyến \"Island Exploration\" được lên lịch vào \"12 P.M.\" (12 giờ trưa). Do đó, đáp án D là chính xác.\n\nPhân tích bẫy:\nA, B, C. Các lựa chọn này là các giờ khác trên biểu đồ, nhưng không phải là chuyến mà người phụ nữ sẽ tham gia.",
+      "question_type_tag": "graphic",
+      "evidence_quote": "Well, the Island Exploration tour still has a couple of spots left.",
+      "paraphrase_pair": null,
+      "image_url": "/images/test1/part3_q63.png"
+    },
+    {
+      "id": "d72568c0-e975-5d7d-ba47-c4030fbe047e",
+      "group_id": "4f7b24b8-08c2-5948-998a-c6782915b108",
+      "question_number": 64,
+      "part": 3,
+      "question_text": "What will the woman most likely do next?",
+      "options": {
+        "A": "Return to her hotel",
+        "B": "Visit a café",
+        "C": "Call a friend",
+        "D": "Store her bags in a locker"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch câu hỏi: Người phụ nữ có khả năng cao nhất sẽ làm gì tiếp theo?\nCác lựa chọn:\nA. Quay về khách sạn của cô ấy\nB. Ghé thăm một quán cà phê\nC. Gọi điện cho một người bạn\nD. Cất túi xách của cô ấy vào tủ khóa\n\nGiải thích: Người phụ nữ nói \"Great! And that'll give me time to get something to eat before it starts. I see there's a coffee shop just down the street.\" (Tuyệt vời! Và điều đó sẽ cho tôi thời gian để ăn gì đó trước khi chuyến đi bắt đầu. Tôi thấy có một quán cà phê ngay dưới phố.) Điều này ngụ ý rằng cô ấy sẽ đến quán cà phê để ăn trước khi chuyến tham quan bắt đầu. Do đó, đáp án B là chính xác.\n\nPhân tích bẫy:\nD. Mặc dù người đàn ông có đề cập đến tủ khóa, nhưng người phụ nữ không nói rõ cô ấy sẽ sử dụng chúng ngay lập tức. Việc đi ăn ở quán cà phê được đề cập rõ ràng hơn là hành động tiếp theo.",
+      "question_type_tag": "inference",
+      "evidence_quote": "Great! And that'll give me time to get something to eat before it starts. I see there's a coffee shop just down the street.",
+      "paraphrase_pair": {
+        "original": "I see there's a coffee shop just down the street",
+        "paraphrased": "Visit a café"
+      },
+      "image_url": null
+    },
+    {
+      "id": "724195d2-0037-595e-888d-85f0aaefa5cb",
+      "group_id": "ac553024-6e13-5efd-b0ba-4b5adcb9a706",
+      "question_number": 65,
+      "part": 3,
+      "question_text": "Why does the woman apologize?",
+      "options": {
+        "A": "A conference session is full.",
+        "B": "An elevator is not working.",
+        "C": "A workshop has changed locations.",
+        "D": "Parking is not free."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch câu hỏi: Tại sao người phụ nữ xin lỗi?\nCác lựa chọn:\nA. Một phiên hội nghị đã đầy.\nB. Thang máy không hoạt động.\nC. Một buổi hội thảo đã thay đổi địa điểm.\nD. Bãi đậu xe không miễn phí.\n\nGiải thích: Người đàn ông hỏi \"is parking free for conference attendees?\" (việc đậu xe có miễn phí cho những người tham dự hội nghị không?). Người phụ nữ trả lời \"No. I'm sorry. We don't provide any reimbursements for parking.\" (Không. Tôi xin lỗi. Chúng tôi không hoàn trả bất kỳ chi phí đậu xe nào.) Lời xin lỗi của cô ấy trực tiếp liên quan đến việc bãi đậu xe không miễn phí. Do đó, đáp án D là chính xác.\n\nPhân tích bẫy:\nA, B, C. Không có thông tin nào trong đoạn hội thoại đề cập đến việc phiên hội nghị đầy, thang máy hỏng hay buổi hội thảo thay đổi địa điểm.",
+      "question_type_tag": "wh_why",
+      "evidence_quote": "No. I'm sorry. We don't provide any reimbursements for parking.",
+      "paraphrase_pair": {
+        "original": "We don't provide any reimbursements for parking",
+        "paraphrased": "Parking is not free"
+      },
+      "image_url": null
+    },
+    {
+      "id": "70c12104-e935-59d6-9f68-127011349a5d",
+      "group_id": "ac553024-6e13-5efd-b0ba-4b5adcb9a706",
+      "question_number": 66,
+      "part": 3,
+      "question_text": "Look at the graphic. Which location does the woman recommend?",
+      "options": {
+        "A": "Area 1",
+        "B": "Area 2",
+        "C": "Area 3",
+        "D": "Area 4"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dịch câu hỏi: Nhìn vào biểu đồ. Người phụ nữ giới thiệu địa điểm nào?\nCác lựa chọn:\nA. Khu vực 1\nB. Khu vực 2\nC. Khu vực 3\nD. Khu vực 4\n\nGiải thích: Người phụ nữ nói \"there's a cheaper parking area at Seventh Avenue and Vine Street.\" (có một khu vực đậu xe rẻ hơn ở Đại lộ Seventh và Phố Vine.) Nhìn vào biểu đồ, \"Seventh Avenue\" giao với \"Vine Street\" tại \"Area 3\". Do đó, đáp án C là chính xác.\n\nPhân tích bẫy:\nA, B, D. Các khu vực khác không nằm ở giao lộ được người phụ nữ đề cập.",
+      "question_type_tag": "graphic",
+      "evidence_quote": "there's a cheaper parking area at Seventh Avenue and Vine Street. It's about a block away.",
+      "paraphrase_pair": null,
+      "image_url": "/images/test1/part3_q66.png"
+    },
+    {
+      "id": "e5e615f8-a191-5914-954c-6b5d15592238",
+      "group_id": "ac553024-6e13-5efd-b0ba-4b5adcb9a706",
+      "question_number": 67,
+      "part": 3,
+      "question_text": "Why is the man in a hurry?",
+      "options": {
+        "A": "A workshop is starting soon.",
+        "B": "A parking pass is about to expire.",
+        "C": "A shuttle is running late.",
+        "D": "A friend is waiting outside."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch câu hỏi: Tại sao người đàn ông lại vội vã?\nCác lựa chọn:\nA. Một buổi hội thảo sắp bắt đầu.\nB. Thẻ đậu xe sắp hết hạn.\nC. Xe đưa đón bị trễ.\nD. Một người bạn đang đợi bên ngoài.\n\nGiải thích: Người đàn ông nói \"I'm scheduled to attend the strength-training seminar that starts in fifteen minutes.\" (Tôi có lịch tham dự buổi hội thảo tập luyện sức mạnh sẽ bắt đầu trong mười lăm phút nữa.) Điều này cho thấy anh ấy đang vội vì một buổi hội thảo sắp bắt đầu. Do đó, đáp án A là chính xác.\n\nPhân tích bẫy:\nB, C, D. Không có thông tin nào trong đoạn hội thoại đề cập đến thẻ đậu xe hết hạn, xe đưa đón trễ hay bạn bè đang đợi.",
+      "question_type_tag": "wh_why",
+      "evidence_quote": "I'm scheduled to attend the strength-training seminar that starts in fifteen minutes.",
+      "paraphrase_pair": {
+        "original": "the strength-training seminar that starts in fifteen minutes",
+        "paraphrased": "A workshop is starting soon"
+      },
+      "image_url": null
+    },
+    {
+      "id": "c2ac05b5-bdcf-5581-821b-6ba28933f348",
+      "group_id": "3395059d-1374-574c-ab1b-f319e8524779",
+      "question_number": 68,
+      "part": 3,
+      "question_text": "Why does the woman call?",
+      "options": {
+        "A": "She wants to request a refund.",
+        "B": "She is unable to place an order online.",
+        "C": "She wants to extend a deadline.",
+        "D": "She is unhappy with a product purchased recently."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch câu hỏi: Tại sao người phụ nữ gọi điện?\nCác lựa chọn:\nA. Cô ấy muốn yêu cầu hoàn tiền.\nB. Cô ấy không thể đặt hàng trực tuyến.\nC. Cô ấy muốn gia hạn thời hạn.\nD. Cô ấy không hài lòng với một sản phẩm đã mua gần đây.\n\nGiải thích: Người phụ nữ nói \"I've been trying to order a product on your Web site, but every time I get to the checkout screen, everything freezes, and I can't place the order.\" (Tôi đã cố gắng đặt hàng một sản phẩm trên trang web của anh, nhưng mỗi lần tôi đến màn hình thanh toán, mọi thứ đều bị đơ, và tôi không thể đặt hàng được.) Điều này trực tiếp chỉ ra rằng cô ấy không thể đặt hàng trực tuyến. Do đó, đáp án B là chính xác.\n\nPhân tích bẫy:\nA, C, D. Không có thông tin nào trong đoạn hội thoại đề cập đến việc yêu cầu hoàn tiền, gia hạn thời hạn hay không hài lòng với sản phẩm đã mua.",
+      "question_type_tag": "wh_why",
+      "evidence_quote": "I've been trying to order a product on your Web site, but every time I get to the checkout screen, everything freezes, and I can't place the order.",
+      "paraphrase_pair": {
+        "original": "I can't place the order",
+        "paraphrased": "She is unable to place an order online"
+      },
+      "image_url": null
+    },
+    {
+      "id": "1d4d06ab-cf11-5397-be42-c436bd780b74",
+      "group_id": "3395059d-1374-574c-ab1b-f319e8524779",
+      "question_number": 69,
+      "part": 3,
+      "question_text": "Look at the graphic. What is the price of the item the woman wants to buy?",
+      "options": {
+        "A": "$169.99",
+        "B": "$149.99",
+        "C": "$129.99",
+        "D": "$179.99"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch câu hỏi: Nhìn vào biểu đồ. Giá của mặt hàng mà người phụ nữ muốn mua là bao nhiêu?\nCác lựa chọn:\nA. $169.99\nB. $149.99\nC. $129.99\nD. $179.99\n\nGiải thích: Người phụ nữ nói rằng cô ấy muốn mua \"The Enzo 5000 scanner.\" (Máy quét Enzo 5000.) Nhìn vào biểu đồ, \"Enzo 5000\" có giá \"$179.99\". Do đó, đáp án D là chính xác.\n\nPhân tích bẫy:\nA, B, C. Các lựa chọn này là giá của các sản phẩm khác trên biểu đồ.",
+      "question_type_tag": "graphic",
+      "evidence_quote": "The Enzo 5000 scanner.",
+      "paraphrase_pair": null,
+      "image_url": "/images/test1/part3_q69.png"
+    },
+    {
+      "id": "ec1e4800-ccb2-533d-88e3-9faad46cef1a",
+      "group_id": "3395059d-1374-574c-ab1b-f319e8524779",
+      "question_number": 70,
+      "part": 3,
+      "question_text": "What will the man most likely do tomorrow?",
+      "options": {
+        "A": "Update a Web site",
+        "B": "Search a storage area",
+        "C": "Contact another store location",
+        "D": "Check an incoming shipment"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch câu hỏi: Người đàn ông có khả năng cao nhất sẽ làm gì vào ngày mai?\nCác lựa chọn:\nA. Cập nhật trang web\nB. Tìm kiếm khu vực lưu trữ\nC. Liên hệ với một địa điểm cửa hàng khác\nD. Kiểm tra lô hàng đến\n\nGiải thích: Người đàn ông nói \"Well, we're expecting a shipment tomorrow. If it includes the model you're looking for, I can reserve it for you.\" (À, chúng tôi dự kiến có một lô hàng vào ngày mai. Nếu có mẫu máy quý khách đang tìm, tôi có thể đặt trước cho quý khách.) Điều này ngụ ý rằng anh ấy sẽ kiểm tra lô hàng đến vào ngày mai để xem liệu máy quét Enzo 5000 có trong đó không. Do đó, đáp án D là chính xác.\n\nPhân tích bẫy:\nA, B, C. Không có thông tin nào trong đoạn hội thoại đề cập đến việc cập nhật trang web, tìm kiếm khu vực lưu trữ hay liên hệ với địa điểm cửa hàng khác.",
+      "question_type_tag": "inference",
+      "evidence_quote": "Well, we're expecting a shipment tomorrow. If it includes the model you're looking for, I can reserve it for you.",
+      "paraphrase_pair": {
+        "original": "we're expecting a shipment tomorrow",
+        "paraphrased": "Check an incoming shipment"
+      },
+      "image_url": null
+    }
+  ]
+}

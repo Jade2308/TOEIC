@@ -1,0 +1,1704 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 2",
+    "part": 2,
+    "total_groups": 25,
+    "total_questions": 25
+  },
+  "question_groups": [
+    {
+      "id": "a3013c8b-9725-5f91-b9c3-ac5fdf096658",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q7.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q7-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 1.0,
+          "text_en": "7.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q7-2",
+          "speaker": "Speaker",
+          "start_time": 1.0,
+          "end_time": 7.0,
+          "text_en": "Who's responsible for hiring at our fitness center?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q7-3",
+          "speaker": "Speaker",
+          "start_time": 7.0,
+          "end_time": 8.0,
+          "text_en": "A.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q7-4",
+          "speaker": "Speaker",
+          "start_time": 8.0,
+          "end_time": 11.0,
+          "text_en": "Mr. Gonzales is going to get a membership.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q7-5",
+          "speaker": "Speaker",
+          "start_time": 11.0,
+          "end_time": 12.0,
+          "text_en": "B.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q7-6",
+          "speaker": "Speaker",
+          "start_time": 12.0,
+          "end_time": 15.0,
+          "text_en": "I forgot to sign in at reception.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q7-7",
+          "speaker": "Speaker",
+          "start_time": 15.0,
+          "end_time": 16.0,
+          "text_en": "C.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q7-8",
+          "speaker": "Speaker",
+          "start_time": 16.0,
+          "end_time": 18.0,
+          "text_en": "Mr. Lin and Ms. Wysar.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "b9a30cc0-baba-50b8-8b91-3e1ce8d339e6",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q8.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q8-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 6.0,
+          "text_en": "Number 8. Where do you usually purchase office supplies?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q8-2",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 9.0,
+          "text_en": "A. We put them in the hallway cabinets.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q8-3",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 13.0,
+          "text_en": "B. At the store on Maple Avenue.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q8-4",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 17.0,
+          "text_en": "C. A manager's approval.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "86e28220-4358-5cc9-a507-7dd5c6348f1c",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q9.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q9-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 1.6,
+          "text_en": "Number 9.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q9-2",
+          "speaker": "Speaker",
+          "start_time": 1.6,
+          "end_time": 4.7,
+          "text_en": "What time does Mr. Park usually leave?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q9-3",
+          "speaker": "Speaker",
+          "start_time": 4.7,
+          "end_time": 8.5,
+          "text_en": "A. Around 6 o'clock in the evening.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q9-4",
+          "speaker": "Speaker",
+          "start_time": 8.5,
+          "end_time": 11.8,
+          "text_en": "B. He left everything we need.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q9-5",
+          "speaker": "Speaker",
+          "start_time": 11.8,
+          "end_time": 15.8,
+          "text_en": "C. We've had many interns over the years.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "a9d61366-30e9-576e-9dcf-9a361aab97b9",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q10.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q10-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Number 10. Do you want to present your research to the marketing team?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q10-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 8.0,
+          "text_en": "A. That's what I've heard as well.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q10-3",
+          "speaker": "Speaker",
+          "start_time": 8.0,
+          "end_time": 12.0,
+          "text_en": "B. If we can find the time for it?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q10-4",
+          "speaker": "Speaker",
+          "start_time": 12.0,
+          "end_time": 16.0,
+          "text_en": "C. Yes, I received the gift.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "36760025-601a-573e-9569-2ab474da9439",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q11.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q11-1",
+          "speaker": "Speaker",
+          "start_time": 0.48,
+          "end_time": 1.44,
+          "text_en": "Number 11",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q11-2",
+          "speaker": "Speaker",
+          "start_time": 2.32,
+          "end_time": 4.96,
+          "text_en": "Our company picnic is on Friday, isn't it?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q11-3",
+          "speaker": "Speaker",
+          "start_time": 5.76,
+          "end_time": 15.92,
+          "text_en": "A. Those times are both booked. B. Only if you can find them easily. C. Right in two days.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "f0369716-255f-5280-9748-7b3a27725dc3",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q12.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q12-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 2.0,
+          "text_en": "Number 12.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q12-2",
+          "speaker": "Speaker",
+          "start_time": 2.0,
+          "end_time": 5.0,
+          "text_en": "Isn't the bus supposed to stop here?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q12-3",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 6.0,
+          "text_en": "A.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q12-4",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 8.0,
+          "text_en": "Yes, according to the schedule.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q12-5",
+          "speaker": "Speaker",
+          "start_time": 8.0,
+          "end_time": 9.0,
+          "text_en": "B.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q12-6",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 11.0,
+          "text_en": "I'm on my way now.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q12-7",
+          "speaker": "Speaker",
+          "start_time": 11.0,
+          "end_time": 12.0,
+          "text_en": "C.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q12-8",
+          "speaker": "Speaker",
+          "start_time": 12.0,
+          "end_time": 15.0,
+          "text_en": "It listed several potential clients.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "45ad0a2a-f2bb-5b04-84f1-08b6acf14f50",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q13.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q13-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "We should fill this order quickly, shouldn't we?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q13-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 6.0,
+          "text_en": "A.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q13-3",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 8.0,
+          "text_en": "No, I haven't yet.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q13-4",
+          "speaker": "Speaker",
+          "start_time": 8.0,
+          "end_time": 9.0,
+          "text_en": "B.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q13-5",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 12.0,
+          "text_en": "Yes, it's for an important kind.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q13-6",
+          "speaker": "Speaker",
+          "start_time": 12.0,
+          "end_time": 13.0,
+          "text_en": "C.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q13-7",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 16.0,
+          "text_en": "Try using this key.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "fcffae61-d162-527d-a825-e84e1404739e",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q14.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q14-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 2.0,
+          "text_en": "Number 14.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q14-2",
+          "speaker": "Speaker",
+          "start_time": 2.0,
+          "end_time": 4.0,
+          "text_en": "How do you like your new job?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q14-3",
+          "speaker": "Speaker",
+          "start_time": 4.0,
+          "end_time": 8.0,
+          "text_en": "A. I can work from home quite often.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q14-4",
+          "speaker": "Speaker",
+          "start_time": 8.0,
+          "end_time": 12.0,
+          "text_en": "B. A career in electrical engineering.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q14-5",
+          "speaker": "Speaker",
+          "start_time": 12.0,
+          "end_time": 16.0,
+          "text_en": "C. My sister helped me apply.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "f65a3af2-eb6b-5280-92a3-205e5103cf02",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q15.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q15-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Number 15. Let's go to the cafeteria for lunch today.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q15-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 9.0,
+          "text_en": "A. There should be one in the filing cabinet.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q15-3",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 13.0,
+          "text_en": "B. Which local restaurant do you prefer?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q15-4",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 17.0,
+          "text_en": "C. I don't think I can take a break.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "6da11abe-4460-5f78-836c-32fff1cd06b5",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q16.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q16-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "16. When will we hire the new interns?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q16-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 9.0,
+          "text_en": "A. Mr. Wyeth is handling that.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q16-3",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 13.0,
+          "text_en": "B. With more time to spare than usual.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q16-4",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 17.0,
+          "text_en": "C. The highest available salary.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "51ae6ca2-ba34-5121-bbec-086ba4ad4884",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q17.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q17-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Number 17. How often should I mail these statements?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q17-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 9.0,
+          "text_en": "A. Yes, you can buy one online.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q17-3",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 13.0,
+          "text_en": "B. The post office on Grant Street.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q17-4",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 16.0,
+          "text_en": "C. We send them out once a month.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "0436caf0-29b3-5ad0-aeb6-636332425112",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q18.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q18-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Number 18. Why did you put that food in the freezer?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q18-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 16.0,
+          "text_en": "A. It's not working well currently. B. I meant to put it in the refrigerator. C. Let's start making dinner soon.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "87c194b7-a79a-5cfc-872b-152ca8b875f0",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q19.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q19-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 4.88,
+          "text_en": "Number 19. Could you print the agenda for the meeting?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q19-2",
+          "speaker": "Speaker",
+          "start_time": 4.88,
+          "end_time": 11.52,
+          "text_en": "A. It's already on your desk. B. No, the other printer.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q19-3",
+          "speaker": "Speaker",
+          "start_time": 11.52,
+          "end_time": 15.92,
+          "text_en": "C. Was that a client?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "7031b1b9-5bf2-5a42-8d00-5d677bebf719",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q20.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q20-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 2.0,
+          "text_en": "Number 20.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q20-2",
+          "speaker": "Speaker",
+          "start_time": 2.0,
+          "end_time": 4.0,
+          "text_en": "How far are you from the clinic?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q20-3",
+          "speaker": "Speaker",
+          "start_time": 4.0,
+          "end_time": 8.0,
+          "text_en": "A. I'm close enough to walk.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q20-4",
+          "speaker": "Speaker",
+          "start_time": 8.0,
+          "end_time": 11.0,
+          "text_en": "B. I need to see the doctor.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q20-5",
+          "speaker": "Speaker",
+          "start_time": 11.0,
+          "end_time": 14.0,
+          "text_en": "C. It's a well-known clinic.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "e7ef9f4d-01fb-537e-9598-68eea7ac50d7",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q21.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q21-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 1.0,
+          "text_en": "21.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q21-2",
+          "speaker": "Speaker",
+          "start_time": 1.0,
+          "end_time": 6.44,
+          "text_en": "Didn't you get a printout of the company newsletter from Emiko?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q21-3",
+          "speaker": "Speaker",
+          "start_time": 6.44,
+          "end_time": 10.56,
+          "text_en": "A. She started working here three years ago.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q21-4",
+          "speaker": "Speaker",
+          "start_time": 10.56,
+          "end_time": 14.36,
+          "text_en": "B. I was out of town last week.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q21-5",
+          "speaker": "Speaker",
+          "start_time": 14.36,
+          "end_time": 16.88,
+          "text_en": "C. Yes, I do like to write.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "6df4d924-7d76-5e9a-9584-e50a2fa5ec94",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q22.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q22-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 8.04,
+          "text_en": "number 22 when do you need to renew your passport a be careful not to lose your",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q22-2",
+          "speaker": "Speaker",
+          "start_time": 8.04,
+          "end_time": 18.12,
+          "text_en": "tickets be a brand new type of microchip see soon because it's about to expire",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "b1509461-715b-51fe-a088-f83759454b7b",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q23.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q23-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Who can help me find replacement parts for my computer?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q23-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 9.0,
+          "text_en": "A. Here are all the latest statements.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q23-3",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 13.0,
+          "text_en": "B. I can help you look through the inventory.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q23-4",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 17.0,
+          "text_en": "C. Put these on that shelf.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "a4732410-14cb-53e8-b103-785695ac62fb",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q24.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q24-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 4.72,
+          "text_en": "Number 24. I can't make it to the company dinner tonight.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q24-2",
+          "speaker": "Speaker",
+          "start_time": 5.76,
+          "end_time": 23.28,
+          "text_en": "A. Managers expect everyone to be there. B. A buffet-style restaurant. C. A meeting once a week.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "4688c782-c469-5006-9ece-cad5a633430d",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q25.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q25-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 4.4,
+          "text_en": "No. 25. Do you work in this neighborhood?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q25-2",
+          "speaker": "Speaker",
+          "start_time": 4.4,
+          "end_time": 7.8,
+          "text_en": "A. Yes, I'd like to.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q25-3",
+          "speaker": "Speaker",
+          "start_time": 7.8,
+          "end_time": 11.8,
+          "text_en": "B. No, my office isn't there by.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q25-4",
+          "speaker": "Speaker",
+          "start_time": 11.8,
+          "end_time": 15.2,
+          "text_en": "C. There aren't any of those here.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "3ef1ca8b-406b-5b18-9cfd-1539b49fab82",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q26.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q26-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "It's time for our quarterly earnings report, isn't it?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q26-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 9.0,
+          "text_en": "A. Was there an email reminder about it?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q26-3",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 13.0,
+          "text_en": "B. To pay for a new advertising campaign?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q26-4",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 17.0,
+          "text_en": "C. No, a different pair of earrings.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "933da348-3269-5317-a8f9-456fe532f5b7",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q27.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q27-1",
+          "speaker": "Speaker",
+          "start_time": 0.48,
+          "end_time": 1.76,
+          "text_en": "Number 27",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q27-2",
+          "speaker": "Speaker",
+          "start_time": 2.72,
+          "end_time": 5.28,
+          "text_en": "What did you do with the guest list that I sent you?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q27-3",
+          "speaker": "Speaker",
+          "start_time": 6.16,
+          "end_time": 6.56,
+          "text_en": "A",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q27-4",
+          "speaker": "Speaker",
+          "start_time": 7.2,
+          "end_time": 8.64,
+          "text_en": "After everyone received it",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q27-5",
+          "speaker": "Speaker",
+          "start_time": 9.44,
+          "end_time": 10.0,
+          "text_en": "B",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q27-6",
+          "speaker": "Speaker",
+          "start_time": 10.48,
+          "end_time": 12.72,
+          "text_en": "I passed it along to everyone who needed it",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q27-7",
+          "speaker": "Speaker",
+          "start_time": 13.52,
+          "end_time": 14.08,
+          "text_en": "C",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q27-8",
+          "speaker": "Speaker",
+          "start_time": 14.48,
+          "end_time": 15.92,
+          "text_en": "We're supposed to leave soon",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "19ef1da2-7722-519c-874e-f71085bc249f",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q28.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q28-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Did you see the announcement about Emily's promotion?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q28-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 9.0,
+          "text_en": "A. All the technology's been upgraded.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q28-3",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 13.0,
+          "text_en": "B. Perhaps a good Korea counselor.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q28-4",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 17.0,
+          "text_en": "C. I've been busy all morning.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "4a96f18d-5fae-50bf-ac32-80bf46d35583",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q29.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q29-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 2.0,
+          "text_en": "Number 29.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q29-2",
+          "speaker": "Speaker",
+          "start_time": 2.0,
+          "end_time": 6.0,
+          "text_en": "Let's try our best to finish the project on time.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q29-3",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 9.0,
+          "text_en": "A. All except the first one.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q29-4",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 13.0,
+          "text_en": "B. We may need a few more days.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q29-5",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 16.0,
+          "text_en": "C. I think over time it will.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "ade9ee95-5998-5d44-aba8-88ad16b4b7e8",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q30.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q30-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 2.0,
+          "text_en": "Number 30.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q30-2",
+          "speaker": "Speaker",
+          "start_time": 2.0,
+          "end_time": 4.0,
+          "text_en": "Where's the store manager?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q30-3",
+          "speaker": "Speaker",
+          "start_time": 4.0,
+          "end_time": 7.0,
+          "text_en": "A. A recent hiring decision.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q30-4",
+          "speaker": "Speaker",
+          "start_time": 7.0,
+          "end_time": 11.0,
+          "text_en": "B. I enjoy shopping at that store.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q30-5",
+          "speaker": "Speaker",
+          "start_time": 11.0,
+          "end_time": 14.0,
+          "text_en": "C. She went out for lunch.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "ae8761b8-0eac-5bb9-9b8f-0738a249b487",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part2_q31.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q31-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.44,
+          "text_en": "No. 31. The software you're using isn't very reliable.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q31-2",
+          "speaker": "Speaker",
+          "start_time": 5.44,
+          "end_time": 9.24,
+          "text_en": "A. These chairs aren't very comfortable.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q31-3",
+          "speaker": "Speaker",
+          "start_time": 9.24,
+          "end_time": 13.68,
+          "text_en": "B. I've been using it for years with no problems.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q31-4",
+          "speaker": "Speaker",
+          "start_time": 13.68,
+          "end_time": 17.36,
+          "text_en": "C. I saw that computer at the store.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "2bc73a2f-cdc0-5ab1-a653-543437217673",
+      "group_id": "a3013c8b-9725-5f91-b9c3-ac5fdf096658",
+      "part": 2,
+      "question_number": 7,
+      "question_type_tag": "wh_who",
+      "question_text": "Who's responsible for hiring at our fitness center?",
+      "options": {
+        "A": "Mr. Gonzalez is going to get a membership.",
+        "B": "I forgot to sign in at reception.",
+        "C": "Mr. Lin and Ms. Weiss are."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"Who's responsible for hiring at our fitness center?\" (Ai chịu trách nhiệm tuyển dụng tại trung tâm thể hình của chúng ta?) là một câu hỏi Wh-question về chủ ngữ (người).\nVì sao đáp án đúng là chính xác: Đáp án (C) \"Mr. Lin and Ms. Weiss are.\" (Là ông Lin và bà Weiss.) trực tiếp trả lời câu hỏi về người chịu trách nhiệm bằng cách nêu tên hai người.\nBẫy đề thi ETS:\n(A) \"Mr. Gonzalez is going to get a membership.\" (Ông Gonzalez sẽ đăng ký thành viên.) Đây là một câu trả lời gây nhiễu bằng cách sử dụng một tên người và một từ liên quan đến \"fitness center\" (membership), nhưng không trả lời đúng câu hỏi về trách nhiệm tuyển dụng.\n(B) \"I forgot to sign in at reception.\" (Tôi quên đăng ký ở quầy lễ tân.) Đây là một câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"fitness center\" (reception) nhưng không liên quan đến việc tuyển dụng hay người chịu trách nhiệm.\nMẹo phản xạ nhanh: Với câu hỏi \"Who\", tìm ngay câu trả lời nêu tên người hoặc chức danh cụ thể. Tránh các lựa chọn có từ khóa lặp lại hoặc liên quan nhưng không trả lời trực tiếp.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "f896fbd6-40b4-5e47-a01d-71a0d0d60307",
+      "group_id": "b9a30cc0-baba-50b8-8b91-3e1ce8d339e6",
+      "part": 2,
+      "question_number": 8,
+      "question_type_tag": "wh_where",
+      "question_text": "Where do you usually purchase office supplies?",
+      "options": {
+        "A": "We put them in the hallway cabinets.",
+        "B": "At the store on Maple Avenue.",
+        "C": "A manager's approval."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"Where do you usually purchase office supplies?\" (Bạn thường mua văn phòng phẩm ở đâu?) là một câu hỏi Wh-question về địa điểm.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"At the store on Maple Avenue.\" (Ở cửa hàng trên Đại lộ Maple.) cung cấp một địa điểm cụ thể, trả lời trực tiếp câu hỏi \"Where\".\nBẫy đề thi ETS:\n(A) \"We put them in the hallway cabinets.\" (Chúng tôi để chúng trong tủ hành lang.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"office supplies\" (cabinets) và một địa điểm, nhưng là nơi cất giữ chứ không phải nơi mua.\n(C) \"A manager's approval.\" (Sự chấp thuận của quản lý.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"office\" (manager) nhưng không phải là địa điểm mua hàng.\nMẹo phản xạ nhanh: Với câu hỏi \"Where\", tìm ngay câu trả lời nêu địa điểm cụ thể (tên đường, tên cửa hàng, khu vực). Cẩn thận với các bẫy về nơi cất giữ hoặc các từ liên quan nhưng không phải địa điểm mua.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "2260a351-e236-5fda-bc39-71d5101db512",
+      "group_id": "86e28220-4358-5cc9-a507-7dd5c6348f1c",
+      "part": 2,
+      "question_number": 9,
+      "question_type_tag": "wh_what_time",
+      "question_text": "What time does Mr. Park usually leave?",
+      "options": {
+        "A": "Around six o'clock in the evening.",
+        "B": "He left everything we need.",
+        "C": "We've had many interns over the years."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"What time does Mr. Park usually leave?\" (Ông Park thường rời đi lúc mấy giờ?) là một câu hỏi Wh-question về thời gian cụ thể.\nVì sao đáp án đúng là chính xác: Đáp án (A) \"Around six o'clock in the evening.\" (Khoảng sáu giờ tối.) cung cấp một mốc thời gian cụ thể, trả lời trực tiếp câu hỏi \"What time\".\nBẫy đề thi ETS:\n(B) \"He left everything we need.\" (Anh ấy đã để lại mọi thứ chúng ta cần.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ đồng âm hoặc gần âm \"leave\" (rời đi) và \"left\" (đã để lại), nhưng nghĩa hoàn toàn khác.\n(C) \"We've had many interns over the years.\" (Chúng tôi đã có nhiều thực tập sinh trong những năm qua.) Đây là câu trả lời không liên quan đến câu hỏi về thời gian rời đi của ông Park.\nMẹo phản xạ nhanh: Với câu hỏi \"What time\", tìm câu trả lời có số giờ, buổi, hoặc mốc thời gian cụ thể. Cẩn thận với bẫy từ đồng âm/gần âm.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "72bcb314-ff0a-5ac1-9ce9-decafb10ec4c",
+      "group_id": "a9d61366-30e9-576e-9dcf-9a361aab97b9",
+      "part": 2,
+      "question_number": 10,
+      "question_type_tag": "yes_no_question_conditional_response",
+      "question_text": "Do you want to present your research to the marketing team?",
+      "options": {
+        "A": "That's what I've heard as well.",
+        "B": "If we can find the time for it.",
+        "C": "Yes, I received the gift."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"Do you want to present your research to the marketing team?\" (Bạn có muốn trình bày nghiên cứu của mình cho đội marketing không?) là một câu hỏi Yes/No.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"If we can find the time for it.\" (Nếu chúng ta có thể sắp xếp thời gian cho nó.) là một câu trả lời gián tiếp, thể hiện sự đồng ý có điều kiện, ngụ ý rằng người nói muốn làm nhưng cần xem xét yếu tố thời gian.\nBẫy đề thi ETS:\n(A) \"That's what I've heard as well.\" (Đó cũng là điều tôi đã nghe.) Đây là câu trả lời không trực tiếp trả lời câu hỏi về mong muốn trình bày nghiên cứu.\n(C) \"Yes, I received the gift.\" (Vâng, tôi đã nhận được món quà.) Đây là câu trả lời gây nhiễu bằng cách sử dụng \"Yes\" nhưng nội dung không liên quan đến việc trình bày nghiên cứu, mà là từ đồng âm \"present\" (trình bày) và \"gift\" (quà tặng).\nMẹo phản xạ nhanh: Với câu hỏi Yes/No, không phải lúc nào cũng có \"Yes\" hoặc \"No\" rõ ràng. Hãy tìm các câu trả lời gián tiếp, câu hỏi ngược lại, hoặc câu trả lời có điều kiện. Cẩn thận với bẫy từ đồng âm.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "7c464fff-ab05-526f-b330-4378b0438f04",
+      "group_id": "36760025-601a-573e-9569-2ab474da9439",
+      "part": 2,
+      "question_number": 11,
+      "question_type_tag": "tag_question_confirmation",
+      "question_text": "Our company picnic is on Friday, isn't it?",
+      "options": {
+        "A": "Those times are both booked.",
+        "B": "Only if you can find them easily.",
+        "C": "Right - in two days."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"Our company picnic is on Friday, isn't it?\" (Buổi dã ngoại của công ty chúng ta vào thứ Sáu, phải không?) là một câu hỏi đuôi (tag question) nhằm xác nhận thông tin.\nVì sao đáp án đúng là chính xác: Đáp án (C) \"Right - in two days.\" (Đúng vậy - trong hai ngày nữa.) xác nhận thông tin \"Friday\" là đúng và cung cấp thêm chi tiết về thời gian.\nBẫy đề thi ETS:\n(A) \"Those times are both booked.\" (Những thời gian đó đều đã được đặt.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến thời gian (\"times\", \"booked\") nhưng không trả lời trực tiếp về ngày của buổi dã ngoại.\n(B) \"Only if you can find them easily.\" (Chỉ khi bạn có thể tìm thấy chúng dễ dàng.) Câu này không liên quan đến việc xác nhận ngày của buổi dã ngoại.\nMẹo phản xạ nhanh: Với câu hỏi đuôi, tìm câu trả lời xác nhận hoặc phủ nhận thông tin chính, thường kèm theo giải thích hoặc chi tiết bổ sung.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c6e9532b-62d0-5dba-a330-496c9352107e",
+      "group_id": "f0369716-255f-5280-9748-7b3a27725dc3",
+      "part": 2,
+      "question_number": 12,
+      "question_type_tag": "negative_yes_no_confirmation",
+      "question_text": "Isn't the bus supposed to stop here?",
+      "options": {
+        "A": "Yes, according to the schedule.",
+        "B": "I'm on my way now.",
+        "C": "It listed several potential clients."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"Isn't the bus supposed to stop here?\" (Chẳng phải xe buýt phải dừng ở đây sao?) là một câu hỏi Yes/No phủ định, hỏi về một kỳ vọng hoặc quy định.\nVì sao đáp án đúng là chính xác: Đáp án (A) \"Yes, according to the schedule.\" (Vâng, theo lịch trình.) xác nhận rằng xe buýt đúng là phải dừng ở đây và đưa ra bằng chứng (lịch trình).\nBẫy đề thi ETS:\n(B) \"I'm on my way now.\" (Tôi đang trên đường đi bây giờ.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"bus\" (on my way) nhưng không trả lời câu hỏi về điểm dừng của xe buýt.\n(C) \"It listed several potential clients.\" (Nó liệt kê một số khách hàng tiềm năng.) Câu này hoàn toàn không liên quan đến xe buýt hay điểm dừng.\nMẹo phản xạ nhanh: Với câu hỏi Yes/No phủ định, \"Yes\" có nghĩa là xác nhận điều được hỏi là đúng, \"No\" có nghĩa là phủ nhận. Tìm câu trả lời xác nhận hoặc phủ nhận kèm lý do/bằng chứng.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "f32d8a4b-b7ff-5f25-8895-68707a50fb3a",
+      "group_id": "45ad0a2a-f2bb-5b04-84f1-08b6acf14f50",
+      "part": 2,
+      "question_number": 13,
+      "question_type_tag": "tag_question_agreement_reason",
+      "question_text": "We should fill this order quickly, shouldn't we?",
+      "options": {
+        "A": "No, I haven't yet.",
+        "B": "Yes, it's for an important client.",
+        "C": "Try using this key."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"We should fill this order quickly, shouldn't we?\" (Chúng ta nên hoàn thành đơn hàng này nhanh chóng, phải không?) là một câu hỏi đuôi, đề xuất một hành động và tìm kiếm sự đồng tình.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"Yes, it's for an important client.\" (Vâng, đó là cho một khách hàng quan trọng.) thể hiện sự đồng tình (\"Yes\") và đưa ra lý do tại sao nên làm nhanh chóng.\nBẫy đề thi ETS:\n(A) \"No, I haven't yet.\" (Không, tôi vẫn chưa.) Câu này không phù hợp vì câu hỏi là về việc \"chúng ta nên làm\" chứ không phải \"tôi đã làm chưa\".\n(C) \"Try using this key.\" (Hãy thử dùng chìa khóa này.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ đồng âm \"order\" (đơn hàng) và \"key\" (chìa khóa), không liên quan đến việc hoàn thành đơn hàng.\nMẹo phản xạ nhanh: Với câu hỏi đuôi đề xuất hành động, tìm câu trả lời thể hiện sự đồng tình/không đồng tình và thường kèm theo lý do. Cẩn thận với bẫy từ đồng âm.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "bb93193a-fead-5e6f-9c1a-d33de449e1f2",
+      "group_id": "fcffae61-d162-527d-a825-e84e1404739e",
+      "part": 2,
+      "question_number": 14,
+      "question_type_tag": "wh_how_opinion",
+      "question_text": "How do you like your new job?",
+      "options": {
+        "A": "I can work from home quite often.",
+        "B": "A career in electrical engineering.",
+        "C": "My sister helped me apply."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"How do you like your new job?\" (Bạn thấy công việc mới của mình thế nào?) là một câu hỏi Wh-question về ý kiến hoặc cảm nhận.\nVì sao đáp án đúng là chính xác: Đáp án (A) \"I can work from home quite often.\" (Tôi có thể làm việc tại nhà khá thường xuyên.) mô tả một khía cạnh tích cực của công việc mới, trả lời gián tiếp về việc người nói thích công việc đó như thế nào.\nBẫy đề thi ETS:\n(B) \"A career in electrical engineering.\" (Một sự nghiệp trong kỹ thuật điện.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"job\" (career, engineering) nhưng không trả lời về cảm nhận mà là về lĩnh vực.\n(C) \"My sister helped me apply.\" (Chị tôi đã giúp tôi nộp đơn.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"job\" (apply) nhưng không trả lời về cảm nhận về công việc.\nMẹo phản xạ nhanh: Với câu hỏi \"How do you like...\", tìm câu trả lời mô tả một đặc điểm, lợi ích hoặc cảm nhận về chủ thể được hỏi.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "a8b11fb6-a1fb-561f-83f3-5c663ae40663",
+      "group_id": "f65a3af2-eb6b-5280-92a3-205e5103cf02",
+      "part": 2,
+      "question_number": 15,
+      "question_type_tag": "suggestion_indirect_refusal",
+      "question_text": "Let's go to the cafeteria for lunch today.",
+      "options": {
+        "A": "There should be one in the filing cabinet.",
+        "B": "Which local restaurant do you prefer?",
+        "C": "I don't think I can take a break."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu \"Let's go to the cafeteria for lunch today.\" (Hôm nay chúng ta hãy đi ăn trưa ở căng tin.) là một lời đề nghị.\nVì sao đáp án đúng là chính xác: Đáp án (C) \"I don't think I can take a break.\" (Tôi không nghĩ mình có thể nghỉ giải lao được.) là một câu từ chối gián tiếp lời đề nghị, nêu lý do không thể đi.\nBẫy đề thi ETS:\n(A) \"There should be one in the filing cabinet.\" (Nên có một cái trong tủ hồ sơ.) Câu này không liên quan đến lời đề nghị đi ăn trưa.\n(B) \"Which local restaurant do you prefer?\" (Bạn thích nhà hàng địa phương nào hơn?) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"lunch\" (restaurant) nhưng lại hỏi ngược lại một cách không phù hợp với ngữ cảnh.\nMẹo phản xạ nhanh: Với lời đề nghị, tìm câu trả lời chấp nhận, từ chối (trực tiếp hoặc gián tiếp, thường kèm lý do) hoặc đưa ra một đề xuất thay thế.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "dd47d4df-a25a-5a6f-8b35-5939ba027cfb",
+      "group_id": "6da11abe-4460-5f78-836c-32fff1cd06b5",
+      "part": 2,
+      "question_number": 16,
+      "question_type_tag": "wh_when_indirect_response",
+      "question_text": "When will we hire the new interns?",
+      "options": {
+        "A": "Mr. Wyeth is handling that.",
+        "B": "With more time to spare than usual.",
+        "C": "The highest available salary."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"When will we hire the new interns?\" (Khi nào chúng ta sẽ thuê thực tập sinh mới?) là một câu hỏi Wh-question về thời gian.\nVì sao đáp án đúng là chính xác: Đáp án (A) \"Mr. Wyeth is handling that.\" (Ông Wyeth đang xử lý việc đó.) là một câu trả lời gián tiếp, không nêu thời gian cụ thể mà chuyển trách nhiệm cho người khác, ngụ ý rằng người nói không biết hoặc không phải là người quyết định.\nBẫy đề thi ETS:\n(B) \"With more time to spare than usual.\" (Với nhiều thời gian rảnh hơn bình thường.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"When\" (time) nhưng không trả lời trực tiếp câu hỏi.\n(C) \"The highest available salary.\" (Mức lương cao nhất có thể.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"hire\" (salary) nhưng không trả lời câu hỏi về thời gian.\nMẹo phản xạ nhanh: Với câu hỏi \"When\", tìm câu trả lời nêu thời gian, hoặc câu trả lời gián tiếp như \"Tôi không biết\", \"Hãy hỏi người khác\", \"Khi nào xong việc X\".",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "09d3d74a-4847-5c7c-8ef8-adac7b1e7186",
+      "group_id": "51ae6ca2-ba34-5121-bbec-086ba4ad4884",
+      "part": 2,
+      "question_number": 17,
+      "question_type_tag": "wh_how_often",
+      "question_text": "How often should I mail these statements?",
+      "options": {
+        "A": "Yes, you can buy one online.",
+        "B": "The post office on Grant Street.",
+        "C": "We send them out once a month."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"How often should I mail these statements?\" (Tôi nên gửi những bản sao kê này bao lâu một lần?) là một câu hỏi Wh-question về tần suất.\nVì sao đáp án đúng là chính xác: Đáp án (C) \"We send them out once a month.\" (Chúng tôi gửi chúng mỗi tháng một lần.) cung cấp tần suất cụ thể, trả lời trực tiếp câu hỏi \"How often\".\nBẫy đề thi ETS:\n(A) \"Yes, you can buy one online.\" (Vâng, bạn có thể mua một cái trực tuyến.) Đây là câu trả lời gây nhiễu bằng cách sử dụng \"Yes\" không phù hợp với câu hỏi Wh-question và nội dung không liên quan.\n(B) \"The post office on Grant Street.\" (Bưu điện trên phố Grant.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"mail\" (post office) nhưng trả lời cho câu hỏi \"Where\" chứ không phải \"How often\".\nMẹo phản xạ nhanh: Với câu hỏi \"How often\", tìm câu trả lời có số lần/tần suất cụ thể (e.g., once a week, daily, every month).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "6c7f574e-dc24-5a41-a4fb-300fe10ccc7c",
+      "group_id": "0436caf0-29b3-5ad0-aeb6-636332425112",
+      "part": 2,
+      "question_number": 18,
+      "question_type_tag": "wh_why_mistake",
+      "question_text": "Why did you put that food in the freezer?",
+      "options": {
+        "A": "It's not working well currently.",
+        "B": "I meant to put it in the refrigerator.",
+        "C": "Let's start making dinner soon."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"Why did you put that food in the freezer?\" (Tại sao bạn lại cho thức ăn đó vào tủ đông?) là một câu hỏi Wh-question về lý do.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"I meant to put it in the refrigerator.\" (Tôi định cho nó vào tủ lạnh.) giải thích lý do bằng cách thừa nhận đó là một sự nhầm lẫn, ngụ ý rằng người nói đã đặt nhầm chỗ.\nBẫy đề thi ETS:\n(A) \"It's not working well currently.\" (Nó hiện không hoạt động tốt.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"freezer\" (working well) nhưng không giải thích lý do đặt thức ăn vào đó.\n(C) \"Let's start making dinner soon.\" (Hãy bắt đầu làm bữa tối sớm thôi.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"food\" (dinner) nhưng không trả lời câu hỏi \"Why\".\nMẹo phản xạ nhanh: Với câu hỏi \"Why\", tìm câu trả lời có \"Because\", \"To + V\", hoặc một lời giải thích hợp lý. Đôi khi là một lời thừa nhận sai sót.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "fee16c6b-fc1e-543b-8c51-3839ba9c53f0",
+      "group_id": "87c194b7-a79a-5cfc-872b-152ca8b875f0",
+      "part": 2,
+      "question_number": 19,
+      "question_type_tag": "request_indirect_response",
+      "question_text": "Could you print the agenda for the meeting?",
+      "options": {
+        "A": "It's already on your desk.",
+        "B": "No, the other printer.",
+        "C": "Was that a client?"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"Could you print the agenda for the meeting?\" (Bạn có thể in chương trình nghị sự cho cuộc họp không?) là một lời yêu cầu.\nVì sao đáp án đúng là chính xác: Đáp án (A) \"It's already on your desk.\" (Nó đã có trên bàn của bạn rồi.) là một câu trả lời gián tiếp, ngụ ý rằng không cần phải in nữa vì đã có sẵn.\nBẫy đề thi ETS:\n(B) \"No, the other printer.\" (Không, máy in khác.) Đây là câu trả lời gây nhiễu bằng cách sử dụng \"No\" và từ liên quan đến \"print\" (printer) nhưng không trả lời đúng yêu cầu.\n(C) \"Was that a client?\" (Đó có phải là một khách hàng không?) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"meeting\" (client) nhưng không liên quan đến yêu cầu in ấn.\nMẹo phản xạ nhanh: Với lời yêu cầu, tìm câu trả lời chấp nhận, từ chối hoặc gián tiếp cho biết yêu cầu không cần thiết/không thể thực hiện.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "68a76dc1-caed-554c-9bee-430d3340f1a1",
+      "group_id": "7031b1b9-5bf2-5a42-8d00-5d677bebf719",
+      "part": 2,
+      "question_number": 20,
+      "question_type_tag": "wh_how_far_distance",
+      "question_text": "How far are you from the clinic?",
+      "options": {
+        "A": "I'm close enough to walk.",
+        "B": "I need to see the doctor.",
+        "C": "It's a well-known clinic."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"How far are you from the clinic?\" (Bạn cách phòng khám bao xa?) là một câu hỏi Wh-question về khoảng cách.\nVì sao đáp án đúng là chính xác: Đáp án (A) \"I'm close enough to walk.\" (Tôi đủ gần để đi bộ.) mô tả khoảng cách một cách gián tiếp, ngụ ý rằng khoảng cách không xa.\nBẫy đề thi ETS:\n(B) \"I need to see the doctor.\" (Tôi cần gặp bác sĩ.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"clinic\" (doctor) nhưng không trả lời câu hỏi về khoảng cách.\n(C) \"It's a well-known clinic.\" (Đó là một phòng khám nổi tiếng.) Đây là câu trả lời gây nhiễu bằng cách lặp lại từ \"clinic\" nhưng không trả lời câu hỏi về khoảng cách.\nMẹo phản xạ nhanh: Với câu hỏi \"How far\", tìm câu trả lời nêu khoảng cách cụ thể hoặc mô tả khoảng cách một cách gián tiếp.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "0c2c1d55-5252-5de0-a797-926eeb667f6c",
+      "group_id": "e7ef9f4d-01fb-537e-9598-68eea7ac50d7",
+      "part": 2,
+      "question_number": 21,
+      "question_type_tag": "negative_yes_no_reason",
+      "question_text": "Didn't you get to print out of the company newsletter from Emiko?",
+      "options": {
+        "A": "She started working here three years ago.",
+        "B": "I was out of town last week.",
+        "C": "Yes, I do like to write."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"Didn't you get a printout of the company newsletter from Emiko?\" (Bạn không nhận được bản in bản tin công ty từ Emiko sao?) là một câu hỏi Yes/No phủ định, hỏi về việc đã nhận được thứ gì đó chưa.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"I was out of town last week.\" (Tôi đã đi vắng vào tuần trước.) giải thích lý do tại sao người nói có thể chưa nhận được bản in, ngụ ý rằng họ không có mặt để nhận.\nBẫy đề thi ETS:\n(A) \"She started working here three years ago.\" (Cô ấy bắt đầu làm việc ở đây ba năm trước.) Câu này không liên quan đến việc nhận bản in.\n(C) \"Yes, I do like to write.\" (Vâng, tôi rất thích viết.) Đây là câu trả lời gây nhiễu bằng cách sử dụng \"Yes\" không phù hợp với câu hỏi phủ định và từ liên quan đến \"newsletter\" (write) nhưng không trả lời đúng câu hỏi.\nMẹo phản xạ nhanh: Với câu hỏi Yes/No phủ định, tìm câu trả lời xác nhận hoặc phủ nhận kèm lý do.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "4f9e3a55-43a8-517f-8b41-bbf84182a66d",
+      "group_id": "6df4d924-7d76-5e9a-9584-e50a2fa5ec94",
+      "part": 2,
+      "question_number": 22,
+      "question_type_tag": "wh_when_reason",
+      "question_text": "When do you need to renew your passport?",
+      "options": {
+        "A": "Be careful not to lose your tickets.",
+        "B": "A brand-new type of microchip.",
+        "C": "Soon, because it's about to expire."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"When do you need to renew your passport?\" (Khi nào bạn cần gia hạn hộ chiếu?) là một câu hỏi Wh-question về thời gian.\nVì sao đáp án đúng là chính xác: Đáp án (C) \"Soon, because it's about to expire.\" (Sớm thôi, vì nó sắp hết hạn.) cung cấp thời gian (\"Soon\") và lý do cụ thể.\nBẫy đề thi ETS:\n(A) \"Be careful not to lose your tickets.\" (Hãy cẩn thận đừng làm mất vé của bạn.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"passport\" (tickets - liên quan đến du lịch) nhưng không trả lời câu hỏi về thời gian gia hạn.\n(B) \"A brand-new type of microchip.\" (Một loại vi mạch hoàn toàn mới.) Câu này hoàn toàn không liên quan.\nMẹo phản xạ nhanh: Với câu hỏi \"When\", tìm câu trả lời nêu thời gian cụ thể hoặc một mốc thời gian ước lượng, thường kèm theo lý do.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c901240b-b0e1-57ac-8a2c-1edcfed5cf57",
+      "group_id": "b1509461-715b-51fe-a088-f83759454b7b",
+      "part": 2,
+      "question_number": 23,
+      "question_type_tag": "wh_who_offer_help",
+      "question_text": "Who can help me find replacement parts for my computer?",
+      "options": {
+        "A": "Here are all the latest statements.",
+        "B": "I can help you look through the inventory.",
+        "C": "Put these on that shelf."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"Who can help me find replacement parts for my computer?\" (Ai có thể giúp tôi tìm phụ tùng thay thế cho máy tính của tôi?) là một câu hỏi Wh-question về người có thể giúp đỡ.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"I can help you look through the inventory.\" (Tôi có thể giúp bạn kiểm tra kho hàng.) là một lời đề nghị giúp đỡ trực tiếp, ngụ ý người nói là người có thể giúp.\nBẫy đề thi ETS:\n(A) \"Here are all the latest statements.\" (Đây là tất cả các bản sao kê mới nhất.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ gần âm \"parts\" (parts) và \"statements\" (statements), không liên quan.\n(C) \"Put these on that shelf.\" (Đặt những thứ này lên kệ đó.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"parts\" (shelf) nhưng không trả lời câu hỏi \"Who\".\nMẹo phản xạ nhanh: Với câu hỏi \"Who can help...\", tìm câu trả lời nêu tên người, chức danh hoặc một lời đề nghị giúp đỡ.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "eab92837-9a68-56ad-a9a1-8444e6221be0",
+      "group_id": "a4732410-14cb-53e8-b103-785695ac62fb",
+      "part": 2,
+      "question_number": 24,
+      "question_type_tag": "statement_indirect_response",
+      "question_text": "I can't make it to the company dinner tonight.",
+      "options": {
+        "A": "Managers expect everyone to be there.",
+        "B": "A buffet-style restaurant.",
+        "C": "A meeting once a week."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu \"I can't make it to the company dinner tonight.\" (Tối nay tôi không thể đến bữa tối của công ty.) là một câu thông báo.\nVì sao đáp án đúng là chính xác: Đáp án (A) \"Managers expect everyone to be there.\" (Các quản lý mong mọi người đều có mặt.) là một câu trả lời gián tiếp, thể hiện sự tiếc nuối hoặc nhắc nhở về tầm quan trọng của sự kiện, ngụ ý rằng việc không tham gia có thể không được khuyến khích.\nBẫy đề thi ETS:\n(B) \"A buffet-style restaurant.\" (Một nhà hàng buffet.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"dinner\" (restaurant, buffet) nhưng không phải là phản hồi phù hợp cho việc thông báo không tham gia.\n(C) \"A meeting once a week.\" (Một cuộc họp mỗi tuần một lần.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"company\" (meeting) nhưng không liên quan đến bữa tối.\nMẹo phản xạ nhanh: Với câu thông báo, tìm câu trả lời thể hiện sự hiểu biết, đồng cảm, lời khuyên, hoặc thông tin liên quan.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "531e01f1-a820-5465-93c1-ba19a19e4166",
+      "group_id": "4688c782-c469-5006-9ece-cad5a633430d",
+      "part": 2,
+      "question_number": 25,
+      "question_type_tag": "yes_no_question_negative_reason",
+      "question_text": "Do you work in this neighborhood?",
+      "options": {
+        "A": "Yes, I'd like to.",
+        "B": "No, my office isn't nearby.",
+        "C": "There aren't any of those here."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"Do you work in this neighborhood?\" (Bạn có làm việc ở khu vực này không?) là một câu hỏi Yes/No.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"No, my office isn't nearby.\" (Không, văn phòng của tôi không ở gần đây.) phủ nhận (\"No\") và đưa ra lý do cụ thể.\nBẫy đề thi ETS:\n(A) \"Yes, I'd like to.\" (Vâng, tôi muốn.) Đây là câu trả lời gây nhiễu bằng cách sử dụng \"Yes\" nhưng nội dung không phù hợp với câu hỏi về việc \"có làm việc ở đây không\".\n(C) \"There aren't any of those here.\" (Không có cái nào trong số đó ở đây.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"neighborhood\" (here) nhưng không trả lời câu hỏi về việc làm việc.\nMẹo phản xạ nhanh: Với câu hỏi Yes/No, tìm câu trả lời xác nhận hoặc phủ nhận, thường kèm theo giải thích ngắn gọn.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "8c998497-8866-590f-9ac5-2c883a022390",
+      "group_id": "3ef1ca8b-406b-5b18-9cfd-1539b49fab82",
+      "part": 2,
+      "question_number": 26,
+      "question_type_tag": "tag_question_indirect_response",
+      "question_text": "It's time for our quarterly earnings report, isn't it?",
+      "options": {
+        "A": "Was there an e-mail reminder about it?",
+        "B": "To pay for a new advertising campaign.",
+        "C": "No, a different pair of earrings."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"It's time for our quarterly earnings report, isn't it?\" (Đã đến lúc báo cáo thu nhập hàng quý của chúng ta rồi, phải không?) là một câu hỏi đuôi nhằm xác nhận thông tin.\nVì sao đáp án đúng là chính xác: Đáp án (A) \"Was there an e-mail reminder about it?\" (Có email nhắc nhở về nó không?) là một câu trả lời gián tiếp dưới dạng câu hỏi ngược lại, ngụ ý người nói không chắc chắn và đang tìm kiếm thêm thông tin để xác nhận.\nBẫy đề thi ETS:\n(B) \"To pay for a new advertising campaign.\" (Để chi trả cho một chiến dịch quảng cáo mới.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"earnings\" (pay, advertising campaign) nhưng không trả lời câu hỏi về thời gian báo cáo.\n(C) \"No, a different pair of earrings.\" (Không, một đôi bông tai khác.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ gần âm \"earnings\" (earrings) nhưng không liên quan.\nMẹo phản xạ nhanh: Với câu hỏi đuôi, tìm câu trả lời xác nhận/phủ nhận, hoặc câu hỏi ngược lại để làm rõ thông tin. Cẩn thận với bẫy từ gần âm.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "032579c4-0bab-5704-9643-dc5e4138e8f7",
+      "group_id": "933da348-3269-5317-a8f9-456fe532f5b7",
+      "part": 2,
+      "question_number": 27,
+      "question_type_tag": "wh_what_action",
+      "question_text": "What did you do with the guest list that I sent you?",
+      "options": {
+        "A": "After everyone received it.",
+        "B": "I passed it along to everyone who needed it.",
+        "C": "We're supposed to leave soon."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"What did you do with the guest list that I sent you?\" (Bạn đã làm gì với danh sách khách mời mà tôi gửi cho bạn?) là một câu hỏi Wh-question về hành động.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"I passed it along to everyone who needed it.\" (Tôi đã chuyển nó cho tất cả những người cần.) mô tả hành động cụ thể đã làm với danh sách.\nBẫy đề thi ETS:\n(A) \"After everyone received it.\" (Sau khi mọi người đã nhận được.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"sent\" (received) nhưng không trả lời câu hỏi \"What did you do\".\n(C) \"We're supposed to leave soon.\" (Chúng ta phải rời đi sớm.) Câu này không liên quan đến danh sách khách mời.\nMẹo phản xạ nhanh: Với câu hỏi \"What did you do...\", tìm câu trả lời mô tả hành động đã thực hiện.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "76265a5d-f3cd-5e70-8f3b-d8a5bf02d87d",
+      "group_id": "19ef1da2-7722-519c-874e-f71085bc249f",
+      "part": 2,
+      "question_number": 28,
+      "question_type_tag": "yes_no_question_indirect_refusal",
+      "question_text": "Did you see the announcement about Emily's promotion?",
+      "options": {
+        "A": "All the technology's been upgraded.",
+        "B": "Perhaps a good career counselor.",
+        "C": "I've been busy all morning."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"Did you see the announcement about Emily's promotion?\" (Bạn có thấy thông báo về việc Emily được thăng chức không?) là một câu hỏi Yes/No.\nVì sao đáp án đúng là chính xác: Đáp án (C) \"I've been busy all morning.\" (Tôi đã bận cả buổi sáng.) là một câu trả lời gián tiếp, ngụ ý rằng người nói chưa có thời gian để xem thông báo vì bận.\nBẫy đề thi ETS:\n(A) \"All the technology's been upgraded.\" (Tất cả công nghệ đã được nâng cấp.) Câu này không liên quan đến thông báo thăng chức.\n(B) \"Perhaps a good career counselor.\" (Có lẽ là một cố vấn nghề nghiệp giỏi.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"promotion\" (career counselor) nhưng không trả lời câu hỏi \"Did you see\".\nMẹo phản xạ nhanh: Với câu hỏi Yes/No, tìm câu trả lời trực tiếp, hoặc gián tiếp bằng cách đưa ra lý do/tình huống khiến người nói không thể trả lời trực tiếp.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "31460fc9-9ef0-5391-9290-f187c826c53a",
+      "group_id": "4a96f18d-5fae-50bf-ac32-80bf46d35583",
+      "part": 2,
+      "question_number": 29,
+      "question_type_tag": "suggestion_indirect_disagreement",
+      "question_text": "Let's try our best to finish the project on time.",
+      "options": {
+        "A": "All except the first one.",
+        "B": "We may need a few more days.",
+        "C": "I think over time it will."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu \"Let's try our best to finish the project on time.\" (Chúng ta hãy cố gắng hết sức để hoàn thành dự án đúng hạn.) là một lời đề nghị/khuyến khích.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"We may need a few more days.\" (Chúng ta có thể cần thêm vài ngày nữa.) là một câu trả lời gián tiếp, thể hiện sự không đồng tình hoặc lo ngại về khả năng hoàn thành đúng hạn.\nBẫy đề thi ETS:\n(A) \"All except the first one.\" (Tất cả trừ cái đầu tiên.) Câu này không liên quan đến việc hoàn thành dự án đúng hạn.\n(C) \"I think over time it will.\" (Tôi nghĩ theo thời gian nó sẽ.) Câu này không phải là phản hồi trực tiếp cho lời đề nghị cố gắng hoàn thành đúng hạn.\nMẹo phản xạ nhanh: Với lời đề nghị/khuyến khích, tìm câu trả lời chấp nhận, từ chối hoặc thể hiện sự nghi ngờ/lo ngại về khả năng thực hiện.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "b3dc6757-461a-5a64-b42b-f493847d1e31",
+      "group_id": "ade9ee95-5998-5d44-aba8-88ad16b4b7e8",
+      "part": 2,
+      "question_number": 30,
+      "question_type_tag": "wh_where_indirect_response",
+      "question_text": "Where's the store manager?",
+      "options": {
+        "A": "A recent hiring decision.",
+        "B": "I enjoy shopping at that store.",
+        "C": "She went out for lunch."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu hỏi \"Where's the store manager?\" (Quản lý cửa hàng ở đâu?) là một câu hỏi Wh-question về địa điểm.\nVì sao đáp án đúng là chính xác: Đáp án (C) \"She went out for lunch.\" (Cô ấy đã đi ăn trưa.) là một câu trả lời gián tiếp, giải thích lý do tại sao quản lý không có mặt ở cửa hàng, ngụ ý rằng người nói không biết chính xác địa điểm nhưng biết hoạt động của quản lý.\nBẫy đề thi ETS:\n(A) \"A recent hiring decision.\" (Một quyết định tuyển dụng gần đây.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"manager\" (hiring decision) nhưng không trả lời câu hỏi \"Where\".\n(B) \"I enjoy shopping at that store.\" (Tôi thích mua sắm ở cửa hàng đó.) Đây là câu trả lời gây nhiễu bằng cách lặp lại từ \"store\" nhưng không trả lời câu hỏi \"Where\".\nMẹo phản xạ nhanh: Với câu hỏi \"Where\", tìm câu trả lời nêu địa điểm cụ thể, hoặc câu trả lời gián tiếp mô tả hoạt động của người được hỏi.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "d886d6e7-1494-5242-a480-693f84602a51",
+      "group_id": "ae8761b8-0eac-5bb9-9b8f-0738a249b487",
+      "part": 2,
+      "question_number": 31,
+      "question_type_tag": "statement_disagreement",
+      "question_text": "The software you're using isn't very reliable.",
+      "options": {
+        "A": "These chairs aren't very comfortable.",
+        "B": "I've been using it for years with no problems.",
+        "C": "I saw that computer at the store."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu \"The software you're using isn't very reliable.\" (Phần mềm bạn đang dùng không đáng tin cậy lắm.) là một câu nhận xét/ý kiến.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"I've been using it for years with no problems.\" (Tôi đã dùng nó nhiều năm rồi mà không gặp vấn đề gì.) thể hiện sự không đồng tình với nhận xét bằng cách đưa ra kinh nghiệm sử dụng thực tế.\nBẫy đề thi ETS:\n(A) \"These chairs aren't very comfortable.\" (Những chiếc ghế này không thoải mái lắm.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ gần âm \"reliable\" (comfortable) nhưng không liên quan đến phần mềm.\n(C) \"I saw that computer at the store.\" (Tôi đã thấy máy tính đó ở cửa hàng.) Đây là câu trả lời gây nhiễu bằng cách sử dụng từ liên quan đến \"software\" (computer) nhưng không phải là phản hồi phù hợp cho nhận xét về độ tin cậy của phần mềm.\nMẹo phản xạ nhanh: Với câu nhận xét/ý kiến, tìm câu trả lời thể hiện sự đồng tình, không đồng tình, hoặc đưa ra thông tin bổ sung liên quan. Cẩn thận với bẫy từ gần âm.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    }
+  ]
+}

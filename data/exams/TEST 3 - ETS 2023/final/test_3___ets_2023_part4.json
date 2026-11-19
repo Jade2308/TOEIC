@@ -1,0 +1,1705 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 3",
+    "part": 4,
+    "total_groups": 10,
+    "total_questions": 30
+  },
+  "question_groups": [
+    {
+      "id": "07367c74-e600-5892-a638-288b16c7211c",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test3/part4_g71_73.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g71_73-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.84,
+          "text_en": "Question 71 through 73 refer to the following advertisement.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-2",
+          "speaker": "Speaker",
+          "start_time": 5.84,
+          "end_time": 9.76,
+          "text_en": "And now let me thank our sponsor, Perfect Tea.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-3",
+          "speaker": "Speaker",
+          "start_time": 9.76,
+          "end_time": 14.04,
+          "text_en": "Take a deep breath and give yourself a break with Perfect Tea.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-4",
+          "speaker": "Speaker",
+          "start_time": 14.04,
+          "end_time": 19.84,
+          "text_en": "Their distinctive blend of relaxing teas was born on a farm in northeastern India",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-5",
+          "speaker": "Speaker",
+          "start_time": 19.84,
+          "end_time": 26.08,
+          "text_en": "where the ideal mix of rain and sun gives Perfect Tea its strong and aromatic flavour.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-6",
+          "speaker": "Speaker",
+          "start_time": 26.24,
+          "end_time": 30.4,
+          "text_en": "Believe me, you won't find this taste anywhere else.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-7",
+          "speaker": "Speaker",
+          "start_time": 30.4,
+          "end_time": 38.12,
+          "text_en": "Plus, you can now sign up for a membership to have your favourite teas delivered to you automatically each month.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-8",
+          "speaker": "Speaker",
+          "start_time": 38.12,
+          "end_time": 43.96,
+          "text_en": "Number 71. What is being advertised?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-9",
+          "speaker": "Speaker",
+          "start_time": 51.4,
+          "end_time": 55.96,
+          "text_en": "Number 72. What does the speaker emphasise?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-10",
+          "speaker": "Speaker",
+          "start_time": 55.96,
+          "end_time": 69.24,
+          "text_en": "Number 73. What is the benefit of membership?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "aeb9efea-7747-5ca0-b6a7-7fe96b750d95",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test3/part4_g74_76.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g74_76-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 7.26,
+          "text_en": "Question 74-76. Refer to the following broadcast.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-2",
+          "speaker": "Speaker",
+          "start_time": 7.26,
+          "end_time": 13.44,
+          "text_en": "Welcome to the Money Hour on WWB C. Alberta. Today I will discuss the topic of preparing",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-3",
+          "speaker": "Speaker",
+          "start_time": 13.44,
+          "end_time": 18.94,
+          "text_en": "for retirement with my guests Sarah Levinson. She is the author of the book All You Need",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-4",
+          "speaker": "Speaker",
+          "start_time": 18.94,
+          "end_time": 24.94,
+          "text_en": "to Know About Retirement Investments. We will delve into the broad range of investment options",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-5",
+          "speaker": "Speaker",
+          "start_time": 24.94,
+          "end_time": 31.02,
+          "text_en": "and discuss how to choose a financial advisor. But first, let me send a shout-out to our sponsors",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-6",
+          "speaker": "Speaker",
+          "start_time": 31.02,
+          "end_time": 36.94,
+          "text_en": "over at Pinnacle's and their brand new vitamin C supplement. Pinnacle's vitamin C formula",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-7",
+          "speaker": "Speaker",
+          "start_time": 36.94,
+          "end_time": 43.0,
+          "text_en": "supports a healthy immune system, so make sure to check it out. And now, Sarah, where should",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-8",
+          "speaker": "Speaker",
+          "start_time": 43.0,
+          "end_time": 46.14,
+          "text_en": "we begin?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-9",
+          "speaker": "Speaker",
+          "start_time": 46.14,
+          "end_time": 49.54,
+          "text_en": "Number 74. Who is Sarah Levinson?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-10",
+          "speaker": "Speaker",
+          "start_time": 55.94,
+          "end_time": 62.94,
+          "text_en": "Number 75. What is the main topic of the broadcast?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-11",
+          "speaker": "Speaker",
+          "start_time": 69.94,
+          "end_time": 75.94,
+          "text_en": "Number 76. What kind of company sponsors the broadcast?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "c87652f6-19b2-5e9f-bebb-646f9b358046",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test3/part4_g77_79.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g77_79-1",
+          "speaker": "Speaker",
+          "start_time": 1.0,
+          "end_time": 7.0,
+          "text_en": "Question 77 through 79 refer to the following excerpt from a meeting.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-2",
+          "speaker": "Speaker",
+          "start_time": 7.0,
+          "end_time": 11.0,
+          "text_en": "Good morning. Welcome to Western Seed and Gardening Supplies.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-3",
+          "speaker": "Speaker",
+          "start_time": 11.0,
+          "end_time": 15.0,
+          "text_en": "You have all been hired to help out for the next six weeks.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-4",
+          "speaker": "Speaker",
+          "start_time": 15.0,
+          "end_time": 21.0,
+          "text_en": "During our annual Spring Sale, we never have enough permanent workers to handle everything.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-5",
+          "speaker": "Speaker",
+          "start_time": 21.0,
+          "end_time": 26.0,
+          "text_en": "Your supervisor, Margaret Mallon, will explain how to take customers orders.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-6",
+          "speaker": "Speaker",
+          "start_time": 26.0,
+          "end_time": 32.0,
+          "text_en": "First, I want to make sure that we have the information we need to set up your direct deposit.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-7",
+          "speaker": "Speaker",
+          "start_time": 32.0,
+          "end_time": 36.0,
+          "text_en": "We prefer to send your paychecks directly to your bank accounts.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-8",
+          "speaker": "Speaker",
+          "start_time": 36.0,
+          "end_time": 43.0,
+          "text_en": "There's a white folder on the table in front of you. So, let's get started there.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-9",
+          "speaker": "Speaker",
+          "start_time": 43.0,
+          "end_time": 49.0,
+          "text_en": "Number 77. Why did the company hire temporary workers?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-10",
+          "speaker": "Speaker",
+          "start_time": 57.0,
+          "end_time": 62.0,
+          "text_en": "Number 78. What will Margaret Mallon discuss?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-11",
+          "speaker": "Speaker",
+          "start_time": 69.0,
+          "end_time": 73.0,
+          "text_en": "Number 79. Why does the speaker say?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-12",
+          "speaker": "Speaker",
+          "start_time": 73.0,
+          "end_time": 76.0,
+          "text_en": "There's a white folder on the table in front of you.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "5d630b6e-19dc-57b6-8316-0f5f8282e96c",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test3/part4_g80_82.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g80_82-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Questions 80 through 82 refer to the following broadcast.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 15.0,
+          "text_en": "Before we get back to our program, the organization called On the Farm is proud to announce a new training program for people who work with livestock.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-3",
+          "speaker": "Speaker",
+          "start_time": 15.0,
+          "end_time": 22.0,
+          "text_en": "The livestock operations program provides trainees with the most up-to-date techniques in raising cattle.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-4",
+          "speaker": "Speaker",
+          "start_time": 22.0,
+          "end_time": 27.0,
+          "text_en": "You'll learn about the latest methods of proper fencing, feeding, and medical care.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-5",
+          "speaker": "Speaker",
+          "start_time": 27.0,
+          "end_time": 32.0,
+          "text_en": "The training is delivered at your workplace and is tailored to suit your needs.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-6",
+          "speaker": "Speaker",
+          "start_time": 32.0,
+          "end_time": 37.0,
+          "text_en": "The course takes one year and leads to a certificate in livestock operations.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-7",
+          "speaker": "Speaker",
+          "start_time": 37.0,
+          "end_time": 45.0,
+          "text_en": "Call on the farm at 555-0128 for more information or to register.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-8",
+          "speaker": "Speaker",
+          "start_time": 45.0,
+          "end_time": 57.0,
+          "text_en": "Number 80. What is the speaker discussing?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-9",
+          "speaker": "Speaker",
+          "start_time": 57.0,
+          "end_time": 69.0,
+          "text_en": "Number 81. Who is the announcement intended for?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-10",
+          "speaker": "Speaker",
+          "start_time": 69.0,
+          "end_time": 76.0,
+          "text_en": "Number 82. How can a person get more information?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "c5afad36-cd36-5f72-8e0f-2f734a697456",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test3/part4_g83_85.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g83_85-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 6.0,
+          "text_en": "Questions 83-85 refer to the following telephone message.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-2",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 12.04,
+          "text_en": "Hello Mr. Joomer. This is the Municipal Water Department. We have been investigating flooding",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-3",
+          "speaker": "Speaker",
+          "start_time": 12.04,
+          "end_time": 16.64,
+          "text_en": "on Bozeman Street that was reported over the phone Sunday night. Our technicians ruled",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-4",
+          "speaker": "Speaker",
+          "start_time": 16.64,
+          "end_time": 21.96,
+          "text_en": "out a water main break. They determined that a pipe had burst on the grounds of your bakery.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-5",
+          "speaker": "Speaker",
+          "start_time": 21.96,
+          "end_time": 26.88,
+          "text_en": "They turned off the water supply to your business. Please be aware that it is your responsibility",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-6",
+          "speaker": "Speaker",
+          "start_time": 26.88,
+          "end_time": 32.56,
+          "text_en": "to repair the pipe. Your insurance may cover the cost. We will turn the water back on once",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-7",
+          "speaker": "Speaker",
+          "start_time": 32.56,
+          "end_time": 35.56,
+          "text_en": "the pipe is fixed.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-8",
+          "speaker": "Speaker",
+          "start_time": 35.56,
+          "end_time": 46.48,
+          "text_en": "83-Who is the speaker?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-9",
+          "speaker": "Speaker",
+          "start_time": 46.48,
+          "end_time": 52.88,
+          "text_en": "84-What problem does the speaker identify?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-10",
+          "speaker": "Speaker",
+          "start_time": 56.88,
+          "end_time": 66.88,
+          "text_en": "85-What will the listener most likely do after listening to the message?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "1b8b8818-e5ac-559d-a498-9dce5f08dcfe",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test3/part4_g86_88.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g86_88-1",
+          "speaker": "Speaker",
+          "start_time": 0.96,
+          "end_time": 5.36,
+          "text_en": "Questions 86 through 88 refer to the following introduction.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-2",
+          "speaker": "Speaker",
+          "start_time": 6.48,
+          "end_time": 11.68,
+          "text_en": "I hope that everyone enjoyed the delightful meal. It's almost time for us to present this",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-3",
+          "speaker": "Speaker",
+          "start_time": 11.68,
+          "end_time": 17.76,
+          "text_en": "year's awards to our athletes here at the National Tennis Conference. However, before we do so,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-4",
+          "speaker": "Speaker",
+          "start_time": 17.76,
+          "end_time": 23.6,
+          "text_en": "I am honored to welcome a very special speaker up to the stage. Bridget Rowland,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-5",
+          "speaker": "Speaker",
+          "start_time": 23.6,
+          "end_time": 28.48,
+          "text_en": "this moment is such a thrill for me. Ms. Rowland is a superb competitor.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-6",
+          "speaker": "Speaker",
+          "start_time": 28.56,
+          "end_time": 33.92,
+          "text_en": "She has won multiple tournaments and is also renowned for her charity work and sponsorships.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-7",
+          "speaker": "Speaker",
+          "start_time": 34.56,
+          "end_time": 39.44,
+          "text_en": "Before she comes to the podium, I'd like to remind you that photographs of tonight's event",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-8",
+          "speaker": "Speaker",
+          "start_time": 39.44,
+          "end_time": 46.0,
+          "text_en": "are prohibited, but everyone in attendance will receive a signed photograph of our guest at the end of the",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-9",
+          "speaker": "Speaker",
+          "start_time": 46.0,
+          "end_time": 52.72,
+          "text_en": "event. Number 86. What type of event is taking place?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-10",
+          "speaker": "Speaker",
+          "start_time": 59.36,
+          "end_time": 65.28,
+          "text_en": "Number 87. What does the speaker mean when he says?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-11",
+          "speaker": "Speaker",
+          "start_time": 66.0,
+          "end_time": 67.84,
+          "text_en": "This moment is such a thrill for me.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-12",
+          "speaker": "Speaker",
+          "start_time": 76.08,
+          "end_time": 80.08,
+          "text_en": "Number 88. What are the listeners reminded to do?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "816e2676-eae6-5191-a041-26cc3108b2d8",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test3/part4_g89_91.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g89_91-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 6.8,
+          "text_en": "Questions 89-91 refer to the following broadcast.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-2",
+          "speaker": "Speaker",
+          "start_time": 6.8,
+          "end_time": 10.48,
+          "text_en": "Welcome to the WLED Radio Traffic Report.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-3",
+          "speaker": "Speaker",
+          "start_time": 10.48,
+          "end_time": 15.4,
+          "text_en": "There's heavy traffic in Bellevue City Center this afternoon as organizers prepare for tomorrow's",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-4",
+          "speaker": "Speaker",
+          "start_time": 15.4,
+          "end_time": 17.6,
+          "text_en": "annual marathon.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-5",
+          "speaker": "Speaker",
+          "start_time": 17.6,
+          "end_time": 22.32,
+          "text_en": "Runners and their families are arriving in town, and excitement is in the air.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-6",
+          "speaker": "Speaker",
+          "start_time": 22.32,
+          "end_time": 28.8,
+          "text_en": "Remember you can log in to our website to follow the race, where we will post updates regularly.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-7",
+          "speaker": "Speaker",
+          "start_time": 28.8,
+          "end_time": 33.12,
+          "text_en": "For those of you planning on coming to the city center to watch the marathon tomorrow,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-8",
+          "speaker": "Speaker",
+          "start_time": 33.12,
+          "end_time": 36.84,
+          "text_en": "I suggest you use the Bellevue Bicycle Rental System.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-9",
+          "speaker": "Speaker",
+          "start_time": 36.84,
+          "end_time": 41.56,
+          "text_en": "You can take public transportation to the city center, and then get one of the city bicycles",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-10",
+          "speaker": "Speaker",
+          "start_time": 41.56,
+          "end_time": 46.96,
+          "text_en": "located at Central Train Station to move around.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-11",
+          "speaker": "Speaker",
+          "start_time": 46.96,
+          "end_time": 51.84,
+          "text_en": "Number 89-What is causing heavy traffic in the city center?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-12",
+          "speaker": "Speaker",
+          "start_time": 59.8,
+          "end_time": 65.8,
+          "text_en": "Number 90-Why should the listeners visit the radio station's website?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-13",
+          "speaker": "Speaker",
+          "start_time": 73.12,
+          "end_time": 78.56,
+          "text_en": "Number 91-What does the speaker recommend the listeners do?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "8f4b373f-faaf-5ad0-aa64-5d91122f80ed",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test3/part4_g92_94.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g92_94-1",
+          "speaker": "Speaker",
+          "start_time": 0.96,
+          "end_time": 5.6,
+          "text_en": "Questions 92 through 94 refer to the following telephone message.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-2",
+          "speaker": "Speaker",
+          "start_time": 6.64,
+          "end_time": 12.88,
+          "text_en": "Hi, this message is for Josephine Sanders. This is Chang Su from Lindmar Dental.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-3",
+          "speaker": "Speaker",
+          "start_time": 12.88,
+          "end_time": 18.56,
+          "text_en": "I took your dental x-rays this morning. After you left the office, I found a necklace in the x-ray",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-4",
+          "speaker": "Speaker",
+          "start_time": 18.56,
+          "end_time": 25.44,
+          "text_en": "room. I'm pretty sure that it's yours. I remember asking you to take it off before I took your x-rays.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-5",
+          "speaker": "Speaker",
+          "start_time": 25.52,
+          "end_time": 30.32,
+          "text_en": "I must have forgotten to return it to you. I apologize for the inconvenience,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-6",
+          "speaker": "Speaker",
+          "start_time": 30.32,
+          "end_time": 36.0,
+          "text_en": "but our office is open until seven tonight. If I'm not here, just ask the receptionist.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-7",
+          "speaker": "Speaker",
+          "start_time": 38.16,
+          "end_time": 41.76,
+          "text_en": "Number 92. Where does the speaker work?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-8",
+          "speaker": "Speaker",
+          "start_time": 41.76,
+          "end_time": 54.0,
+          "text_en": "Number 93. What did the speaker forget to do?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-9",
+          "speaker": "Speaker",
+          "start_time": 62.24,
+          "end_time": 68.72,
+          "text_en": "Number 94. Why does the speaker say, our office is open until seven tonight?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "0e6232a9-c9ef-560a-862f-6296463f4f5c",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 4,
+      "passage_text": null,
+      "image_url": "/images/test3/part4_g95_97.png",
+      "audio_url": "/audio/test3/part4_g95_97.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g95_97-1",
+          "speaker": "Speaker",
+          "start_time": 0.96,
+          "end_time": 6.96,
+          "text_en": "Questions 95 through 97 refer to the following excerpt from a meeting and the graphic.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-2",
+          "speaker": "Speaker",
+          "start_time": 8.08,
+          "end_time": 14.88,
+          "text_en": "Our workers haul soil, garden mulch and plants every day to make our customers yards look beautiful.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-3",
+          "speaker": "Speaker",
+          "start_time": 15.44,
+          "end_time": 21.52,
+          "text_en": "They need strong hand cuts to move these heavy items. The classic hand cuts we have now are",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-4",
+          "speaker": "Speaker",
+          "start_time": 21.52,
+          "end_time": 28.48,
+          "text_en": "poor quality, they fall apart and our workers constantly repair them. We need the strongest",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-5",
+          "speaker": "Speaker",
+          "start_time": 28.56,
+          "end_time": 35.52,
+          "text_en": "hand cuts available. I recommend we purchase the $150 model because it will not break easily.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-6",
+          "speaker": "Speaker",
+          "start_time": 36.08,
+          "end_time": 41.84,
+          "text_en": "It's so durable that we'll save money in the end. If you agree, I'll order 20 of them.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-7",
+          "speaker": "Speaker",
+          "start_time": 41.84,
+          "end_time": 48.32,
+          "text_en": "Number 95. Where does the speaker most likely work?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-8",
+          "speaker": "Speaker",
+          "start_time": 56.56,
+          "end_time": 60.88,
+          "text_en": "Number 96. What is the speaker's highest priority?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-9",
+          "speaker": "Speaker",
+          "start_time": 60.88,
+          "end_time": 76.8,
+          "text_en": "Number 97. Look at the graphic. Which hand cart does the speaker want to buy?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "b3987a9b-79f1-548a-9d3b-5078a11a137a",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 4,
+      "passage_text": null,
+      "image_url": "/images/test3/part4_g98_100.png",
+      "audio_url": "/audio/test3/part4_g98_100.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g98_100-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 7.0,
+          "text_en": "Questions 98 through 100 refer to the following instructions and the graphic.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-2",
+          "speaker": "Speaker",
+          "start_time": 7.0,
+          "end_time": 11.0,
+          "text_en": "Thank you all for being here. I'd like to go over our next training module.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-3",
+          "speaker": "Speaker",
+          "start_time": 11.0,
+          "end_time": 15.0,
+          "text_en": "By now, you should all be familiar with how to create a lead,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-4",
+          "speaker": "Speaker",
+          "start_time": 15.0,
+          "end_time": 18.0,
+          "text_en": "contact your potential customers and close on a deal.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-5",
+          "speaker": "Speaker",
+          "start_time": 18.0,
+          "end_time": 24.0,
+          "text_en": "As a sales representative, you're used to focusing on your own leads and clients, and that's terrific.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-6",
+          "speaker": "Speaker",
+          "start_time": 24.0,
+          "end_time": 29.0,
+          "text_en": "However, there is strength in teamwork, and that's what we'll work on now.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-7",
+          "speaker": "Speaker",
+          "start_time": 29.0,
+          "end_time": 32.0,
+          "text_en": "Let's get started. I'd like you to create three groups,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-8",
+          "speaker": "Speaker",
+          "start_time": 32.0,
+          "end_time": 39.0,
+          "text_en": "and we're going to take on the roles of different characters in typical scenarios involving clients.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-9",
+          "speaker": "Speaker",
+          "start_time": 39.0,
+          "end_time": 51.0,
+          "text_en": "Who is the training intended for?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-10",
+          "speaker": "Speaker",
+          "start_time": 51.0,
+          "end_time": 69.0,
+          "text_en": "Number 99. Look at the graphic. How long will the training be?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-11",
+          "speaker": "Speaker",
+          "start_time": 69.0,
+          "end_time": 80.0,
+          "text_en": "Number 100. What does the speaker tell the listeners to do?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "bbf3664a-8080-5a9a-896e-1cd9da361ad0",
+      "group_id": "07367c74-e600-5892-a638-288b16c7211c",
+      "part": 4,
+      "question_number": 71,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What is being advertised?",
+      "options": {
+        "A": "An online supermarket",
+        "B": "A travel guide",
+        "C": "A beverage product",
+        "D": "A hotel chain"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Người nói gửi lời cảm ơn nhà tài trợ 'Perfect Tea' và giới thiệu về dòng sản phẩm trà này. Trà là một sản phẩm đồ uống (a beverage product). Do đó đáp án C là chính xác. Bẫy đáp án khác: A, B, D không được đề cập trong bài nói.",
+      "evidence_quote": "Take a deep breath and give yourself a break with Perfect Tea.",
+      "paraphrase_pair": {
+        "original": "Perfect Tea",
+        "paraphrased": "A beverage product"
+      }
+    },
+    {
+      "id": "b06f77b5-3339-5c3a-80aa-a63791f6cf43",
+      "group_id": "07367c74-e600-5892-a638-288b16c7211c",
+      "part": 4,
+      "question_number": 72,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What does the speaker emphasize?",
+      "options": {
+        "A": "The eco-friendly policy of a business",
+        "B": "The superior flavor of a product",
+        "C": "The extensive selection on a Web site",
+        "D": "The positive reviews of a brand"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Người nói nhấn mạnh rằng hỗn hợp trà có hương vị thơm ngon đặc trưng (strong and aromatic flavour) và khẳng định người nghe sẽ không tìm thấy hương vị này ở đâu khác. Điều này làm nổi bật hương vị vượt trội (superior flavor) của sản phẩm. Đáp án B chính xác.",
+      "evidence_quote": "gives Perfect Tea its strong and aromatic flavour. Believe me, you won't find this taste anywhere else.",
+      "paraphrase_pair": {
+        "original": "strong and aromatic flavour... won't find this taste anywhere else",
+        "paraphrased": "superior flavor of a product"
+      }
+    },
+    {
+      "id": "0ef8f4ca-013d-581f-ad69-3ff255296dcd",
+      "group_id": "07367c74-e600-5892-a638-288b16c7211c",
+      "part": 4,
+      "question_number": 73,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What is a benefit of membership?",
+      "options": {
+        "A": "It provides a discount.",
+        "B": "It makes ordering more efficient.",
+        "C": "It includes access to an online chat room.",
+        "D": "It comes with a gift."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Người nói đề cập rằng khi đăng ký hội viên (membership), sản phẩm sẽ được tự động giao hàng tháng (delivered to you automatically each month), giúp tiết kiệm thời gian và đặt hàng hiệu quả hơn (makes ordering more efficient). Chọn B.",
+      "evidence_quote": "you can now sign up for a membership to have your favourite teas delivered to you automatically each month.",
+      "paraphrase_pair": {
+        "original": "delivered to you automatically each month",
+        "paraphrased": "makes ordering more efficient"
+      }
+    },
+    {
+      "id": "4feea296-3a3c-560b-8924-9bcf22aeb924",
+      "group_id": "aeb9efea-7747-5ca0-b6a7-7fe96b750d95",
+      "part": 4,
+      "question_number": 74,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Who is Sarah Levinson?",
+      "options": {
+        "A": "A university professor",
+        "B": "A coach",
+        "C": "A computer scientist",
+        "D": "A book author"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Người phát thanh giới thiệu Sarah Levinson là tác giả của cuốn sách 'All You Need to Know About Retirement Investments' (author of the book). Vì vậy đáp án đúng là D (A book author).",
+      "evidence_quote": "She's the author of the book, All You Need to Know About Retirement Investments.",
+      "paraphrase_pair": {
+        "original": "author of the book",
+        "paraphrased": "A book author"
+      }
+    },
+    {
+      "id": "e4cc1866-786d-55df-a98c-f974df283810",
+      "group_id": "aeb9efea-7747-5ca0-b6a7-7fe96b750d95",
+      "part": 4,
+      "question_number": 75,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What is the main topic of the broadcast?",
+      "options": {
+        "A": "Digital trends in publishing",
+        "B": "Qualities of a good bank",
+        "C": "How to save for retirement",
+        "D": "Best jobs in finance"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Người nói tuyên bố chủ đề của chương trình hôm nay là 'preparing for retirement' (chuẩn bị cho việc nghỉ hưu), tương đồng về nghĩa với việc tích lũy/tiết kiệm cho nghỉ hưu (How to save for retirement). Chọn C.",
+      "evidence_quote": "Today I'll discuss the topic of preparing for retirement with my guest Sarah Levinson.",
+      "paraphrase_pair": {
+        "original": "preparing for retirement",
+        "paraphrased": "How to save for retirement"
+      }
+    },
+    {
+      "id": "989d8e09-73f8-514e-9226-80d9933c119c",
+      "group_id": "aeb9efea-7747-5ca0-b6a7-7fe96b750d95",
+      "part": 4,
+      "question_number": 76,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What kind of company sponsors the broadcast?",
+      "options": {
+        "A": "A local store",
+        "B": "A publishing company",
+        "C": "A technology firm",
+        "D": "A health supplement manufacturer"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Nhà tài trợ cho chương trình là Pinnacle's với sản phẩm bổ sung Vitamin C (vitamin C supplement), chứng tỏ đây là một nhà sản xuất thực phẩm bổ sung sức khỏe (A health supplement manufacturer). Do đó chọn D.",
+      "evidence_quote": "sponsors over at Pinnacle's and their brand new vitamin C supplement.",
+      "paraphrase_pair": {
+        "original": "Pinnacle's and their brand new vitamin C supplement",
+        "paraphrased": "A health supplement manufacturer"
+      }
+    },
+    {
+      "id": "ed11bcf5-4786-57d8-b9e6-f8aace6b2176",
+      "group_id": "c87652f6-19b2-5e9f-bebb-646f9b358046",
+      "part": 4,
+      "question_number": 77,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Why did the company hire temporary workers?",
+      "options": {
+        "A": "It has opened a new office.",
+        "B": "It is selling a wider variety of products.",
+        "C": "It is very busy this time of year.",
+        "D": "It is installing a new computer system."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Bài nói nêu lý do tuyển thêm người làm trong 6 tuần vì vào đợt giảm giá mùa xuân hàng năm, công ty không đủ nhân viên cố định để đáp ứng công việc (rất bận rộn vào thời điểm này trong năm). Đáp án đúng là C.",
+      "evidence_quote": "During our annual spring sale, we never have enough permanent workers to handle everything.",
+      "paraphrase_pair": {
+        "original": "annual spring sale, we never have enough permanent workers to handle everything",
+        "paraphrased": "It is very busy this time of year."
+      }
+    },
+    {
+      "id": "cab6311c-ee50-5a26-a893-ce1f1c21ecc2",
+      "group_id": "c87652f6-19b2-5e9f-bebb-646f9b358046",
+      "part": 4,
+      "question_number": 78,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What will Margaret Mallon discuss?",
+      "options": {
+        "A": "How to take customers' orders",
+        "B": "How to open a bank account",
+        "C": "How to close the store each night",
+        "D": "How to handle customer complaints"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Người nói chỉ rõ rằng giám sát Margaret Mallon sẽ hướng dẫn 'how to take customer's orders' (cách nhận đơn đặt hàng của khách hàng). Chọn A.",
+      "evidence_quote": "Your supervisor, Margaret Mallon, will explain how to take customer's orders.",
+      "paraphrase_pair": {
+        "original": "how to take customer's orders",
+        "paraphrased": "How to take customers' orders"
+      }
+    },
+    {
+      "id": "25056d9e-b891-5aaf-8bcb-99aae4d52137",
+      "group_id": "c87652f6-19b2-5e9f-bebb-646f9b358046",
+      "part": 4,
+      "question_number": 79,
+      "question_type_tag": "indirect_response",
+      "question_text": "Why does the speaker say, \"There's a white folder on the table in front of you\"?",
+      "options": {
+        "A": "To review a gardening supplies price list",
+        "B": "To share some company history",
+        "C": "To introduce some job duties",
+        "D": "To ask for some banking information"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Trước khi nhắc tới cặp hồ sơ màu trắng trên bàn, người nói nhấn mạnh cần thu thập thông tin tài khoản ngân hàng để thiết lập chuyển khoản lương trực tiếp (direct deposit/bank accounts). Do đó câu nói này dùng để yêu cầu thông tin ngân hàng. Chọn D.",
+      "evidence_quote": "First, I want to make sure that we have the information we need to set up your direct deposit. We prefer to send your paychecks directly to your bank accounts. There's a white folder on the table in front of you.",
+      "paraphrase_pair": {
+        "original": "information we need to set up your direct deposit... send your paychecks directly to your bank accounts",
+        "paraphrased": "ask for some banking information"
+      }
+    },
+    {
+      "id": "c74f665c-e688-5784-bf35-aad3398f47b3",
+      "group_id": "5d630b6e-19dc-57b6-8316-0f5f8282e96c",
+      "part": 4,
+      "question_number": 80,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What is the speaker discussing?",
+      "options": {
+        "A": "A supermarket sale",
+        "B": "An agricultural show",
+        "C": "An educational program",
+        "D": "An outdoor festival"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Người nói đang thông báo về một 'training program' (chương trình đào tạo), tương đương với một chương trình giáo dục/huấn luyện (educational program). Đáp án C đúng.",
+      "evidence_quote": "announce a new training program for people who work with livestock.",
+      "paraphrase_pair": {
+        "original": "training program",
+        "paraphrased": "educational program"
+      }
+    },
+    {
+      "id": "567725cc-5f9b-5247-9826-a21c9cd69928",
+      "group_id": "5d630b6e-19dc-57b6-8316-0f5f8282e96c",
+      "part": 4,
+      "question_number": 81,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Who is the announcement intended for?",
+      "options": {
+        "A": "Cattle farmers",
+        "B": "Foresters",
+        "C": "College students",
+        "D": "Restaurant cooks"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Chương trình cung cấp các kỹ thuật trong việc 'raising cattle' (chăn nuôi gia súc/bò), do đó đối tượng hướng tới là nông dân chăn nuôi bò (Cattle farmers). Chọn A.",
+      "evidence_quote": "provides trainees with the most up-to-date techniques in raising cattle.",
+      "paraphrase_pair": {
+        "original": "raising cattle",
+        "paraphrased": "Cattle farmers"
+      }
+    },
+    {
+      "id": "0a540f36-21c3-5953-b207-ea2aecf18ca1",
+      "group_id": "5d630b6e-19dc-57b6-8316-0f5f8282e96c",
+      "part": 4,
+      "question_number": 82,
+      "question_type_tag": "detail_lookup",
+      "question_text": "How can a person get more information?",
+      "options": {
+        "A": "By going to a farm",
+        "B": "By sending an e-mail",
+        "C": "By going to a Web site",
+        "D": "By calling a phone number"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Ở cuối bài nói, speaker hướng dẫn người nghe gọi điện theo số 555-0128 ('Call on the farm at 555-0128') để biết thêm thông tin. Chọn D.",
+      "evidence_quote": "Call on the farm at 555-0128 for more information or to register.",
+      "paraphrase_pair": {
+        "original": "Call on the farm at 555-0128",
+        "paraphrased": "calling a phone number"
+      }
+    },
+    {
+      "id": "22401f5a-50d7-5f55-a543-cdd9ba96f29d",
+      "group_id": "c5afad36-cd36-5f72-8e0f-2f734a697456",
+      "part": 4,
+      "question_number": 83,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Who is the speaker?",
+      "options": {
+        "A": "A plumber",
+        "B": "A shop owner",
+        "C": "A reporter",
+        "D": "A city employee"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Người nói giới thiệu bản thân gọi từ 'Municipal Water Department' (Cục cấp nước thành phố), vì thế người nói là một nhân viên của thành phố (city employee). Chọn D.",
+      "evidence_quote": "This is the Municipal Water Department.",
+      "paraphrase_pair": {
+        "original": "Municipal Water Department",
+        "paraphrased": "city employee"
+      }
+    },
+    {
+      "id": "3fcd4044-e760-57b8-882e-6e053460165a",
+      "group_id": "c5afad36-cd36-5f72-8e0f-2f734a697456",
+      "part": 4,
+      "question_number": 84,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What problem does the speaker identify?",
+      "options": {
+        "A": "A broken water pipe",
+        "B": "A heavy rainstorm",
+        "C": "A change to an insurance policy",
+        "D": "A misleading phone call"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Kỹ thuật viên xác định nguyên nhân gây ngập lụt là do 'a pipe had burst' (vỡ đường ống nước) tại khuôn viên tiệm bánh. Từ này tương đương với 'A broken water pipe'. Chọn A.",
+      "evidence_quote": "They determined that a pipe had burst on the grounds of your bakery.",
+      "paraphrase_pair": {
+        "original": "a pipe had burst",
+        "paraphrased": "A broken water pipe"
+      }
+    },
+    {
+      "id": "1e53d26b-1d75-53fc-9498-66f1e442bb06",
+      "group_id": "c5afad36-cd36-5f72-8e0f-2f734a697456",
+      "part": 4,
+      "question_number": 85,
+      "question_type_tag": "inference",
+      "question_text": "What will the listener most likely do after listening to the message?",
+      "options": {
+        "A": "Cancel his insurance policy",
+        "B": "Move his bakery",
+        "C": "Open his store for business",
+        "D": "Arrange for a repair"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Người nói khẳng định việc sửa ống nước là trách nhiệm của người nghe ('your responsibility to repair the pipe') và nước chỉ được mở lại khi ống nước đã được sửa ('once the pipe is fixed'). Do đó, việc người nghe sẽ làm tiếp theo là thu xếp sửa chữa (Arrange for a repair). Đáp án D chính xác.",
+      "evidence_quote": "Please be aware that it is your responsibility to repair the pipe... We will turn the water back on once the pipe is fixed.",
+      "paraphrase_pair": {
+        "original": "your responsibility to repair the pipe",
+        "paraphrased": "Arrange for a repair"
+      }
+    },
+    {
+      "id": "989c5679-6628-5487-8526-80ed2e4e6bac",
+      "group_id": "1b8b8818-e5ac-559d-a498-9dce5f08dcfe",
+      "part": 4,
+      "question_number": 86,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What type of event is taking place?",
+      "options": {
+        "A": "A writers' workshop",
+        "B": "A debate competition",
+        "C": "A sports awards ceremony",
+        "D": "A book signing"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Diễn giả mở đầu bằng việc đề cập đến việc trao giải cho các vận động viên tại Hội nghị Quần vợt Quốc gia: 'present this year's awards to our athletes here at the National Tennis Conference'.\n\nGiải thích chi tiết:\n- Lựa chọn (C) A sports awards ceremony (Một lễ trao giải thể thao) phản ánh chính xác ngữ cảnh trao giải thưởng cho các vận động viên tennis.\n\nBẫy ETS & Đáp án sai:\n- (A), (B), (D) là các loại hình sự kiện khác không được nhắc tới trong đoạn nói.\n\nMẹo phản xạ 10s: Nghe cụm từ khóa 'present... awards to our athletes' -> chọn ngay đáp án liên quan đến 'sports awards'.",
+      "evidence_quote": "present this year's awards to our athletes here at the National Tennis Conference.",
+      "paraphrase_pair": {
+        "original": "present this year's awards to our athletes",
+        "paraphrased": "A sports awards ceremony"
+      }
+    },
+    {
+      "id": "4272603e-4f2a-5606-b362-d7059e8247a2",
+      "group_id": "1b8b8818-e5ac-559d-a498-9dce5f08dcfe",
+      "part": 4,
+      "question_number": 87,
+      "question_type_tag": "inference",
+      "question_text": "What does the speaker mean when he says, \"This moment is such a thrill for me\"?",
+      "options": {
+        "A": "He admires a guest speaker.",
+        "B": "He likes speaking to audiences.",
+        "C": "He is enjoying a meal.",
+        "D": "He is pleased to win an award."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích câu ngụ ý: Ngay trước và sau khi nói 'This moment is such a thrill for me' (Khoảnh khắc này thật hào hứng đối với tôi), người nói đang giới thiệu khách mời đặc biệt Bridget Rowland và khen ngợi cô ấy là 'a superb competitor' (một đối thủ tuyệt vời đã giành nhiều giải đấu).\n\nGiải thích chi tiết:\n- (A) He admires a guest speaker (Anh ấy ngưỡng mộ diễn giả khách mời) là ý nghĩa thực sự của câu nói nhằm thể hiện sự tôn kính và ngưỡng mộ dành cho vị khách mời.\n\nBẫy ETS & Đáp án sai:\n- (B) Người nói không bàn về sở thích diễn thuyết.\n- (C) Bữa ăn đã diễn ra xong ('enjoyed the delightful meal').\n- (D) Người nói không phải là người nhận giải thưởng.",
+      "evidence_quote": "I am honored to welcome a very special speaker up to the stage. Bridget Rowland. This moment is such a thrill for me. Ms. Rowland is a superb competitor.",
+      "paraphrase_pair": {
+        "original": "honored to welcome a very special speaker... Ms. Rowland is a superb competitor",
+        "paraphrased": "He admires a guest speaker"
+      }
+    },
+    {
+      "id": "7a51b57e-6b2e-5f45-adeb-4306e946f2ca",
+      "group_id": "1b8b8818-e5ac-559d-a498-9dce5f08dcfe",
+      "part": 4,
+      "question_number": 88,
+      "question_type_tag": "instruction_action",
+      "question_text": "What are the listeners reminded to do?",
+      "options": {
+        "A": "Hold their applause until the end",
+        "B": "Finish their meals",
+        "C": "Turn off their phones",
+        "D": "Avoid taking pictures"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Ở cuối bài phát biểu, người nói nhắc nhở người nghe: 'I'd like to remind you that photographs of tonight's event are prohibited'.\n\nGiải thích chi tiết:\n- 'photographs are prohibited' (nghiêm cấm chụp ảnh) đồng nghĩa với (D) Avoid taking pictures (Tránh chụp ảnh).\n\nBẫy ETS & Đáp án sai:\n- (A) 'Hold applause' không được đề cập.\n- (B) 'Finish meals' sai vì bữa ăn đã xong.\n- (C) 'Turn off phones' là bẫy thông thường trong các thông báo sự kiện nhưng không có trong bài nghe này.",
+      "evidence_quote": "photographs of tonight's event are prohibited",
+      "paraphrase_pair": {
+        "original": "photographs... are prohibited",
+        "paraphrased": "Avoid taking pictures"
+      }
+    },
+    {
+      "id": "af1eb774-f693-58a5-a566-f355fed6efb6",
+      "group_id": "816e2676-eae6-5191-a041-26cc3108b2d8",
+      "part": 4,
+      "question_number": 89,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What is causing heavy traffic in the city center?",
+      "options": {
+        "A": "Road construction",
+        "B": "Preparation for an event",
+        "C": "Bad weather conditions",
+        "D": "A disabled vehicle"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Phát thanh viên báo cáo rằng có giao thông đông đúc ở trung tâm thành phố Bellevue do 'organizers prepare for tomorrow's annual marathon'.\n\nGiải thích chi tiết:\n- Việc chuẩn bị cho giải chạy marathon được khái quát thành (B) Preparation for an event (Sự chuẩn bị cho một sự kiện).\n\nBẫy ETS & Đáp án sai:\n- (A) Road construction, (C) Bad weather, (D) Disabled vehicle là các nguyên nhân kẹt xe phổ biến trong thực tế nhưng không xuất hiện trong bài nói.",
+      "evidence_quote": "heavy traffic in Bellevue City Center this afternoon as organizers prepare for tomorrow's annual marathon.",
+      "paraphrase_pair": {
+        "original": "organizers prepare for tomorrow's annual marathon",
+        "paraphrased": "Preparation for an event"
+      }
+    },
+    {
+      "id": "ce5f9214-9684-57f3-9494-e9ee29bce533",
+      "group_id": "816e2676-eae6-5191-a041-26cc3108b2d8",
+      "part": 4,
+      "question_number": 90,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Why should the listeners visit the radio station's Web site?",
+      "options": {
+        "A": "To enter a contest",
+        "B": "To request some music",
+        "C": "To ask some questions about city planning",
+        "D": "To learn about the progress of a sporting event"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Bài nói khuyên thính giả: 'log in to our website to follow the race, where we will post updates regularly'.\n\nGiải thích chi tiết:\n- 'follow the race' (theo dõi cuộc đua marathon - một sự kiện thể thao) tương ứng với (D) To learn about the progress of a sporting event (Để biết thông tin tiến trình của một sự kiện thể thao).\n\nBẫy ETS & Đáp án sai:\n- (A), (B), (C) chứa các từ thuộc chủ đề phát thanh/thành phố nhưng sai nội dung hành động.",
+      "evidence_quote": "log in to our website to follow the race, where we will post updates regularly.",
+      "paraphrase_pair": {
+        "original": "log in to our website to follow the race",
+        "paraphrased": "To learn about the progress of a sporting event"
+      }
+    },
+    {
+      "id": "e94bf87e-f262-5c05-bf8e-1b9ab834585e",
+      "group_id": "816e2676-eae6-5191-a041-26cc3108b2d8",
+      "part": 4,
+      "question_number": 91,
+      "question_type_tag": "instruction_action",
+      "question_text": "What does the speaker recommend the listeners do?",
+      "options": {
+        "A": "Work from home",
+        "B": "Avoid driving into the city center",
+        "C": "Wait for another traffic report",
+        "D": "Take a different exit"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Phát thanh viên khuyên khán giả muốn đến xem marathon nên đi phương tiện công cộng và thuê xe đạp: 'I suggest you use the Bellevue Bicycle Rental System. You can take public transportation to the city center and then get one of the city bicycles...'.\n\nGiải thích chi tiết:\n- Việc khuyên đi phương tiện công cộng và xe đạp đồng nghĩa với việc khuyên (B) Avoid driving into the city center (Tránh tự lái xe vào trung tâm thành phố).\n\nBẫy ETS & Đáp án sai:\n- (A), (C), (D) không hề được nhắc tới trong lời khuyên của diễn giả.",
+      "evidence_quote": "take public transportation to the city center and then get one of the city bicycles",
+      "paraphrase_pair": {
+        "original": "take public transportation... get one of the city bicycles",
+        "paraphrased": "Avoid driving into the city center"
+      }
+    },
+    {
+      "id": "d6b74323-6028-5238-a326-f078b87af50c",
+      "group_id": "8f4b373f-faaf-5ad0-aa64-5d91122f80ed",
+      "part": 4,
+      "question_number": 92,
+      "question_type_tag": "wh_where",
+      "question_text": "Where does the speaker work?",
+      "options": {
+        "A": "At a jewelry store",
+        "B": "At a dental office",
+        "C": "At a medical supply store",
+        "D": "At a hotel chain"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Diễn giả giới thiệu bản thân: 'This is Chang Su from Lindmar Dental. I took your dental x-rays this morning.'\n\nGiải thích chi tiết:\n- 'Lindmar Dental' và 'dental x-rays' khẳng định diễn giả làm việc tại (B) At a dental office (Tại một phòng khám nha khoa).\n\nBẫy ETS & Đáp án sai:\n- (A) Jewelry store là bẫy từ chiếc dây chuyền ('necklace') bị bỏ quên.\n- (C), (D) không phù hợp với thông tin tên phòng khám nha khoa.",
+      "evidence_quote": "This is Chang Su from Lindmar Dental. I took your dental x-rays this morning.",
+      "paraphrase_pair": {
+        "original": "Lindmar Dental",
+        "paraphrased": "a dental office"
+      }
+    },
+    {
+      "id": "ca17a001-5e54-5887-be9d-7a7d380ac074",
+      "group_id": "8f4b373f-faaf-5ad0-aa64-5d91122f80ed",
+      "part": 4,
+      "question_number": 93,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What did the speaker forget to do?",
+      "options": {
+        "A": "Give back a necklace",
+        "B": "Write down a phone number",
+        "C": "Send some X-ray results",
+        "D": "Call a receptionist"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Diễn giả giải thích đã bảo bệnh nhân tháo dây chuyền ra và: 'I must have forgotten to return it to you' (Tôi hẳn là đã quên trả lại nó cho cô).\n\nGiải thích chi tiết:\n- 'return it (the necklace)' được paraphrase thành (A) Give back a necklace (Trả lại sợi dây chuyền).\n\nBẫy ETS & Đáp án sai:\n- (B), (C), (D) là các hành động công sở phổ biến nhưng không phải điều diễn giả đã quên trong bài nghe.",
+      "evidence_quote": "I found a necklace... I must have forgotten to return it to you.",
+      "paraphrase_pair": {
+        "original": "forgotten to return it [necklace] to you",
+        "paraphrased": "Give back a necklace"
+      }
+    },
+    {
+      "id": "4ddadc2d-0c36-543e-a43e-4db82ba60b2d",
+      "group_id": "8f4b373f-faaf-5ad0-aa64-5d91122f80ed",
+      "part": 4,
+      "question_number": 94,
+      "question_type_tag": "inference",
+      "question_text": "Why does the speaker say, \"our office is open until seven tonight\"?",
+      "options": {
+        "A": "To remind the listener about a delivery",
+        "B": "To recommend that a contract be signed quickly",
+        "C": "To ask the listener to return to an office",
+        "D": "To indicate that a sale is ending"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích câu ngụ ý: Diễn giả báo rằng vừa tìm thấy sợi dây chuyền người nghe bỏ quên, sau đó nói 'our office is open until seven tonight' để người nghe biết khung giờ có thể quay lại lấy dây chuyền.\n\nGiải thích chi tiết:\n- Mục đích của câu là (C) To ask the listener to return to an office (Yêu cầu/gợi ý người nghe quay lại văn phòng phòng khám).\n\nBẫy ETS & Đáp án sai:\n- (A) Delivery, (B) Contract, (D) Sale là các ngữ cảnh không hề xuất hiện trong tin nhắn thoại của phòng khám.",
+      "evidence_quote": "I found a necklace... I must have forgotten to return it to you... our office is open until seven tonight.",
+      "paraphrase_pair": {
+        "original": "forgotten to return it... office is open until seven tonight",
+        "paraphrased": "ask the listener to return to an office"
+      }
+    },
+    {
+      "id": "b4e35c25-3eb3-5d76-8409-2827d77cbe5a",
+      "group_id": "0e6232a9-c9ef-560a-862f-6296463f4f5c",
+      "part": 4,
+      "question_number": 95,
+      "question_type_tag": "wh_where",
+      "question_text": "Where does the speaker most likely work?",
+      "options": {
+        "A": "At a hardware store",
+        "B": "At a tool manufacturer",
+        "C": "At a landscaping service",
+        "D": "At a construction company"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Diễn giả chia sẻ: 'Our workers haul soil, garden mulch and plants every day to make our customers' yards look beautiful.' (Công nhân của chúng tôi vận chuyển đất, phân bón sân vườn và cây cảnh mỗi ngày để làm đẹp sân vườn của khách hàng).\n\nGiải thích chi tiết:\n- Công việc làm đẹp sân vườn, vận chuyển đất đá cây cảnh trực thuộc (C) At a landscaping service (Tại một dịch vụ chăm sóc/thiết kế cảnh quan sân vườn).\n\nBẫy ETS & Đáp án sai:\n- (A), (B), (D) liên quan đến dụng cụ/xây dựng nhưng không khớp với công việc làm đẹp 'customers' yards'.",
+      "evidence_quote": "haul soil, garden mulch and plants every day to make our customers' yards look beautiful.",
+      "paraphrase_pair": {
+        "original": "haul soil, garden mulch and plants... make customers' yards look beautiful",
+        "paraphrased": "a landscaping service"
+      }
+    },
+    {
+      "id": "cd83446f-2810-53bc-8c22-20aafa506b42",
+      "group_id": "0e6232a9-c9ef-560a-862f-6296463f4f5c",
+      "part": 4,
+      "question_number": 96,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What is the speaker's highest priority?",
+      "options": {
+        "A": "Buying a long-lasting product",
+        "B": "Spending as little money as possible",
+        "C": "Having the order delivered quickly",
+        "D": "Getting the largest product available"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Diễn giả nhấn mạnh việc cần loại xe đẩy tốt nhất: 'We need the strongest hand-carts available... because it will not break easily. It's so durable that will save money in the end.'\n\nGiải thích chi tiết:\n- Cụm từ 'strongest', 'will not break easily', 'durable' được paraphrase thành (A) Buying a long-lasting product (Mua một sản phẩm có độ bền cao/sử dụng lâu dài).\n\nBẫy ETS & Đáp án sai:\n- (B) 'Spending as little money as possible' sai vì người nói chọn model đắt nhất ($150) thay vì rẻ nhất.\n- (C), (D) không được đề cập.",
+      "evidence_quote": "We need the strongest hand-carts available... will not break easily. It's so durable",
+      "paraphrase_pair": {
+        "original": "strongest... will not break easily... durable",
+        "paraphrased": "long-lasting product"
+      }
+    },
+    {
+      "id": "eb12b8d8-fb35-5a85-8847-f198bc431a69",
+      "group_id": "0e6232a9-c9ef-560a-862f-6296463f4f5c",
+      "part": 4,
+      "question_number": 97,
+      "question_type_tag": "graphic",
+      "question_text": "Look at the graphic. Which handcart does the speaker want to buy?",
+      "options": {
+        "A": "Classic Handcart",
+        "B": "Superior Handcart",
+        "C": "Deluxe Handcart",
+        "D": "Super Duty Handcart"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích biểu đồ & ngữ cảnh: Diễn giả nói rõ: 'I recommend we purchase the $150 model'. Đối chiếu với bảng giá (Graphic):\n- Model giá $150 là 'Super Duty Handcart'.\n\nGiải thích chi tiết:\n- Do đó đáp án chính xác là (D) Super Duty Handcart.\n\nBẫy ETS & Đáp án sai:\n- (A) Classic Handcart ($50) là loại cũ đang bị hỏng.\n- (B) Superior Handcart ($80) và (C) Deluxe Handcart ($110) không khớp với giá $150.",
+      "evidence_quote": "purchase the $150 model",
+      "paraphrase_pair": {
+        "original": "$150 model",
+        "paraphrased": "Super Duty Handcart"
+      }
+    },
+    {
+      "id": "2085e941-9784-5068-a37c-18fdff566234",
+      "group_id": "b3987a9b-79f1-548a-9d3b-5078a11a137a",
+      "part": 4,
+      "question_number": 98,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Who is the training intended for?",
+      "options": {
+        "A": "Sales personnel",
+        "B": "Executive officers",
+        "C": "Human Resource employees",
+        "D": "Product developers"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Diễn giả xưng呼 đối tượng người nghe: 'As a sales representative, you're used to focusing on your own leads and clients...'\n\nGiải thích chi tiết:\n- 'sales representative' (đại diện kinh doanh) thuộc đối tượng (A) Sales personnel (Nhân viên bán hàng/kinh doanh).\n\nBẫy ETS & Đáp án sai:\n- (B), (C), (D) là các bộ phận làm việc khác trong công ty.",
+      "evidence_quote": "As a sales representative, you're used to focusing on your own leads and clients",
+      "paraphrase_pair": {
+        "original": "sales representative",
+        "paraphrased": "Sales personnel"
+      }
+    },
+    {
+      "id": "a218735a-a62b-5edb-a0f3-34628cde44cc",
+      "group_id": "b3987a9b-79f1-548a-9d3b-5078a11a137a",
+      "part": 4,
+      "question_number": 99,
+      "question_type_tag": "graphic",
+      "question_text": "Look at the graphic. How long will the training be?",
+      "options": {
+        "A": "25 minutes",
+        "B": "30 minutes",
+        "C": "20 minutes",
+        "D": "10 minutes"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích biểu đồ & ngữ cảnh: Diễn giả nói: 'However, there is strength in teamwork and that's what we'll work on now.' -> Module huấn luyện hiện tại là về tinh thần làm việc nhóm ('teamwork').\nĐối chiếu với hình ảnh (Graphic):\n- Module 'Work as a Team' có thời lượng là 20 min.\n\nGiải thích chi tiết:\n- Vậy đáp án chọn là (C) 20 minutes.\n\nBẫy ETS & Đáp án sai:\n- (A) 25 min dành cho 'Plan and Organize Your Work'.\n- (B) 30 min dành cho 'From Opportunities to Deals'.\n- (D) 10 min dành cho 'Visualize Success'.",
+      "evidence_quote": "there is strength in teamwork and that's what we'll work on now.",
+      "paraphrase_pair": {
+        "original": "teamwork",
+        "paraphrased": "Work as a Team (20 min.)"
+      }
+    },
+    {
+      "id": "8f712e6d-b3ed-5039-bb3d-2a6375d95f16",
+      "group_id": "b3987a9b-79f1-548a-9d3b-5078a11a137a",
+      "part": 4,
+      "question_number": 100,
+      "question_type_tag": "instruction_action",
+      "question_text": "What does the speaker tell the listeners to do?",
+      "options": {
+        "A": "Turn off their phones",
+        "B": "Get some refreshments",
+        "C": "Ask questions often",
+        "D": "Role-play a situation"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói yêu cầu người nghe hành động: 'we're going to take on the roles of different characters in typical scenarios involving clients.'\n\nGiải thích chi tiết:\n- 'take on the roles of different characters' (đóng vai các nhân vật khác nhau trong các tình huống) chính là kỹ thuật (D) Role-play a situation (Đóng vai theo tình huống).\n\nBẫy ETS & Đáp án sai:\n- (A), (B), (C) không xuất hiện trong lời hướng dẫn ở cuối bài nói.",
+      "evidence_quote": "take on the roles of different characters in typical scenarios involving clients.",
+      "paraphrase_pair": {
+        "original": "take on the roles of different characters in typical scenarios",
+        "paraphrased": "Role-play a situation"
+      }
+    }
+  ]
+}

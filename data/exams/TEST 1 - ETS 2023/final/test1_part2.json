@@ -1,0 +1,1588 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 1",
+    "extracted_at": "2026-10-29",
+    "model_used": "gemini-2.5-flash",
+    "total_groups": 25,
+    "total_questions": 25
+  },
+  "question_groups": [
+    {
+      "id": "2cd7a2f3-71b3-5c73-89ae-7153a3710159",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q7.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q7-q",
+          "speaker": "Speaker",
+          "start_time": 2.46,
+          "end_time": 4.22,
+          "text_en": "What type of food does that store sell?",
+          "text_vi": "Cửa hàng đó bán loại thực phẩm gì?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q7-a",
+          "speaker": "Speaker",
+          "start_time": 5.46,
+          "end_time": 7.5,
+          "text_en": "(A) What a delicious recipe.",
+          "text_vi": "(A) Thật là một công thức ngon.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q7-b",
+          "speaker": "Speaker",
+          "start_time": 8.96,
+          "end_time": 11.28,
+          "text_en": "(B) They have many kinds of cheese.",
+          "text_vi": "(B) Họ có nhiều loại phô mai.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q7-c",
+          "speaker": "Speaker",
+          "start_time": 12.6,
+          "end_time": 14.46,
+          "text_en": "(C) With a new jacket.",
+          "text_vi": "(C) Với một chiếc áo khoác mới.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "f0842a9f-e61f-5e6d-a862-69f885e2dc9d",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q8.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q8-q",
+          "speaker": "Speaker",
+          "start_time": 2.14,
+          "end_time": 3.74,
+          "text_en": "When should we leave for the airport?",
+          "text_vi": "Khi nào chúng ta nên đi sân bay?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q8-a",
+          "speaker": "Speaker",
+          "start_time": 5.08,
+          "end_time": 7.72,
+          "text_en": "(A) This afternoon at two o'clock.",
+          "text_vi": "(A) Chiều nay lúc hai giờ.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q8-b",
+          "speaker": "Speaker",
+          "start_time": 8.68,
+          "end_time": 11.2,
+          "text_en": "(B) I prefer an aisle seat.",
+          "text_vi": "(B) Tôi thích ghế cạnh lối đi hơn.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q8-c",
+          "speaker": "Speaker",
+          "start_time": 12.4,
+          "end_time": 15.26,
+          "text_en": "(C) Mr. Choi traveled there last year.",
+          "text_vi": "(C) Ông Choi đã đi đến đó vào năm ngoái.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "f3d8db47-f115-55dc-8605-54b3627ca386",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q9.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q9-q",
+          "speaker": "Speaker",
+          "start_time": 2.52,
+          "end_time": 4.58,
+          "text_en": "Where's the hiring event being held?",
+          "text_vi": "Sự kiện tuyển dụng được tổ chức ở đâu?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q9-a",
+          "speaker": "Speaker",
+          "start_time": 5.74,
+          "end_time": 8.08,
+          "text_en": "(A) She sent it to a colleague.",
+          "text_vi": "(A) Cô ấy đã gửi nó cho một đồng nghiệp.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q9-b",
+          "speaker": "Speaker",
+          "start_time": 9.1,
+          "end_time": 11.76,
+          "text_en": "(B) In the main conference room.",
+          "text_vi": "(B) Trong phòng hội nghị chính.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q9-c",
+          "speaker": "Speaker",
+          "start_time": 12.9,
+          "end_time": 15.26,
+          "text_en": "(C) If they open on time.",
+          "text_vi": "(C) Nếu họ mở cửa đúng giờ.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "892d2b85-6f55-5c4b-83fe-53cca7a13bc5",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q10.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q10-q",
+          "speaker": "Speaker",
+          "start_time": 2.88,
+          "end_time": 4.18,
+          "text_en": "Why is the budget being updated?",
+          "text_vi": "Tại sao ngân sách lại được cập nhật?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q10-a",
+          "speaker": "Speaker",
+          "start_time": 5.54,
+          "end_time": 7.74,
+          "text_en": "(A) When we rented the building.",
+          "text_vi": "(A) Khi chúng tôi thuê tòa nhà.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q10-b",
+          "speaker": "Speaker",
+          "start_time": 8.82,
+          "end_time": 10.86,
+          "text_en": "(B) With the new designs.",
+          "text_vi": "(B) Với những thiết kế mới.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q10-c",
+          "speaker": "Speaker",
+          "start_time": 11.82,
+          "end_time": 18.98,
+          "text_en": "(C) Because new sales figures came in.",
+          "text_vi": "(C) Bởi vì có số liệu bán hàng mới.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "6a15fb1f-a86b-5102-9924-ffb43499e8d3",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q11.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q11-q",
+          "speaker": "Speaker",
+          "start_time": 3.84,
+          "end_time": 5.9,
+          "text_en": "Can you cover my shift at work tomorrow?",
+          "text_vi": "Bạn có thể làm thay ca của tôi vào ngày mai không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q11-a",
+          "speaker": "Speaker",
+          "start_time": 7.18,
+          "end_time": 9.9,
+          "text_en": "(A) No, I'm taking the day off.",
+          "text_vi": "(A) Không, tôi sẽ nghỉ làm cả ngày.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q11-b",
+          "speaker": "Speaker",
+          "start_time": 11.18,
+          "end_time": 13.54,
+          "text_en": "(B) Before he updated the Web site.",
+          "text_vi": "(B) Trước khi anh ấy cập nhật trang web.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q11-c",
+          "speaker": "Speaker",
+          "start_time": 14.94,
+          "end_time": 17.22,
+          "text_en": "(C) It's on the agenda for Tuesday.",
+          "text_vi": "(C) Nó có trong chương trình nghị sự cho thứ Ba.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "3af0c02c-80e8-5bc3-957b-85935920794b",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q12.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q12-q",
+          "speaker": "Speaker",
+          "start_time": 3.56,
+          "end_time": 5.1,
+          "text_en": "Who ordered these vegetables?",
+          "text_vi": "Ai đã đặt những loại rau này?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q12-a",
+          "speaker": "Speaker",
+          "start_time": 6.52,
+          "end_time": 8.14,
+          "text_en": "(A) All of it.",
+          "text_vi": "(A) Tất cả.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q12-b",
+          "speaker": "Speaker",
+          "start_time": 9.06,
+          "end_time": 11.76,
+          "text_en": "(B) I believe Luis did.",
+          "text_vi": "(B) Tôi tin là Luis đã làm.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q12-c",
+          "speaker": "Speaker",
+          "start_time": 12.68,
+          "end_time": 17.24,
+          "text_en": "(C) It was excellent, thanks.",
+          "text_vi": "(C) Nó rất tuyệt vời, cảm ơn.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "c3100f61-28d9-534e-8eaf-20600c637705",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q13.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q13-q",
+          "speaker": "Speaker",
+          "start_time": 3.34,
+          "end_time": 5.14,
+          "text_en": "How often should I mail the notices?",
+          "text_vi": "Bao lâu một lần tôi nên gửi các thông báo?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q13-a",
+          "speaker": "Speaker",
+          "start_time": 5.54,
+          "end_time": 9.08,
+          "text_en": "(A) Once a month.",
+          "text_vi": "(A) Mỗi tháng một lần.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q13-b",
+          "speaker": "Speaker",
+          "start_time": 9.48,
+          "end_time": 11.44,
+          "text_en": "(B) At about three o'clock.",
+          "text_vi": "(B) Khoảng ba giờ.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q13-c",
+          "speaker": "Speaker",
+          "start_time": 12.24,
+          "end_time": 14.64,
+          "text_en": "(C) After half of them.",
+          "text_vi": "(C) Sau một nửa số đó.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "4eaa0e87-fff7-581b-a40c-b75e3dacf22c",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q14.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q14-q",
+          "speaker": "Speaker",
+          "start_time": 2.54,
+          "end_time": 4.42,
+          "text_en": "Which folder are the documents in?",
+          "text_vi": "Các tài liệu nằm trong thư mục nào?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q14-a",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 7.72,
+          "text_en": "(A) We agreed on the deadline.",
+          "text_vi": "(A) Chúng tôi đã đồng ý về thời hạn.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q14-b",
+          "speaker": "Speaker",
+          "start_time": 9.04,
+          "end_time": 11.5,
+          "text_en": "(B) Sure, I'll take a look.",
+          "text_vi": "(B) Chắc chắn rồi, tôi sẽ xem.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q14-c",
+          "speaker": "Speaker",
+          "start_time": 12.56,
+          "end_time": 14.42,
+          "text_en": "(C) Let me show you.",
+          "text_vi": "(C) Để tôi chỉ cho bạn xem.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "ea4ecc3f-752c-59f0-9aa0-190f6f2825d0",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q15.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q15-q",
+          "speaker": "Speaker",
+          "start_time": 2.82,
+          "end_time": 6.18,
+          "text_en": "Did you end up going to a movie or to the concert last night?",
+          "text_vi": "Tối qua bạn đã đi xem phim hay đi xem hòa nhạc?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q15-a",
+          "speaker": "Speaker",
+          "start_time": 7.28,
+          "end_time": 9.74,
+          "text_en": "(A) I saw an action film.",
+          "text_vi": "(A) Tôi đã xem một bộ phim hành động.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q15-b",
+          "speaker": "Speaker",
+          "start_time": 10.68,
+          "end_time": 12.8,
+          "text_en": "(B) It just ended.",
+          "text_vi": "(B) Nó vừa mới kết thúc.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q15-c",
+          "speaker": "Speaker",
+          "start_time": 13.9,
+          "end_time": 16.28,
+          "text_en": "(C) Just a couple of my friends.",
+          "text_vi": "(C) Chỉ một vài người bạn của tôi.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "37defb4b-925b-5934-b7f0-eddad708ecf3",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q16.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q16-q",
+          "speaker": "Speaker",
+          "start_time": 2.84,
+          "end_time": 5.44,
+          "text_en": "We'll take the company bus to the conference center.",
+          "text_vi": "Chúng ta sẽ đi xe buýt của công ty đến trung tâm hội nghị.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q16-a",
+          "speaker": "Speaker",
+          "start_time": 6.24,
+          "end_time": 8.78,
+          "text_en": "(A) I'm sure it's not.",
+          "text_vi": "(A) Tôi chắc chắn là không phải.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q16-b",
+          "speaker": "Speaker",
+          "start_time": 9.58,
+          "end_time": 11.8,
+          "text_en": "(B) Maybe we'll do that.",
+          "text_vi": "(B) Có lẽ chúng ta sẽ làm thế.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q16-c",
+          "speaker": "Speaker",
+          "start_time": 12.86,
+          "end_time": 19.0,
+          "text_en": "(C) That's a good plan.",
+          "text_vi": "(C) Đó là một kế hoạch hay.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "d5c24e02-35e8-5895-9df3-c897aea7398f",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q17.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q17-q",
+          "speaker": "Speaker",
+          "start_time": 2.72,
+          "end_time": 5.12,
+          "text_en": "What should I put in the introduction to the report?",
+          "text_vi": "Tôi nên đưa gì vào phần giới thiệu của báo cáo?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q17-a",
+          "speaker": "Speaker",
+          "start_time": 6.56,
+          "end_time": 8.4,
+          "text_en": "(A) After the summary.",
+          "text_vi": "(A) Sau phần tóm tắt.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q17-b",
+          "speaker": "Speaker",
+          "start_time": 9.62,
+          "end_time": 11.7,
+          "text_en": "(B) The research highlights.",
+          "text_vi": "(B) Những điểm nổi bật của nghiên cứu.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q17-c",
+          "speaker": "Speaker",
+          "start_time": 12.5,
+          "end_time": 17.66,
+          "text_en": "(C) I met him yesterday.",
+          "text_vi": "(C) Tôi đã gặp anh ấy hôm qua.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "de126e53-a451-5df2-bf48-e85945bf97b1",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q18.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q18-q",
+          "speaker": "Speaker",
+          "start_time": 3.28,
+          "end_time": 4.86,
+          "text_en": "We should have a new logo designed.",
+          "text_vi": "Chúng ta nên thiết kế một logo mới.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q18-a",
+          "speaker": "Speaker",
+          "start_time": 5.84,
+          "end_time": 9.08,
+          "text_en": "(A) They're about five miles from here.",
+          "text_vi": "(A) Chúng cách đây khoảng năm dặm.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q18-b",
+          "speaker": "Speaker",
+          "start_time": 10.18,
+          "end_time": 12.74,
+          "text_en": "(B) I know a good graphic artist!",
+          "text_vi": "(B) Tôi biết một nghệ sĩ đồ họa giỏi!",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q18-c",
+          "speaker": "Speaker",
+          "start_time": 14.14,
+          "end_time": 16.62,
+          "text_en": "(C) An order for some new calendars.",
+          "text_vi": "(C) Một đơn đặt hàng cho một số lịch mới.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "584210c2-b660-57c2-9925-27819b8735ac",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q19.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q19-q",
+          "speaker": "Speaker",
+          "start_time": 3.12,
+          "end_time": 4.98,
+          "text_en": "Did you select a site for the new headquarters?",
+          "text_vi": "Bạn đã chọn địa điểm cho trụ sở mới chưa?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q19-a",
+          "speaker": "Speaker",
+          "start_time": 6.3,
+          "end_time": 8.18,
+          "text_en": "(A) Is that so?",
+          "text_vi": "(A) Thật vậy sao?",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q19-b",
+          "speaker": "Speaker",
+          "start_time": 9.04,
+          "end_time": 11.74,
+          "text_en": "(B) No one can attend the training.",
+          "text_vi": "(B) Không ai có thể tham dự buổi đào tạo.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q19-c",
+          "speaker": "Speaker",
+          "start_time": 12.66,
+          "end_time": 15.6,
+          "text_en": "(C) Yes, in the center of town.",
+          "text_vi": "(C) Vâng, ở trung tâm thị trấn.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "a6f1f51a-eda9-5591-bbbe-204f6b6c1290",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q20.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q20-q",
+          "speaker": "Speaker",
+          "start_time": 2.84,
+          "end_time": 4.26,
+          "text_en": "Who's going to cancel the meeting?",
+          "text_vi": "Ai sẽ hủy cuộc họp?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q20-a",
+          "speaker": "Speaker",
+          "start_time": 4.66,
+          "end_time": 8.72,
+          "text_en": "(A) Martin is the most senior team member.",
+          "text_vi": "(A) Martin là thành viên cấp cao nhất trong nhóm.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q20-b",
+          "speaker": "Speaker",
+          "start_time": 9.66,
+          "end_time": 12.24,
+          "text_en": "(B) Josie's chair is broken.",
+          "text_vi": "(B) Ghế của Josie bị hỏng.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q20-c",
+          "speaker": "Speaker",
+          "start_time": 13.22,
+          "end_time": 16.04,
+          "text_en": "(C) The client cannot contract.",
+          "text_vi": "(C) Khách hàng không thể ký hợp đồng.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "9d4e42e0-c459-5745-bbd5-5b99262fb8bd",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q21.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q21-q",
+          "speaker": "Speaker",
+          "start_time": 3.22,
+          "end_time": 4.38,
+          "text_en": "How was your business trip?",
+          "text_vi": "Chuyến công tác của bạn thế nào?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q21-a",
+          "speaker": "Speaker",
+          "start_time": 5.5,
+          "end_time": 8.28,
+          "text_en": "(A) They found some time in June.",
+          "text_vi": "(A) Họ đã tìm được một ít thời gian vào tháng Sáu.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q21-b",
+          "speaker": "Speaker",
+          "start_time": 8.86,
+          "end_time": 11.54,
+          "text_en": "(B) I like that idea.",
+          "text_vi": "(B) Tôi thích ý tưởng đó.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q21-c",
+          "speaker": "Speaker",
+          "start_time": 12.62,
+          "end_time": 14.84,
+          "text_en": "(C) It was very productive.",
+          "text_vi": "(C) Nó rất hiệu quả.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "ab1f6c20-544d-58e6-99f6-565fd16d4e58",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q22.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q22-q",
+          "speaker": "Speaker",
+          "start_time": 3.26,
+          "end_time": 5.32,
+          "text_en": "Why did Chae-won hire an assistant?",
+          "text_vi": "Tại sao Chae-won lại thuê một trợ lý?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q22-a",
+          "speaker": "Speaker",
+          "start_time": 6.68,
+          "end_time": 9.68,
+          "text_en": "(A) She will submit an estimate in September.",
+          "text_vi": "(A) Cô ấy sẽ nộp một bản ước tính vào tháng Chín.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q22-b",
+          "speaker": "Speaker",
+          "start_time": 10.68,
+          "end_time": 13.88,
+          "text_en": "(B) Anyway, my thought I was late.",
+          "text_vi": "(B) Dù sao thì, tôi nghĩ tôi đã đến muộn.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q22-c",
+          "speaker": "Speaker",
+          "start_time": 15.92,
+          "end_time": 18.16,
+          "text_en": "(C) Have you seen how busy she is?",
+          "text_vi": "(C) Bạn có thấy cô ấy bận rộn thế nào không?",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "483f8d1c-388f-526f-b3e1-69d3e2afe865",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q23.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q23-q",
+          "speaker": "Speaker",
+          "start_time": 3.86,
+          "end_time": 6.54,
+          "text_en": "Would you mind showing me the new office space?",
+          "text_vi": "Bạn có phiền chỉ cho tôi xem không gian văn phòng mới không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q23-a",
+          "speaker": "Speaker",
+          "start_time": 7.64,
+          "end_time": 9.82,
+          "text_en": "(A) Sure – I won't be long.",
+          "text_vi": "(A) Chắc chắn rồi – tôi sẽ không lâu đâu.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q23-b",
+          "speaker": "Speaker",
+          "start_time": 11.1,
+          "end_time": 13.54,
+          "text_en": "(B) It's a good idea.",
+          "text_vi": "(B) Đó là một ý tưởng hay.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q23-c",
+          "speaker": "Speaker",
+          "start_time": 14.8,
+          "end_time": 17.26,
+          "text_en": "(C) Everyone available participated.",
+          "text_vi": "(C) Mọi người có mặt đều tham gia.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "fee89586-e38a-5da7-8230-969ae8ee0487",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q24.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q24-q",
+          "speaker": "Speaker",
+          "start_time": 1.98,
+          "end_time": 5.72,
+          "text_en": "We're trying to decide where to order from for lunch.",
+          "text_vi": "Chúng tôi đang cố gắng quyết định đặt món ăn trưa từ đâu.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q24-a",
+          "speaker": "Speaker",
+          "start_time": 6.52,
+          "end_time": 10.44,
+          "text_en": "(A) I loved those sandwiches from Gino's last week.",
+          "text_vi": "(A) Tôi rất thích những chiếc bánh sandwich từ Gino's tuần trước.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q24-b",
+          "speaker": "Speaker",
+          "start_time": 11.36,
+          "end_time": 13.94,
+          "text_en": "(B) My brother's friend was there.",
+          "text_vi": "(B) Bạn của anh trai tôi đã ở đó.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q24-c",
+          "speaker": "Speaker",
+          "start_time": 15.1,
+          "end_time": 17.72,
+          "text_en": "(C) I remember that song very well.",
+          "text_vi": "(C) Tôi nhớ rất rõ bài hát đó.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "ea900f55-624f-5394-beb2-0e07fa4ee51b",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q25.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q25-q",
+          "speaker": "Speaker",
+          "start_time": 3.08,
+          "end_time": 5.56,
+          "text_en": "When do you plan to finish the advertising campaign?",
+          "text_vi": "Khi nào bạn dự định hoàn thành chiến dịch quảng cáo?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q25-a",
+          "speaker": "Speaker",
+          "start_time": 6.38,
+          "end_time": 9.4,
+          "text_en": "(A) Next to Irina's office.",
+          "text_vi": "(A) Bên cạnh văn phòng của Irina.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q25-b",
+          "speaker": "Speaker",
+          "start_time": 10.36,
+          "end_time": 13.22,
+          "text_en": "(B) By Monday morning at the latest.",
+          "text_vi": "(B) Muộn nhất là sáng thứ Hai.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q25-c",
+          "speaker": "Speaker",
+          "start_time": 14.12,
+          "end_time": 17.38,
+          "text_en": "(C) Because it didn't make sense to me.",
+          "text_vi": "(C) Bởi vì nó không có ý nghĩa với tôi.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "717aa620-0a4d-5d67-8bae-22eabfd5121f",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q26.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q26-q",
+          "speaker": "Speaker",
+          "start_time": 3.26,
+          "end_time": 5.4,
+          "text_en": "Where will the guest speaker be joining us from?",
+          "text_vi": "Diễn giả khách mời sẽ tham gia cùng chúng ta từ đâu?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q26-a",
+          "speaker": "Speaker",
+          "start_time": 6.12,
+          "end_time": 9.28,
+          "text_en": "(A) Nobody shared the details with me.",
+          "text_vi": "(A) Không ai chia sẻ chi tiết với tôi.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q26-b",
+          "speaker": "Speaker",
+          "start_time": 9.92,
+          "end_time": 12.66,
+          "text_en": "(B) He wasn't gone too long.",
+          "text_vi": "(B) Anh ấy đã không đi quá lâu.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q26-c",
+          "speaker": "Speaker",
+          "start_time": 13.76,
+          "end_time": 16.46,
+          "text_en": "(C) First thing in the morning, I believe.",
+          "text_vi": "(C) Điều đầu tiên vào buổi sáng, tôi tin vậy.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "c24e06c8-317d-58d7-afb5-1f5c50a81be8",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q27.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q27-q",
+          "speaker": "Speaker",
+          "start_time": 3.04,
+          "end_time": 5.64,
+          "text_en": "Wouldn't you prefer that Mi-Sun lead the training?",
+          "text_vi": "Bạn không muốn Mi-Sun dẫn dắt buổi đào tạo sao?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q27-a",
+          "speaker": "Speaker",
+          "start_time": 6.84,
+          "end_time": 10.12,
+          "text_en": "(A) No, I filed it three months ago.",
+          "text_vi": "(A) Không, tôi đã nộp nó ba tháng trước.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q27-b",
+          "speaker": "Speaker",
+          "start_time": 11.08,
+          "end_time": 13.78,
+          "text_en": "(B) I just told them to the director.",
+          "text_vi": "(B) Tôi vừa nói với họ với giám đốc.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q27-c",
+          "speaker": "Speaker",
+          "start_time": 15.08,
+          "end_time": 17.98,
+          "text_en": "(C) I don't think she works here anymore.",
+          "text_vi": "(C) Tôi không nghĩ cô ấy còn làm việc ở đây nữa.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "52437f04-ab63-5d11-8ac5-5360d20c5ab6",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q28.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q28-q",
+          "speaker": "Speaker",
+          "start_time": 3.7,
+          "end_time": 6.3,
+          "text_en": "We should get some feedback on this book cover design.",
+          "text_vi": "Chúng ta nên lấy một số phản hồi về thiết kế bìa sách này.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q28-a",
+          "speaker": "Speaker",
+          "start_time": 7.2,
+          "end_time": 10.52,
+          "text_en": "(A) Ahmed has a visual arts degree.",
+          "text_vi": "(A) Ahmed có bằng cấp về nghệ thuật thị giác.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q28-b",
+          "speaker": "Speaker",
+          "start_time": 11.36,
+          "end_time": 14.14,
+          "text_en": "(B) It was probably developed a week.",
+          "text_vi": "(B) Nó có lẽ đã được phát triển một tuần.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q28-c",
+          "speaker": "Speaker",
+          "start_time": 15.08,
+          "end_time": 18.2,
+          "text_en": "(C) I think it was really hard to hear.",
+          "text_vi": "(C) Tôi nghĩ nó thực sự khó nghe.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "9af7b218-5cb2-55f4-b9c2-f5f9d4584c05",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q29.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q29-q",
+          "speaker": "Speaker",
+          "start_time": 2.92,
+          "end_time": 5.04,
+          "text_en": "Would you be able to delay the meeting?",
+          "text_vi": "Bạn có thể hoãn cuộc họp không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q29-a",
+          "speaker": "Speaker",
+          "start_time": 6.12,
+          "end_time": 8.94,
+          "text_en": "(A) How much storage does it have?",
+          "text_vi": "(A) Nó có bao nhiêu dung lượng lưu trữ?",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q29-b",
+          "speaker": "Speaker",
+          "start_time": 10.1,
+          "end_time": 12.74,
+          "text_en": "(B) Most people seemed to enjoy it.",
+          "text_vi": "(B) Hầu hết mọi người dường như thích nó.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q29-c",
+          "speaker": "Speaker",
+          "start_time": 13.8,
+          "end_time": 17.52,
+          "text_en": "(C) No, everyone needs to leave for the airport in an hour.",
+          "text_vi": "(C) Không, mọi người cần phải đi sân bay trong một giờ nữa.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "9212238d-ded0-5271-ad54-62bbf14ee94b",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q30.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q30-q",
+          "speaker": "Speaker",
+          "start_time": 2.74,
+          "end_time": 5.62,
+          "text_en": "Will you rent a car or take the train while you're visiting?",
+          "text_vi": "Bạn sẽ thuê xe hơi hay đi tàu khi bạn đến thăm?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q30-a",
+          "speaker": "Speaker",
+          "start_time": 6.4,
+          "end_time": 9.18,
+          "text_en": "(A) They found some near the coast.",
+          "text_vi": "(A) Họ đã tìm thấy một số gần bờ biển.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q30-b",
+          "speaker": "Speaker",
+          "start_time": 9.58,
+          "end_time": 13.14,
+          "text_en": "(B) I don't like driving in the city.",
+          "text_vi": "(B) Tôi không thích lái xe trong thành phố.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q30-c",
+          "speaker": "Speaker",
+          "start_time": 14.16,
+          "end_time": 16.66,
+          "text_en": "(C) Mostly some old desks.",
+          "text_vi": "(C) Chủ yếu là một số bàn cũ.",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "54d0be03-b126-55c1-97f2-3ce0eb43240f",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 2,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test1/part2_q31.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p2-q31-q",
+          "speaker": "Speaker",
+          "start_time": 3.14,
+          "end_time": 6.4,
+          "text_en": "Seven thirty at night is rather late for a meeting, isn't it?",
+          "text_vi": "Bảy giờ ba mươi tối thì khá muộn cho một cuộc họp, phải không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q31-a",
+          "speaker": "Speaker",
+          "start_time": 6.9,
+          "end_time": 10.32,
+          "text_en": "(A) If people agree on it, I will.",
+          "text_vi": "(A) Nếu mọi người đồng ý, tôi sẽ làm.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-p2-q31-b",
+          "speaker": "Speaker",
+          "start_time": 11.46,
+          "end_time": 14.18,
+          "text_en": "(B) I'm sure I'll keep it short.",
+          "text_vi": "(B) Tôi chắc chắn sẽ giữ nó ngắn gọn.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p2-q31-c",
+          "speaker": "Speaker",
+          "start_time": 15.34,
+          "end_time": 18.04,
+          "text_en": "(C) I am not sure who he meant.",
+          "text_vi": "(C) Tôi không chắc anh ấy có ý gì.",
+          "is_trap": true
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "42d4a159-d405-5a4e-96d4-680ae2da75f3",
+      "group_id": "2cd7a2f3-71b3-5c73-89ae-7153a3710159",
+      "part": 2,
+      "question_number": 7,
+      "question_type_tag": "wh_what",
+      "question_text": "What type of food does that store sell?",
+      "options": {
+        "A": "(A) What a delicious recipe.",
+        "B": "(B) They have many kinds of cheese.",
+        "C": "(C) With a new jacket."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"What type of food...?\" (Loại thực phẩm gì?). Từ khóa cần chú ý là \"What type of food\" và \"sell\" (bán).Vì sao đáp án đúng là chính xác: Đáp án B \"They have many kinds of cheese.\" (Họ có nhiều loại phô mai.) trực tiếp trả lời về loại thực phẩm mà cửa hàng bán, cụ thể là phô mai.Bẫy đề thi ETS:\nĐáp án A \"What a delicious recipe.\" (Thật là một công thức ngon.) là bẫy lặp từ \"What\" nhưng lại là một câu cảm thán, không phải câu trả lời cho câu hỏi.Đáp án C \"With a new jacket.\" (Với một chiếc áo khoác mới.) là bẫy từ liên tưởng \"store\" (cửa hàng) có thể bán quần áo, nhưng câu hỏi rõ ràng hỏi về \"food\" (thực phẩm), làm lệch chủ đề.Mẹo phản xạ nhanh: Nghe \"What type of food\", tìm ngay câu trả lời về một loại thực phẩm cụ thể. Loại bỏ các câu cảm thán hoặc lạc đề.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "88fa2012-53b6-5127-89a2-d0b477fedca2",
+      "group_id": "f0842a9f-e61f-5e6d-a862-69f885e2dc9d",
+      "part": 2,
+      "question_number": 8,
+      "question_type_tag": "wh_when",
+      "question_text": "When should we leave for the airport?",
+      "options": {
+        "A": "(A) This afternoon at two o'clock.",
+        "B": "(B) I prefer an aisle seat.",
+        "C": "(C) Mr. Choi traveled there last year."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"When...?\" (Khi nào...?). Từ khóa cần chú ý là \"When\" và \"leave for the airport\" (đi sân bay).Vì sao đáp án đúng là chính xác: Đáp án A \"This afternoon at two o'clock.\" (Chiều nay lúc hai giờ.) cung cấp thông tin thời gian cụ thể, trực tiếp trả lời cho câu hỏi \"When\".Bẫy đề thi ETS:\nĐáp án B \"I prefer an aisle seat.\" (Tôi thích ghế cạnh lối đi hơn.) là bẫy từ liên tưởng \"airport\" (sân bay) với \"aisle seat\" (ghế cạnh lối đi) trên máy bay, nhưng không liên quan đến thời gian.Đáp án C \"Mr. Choi traveled there last year.\" (Ông Choi đã đi đến đó vào năm ngoái.) là bẫy thời gian (\"last year\") nhưng lại trả lời cho một chủ thể và hành động khác (\"Mr. Choi traveled\"), không phải \"we leave\".Mẹo phản xạ nhanh: Nghe \"When\", tìm ngay câu trả lời có chứa thông tin về thời gian (giờ, ngày, tháng, năm, buổi...). Loại bỏ các câu lạc đề hoặc trả lời sai chủ ngữ/hành động.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "d4ddb062-cd91-5a6f-89fd-7c560d31a644",
+      "group_id": "f3d8db47-f115-55dc-8605-54b3627ca386",
+      "part": 2,
+      "question_number": 9,
+      "question_type_tag": "wh_where",
+      "question_text": "Where's the hiring event being held?",
+      "options": {
+        "A": "(A) She sent it to a colleague.",
+        "B": "(B) In the main conference room.",
+        "C": "(C) If they open on time."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"Where...?\" (Ở đâu...?). Từ khóa cần chú ý là \"Where\" và \"hiring event being held\" (sự kiện tuyển dụng được tổ chức).Vì sao đáp án đúng là chính xác: Đáp án B \"In the main conference room.\" (Trong phòng hội nghị chính.) cung cấp thông tin địa điểm cụ thể, trực tiếp trả lời cho câu hỏi \"Where\".Bẫy đề thi ETS:\nĐáp án A \"She sent it to a colleague.\" (Cô ấy đã gửi nó cho một đồng nghiệp.) là bẫy từ liên tưởng \"event\" (sự kiện) với việc gửi thông tin, nhưng không trả lời về địa điểm và thay đổi chủ ngữ/tân ngữ.Đáp án C \"If they open on time.\" (Nếu họ mở cửa đúng giờ.) là một mệnh đề điều kiện, không phải câu trả lời về địa điểm. \"open\" có thể là từ liên tưởng với sự kiện.Mẹo phản xạ nhanh: Nghe \"Where\", tìm ngay câu trả lời có chứa giới từ chỉ địa điểm (in, on, at, near, next to...) hoặc tên địa điểm cụ thể.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "abc5fd29-31a1-5362-95fb-d68a380a69cf",
+      "group_id": "892d2b85-6f55-5c4b-83fe-53cca7a13bc5",
+      "part": 2,
+      "question_number": 10,
+      "question_type_tag": "wh_why",
+      "question_text": "Why is the budget being updated?",
+      "options": {
+        "A": "(A) When we rented the building.",
+        "B": "(B) With the new designs.",
+        "C": "(C) Because new sales figures came in."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"Why...?\" (Tại sao...?). Từ khóa cần chú ý là \"Why\" và \"budget being updated\" (ngân sách được cập nhật).Vì sao đáp án đúng là chính xác: Đáp án C \"Because new sales figures came in.\" (Bởi vì có số liệu bán hàng mới.) đưa ra lý do cụ thể, trực tiếp trả lời cho câu hỏi \"Why\".Bẫy đề thi ETS:\nĐáp án A \"When we rented the building.\" (Khi chúng tôi thuê tòa nhà.) là bẫy trả lời sai loại câu hỏi (trả lời cho \"When\" thay vì \"Why\"). \"rented the building\" có thể liên quan đến chi phí trong ngân sách.Đáp án B \"With the new designs.\" (Với những thiết kế mới.) là bẫy trả lời sai loại câu hỏi (có thể trả lời cho \"How\" hoặc \"What with\" thay vì \"Why\"). \"designs\" có thể liên quan đến dự án cần ngân sách.Mẹo phản xạ nhanh: Nghe \"Why\", tìm ngay câu trả lời có chứa \"Because\", \"To + V\", \"For + N\" hoặc một lý do hợp lý. Loại bỏ các câu trả lời về thời gian, cách thức.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "222f6f3e-6a0f-5e73-8538-dc2e0a0f454e",
+      "group_id": "6a15fb1f-a86b-5102-9924-ffb43499e8d3",
+      "part": 2,
+      "question_number": 11,
+      "question_type_tag": "request_yes_no",
+      "question_text": "Can you cover my shift at work tomorrow?",
+      "options": {
+        "A": "(A) No, I'm taking the day off.",
+        "B": "(B) Before he updated the Web site.",
+        "C": "(C) It's on the agenda for Tuesday."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi dạng yêu cầu/đề nghị \"Can you...?\" (Bạn có thể...?). Từ khóa cần chú ý là \"Can you cover my shift\" (Bạn có thể làm thay ca của tôi).Vì sao đáp án đúng là chính xác: Đáp án A \"No, I'm taking the day off.\" (Không, tôi sẽ nghỉ làm cả ngày.) trực tiếp trả lời yêu cầu bằng cách từ chối và đưa ra lý do hợp lý.Bẫy đề thi ETS:\nĐáp án B \"Before he updated the Web site.\" (Trước khi anh ấy cập nhật trang web.) là bẫy từ liên tưởng \"updated\" (cập nhật) với \"shift\" (ca làm việc) hoặc \"work\" (công việc), nhưng không liên quan đến việc làm thay ca. Nó cũng là một câu trả lời về thời gian, không phải về khả năng thực hiện yêu cầu.Đáp án C \"It's on the agenda for Tuesday.\" (Nó có trong chương trình nghị sự cho thứ Ba.) là bẫy từ liên tưởng \"shift\" (ca làm việc) với \"agenda\" (chương trình nghị sự) và \"Tuesday\" (thứ Ba) là một từ chỉ thời gian, nhưng không trả lời trực tiếp yêu cầu.Mẹo phản xạ nhanh: Với câu hỏi yêu cầu \"Can you...\", tìm câu trả lời có \"Yes/No\" hoặc một cách diễn đạt đồng ý/từ chối kèm lý do. Loại bỏ các câu lạc đề hoặc trả lời sai trọng tâm.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "ebb44c10-3628-5139-b1bc-d110800f89a5",
+      "group_id": "3af0c02c-80e8-5bc3-957b-85935920794b",
+      "part": 2,
+      "question_number": 12,
+      "question_type_tag": "wh_who",
+      "question_text": "Who ordered these vegetables?",
+      "options": {
+        "A": "(A) All of it.",
+        "B": "(B) I believe Luis did.",
+        "C": "(C) It was excellent, thanks."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"Who...?\" (Ai...?). Từ khóa cần chú ý là \"Who\" và \"ordered these vegetables\" (đặt những loại rau này).Vì sao đáp án đúng là chính xác: Đáp án B \"I believe Luis did.\" (Tôi tin là Luis đã làm.) trực tiếp nêu tên người, trả lời cho câu hỏi \"Who\".Bẫy đề thi ETS:\nĐáp án A \"All of it.\" (Tất cả.) là bẫy trả lời sai loại câu hỏi (trả lời cho \"How much\" hoặc \"Which part\" thay vì \"Who\").Đáp án C \"It was excellent, thanks.\" (Nó rất tuyệt vời, cảm ơn.) là bẫy từ liên tưởng \"vegetables\" (rau củ) với chất lượng (\"excellent\"), nhưng không trả lời về người đặt hàng.Mẹo phản xạ nhanh: Nghe \"Who\", tìm ngay câu trả lời có tên người, chức danh, hoặc đại từ nhân xưng chỉ người (he, she, they, someone...).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "17632138-740d-5561-a95f-36ac2bb03815",
+      "group_id": "c3100f61-28d9-534e-8eaf-20600c637705",
+      "part": 2,
+      "question_number": 13,
+      "question_type_tag": "wh_how",
+      "question_text": "How often should I mail the notices?",
+      "options": {
+        "A": "(A) Once a month.",
+        "B": "(B) At about three o'clock.",
+        "C": "(C) After half of them."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"How often...?\" (Bao lâu một lần...?). Từ khóa cần chú ý là \"How often\" và \"mail the notices\" (gửi các thông báo).Vì sao đáp án đúng là chính xác: Đáp án A \"Once a month.\" (Mỗi tháng một lần.) trực tiếp trả lời về tần suất, phù hợp với câu hỏi \"How often\".Bẫy đề thi ETS:\nĐáp án B \"At about three o'clock.\" (Khoảng ba giờ.) là bẫy trả lời sai loại câu hỏi (trả lời cho \"When\" thay vì \"How often\").Đáp án C \"After half of them.\" (Sau một nửa số đó.) là bẫy trả lời sai loại câu hỏi (có thể trả lời cho \"When\" hoặc \"How many\" thay vì \"How often\").Mẹo phản xạ nhanh: Nghe \"How often\", tìm ngay câu trả lời có chứa tần suất (once a day/week/month, every day/week/month, twice a year, rarely, often...).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "bffa579f-24f4-5947-bc9a-163c03e618a5",
+      "group_id": "4eaa0e87-fff7-581b-a40c-b75e3dacf22c",
+      "part": 2,
+      "question_number": 14,
+      "question_type_tag": "wh_which",
+      "question_text": "Which folder are the documents in?",
+      "options": {
+        "A": "(A) We agreed on the deadline.",
+        "B": "(B) Sure, I'll take a look.",
+        "C": "(C) Let me show you."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"Which...?\" (Thư mục nào...?). Từ khóa cần chú ý là \"Which folder\" và \"documents in\" (tài liệu nằm trong).Vì sao đáp án đúng là chính xác: Đáp án C \"Let me show you.\" (Để tôi chỉ cho bạn xem.) là một câu trả lời gián tiếp rất hiệu quả. Thay vì nói tên thư mục, người nói đề nghị chỉ trực tiếp cho người hỏi, điều này cung cấp thông tin một cách đầy đủ và hữu ích.Bẫy đề thi ETS:\nĐáp án A \"We agreed on the deadline.\" (Chúng tôi đã đồng ý về thời hạn.) là bẫy từ liên tưởng \"documents\" (tài liệu) với \"deadline\" (thời hạn), nhưng không trả lời về vị trí thư mục.Đáp án B \"Sure, I'll take a look.\" (Chắc chắn rồi, tôi sẽ xem.) cũng là một câu trả lời gián tiếp, nhưng nó ngụ ý người nói chưa biết và sẽ tìm kiếm, trong khi C ngụ ý người nói đã biết và sẽ chỉ dẫn ngay lập tức. Trong ngữ cảnh này, C là câu trả lời trực tiếp và hữu ích hơn.Mẹo phản xạ nhanh: Với câu hỏi \"Which/Where\", đôi khi câu trả lời không trực tiếp nêu tên mà là một hành động đề nghị giúp đỡ để tìm ra thông tin.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "12a4d901-b89a-5bbf-ae5e-c5cdd6c3d7f9",
+      "group_id": "ea4ecc3f-752c-59f0-9aa0-190f6f2825d0",
+      "part": 2,
+      "question_number": 15,
+      "question_type_tag": "choice_or",
+      "question_text": "Did you end up going to a movie or to the concert last night?",
+      "options": {
+        "A": "(A) I saw an action film.",
+        "B": "(B) It just ended.",
+        "C": "(C) Just a couple of my friends."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi lựa chọn \"Did you... A or B...?\" (Bạn đã... A hay B...?). Từ khóa cần chú ý là \"movie or to the concert\" (xem phim hay xem hòa nhạc).Vì sao đáp án đúng là chính xác: Đáp án A \"I saw an action film.\" (Tôi đã xem một bộ phim hành động.) trực tiếp chọn một trong hai lựa chọn được đưa ra (movie) và cung cấp thêm chi tiết.Bẫy đề thi ETS:\nĐáp án B \"It just ended.\" (Nó vừa mới kết thúc.) là bẫy lặp từ \"ended\" từ câu hỏi (\"end up going\") và trả lời sai trọng tâm câu hỏi lựa chọn.Đáp án C \"Just a couple of my friends.\" (Chỉ một vài người bạn của tôi.) là bẫy trả lời sai loại câu hỏi (trả lời cho \"Who did you go with?\" thay vì lựa chọn hoạt động).Mẹo phản xạ nhanh: Với câu hỏi lựa chọn \"A or B\", tìm câu trả lời chọn một trong hai hoặc từ chối cả hai. Loại bỏ các câu trả lời lạc đề hoặc lặp từ.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "56b6e455-9243-50c1-9413-365dd417a619",
+      "group_id": "37defb4b-925b-5934-b7f0-eddad708ecf3",
+      "part": 2,
+      "question_number": 16,
+      "question_type_tag": "statement_opinion",
+      "question_text": "We'll take the company bus to the conference center.",
+      "options": {
+        "A": "(A) I'm sure it's not.",
+        "B": "(B) Maybe we'll do that.",
+        "C": "(C) That's a good plan."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi dạng câu phát biểu (Statement). Người nói đưa ra một kế hoạch: \"We'll take the company bus to the conference center.\" (Chúng ta sẽ đi xe buýt của công ty đến trung tâm hội nghị.)Vì sao đáp án đúng là chính xác: Đáp án C \"That's a good plan.\" (Đó là một kế hoạch hay.) là một phản hồi tự nhiên và tích cực đối với một kế hoạch được đề xuất hoặc thông báo.Bẫy đề thi ETS:\nĐáp án A \"I'm sure it's not.\" (Tôi chắc chắn là không phải.) là một phản ứng phủ định không phù hợp với ngữ cảnh của một kế hoạch đã được đưa ra. Nó không rõ ràng \"không phải\" cái gì.Đáp án B \"Maybe we'll do that.\" (Có lẽ chúng ta sẽ làm thế.) là bẫy từ liên tưởng \"plan\" (kế hoạch) với sự cân nhắc, nhưng câu gốc là một tuyên bố về một kế hoạch đã định, không phải một gợi ý cần xem xét.Mẹo phản xạ nhanh: Với câu phát biểu, tìm câu trả lời thể hiện sự đồng tình, không đồng tình, hoặc một phản ứng tự nhiên liên quan đến nội dung của phát biểu.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "4a12ba43-a04c-5671-872c-905ae76242c0",
+      "group_id": "d5c24e02-35e8-5895-9df3-c897aea7398f",
+      "part": 2,
+      "question_number": 17,
+      "question_type_tag": "wh_what",
+      "question_text": "What should I put in the introduction to the report?",
+      "options": {
+        "A": "(A) After the summary.",
+        "B": "(B) The research highlights.",
+        "C": "(C) I met him yesterday."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"What...?\" (Cái gì...?). Từ khóa cần chú ý là \"What\" và \"put in the introduction to the report\" (đưa vào phần giới thiệu của báo cáo).Vì sao đáp án đúng là chính xác: Đáp án B \"The research highlights.\" (Những điểm nổi bật của nghiên cứu.) trực tiếp trả lời về nội dung cụ thể nên đưa vào phần giới thiệu.Bẫy đề thi ETS:\nĐáp án A \"After the summary.\" (Sau phần tóm tắt.) là bẫy trả lời sai loại câu hỏi (trả lời cho \"When\" hoặc \"Where\" trong cấu trúc báo cáo, không phải \"What\" nội dung).Đáp án C \"I met him yesterday.\" (Tôi đã gặp anh ấy hôm qua.) là câu trả lời hoàn toàn lạc đề, không liên quan đến việc viết báo cáo.Mẹo phản xạ nhanh: Nghe \"What should I put in...\", tìm câu trả lời nêu rõ nội dung hoặc thông tin cụ thể.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "63c6d880-a5bd-5ac8-babf-e48635139586",
+      "group_id": "de126e53-a451-5df2-bf48-e85945bf97b1",
+      "part": 2,
+      "question_number": 18,
+      "question_type_tag": "statement_opinion",
+      "question_text": "We should have a new logo designed.",
+      "options": {
+        "A": "(A) They're about five miles from here.",
+        "B": "(B) I know a good graphic artist!",
+        "C": "(C) An order for some new calendars."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi dạng câu phát biểu (Statement). Người nói đưa ra một đề xuất: \"We should have a new logo designed.\" (Chúng ta nên thiết kế một logo mới.)Vì sao đáp án đúng là chính xác: Đáp án B \"I know a good graphic artist!\" (Tôi biết một nghệ sĩ đồ họa giỏi!) là một phản hồi tự nhiên và hữu ích, thể hiện sự đồng tình và đề xuất một giải pháp hoặc nguồn lực để thực hiện đề xuất.Bẫy đề thi ETS:\nĐáp án A \"They're about five miles from here.\" (Chúng cách đây khoảng năm dặm.) là bẫy trả lời sai loại câu hỏi (trả lời cho \"Where\" hoặc \"How far\" thay vì phản hồi một đề xuất).Đáp án C \"An order for some new calendars.\" (Một đơn đặt hàng cho một số lịch mới.) là bẫy từ liên tưởng \"logo\" (biểu trưng) với các vật phẩm quảng cáo khác như \"calendars\" (lịch), nhưng không phải là phản hồi phù hợp cho đề xuất.Mẹo phản xạ nhanh: Với câu phát biểu đề xuất, tìm câu trả lời thể hiện sự đồng tình, hỗ trợ, hoặc đưa ra giải pháp liên quan.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "d195bf94-5e7e-597c-aeea-0a94f3adc841",
+      "group_id": "584210c2-b660-57c2-9925-27819b8735ac",
+      "part": 2,
+      "question_number": 19,
+      "question_type_tag": "request_yes_no",
+      "question_text": "Did you select a site for the new headquarters?",
+      "options": {
+        "A": "(A) Is that so?",
+        "B": "(B) No one can attend the training.",
+        "C": "(C) Yes, in the center of town."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi Yes/No dạng \"Did you...?\" (Bạn đã...?). Từ khóa cần chú ý là \"select a site for the new headquarters\" (chọn địa điểm cho trụ sở mới).Vì sao đáp án đúng là chính xác: Đáp án C \"Yes, in the center of town.\" (Vâng, ở trung tâm thị trấn.) trực tiếp trả lời câu hỏi Yes/No và cung cấp thêm thông tin chi tiết về địa điểm.Bẫy đề thi ETS:\nĐáp án A \"Is that so?\" (Thật vậy sao?) là một câu hỏi phản hồi, không phải câu trả lời cho câu hỏi Yes/No.Đáp án B \"No one can attend the training.\" (Không ai có thể tham dự buổi đào tạo.) là bẫy từ liên tưởng \"headquarters\" (trụ sở) với các hoạt động công ty như \"training\" (đào tạo), nhưng hoàn toàn lạc đề.Mẹo phản xạ nhanh: Với câu hỏi Yes/No, tìm câu trả lời bắt đầu bằng \"Yes/No\" hoặc một cách diễn đạt tương đương, thường kèm theo thông tin bổ sung.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "41ef710c-df28-59e2-9c55-edb41daa004b",
+      "group_id": "a6f1f51a-eda9-5591-bbbe-204f6b6c1290",
+      "part": 2,
+      "question_number": 20,
+      "question_type_tag": "wh_who",
+      "question_text": "Who's going to cancel the meeting?",
+      "options": {
+        "A": "(A) Martin is the most senior team member.",
+        "B": "(B) Josie's chair is broken.",
+        "C": "(C) The client cannot contract."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"Who...?\" (Ai...?). Từ khóa cần chú ý là \"Who\" và \"cancel the meeting\" (hủy cuộc họp).Vì sao đáp án đúng là chính xác: Đáp án A \"Martin is the most senior team member.\" (Martin là thành viên cấp cao nhất trong nhóm.) trực tiếp nêu tên người, trả lời cho câu hỏi \"Who\".Bẫy đề thi ETS:\nĐáp án B \"Josie's chair is broken.\" (Ghế của Josie bị hỏng.) là bẫy từ liên tưởng \"meeting\" (cuộc họp) với \"chair\" (ghế) trong môi trường văn phòng, nhưng không liên quan đến người hủy cuộc họp.Đáp án C \"The client cannot contract.\" (Khách hàng không thể ký hợp đồng.) là bẫy từ đồng âm/gần âm \"contract\" với \"cancel\" và bẫy từ liên tưởng \"meeting\" với \"client\", nhưng hoàn toàn lạc đề.Mẹo phản xạ nhanh: Nghe \"Who\", tìm ngay câu trả lời có tên người, chức danh, hoặc đại từ nhân xưng chỉ người.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "2d9d182f-200a-57be-8fab-dfcb3d6cae6a",
+      "group_id": "9d4e42e0-c459-5745-bbd5-5b99262fb8bd",
+      "part": 2,
+      "question_number": 21,
+      "question_type_tag": "wh_how",
+      "question_text": "How was your business trip?",
+      "options": {
+        "A": "(A) They found some time in June.",
+        "B": "(B) I like that idea.",
+        "C": "(C) It was very productive."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"How was...?\" (Chuyến đi của bạn thế nào?). Từ khóa cần chú ý là \"How was\" và \"business trip\" (chuyến công tác).Vì sao đáp án đúng là chính xác: Đáp án C \"It was very productive.\" (Nó rất hiệu quả.) trực tiếp đánh giá chất lượng của chuyến đi, phù hợp với câu hỏi \"How was\".Bẫy đề thi ETS:\nĐáp án A \"They found some time in June.\" (Họ đã tìm được một ít thời gian vào tháng Sáu.) là bẫy trả lời sai loại câu hỏi (trả lời cho \"When\" hoặc \"Who\" thay vì \"How was\"). \"June\" là từ liên tưởng với \"trip\" (thời gian đi).Đáp án B \"I like that idea.\" (Tôi thích ý tưởng đó.) là bẫy trả lời cho một đề xuất hoặc ý tưởng, không phải đánh giá một sự kiện đã qua.Mẹo phản xạ nhanh: Nghe \"How was\", tìm câu trả lời đánh giá (good, bad, productive, tiring, interesting...).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "2c25229e-cd05-5427-a04f-8ddb0018cff1",
+      "group_id": "ab1f6c20-544d-58e6-99f6-565fd16d4e58",
+      "part": 2,
+      "question_number": 22,
+      "question_type_tag": "wh_why",
+      "question_text": "Why did Chae-won hire an assistant?",
+      "options": {
+        "A": "(A) She will submit an estimate in September.",
+        "B": "(B) Anyway, my thought I was late.",
+        "C": "(C) Have you seen how busy she is?"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"Why...?\" (Tại sao...?). Từ khóa cần chú ý là \"Why\" và \"Chae-won hire an assistant\" (Chae-won thuê trợ lý).Vì sao đáp án đúng là chính xác: Đáp án C \"Have you seen how busy she is?\" (Bạn có thấy cô ấy bận rộn thế nào không?) là một câu trả lời gián tiếp dưới dạng câu hỏi tu từ, ngụ ý rằng lý do cô ấy thuê trợ lý là vì cô ấy quá bận rộn. Đây là một cách trả lời \"Why\" rất phổ biến trong TOEIC.Bẫy đề thi ETS:\nĐáp án A \"She will submit an estimate in September.\" (Cô ấy sẽ nộp một bản ước tính vào tháng Chín.) là bẫy trả lời sai loại câu hỏi (trả lời cho \"When\" hoặc \"What\" thay vì \"Why\"). \"assistant\" và \"estimate\" là từ liên tưởng công việc.Đáp án B \"Anyway, my thought I was late.\" (Dù sao thì, tôi nghĩ tôi đã đến muộn.) là câu trả lời hoàn toàn lạc đề.Mẹo phản xạ nhanh: Với câu hỏi \"Why\", đôi khi câu trả lời là một câu hỏi tu từ hoặc một câu phát biểu gián tiếp ngụ ý lý do.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "b6ecbd08-be9f-5a58-ba4c-aa82a12f3aeb",
+      "group_id": "483f8d1c-388f-526f-b3e1-69d3e2afe865",
+      "part": 2,
+      "question_number": 23,
+      "question_type_tag": "request_yes_no",
+      "question_text": "Would you mind showing me the new office space?",
+      "options": {
+        "A": "(A) Sure – I won't be long.",
+        "B": "(B) It's a good idea.",
+        "C": "(C) Everyone available participated."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi dạng yêu cầu lịch sự \"Would you mind...?\" (Bạn có phiền...?). Từ khóa cần chú ý là \"showing me the new office space\" (chỉ cho tôi xem không gian văn phòng mới).Vì sao đáp án đúng là chính xác: Đáp án B \"It's a good idea.\" (Đó là một ý tưởng hay.) là một cách trả lời gián tiếp để đồng ý với yêu cầu. Mặc dù không trực tiếp nói \"No, I don't mind\", việc coi đây là một \"ý tưởng hay\" ngụ ý rằng người nói sẵn lòng thực hiện yêu cầu.Bẫy đề thi ETS:\nĐáp án A \"Sure – I won't be long.\" (Chắc chắn rồi – tôi sẽ không lâu đâu.) là bẫy phổ biến cho câu hỏi \"Would you mind\". Trong ngữ pháp tiếng Anh, \"Would you mind...?\" thường được trả lời bằng \"No, I don't mind\" (Không, tôi không phiền) để đồng ý. Nếu trả lời \"Yes\" hoặc \"Sure\" (có nghĩa là \"Yes\"), theo nghĩa đen sẽ là \"Vâng, tôi phiền\", dẫn đến sự mâu thuẫn. Phần \"I won't be long\" cũng không phải là trọng tâm của câu hỏi.Đáp án C \"Everyone available participated.\" (Mọi người có mặt đều tham gia.) là câu trả lời hoàn toàn lạc đề, không liên quan đến việc chỉ dẫn văn phòng.Mẹo phản xạ nhanh: Với câu hỏi \"Would you mind...?\", hãy cẩn thận với các câu trả lời trực tiếp \"Yes/No\". Thường thì \"No, I don't mind\" hoặc một câu trả lời gián tiếp thể hiện sự đồng ý sẽ là đáp án đúng.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "2549c4d8-8781-5724-bfc8-4a821f9b6c58",
+      "group_id": "fee89586-e38a-5da7-8230-969ae8ee0487",
+      "part": 2,
+      "question_number": 24,
+      "question_type_tag": "statement_opinion",
+      "question_text": "We're trying to decide where to order from for lunch.",
+      "options": {
+        "A": "(A) I loved those sandwiches from Gino's last week.",
+        "B": "(B) My brother's friend was there.",
+        "C": "(C) I remember that song very well."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi dạng câu phát biểu (Statement). Người nói đang tìm kiếm gợi ý: \"We're trying to decide where to order from for lunch.\" (Chúng tôi đang cố gắng quyết định đặt món ăn trưa từ đâu.)Vì sao đáp án đúng là chính xác: Đáp án A \"I loved those sandwiches from Gino's last week.\" (Tôi rất thích những chiếc bánh sandwich từ Gino's tuần trước.) là một gợi ý hữu ích và trực tiếp liên quan đến việc quyết định đặt món ăn trưa từ đâu.Bẫy đề thi ETS:\nĐáp án B \"My brother's friend was there.\" (Bạn của anh trai tôi đã ở đó.) là bẫy từ liên tưởng \"lunch\" (bữa trưa) với bối cảnh xã hội (\"friend\"), nhưng không liên quan đến việc đặt món ăn. \"there\" có thể là bẫy địa điểm.Đáp án C \"I remember that song very well.\" (Tôi nhớ rất rõ bài hát đó.) là câu trả lời hoàn toàn lạc đề.Mẹo phản xạ nhanh: Với câu phát biểu tìm kiếm gợi ý, tìm câu trả lời đưa ra một gợi ý cụ thể hoặc một ý kiến liên quan.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "751e7152-8281-557e-a33b-afca8dd97a63",
+      "group_id": "ea900f55-624f-5394-beb2-0e07fa4ee51b",
+      "part": 2,
+      "question_number": 25,
+      "question_type_tag": "wh_when",
+      "question_text": "When do you plan to finish the advertising campaign?",
+      "options": {
+        "A": "(A) Next to Irina's office.",
+        "B": "(B) By Monday morning at the latest.",
+        "C": "(C) Because it didn't make sense to me."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"When...?\" (Khi nào...?). Từ khóa cần chú ý là \"When\" và \"plan to finish the advertising campaign\" (dự định hoàn thành chiến dịch quảng cáo).Vì sao đáp án đúng là chính xác: Đáp án B \"By Monday morning at the latest.\" (Muộn nhất là sáng thứ Hai.) cung cấp thông tin thời gian cụ thể (thời hạn), trực tiếp trả lời cho câu hỏi \"When\".Bẫy đề thi ETS:\nĐáp án A \"Next to Irina's office.\" (Bên cạnh văn phòng của Irina.) là bẫy trả lời sai loại câu hỏi (trả lời cho \"Where\" thay vì \"When\").Đáp án C \"Because it didn't make sense to me.\" (Bởi vì nó không có ý nghĩa với tôi.) là bẫy trả lời sai loại câu hỏi (trả lời cho \"Why\" thay vì \"When\").Mẹo phản xạ nhanh: Nghe \"When\", tìm ngay câu trả lời có chứa thông tin về thời gian (giờ, ngày, tháng, năm, deadline...).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "43ab27ca-0068-53b5-ae8d-7f1ab54a75cd",
+      "group_id": "717aa620-0a4d-5d67-8bae-22eabfd5121f",
+      "part": 2,
+      "question_number": 26,
+      "question_type_tag": "wh_where",
+      "question_text": "Where will the guest speaker be joining us from?",
+      "options": {
+        "A": "(A) Nobody shared the details with me.",
+        "B": "(B) He wasn't gone too long.",
+        "C": "(C) First thing in the morning, I believe."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi WH-question dạng \"Where...from?\" (Từ đâu...?). Từ khóa cần chú ý là \"Where\" và \"guest speaker be joining us from\" (diễn giả khách mời sẽ tham gia từ đâu).Vì sao đáp án đúng là chính xác: Đáp án A \"Nobody shared the details with me.\" (Không ai chia sẻ chi tiết với tôi.) là một câu trả lời gián tiếp, cho biết người nói không có thông tin cần thiết để trả lời câu hỏi. Đây là một dạng đáp án đúng phổ biến trong TOEIC.Bẫy đề thi ETS:\nĐáp án B \"He wasn't gone too long.\" (Anh ấy đã không đi quá lâu.) là bẫy từ đồng âm/gần âm \"gone\" với \"joining\" hoặc \"from\", và hoàn toàn lạc đề.Đáp án C \"First thing in the morning, I believe.\" (Điều đầu tiên vào buổi sáng, tôi tin vậy.) là bẫy trả lời sai loại câu hỏi (trả lời cho \"When\" thay vì \"Where\").Mẹo phản xạ nhanh: Với câu hỏi WH, đôi khi câu trả lời là \"Tôi không biết\" hoặc một cách diễn đạt tương tự.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "bde28795-a4de-5a21-914f-325266740421",
+      "group_id": "c24e06c8-317d-58d7-afb5-1f5c50a81be8",
+      "part": 2,
+      "question_number": 27,
+      "question_type_tag": "tag_question",
+      "question_text": "Wouldn't you prefer that Mi-Sun lead the training?",
+      "options": {
+        "A": "(A) No, I filed it three months ago.",
+        "B": "(B) I just told them to the director.",
+        "C": "(C) I don't think she works here anymore."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi phủ định/câu hỏi đuôi \"Wouldn't you prefer...?\" (Bạn không muốn... sao?). Từ khóa cần chú ý là \"prefer that Mi-Sun lead the training\" (muốn Mi-Sun dẫn dắt buổi đào tạo).Vì sao đáp án đúng là chính xác: Đáp án C \"I don't think she works here anymore.\" (Tôi không nghĩ cô ấy còn làm việc ở đây nữa.) là một câu trả lời gián tiếp, giải thích lý do tại sao việc Mi-Sun dẫn dắt buổi đào tạo không còn là một lựa chọn hoặc không còn phù hợp, từ đó trả lời gián tiếp câu hỏi về sự ưu tiên.Bẫy đề thi ETS:\nĐáp án A \"No, I filed it three months ago.\" (Không, tôi đã nộp nó ba tháng trước.) là bẫy từ đồng âm/gần âm \"filed\" với \"lead\" và hoàn toàn lạc đề.Đáp án B \"I just told them to the director.\" (Tôi vừa nói với họ với giám đốc.) là bẫy từ liên tưởng \"training\" (đào tạo) với \"director\" (giám đốc), nhưng không trả lời câu hỏi về sự ưu tiên.Mẹo phản xạ nhanh: Với câu hỏi phủ định/đuôi, câu trả lời thường không chỉ là \"Yes/No\" mà còn kèm theo giải thích hoặc thông tin bổ sung.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "cb92687e-630d-5fdd-8f81-6d508240065f",
+      "group_id": "52437f04-ab63-5d11-8ac5-5360d20c5ab6",
+      "part": 2,
+      "question_number": 28,
+      "question_type_tag": "statement_opinion",
+      "question_text": "We should get some feedback on this book cover design.",
+      "options": {
+        "A": "(A) Ahmed has a visual arts degree.",
+        "B": "(B) It was probably developed a week.",
+        "C": "(C) I think it was really hard to hear."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi dạng câu phát biểu (Statement). Người nói đề xuất: \"We should get some feedback on this book cover design.\" (Chúng ta nên lấy một số phản hồi về thiết kế bìa sách này.)Vì sao đáp án đúng là chính xác: Đáp án A \"Ahmed has a visual arts degree.\" (Ahmed có bằng cấp về nghệ thuật thị giác.) là một phản hồi hữu ích, gợi ý một người có chuyên môn phù hợp để đưa ra phản hồi về thiết kế bìa sách.Bẫy đề thi ETS:\nĐáp án B \"It was probably developed a week.\" (Nó có lẽ đã được phát triển một tuần.) là bẫy trả lời sai loại câu hỏi (trả lời cho \"When\" thay vì phản hồi đề xuất). \"developed\" là từ liên tưởng với \"design\".Đáp án C \"I think it was really hard to hear.\" (Tôi nghĩ nó thực sự khó nghe.) là bẫy từ đồng âm \"hear\" với \"here\" (từ \"cover\" hoặc \"feedback\") và hoàn toàn lạc đề.Mẹo phản xạ nhanh: Với câu phát biểu đề xuất, tìm câu trả lời thể hiện sự đồng tình, hỗ trợ, hoặc đưa ra giải pháp/nguồn lực liên quan.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "d8381889-e4b4-5cbc-ab22-fac0afc338b6",
+      "group_id": "9af7b218-5cb2-55f4-b9c2-f5f9d4584c05",
+      "part": 2,
+      "question_number": 29,
+      "question_type_tag": "request_yes_no",
+      "question_text": "Would you be able to delay the meeting?",
+      "options": {
+        "A": "(A) How much storage does it have?",
+        "B": "(B) Most people seemed to enjoy it.",
+        "C": "(C) No, everyone needs to leave for the airport in an hour."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi dạng yêu cầu/đề nghị \"Would you be able to...?\" (Bạn có thể...?). Từ khóa cần chú ý là \"delay the meeting\" (hoãn cuộc họp).Vì sao đáp án đúng là chính xác: Đáp án C \"No, everyone needs to leave for the airport in an hour.\" (Không, mọi người cần phải đi sân bay trong một giờ nữa.) trực tiếp từ chối yêu cầu và đưa ra lý do hợp lý.Bẫy đề thi ETS:\nĐáp án A \"How much storage does it have?\" (Nó có bao nhiêu dung lượng lưu trữ?) là bẫy từ đồng âm/gần âm \"delay\" với \"storage\" và hoàn toàn lạc đề.Đáp án B \"Most people seemed to enjoy it.\" (Hầu hết mọi người dường như thích nó.) là bẫy từ liên tưởng \"meeting\" (cuộc họp) với việc đánh giá cuộc họp, nhưng không liên quan đến việc hoãn cuộc họp.Mẹo phản xạ nhanh: Với câu hỏi yêu cầu \"Would you be able to...\", tìm câu trả lời có \"Yes/No\" hoặc một cách diễn đạt đồng ý/từ chối kèm lý do.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c6dd14d8-2e53-5fbb-ba01-e89ddc918545",
+      "group_id": "9212238d-ded0-5271-ad54-62bbf14ee94b",
+      "part": 2,
+      "question_number": 30,
+      "question_type_tag": "choice_or",
+      "question_text": "Will you rent a car or take the train while you're visiting?",
+      "options": {
+        "A": "(A) They found some near the coast.",
+        "B": "(B) I don't like driving in the city.",
+        "C": "(C) Mostly some old desks."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi lựa chọn \"Will you... A or B...?\" (Bạn sẽ... A hay B...?). Từ khóa cần chú ý là \"rent a car or take the train\" (thuê xe hơi hay đi tàu).Vì sao đáp án đúng là chính xác: Đáp án B \"I don't like driving in the city.\" (Tôi không thích lái xe trong thành phố.) là một câu trả lời gián tiếp. Bằng cách bày tỏ sự không thích lái xe, người nói ngụ ý rằng họ sẽ không thuê xe hơi, từ đó gián tiếp chọn phương án còn lại (đi tàu) hoặc một phương án khác không được đề cập nhưng phù hợp với việc không lái xe.Bẫy đề thi ETS:\nĐáp án A \"They found some near the coast.\" (Họ đã tìm thấy một số gần bờ biển.) là bẫy từ liên tưởng \"rent a car\" (thuê xe) với việc đi lại và địa điểm (\"coast\"), nhưng không trả lời câu hỏi lựa chọn.Đáp án C \"Mostly some old desks.\" (Chủ yếu là một số bàn cũ.) là câu trả lời hoàn toàn lạc đề.Mẹo phản xạ nhanh: Với câu hỏi lựa chọn \"A or B\", đôi khi câu trả lời không trực tiếp chọn A hay B mà gián tiếp loại bỏ một lựa chọn hoặc đưa ra lý do cho lựa chọn đó.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "2b33efde-0d69-5020-9d49-e38c307779d3",
+      "group_id": "54d0be03-b126-55c1-97f2-3ce0eb43240f",
+      "part": 2,
+      "question_number": 31,
+      "question_type_tag": "tag_question",
+      "question_text": "Seven thirty at night is rather late for a meeting, isn't it?",
+      "options": {
+        "A": "(A) If people agree on it, I will.",
+        "B": "(B) I'm sure I'll keep it short.",
+        "C": "(C) I am not sure who he meant."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Đây là câu hỏi đuôi (Tag question) \"..., isn't it?\" (..., phải không?). Người nói đang bày tỏ một ý kiến và tìm kiếm sự đồng tình/xác nhận: \"Seven thirty at night is rather late for a meeting, isn't it?\" (Bảy giờ ba mươi tối thì khá muộn cho một cuộc họp, phải không?)Vì sao đáp án đúng là chính xác: Đáp án B \"I'm sure I'll keep it short.\" (Tôi chắc chắn sẽ giữ nó ngắn gọn.) là một câu trả lời gián tiếp. Người nói thừa nhận mối lo ngại về thời gian muộn và đưa ra một giải pháp để giảm thiểu vấn đề, thể hiện sự hiểu biết và phản hồi phù hợp.Bẫy đề thi ETS:\nĐáp án A \"If people agree on it, I will.\" (Nếu mọi người đồng ý, tôi sẽ làm.) là bẫy từ liên tưởng \"meeting\" (cuộc họp) với \"agree\" (đồng ý), nhưng không trả lời trực tiếp về việc thời gian có muộn hay không.Đáp án C \"I am not sure who he meant.\" (Tôi không chắc anh ấy có ý gì.) là bẫy từ đồng âm \"meant\" với \"meeting\" và hoàn toàn lạc đề.Mẹo phản xạ nhanh: Với câu hỏi đuôi bày tỏ ý kiến, tìm câu trả lời thể hiện sự đồng tình, không đồng tình, hoặc đưa ra giải pháp/lý do liên quan đến ý kiến đó.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    }
+  ]
+}

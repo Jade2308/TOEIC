@@ -1,0 +1,384 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 4",
+    "part": 6,
+    "total_groups": 4,
+    "total_questions": 16
+  },
+  "question_groups": [
+    {
+      "id": "ed1c830a-5406-5027-972f-d2b9db4cb393",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 6,
+      "passage_text": "An announcement regarding the reopening of the Evergreen Mountains Scenic Railway after renovation, detailing upgrades, mountain-top stops, ticket availability, and trip duration.",
+      "image_url": "/images/test4/part6_131_134.png",
+      "audio_url": null,
+      "transcript_segments": null
+    },
+    {
+      "id": "fcaf8a12-9171-574e-a980-b85f6da9a2d7",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 6,
+      "passage_text": "An e-mail from Julie Mendell (Partner Relations Manager) to Marcus Witt regarding contract review and expressing appreciation for the agency's performance.",
+      "image_url": "/images/test4/part6_135_138.png",
+      "audio_url": null,
+      "transcript_segments": null
+    },
+    {
+      "id": "3d0ebe6a-4ab2-5f1e-a0f9-527838e29578",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 6,
+      "passage_text": "An advertisement for Buelo Fitness promoting local gym memberships, special discount deals, and package details.",
+      "image_url": "/images/test4/part6_139_142.png",
+      "audio_url": null,
+      "transcript_segments": null
+    },
+    {
+      "id": "5b244be1-af93-598a-af8f-3a34391c4a96",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 6,
+      "passage_text": "An e-mail from Gerden Bank customer support (Jennifer Ayers) to Ms. Liu regarding a service fee error and its correction.",
+      "image_url": "/images/test4/part6_143_146.png",
+      "audio_url": null,
+      "transcript_segments": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "a7271d7f-9c5c-5ec2-9f5e-3bdefbb35945",
+      "group_id": "ed1c830a-5406-5027-972f-d2b9db4cb393",
+      "part": 6,
+      "question_number": 131,
+      "question_type_tag": "conjunction",
+      "question_text": "Sightseers on the railway will enjoy a trip through the Evergreen Forest as they ------- to the top of Walden Mountain.",
+      "options": {
+        "A": "Additionally",
+        "B": "However",
+        "C": "Nevertheless",
+        "D": "For example"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "- Phân tích ngữ cảnh: Đoạn văn đang liệt kê các cải tiến và sau đó bổ sung thêm thông tin về việc nâng cấp. Cần một trạng từ liên kết mang nghĩa bổ sung.\n- Vì sao đáp án đúng là chính xác: 'Additionally' (Thêm vào đó) phù hợp để nối tiếp thông tin về các cải tiến.\n- Bẫy đề thi ETS: 'However' hay 'Nevertheless' dùng để chỉ sự đối lập, không phù hợp với ngữ cảnh bổ sung ý.\n- Mẹo phản xạ nhanh: Thấy câu trước nói về việc nâng cấp tàu, câu sau tiếp tục nêu các công việc cải tạo bổ sung -> Chọn trạng từ mang tính chất bổ sung như Additionally.",
+      "evidence_quote": "Additionally, renovations were made",
+      "paraphrase_pair": {
+        "original": "renovations were made",
+        "paraphrased": "Additionally"
+      }
+    },
+    {
+      "id": "0ce72519-eee5-585b-a6ac-168c629fbec6",
+      "group_id": "ed1c830a-5406-5027-972f-d2b9db4cb393",
+      "part": 6,
+      "question_number": 132,
+      "question_type_tag": "word_form",
+      "question_text": "Sightseers on the railway will enjoy a trip through the Evergreen Forest as they ------- to the top of Walden Mountain.",
+      "options": {
+        "A": "ride",
+        "B": "riding",
+        "C": "rides",
+        "D": "ridden"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "- Phân tích ngữ cảnh: Cấu trúc mệnh đề trạng ngữ chỉ thời gian với liên từ 'as', theo sau chủ ngữ 'they' cần một động từ chia ở thì hiện tại đơn.\n- Vì sao đáp án đúng là chính xác: 'ride' là động từ nguyên mẫu đi sau chủ ngữ số nhiều 'they'.\n- Bẫy đề thi ETS: Các dạng V-ing hoặc V-s/es hoặc V3 làm sai lệch cấu trúc ngữ pháp của mệnh đề.\n- Mẹo phản xạ nhanh: Sau chủ ngữ 'they' trong mệnh đề chỉ thời gian hiện tại -> dùng động từ nguyên thể.",
+      "evidence_quote": "as they ride to the top",
+      "paraphrase_pair": {
+        "original": "trip",
+        "paraphrased": "ride"
+      }
+    },
+    {
+      "id": "2060c163-e66b-5e15-8bcd-7d206d56d75e",
+      "group_id": "ed1c830a-5406-5027-972f-d2b9db4cb393",
+      "part": 6,
+      "question_number": 133,
+      "question_type_tag": "vocabulary",
+      "question_text": "Here the train will make an hour-long stop for visitors to tour the new visitor center or ------- enjoy the views from the highest mountain in the region.",
+      "options": {
+        "A": "simple",
+        "B": "simplest",
+        "C": "simplify",
+        "D": "simply"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "- Phân tích ngữ cảnh: Chỗ trống cần điền một trạng từ để bổ nghĩa cho động từ 'enjoy'.\n- Vì sao đáp án đúng là chính xác: 'simply' là trạng từ, dùng để bổ nghĩa cho động từ phía sau.\n- Bẫy đề thi ETS: Các từ loại khác như tính từ (simple), so sánh nhất (simplest) hoặc động từ (simplify) đứng trước động từ 'enjoy' là sai ngữ pháp.\n- Mẹo phản xạ nhanh: Trước động từ thường -> ưu tiên chọn trạng từ (-ly).",
+      "evidence_quote": "or simply enjoy the views",
+      "paraphrase_pair": {
+        "original": "enjoy",
+        "paraphrased": "simply enjoy"
+      }
+    },
+    {
+      "id": "a19259d1-5568-5025-8671-48fa63fb8d6a",
+      "group_id": "ed1c830a-5406-5027-972f-d2b9db4cb393",
+      "part": 6,
+      "question_number": 134,
+      "question_type_tag": "inference",
+      "question_text": "Tickets for this amazing journey are available online. -------",
+      "options": {
+        "A": "The renovations took longer than expected.",
+        "B": "Walden Mountain is the tallest of the Evergreen Mountains.",
+        "C": "Other nearby mountains do not have tourist attractions.",
+        "D": "The entire trip takes approximately 2.5 hours."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "- Phân tích ngữ cảnh: Điền câu thích hợp vào cuối đoạn văn để khép lại thông tin về chuyến đi.\n- Vì sao đáp án đúng là chính xác: Câu 'The entire trip takes approximately 2.5 hours' cung cấp thông tin chi tiết bổ sung về thời gian của chuyến đi tàu.\n- Bẫy đề thi ETS: Các câu về tiến độ sửa chữa, độ cao núi hay các điểm thu hút lân cận không liên quan trực tiếp đến việc đặt vé và thông tin tổng quan cuối bài.\n- Mẹo phản xạ nhanh: Đoạn cuối thường nói về thông tin vé, thời gian hoặc lịch trình kết thúc -> Chọn câu cung cấp thêm thông tin thời gian tổng cộng.",
+      "evidence_quote": "The entire trip takes approximately 2.5 hours.",
+      "paraphrase_pair": {
+        "original": "trip",
+        "paraphrased": "trip takes approximately 2.5 hours"
+      }
+    },
+    {
+      "id": "c17afe16-30b4-539b-8aa1-81e0af6b0be6",
+      "group_id": "fcaf8a12-9171-574e-a980-b85f6da9a2d7",
+      "part": 6,
+      "question_number": 135,
+      "question_type_tag": "vocabulary",
+      "question_text": "As I mentioned on our recent call, we are conducting a review of our current -------. This includes your agency.",
+      "options": {
+        "A": "versions",
+        "B": "contests",
+        "C": "equipment",
+        "D": "partnerships"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "- Phân tích ngữ cảnh: Câu văn nhắc đến việc xem xét lại mối quan hệ hợp tác hoặc các đối tác hiện tại.\n- Vì sao đáp án đúng là chính xác: 'partnerships' (các mối quan hệ đối tác) phù hợp với ngữ cảnh bao gồm cả agency của người nhận.\n- Bẫy đề thi ETS: 'versions', 'contests', hay 'equipment' không phù hợp với chủ đề đánh giá năng lực của agency.\n- Mẹo phản xạ nhanh: Nhìn vào danh từ phía sau như 'agency' -> chọn từ chỉ mối quan hệ làm ăn, đối tác (partnership).",
+      "evidence_quote": "review of our current partnerships",
+      "paraphrase_pair": {
+        "original": "agency",
+        "paraphrased": "partnerships"
+      }
+    },
+    {
+      "id": "79b06d71-3261-5494-afb8-ac9ac42b4d2f",
+      "group_id": "fcaf8a12-9171-574e-a980-b85f6da9a2d7",
+      "part": 6,
+      "question_number": 136,
+      "question_type_tag": "conjunction",
+      "question_text": "------- the difficult year, we have been impressed with your agency's professionalism and positive results.",
+      "options": {
+        "A": "Although",
+        "B": "Despite",
+        "C": "Instead",
+        "D": "Since"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "- Phân tích ngữ cảnh: Phía sau chỗ trống là cụm danh từ 'the difficult year', cần một giới từ chỉ sự nhượng bộ.\n- Vì sao đáp án đúng là chính xác: 'Despite' (Mặc dù) đi với cụm danh từ để chỉ sự tương phản.\n- Bẫy đề thi ETS: 'Although' là liên từ phải đi với một mệnh đề (S + V), không đi trực tiếp với cụm danh từ.\n- Mẹo phản xạ nhanh: Theo sau là cụm danh từ -> loại liên từ (Although, Since), chọn giới từ (Despite).",
+      "evidence_quote": "Despite the difficult year",
+      "paraphrase_pair": {
+        "original": "difficult year",
+        "paraphrased": "Despite"
+      }
+    },
+    {
+      "id": "75314a20-9d2f-5f0d-bc80-8d58b7508a93",
+      "group_id": "fcaf8a12-9171-574e-a980-b85f6da9a2d7",
+      "part": 6,
+      "question_number": 137,
+      "question_type_tag": "inference",
+      "question_text": "Please sign the attached document and return it to us at your earliest convenience. -------",
+      "options": {
+        "A": "Therefore, we would like to extend your contract for another two years.",
+        "B": "Unfortunately, we were unable to reach you in time.",
+        "C": "Please confirm your contact details at your earliest convenience.",
+        "D": "We certainly understand the concerns you raised when we last spoke."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "- Phân tích ngữ cảnh: Câu trước yêu cầu ký và gửi lại tài liệu đính kèm liên quan đến việc gia hạn hợp đồng.\n- Vì sao đáp án đúng là chính xác: Câu này thể hiện rõ ý định gia hạn hợp đồng thêm 2 năm, liên kết logic với việc ký hợp đồng ở câu trước.\n- Bẫy đề thi ETS: Các câu về việc không liên lạc được hay thắc mắc không phù hợp với văn bản đề nghị ký kết hợp đồng.\n- Mẹo phản xạ nhanh: Tìm câu có nội dung liên quan trực tiếp đến hành động gia hạn/ký kết hợp đồng.",
+      "evidence_quote": "extend your contract for another two years",
+      "paraphrase_pair": {
+        "original": "contract",
+        "paraphrased": "extend your contract"
+      }
+    },
+    {
+      "id": "5aa86521-fc54-5df3-ad66-c93e6967a7b3",
+      "group_id": "fcaf8a12-9171-574e-a980-b85f6da9a2d7",
+      "part": 6,
+      "question_number": 138,
+      "question_type_tag": "verb_tense",
+      "question_text": "We ------- forward to strengthening our relationship with you and your team.",
+      "options": {
+        "A": "were looking",
+        "B": "would look",
+        "C": "looked",
+        "D": "look"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "- Phân tích ngữ cảnh: Thư tín thương mại diễn đạt sự mong đợi ở hiện tại bằng cấu trúc 'look forward to'.\n- Vì sao đáp án đúng là chính xác: 'look' chia ở thì hiện tại đơn để diễn tả thái độ, sự mong chờ hiện tại của người viết.\n- Bẫy đề thi ETS: Các thì quá khứ hay giả định làm sai lệch cấu trúc cố định của thư tín.\n- Mẹo phản xạ nhanh: Cấu trúc thư tín thương mại: We look forward to + V-ing.",
+      "evidence_quote": "We look forward to strengthening",
+      "paraphrase_pair": {
+        "original": "strengthening our relationship",
+        "paraphrased": "look forward to"
+      }
+    },
+    {
+      "id": "ce5bb50c-6009-5b22-a008-1c3cbc25ab4b",
+      "group_id": "3d0ebe6a-4ab2-5f1e-a0f9-527838e29578",
+      "part": 6,
+      "question_number": 139,
+      "question_type_tag": "word_form",
+      "question_text": "Since the gym is locally owned, ------- will give you the attention and guidance you need to maximize your fitness.",
+      "options": {
+        "A": "we",
+        "B": "one",
+        "C": "they",
+        "D": "mine"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "- Phân tích ngữ cảnh: Chủ ngữ của mệnh đề chính chỉ phòng tập do chính chủ sở hữu điều hành, nói với khách hàng.\n- Vì sao đáp án đúng là chính xác: 'we' (chúng tôi) dùng để chỉ đội ngũ của phòng tập đang trực tiếp mời gọi khách hàng.\n- Bẫy đề thi ETS: Đại từ 'they' hay 'one' không phù hợp với góc nhìn quảng cáo trực tiếp từ phía phòng tập đến khách hàng ('you').\n- Mẹo phản xạ nhanh: Quảng cáo dùng xưng hô trực tiếp 'we' với khách hàng 'you'.",
+      "evidence_quote": "Since the gym is locally owned, we will give you",
+      "paraphrase_pair": {
+        "original": "locally owned",
+        "paraphrased": "we"
+      }
+    },
+    {
+      "id": "030e3f0d-4cab-58e9-988e-1d7c8ce3b88e",
+      "group_id": "3d0ebe6a-4ab2-5f1e-a0f9-527838e29578",
+      "part": 6,
+      "question_number": 140,
+      "question_type_tag": "conjunction",
+      "question_text": "------- another year comes to an end, why not get in shape?",
+      "options": {
+        "A": "As",
+        "B": "During",
+        "C": "Beyond",
+        "D": "Following"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "- Phân tích ngữ cảnh: Phía sau là một mệnh đề 'another year comes to an end', cần một liên từ chỉ thời gian.\n- Vì sao đáp án đúng là chính xác: 'As' (Khi mà) là liên từ đi kèm mệnh đề chỉ thời điểm.\n- Bẫy đề thi ETS: 'During' và 'Following' là giới từ phải đi với danh từ, không đứng trước mệnh đề (S + V).\n- Mẹo phản xạ nhanh: Sau chỗ trống là mệnh đề có chủ ngữ và động từ -> chọn liên từ 'As'.",
+      "evidence_quote": "As another year comes to an end",
+      "paraphrase_pair": {
+        "original": "another year comes to an end",
+        "paraphrased": "As"
+      }
+    },
+    {
+      "id": "3323fb21-b376-5f12-871b-61357f93b85a",
+      "group_id": "3d0ebe6a-4ab2-5f1e-a0f9-527838e29578",
+      "part": 6,
+      "question_number": 141,
+      "question_type_tag": "inference",
+      "question_text": "------- But you must act fast! These limited-time deals are only valid through December 31.",
+      "options": {
+        "A": "Call us if you have any questions.",
+        "B": "Check out these positive reviews from customers.",
+        "C": "We are offering two special deals to help you begin.",
+        "D": "Exercise should be combined with healthy eating habits."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "- Phân tích ngữ cảnh: Câu đứng trước nhắc đến các gói tập, câu sau nhấn mạnh về các ưu đãi giới hạn thời gian.\n- Vì sao đáp án đúng là chính xác: 'We are offering two special deals to help you begin' giới thiệu các gói ưu đãi để dẫn dắt đến câu cảnh báo 'But you must act fast!'.\n- Bẫy đề thi ETS: Các câu về đánh giá khách hàng hay gọi điện không liên kết tốt bằng câu giới thiệu các ưu đãi đặc biệt.\n- Mẹo phản xạ nhanh: Theo sau nhắc đến 'limited-time deals' -> câu liền trước phải nhắc đến 'special deals'.",
+      "evidence_quote": "two special deals",
+      "paraphrase_pair": {
+        "original": "deals",
+        "paraphrased": "special deals"
+      }
+    },
+    {
+      "id": "605fc4ee-fe78-5a8e-80da-f1fcf208fcde",
+      "group_id": "3d0ebe6a-4ab2-5f1e-a0f9-527838e29578",
+      "part": 6,
+      "question_number": 142,
+      "question_type_tag": "vocabulary",
+      "question_text": "Unlimited package is just $10 for the first month, and then $100 per month thereafter. It requires a six-month -------.",
+      "options": {
+        "A": "lease",
+        "B": "development",
+        "C": "opportunity",
+        "D": "commitment"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "- Phân tích ngữ cảnh: Gói tập không giới hạn yêu cầu người tham gia gắn bó hoặc cam kết trong một khoảng thời gian (6 tháng).\n- Vì sao đáp án đúng là chính xác: 'commitment' (sự cam kết) kết hợp hoàn hảo với gói tập định kỳ 6 tháng.\n- Bẫy đề thi ETS: 'lease' (hợp đồng thuê nhà/xe), 'development' (sự phát triển) hay 'opportunity' (cơ hội) không hợp nghĩa với gói tập gym.\n- Mẹo phản xạ nhanh: Gói tập dài hạn thường đi kèm yêu cầu 'commitment' (cam kết thời gian).",
+      "evidence_quote": "requires a six-month commitment",
+      "paraphrase_pair": {
+        "original": "six-month",
+        "paraphrased": "commitment"
+      }
+    },
+    {
+      "id": "0eff9564-2abc-5e2b-b958-7d665d952242",
+      "group_id": "5b244be1-af93-598a-af8f-3a34391c4a96",
+      "part": 6,
+      "question_number": 143,
+      "question_type_tag": "conjunction",
+      "question_text": "------- an error in our internal computer processing system, a service fee was incorrectly deducted from your savings account on 23 May.",
+      "options": {
+        "A": "In fact",
+        "B": "Because of",
+        "C": "In reply to",
+        "D": "Except for"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "- Phân tích ngữ cảnh: Mệnh đề sau giải thích lý do phí dịch vụ bị trừ nhầm là do lỗi hệ thống máy tính.\n- Vì sao đáp án đúng là chính xác: 'Because of' (Bởi vì) dùng để chỉ nguyên nhân dẫn đến việc trừ phí nhầm.\n- Bẫy đề thi ETS: Các cụm từ chuyển ý khác không mang nghĩa chỉ nguyên nhân phù hợp.\n- Mẹo phản xạ nhanh: Sau chỗ trống là cụm danh từ chỉ nguyên nhân sự việc -> chọn 'Because of'.",
+      "evidence_quote": "Because of an error",
+      "paraphrase_pair": {
+        "original": "an error in our internal computer processing system",
+        "paraphrased": "Because of"
+      }
+    },
+    {
+      "id": "1610b06f-d60b-55f2-a184-a085a8a5a9a8",
+      "group_id": "5b244be1-af93-598a-af8f-3a34391c4a96",
+      "part": 6,
+      "question_number": 144,
+      "question_type_tag": "verb_tense",
+      "question_text": "This error has been fixed, and a refund was posted to your account on 25 May. You ------- this deposit on your next statement under the description 'Fee adjustment.'",
+      "options": {
+        "A": "found",
+        "B": "were finding",
+        "C": "will find",
+        "D": "have found"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "- Phân tích ngữ cảnh: Câu văn diễn tả hành động sẽ xảy ra trong tương lai khi khách hàng xem bảng sao kê tiếp theo.\n- Vì sao đáp án đúng là chính xác: 'will find' chia ở thì tương lai đơn, phù hợp với mốc thời gian 'on your next statement'.\n- Bẫy đề thi ETS: Các thì quá khứ hay hiện tại không thể hiện đúng hành động sẽ thấy trong tương lai.\n- Mẹo phản xạ nhanh: Nhìn thấy trạng ngữ chỉ tương lai 'on your next statement' -> chọn thì tương lai đơn (will find).",
+      "evidence_quote": "You will find this deposit",
+      "paraphrase_pair": {
+        "original": "next statement",
+        "paraphrased": "will find"
+      }
+    },
+    {
+      "id": "96e7c54d-9bee-5ec1-8b6c-9fc8a46954ae",
+      "group_id": "5b244be1-af93-598a-af8f-3a34391c4a96",
+      "part": 6,
+      "question_number": 145,
+      "question_type_tag": "vocabulary",
+      "question_text": "We apologize if this has resulted in any -------. Please contact us if you have any concerns regarding this issue.",
+      "options": {
+        "A": "confusion",
+        "B": "satisfaction",
+        "C": "explanation",
+        "D": "calculation"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "- Phân tích ngữ cảnh: Ngân hàng xin lỗi vì lỗi hệ thống có thể gây ra sự bối rối hoặc phiền phức cho khách hàng.\n- Vì sao đáp án đúng là chính xác: 'confusion' (sự bối rối, nhầm lẫn) phù hợp với ngữ cảnh lỗi trừ phí sai.\n- Bẫy đề thi ETS: 'satisfaction' (sự hài lòng) mang nghĩa tích cực, không đi với lời xin lỗi.\n- Mẹo phản xạ nhanh: Cụm từ xin lỗi quen thuộc: result in any confusion/inconvenience.",
+      "evidence_quote": "resulted in any confusion",
+      "paraphrase_pair": {
+        "original": "incorrectly deducted",
+        "paraphrased": "confusion"
+      }
+    },
+    {
+      "id": "8d7aa944-7125-540f-afe2-34bc1c0da30e",
+      "group_id": "5b244be1-af93-598a-af8f-3a34391c4a96",
+      "part": 6,
+      "question_number": 146,
+      "question_type_tag": "inference",
+      "question_text": "Please contact us if you have any concerns regarding this issue. -------",
+      "options": {
+        "A": "We just added 280 new customers to our base.",
+        "B": "Please let us know whether you want to open a checking account.",
+        "C": "Gerden Bank has an important message for our customers.",
+        "D": "As always, thank you for choosing Gerden Bank."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "- Phân tích ngữ cảnh: Câu cuối cùng của email thông báo giải quyết sự cố, cần một câu kết mang tính lịch sự và cảm ơn khách hàng.\n- Vì sao đáp án đúng là chính xác: 'As always, thank you for choosing Gerden Bank' là lời kết thư chuẩn mực và lịch sự của dịch vụ khách hàng.\n- Bẫy đề thi ETS: Các câu về thêm khách hàng mới hay mở tài khoản không liên quan đến email giải quyết khiếu nại phí.\n- Mẹo phản xạ nhanh: Cuối email dịch vụ khách hàng thường là lời cảm ơn chân thành và nhắc lại tên thương hiệu.",
+      "evidence_quote": "thank you for choosing Gerden Bank",
+      "paraphrase_pair": {
+        "original": "Gerden Bank",
+        "paraphrased": "thank you for choosing Gerden Bank"
+      }
+    }
+  ]
+}

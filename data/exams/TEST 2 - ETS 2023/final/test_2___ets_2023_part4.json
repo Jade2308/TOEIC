@@ -1,0 +1,1894 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 2",
+    "part": 4,
+    "total_groups": 10,
+    "total_questions": 30
+  },
+  "question_groups": [
+    {
+      "id": "ce7fe29a-aa57-58cb-bae3-94d087dbcbb1",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part4_g71_73.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g71_73-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 7.0,
+          "text_en": "Question 71 through 73 refer to the following advertisement.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-2",
+          "speaker": "Speaker",
+          "start_time": 7.0,
+          "end_time": 12.0,
+          "text_en": "Looking for an interesting activity to celebrate the coming of spring? Winford Gardens offers",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-3",
+          "speaker": "Speaker",
+          "start_time": 12.0,
+          "end_time": 18.16,
+          "text_en": "an escape filled with calm, peace and quiet just a few miles from the downtown area. Winford",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-4",
+          "speaker": "Speaker",
+          "start_time": 18.16,
+          "end_time": 22.92,
+          "text_en": "Gardens has acres of outdoor gardens filled with plants you won't typically find anywhere",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-5",
+          "speaker": "Speaker",
+          "start_time": 22.92,
+          "end_time": 28.64,
+          "text_en": "near here. This weekend we will have an exhibition of Mexican blue palms. If you have never",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-6",
+          "speaker": "Speaker",
+          "start_time": 28.64,
+          "end_time": 34.6,
+          "text_en": "seen these striking and unique plants now is your chance. Winford's Cafe is a converted",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-7",
+          "speaker": "Speaker",
+          "start_time": 34.6,
+          "end_time": 39.34,
+          "text_en": "building that used to be a greenhouse. The surrounding tropical plants and flowers help",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-8",
+          "speaker": "Speaker",
+          "start_time": 39.34,
+          "end_time": 42.64,
+          "text_en": "make dining there a pleasure.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-9",
+          "speaker": "Speaker",
+          "start_time": 42.64,
+          "end_time": 54.64,
+          "text_en": "Number 71 What is being advertised?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-10",
+          "speaker": "Speaker",
+          "start_time": 54.64,
+          "end_time": 66.64,
+          "text_en": "Number 72 What event is happening this weekend?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-11",
+          "speaker": "Speaker",
+          "start_time": 66.64,
+          "end_time": 79.64,
+          "text_en": "Number 73 What does the speaker say about a cafe building?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "7acc425a-0bbf-59f9-856b-c337461b76f1",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part4_g74_76.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g74_76-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 6.24,
+          "text_en": "Question 74 through 76 refer to the following excerpt from a meeting.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-2",
+          "speaker": "Speaker",
+          "start_time": 6.24,
+          "end_time": 11.36,
+          "text_en": "Good afternoon. Welcome to this week's Managers Meeting here at South Truck",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-3",
+          "speaker": "Speaker",
+          "start_time": 11.36,
+          "end_time": 16.36,
+          "text_en": "Deliveries. As you know, we've always written performance evaluations for our",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-4",
+          "speaker": "Speaker",
+          "start_time": 16.36,
+          "end_time": 21.4,
+          "text_en": "drivers and other employees on paper. I am pleased to announce some important",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-5",
+          "speaker": "Speaker",
+          "start_time": 21.4,
+          "end_time": 27.08,
+          "text_en": "changes. Beginning this year, we will use a software application called Personnel",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-6",
+          "speaker": "Speaker",
+          "start_time": 27.16,
+          "end_time": 33.6,
+          "text_en": "Profile to enter performance appraisals. Let me introduce Ms. Y. Young Lee, the head",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-7",
+          "speaker": "Speaker",
+          "start_time": 33.6,
+          "end_time": 38.36,
+          "text_en": "of our IT department. She will walk you through how to enroll in a training",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-8",
+          "speaker": "Speaker",
+          "start_time": 38.36,
+          "end_time": 43.04,
+          "text_en": "course on using Personnel Profile, and you will complete your enrollment by the",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-9",
+          "speaker": "Speaker",
+          "start_time": 43.04,
+          "end_time": 50.04,
+          "text_en": "end of this meeting. Number 74 Who Most Likely Is The Speaker?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-10",
+          "speaker": "Speaker",
+          "start_time": 57.8,
+          "end_time": 64.76,
+          "text_en": "Number 75 What is the main topic of the talk?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-11",
+          "speaker": "Speaker",
+          "start_time": 70.6,
+          "end_time": 77.8,
+          "text_en": "Number 76 What does the speaker ask the listeners to do?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "54c9f7b7-fca5-50a4-9b04-abb120426419",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part4_g77_79.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g77_79-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 6.0,
+          "text_en": "Question 77 through 79 refer to the following telephone message.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-2",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 9.0,
+          "text_en": "Hi, this is Ms. Mitra.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-3",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 13.0,
+          "text_en": "You're scheduled to move my furniture to my new apartment tomorrow morning at 8.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-4",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 18.0,
+          "text_en": "I'm calling because I just learnt that the freight elevator in my building is broken",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-5",
+          "speaker": "Speaker",
+          "start_time": 18.0,
+          "end_time": 21.0,
+          "text_en": "and my apartment is on a very high floor.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-6",
+          "speaker": "Speaker",
+          "start_time": 21.0,
+          "end_time": 25.0,
+          "text_en": "I will check first thing tomorrow morning to see what the situation is.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-7",
+          "speaker": "Speaker",
+          "start_time": 25.0,
+          "end_time": 28.0,
+          "text_en": "But please give me a call as soon as you can.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-8",
+          "speaker": "Speaker",
+          "start_time": 28.0,
+          "end_time": 34.0,
+          "text_en": "I have an overseas trip coming up next week, so this work will have to happen soon.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-9",
+          "speaker": "Speaker",
+          "start_time": 34.0,
+          "end_time": 40.0,
+          "text_en": "Number 77. Who is the speaker most likely calling?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-10",
+          "speaker": "Speaker",
+          "start_time": 47.0,
+          "end_time": 51.0,
+          "text_en": "Number 78. Why does the speaker say?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-11",
+          "speaker": "Speaker",
+          "start_time": 51.0,
+          "end_time": 54.0,
+          "text_en": "My apartment is on a very high floor.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-12",
+          "speaker": "Speaker",
+          "start_time": 58.0,
+          "end_time": 66.0,
+          "text_en": "Number 79. What will the speaker do next week?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "acfc641f-2c4f-5001-a58e-beed0a457527",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part4_g80_82.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g80_82-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 4.7,
+          "text_en": "Questions 80-82 refer to the following announcement.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-2",
+          "speaker": "Speaker",
+          "start_time": 4.7,
+          "end_time": 9.12,
+          "text_en": "Good evening, everyone. Welcome to a new season of City Opera.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-3",
+          "speaker": "Speaker",
+          "start_time": 9.12,
+          "end_time": 11.84,
+          "text_en": "I bring some bad news, I'm afraid.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-4",
+          "speaker": "Speaker",
+          "start_time": 11.84,
+          "end_time": 17.84,
+          "text_en": "Soprano Lisa Gornica informed me earlier today that she will not be able to perform tonight.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-5",
+          "speaker": "Speaker",
+          "start_time": 17.84,
+          "end_time": 22.44,
+          "text_en": "I know how disappointing this is, but I also have good news.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-6",
+          "speaker": "Speaker",
+          "start_time": 22.44,
+          "end_time": 27.6,
+          "text_en": "Soprano Rita Marks is in town and has agreed to step in for Ms. Gornica.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-7",
+          "speaker": "Speaker",
+          "start_time": 27.76,
+          "end_time": 31.04,
+          "text_en": "Not only is Ms. Marks familiar with the role of Laura,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-8",
+          "speaker": "Speaker",
+          "start_time": 31.04,
+          "end_time": 37.76,
+          "text_en": "but she also knows the choreography since she worked with our director when this production premiered in Toronto.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-9",
+          "speaker": "Speaker",
+          "start_time": 37.76,
+          "end_time": 39.6,
+          "text_en": "Wondering what her voice is like?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-10",
+          "speaker": "Speaker",
+          "start_time": 39.6,
+          "end_time": 44.0,
+          "text_en": "Well, judge for yourself, but I saw the reviews from Toronto.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-11",
+          "speaker": "Speaker",
+          "start_time": 44.0,
+          "end_time": 47.04,
+          "text_en": "I can guarantee that we are in for a treat.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-12",
+          "speaker": "Speaker",
+          "start_time": 57.6,
+          "end_time": 66.4,
+          "text_en": "Number 81. What does the speaker indicate about Rita Marks?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-13",
+          "speaker": "Speaker",
+          "start_time": 66.4,
+          "end_time": 79.2,
+          "text_en": "Number 82. What does the speaker imply when he says,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-14",
+          "speaker": "Speaker",
+          "start_time": 79.2,
+          "end_time": 82.72,
+          "text_en": "I saw the reviews from Toronto.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-15",
+          "speaker": "Speaker",
+          "start_time": 89.2,
+          "end_time": 93.2,
+          "text_en": "Go on to the next page.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "811cbb4a-186c-5736-a9f9-9ce647e56854",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part4_g83_85.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g83_85-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 6.0,
+          "text_en": "Questions 83 through 85 refer to the following excerpt from a meeting.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-2",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 13.0,
+          "text_en": "Thank you for inviting me and other members of the marketing department to this meeting of the Research and Development team.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-3",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 18.0,
+          "text_en": "We always welcome the opportunity to share customer information about our toys with you.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-4",
+          "speaker": "Speaker",
+          "start_time": 18.0,
+          "end_time": 26.0,
+          "text_en": "I'd like to start off with some information about the remote control car that we launched in department stores and toy stores one month ago.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-5",
+          "speaker": "Speaker",
+          "start_time": 26.0,
+          "end_time": 28.0,
+          "text_en": "It's been a mixed bag.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-6",
+          "speaker": "Speaker",
+          "start_time": 28.0,
+          "end_time": 32.0,
+          "text_en": "Customers love the smooth action of the car and the high speed it can achieve.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-7",
+          "speaker": "Speaker",
+          "start_time": 32.0,
+          "end_time": 37.0,
+          "text_en": "However, they are somewhat disappointed with the rechargeable battery the car comes with.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-8",
+          "speaker": "Speaker",
+          "start_time": 37.0,
+          "end_time": 44.0,
+          "text_en": "I encourage your team to find ways to make the battery charge faster and last longer.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-9",
+          "speaker": "Speaker",
+          "start_time": 44.0,
+          "end_time": 50.0,
+          "text_en": "Number 83. Where does the speaker most likely work?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-10",
+          "speaker": "Speaker",
+          "start_time": 57.0,
+          "end_time": 62.0,
+          "text_en": "Number 84. What does the speaker mean when she says?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-11",
+          "speaker": "Speaker",
+          "start_time": 62.0,
+          "end_time": 65.0,
+          "text_en": "It's been a mixed bag.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-12",
+          "speaker": "Speaker",
+          "start_time": 65.0,
+          "end_time": 78.0,
+          "text_en": "Number 85. What does the speaker ask the listeners to do?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "5e251e1d-8740-56b1-ba5a-a07c25a0ff39",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part4_g86_88.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g86_88-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Questions 86-88 refer to the following announcement.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 8.0,
+          "text_en": "Attention ShopSmart shoppers.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-3",
+          "speaker": "Speaker",
+          "start_time": 8.0,
+          "end_time": 10.0,
+          "text_en": "In case you didn't pick up our flyer,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-4",
+          "speaker": "Speaker",
+          "start_time": 10.0,
+          "end_time": 13.0,
+          "text_en": "we are kicking off a ShopSmart giveaway event.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-5",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 17.0,
+          "text_en": "For every two cans of ShopSmart soup or vegetables that you buy,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-6",
+          "speaker": "Speaker",
+          "start_time": 17.0,
+          "end_time": 20.0,
+          "text_en": "you will be entered in a drawing to win a gift certificate",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-7",
+          "speaker": "Speaker",
+          "start_time": 20.0,
+          "end_time": 23.0,
+          "text_en": "that can be used at any ShopSmart location.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-8",
+          "speaker": "Speaker",
+          "start_time": 23.0,
+          "end_time": 26.0,
+          "text_en": "Gift certificates worth $100 each",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-9",
+          "speaker": "Speaker",
+          "start_time": 26.0,
+          "end_time": 29.0,
+          "text_en": "will be awarded to three lucky shoppers on May 1st.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-10",
+          "speaker": "Speaker",
+          "start_time": 29.0,
+          "end_time": 33.0,
+          "text_en": "This offer is good only for ShopSmart brand canned goods.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-11",
+          "speaker": "Speaker",
+          "start_time": 33.0,
+          "end_time": 36.0,
+          "text_en": "Act now, stock up and join the giveaway.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-12",
+          "speaker": "Speaker",
+          "start_time": 36.0,
+          "end_time": 41.0,
+          "text_en": "The more you buy, the more chances you have to win.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-13",
+          "speaker": "Speaker",
+          "start_time": 41.0,
+          "end_time": 43.0,
+          "text_en": "Number 86.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-14",
+          "speaker": "Speaker",
+          "start_time": 43.0,
+          "end_time": 47.0,
+          "text_en": "Where is the announcement most likely being made?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-15",
+          "speaker": "Speaker",
+          "start_time": 54.0,
+          "end_time": 56.0,
+          "text_en": "Number 87.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-16",
+          "speaker": "Speaker",
+          "start_time": 56.0,
+          "end_time": 60.0,
+          "text_en": "What is the main topic of the announcement?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-17",
+          "speaker": "Speaker",
+          "start_time": 67.0,
+          "end_time": 69.0,
+          "text_en": "Number 88.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-18",
+          "speaker": "Speaker",
+          "start_time": 69.0,
+          "end_time": 73.0,
+          "text_en": "What does the speaker say about some ShopSmart products?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "5567b37c-c014-53bf-80ba-c57e5a2624e0",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part4_g89_91.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g89_91-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Questions 89-91 refer to the following telephone message.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 9.0,
+          "text_en": "Hi Mr. Collins, I'm calling from Silver's Flooring.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-3",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 14.0,
+          "text_en": "I was about to place your order for the maple floors that you wanted me to put in,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-4",
+          "speaker": "Speaker",
+          "start_time": 14.0,
+          "end_time": 16.0,
+          "text_en": "but I decided to call you first.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-5",
+          "speaker": "Speaker",
+          "start_time": 16.0,
+          "end_time": 22.0,
+          "text_en": "I just found out that the hardwood distributor has lowered the price of the oak flooring.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-6",
+          "speaker": "Speaker",
+          "start_time": 22.0,
+          "end_time": 27.0,
+          "text_en": "I think you originally preferred oak, but decided it was too expensive.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-7",
+          "speaker": "Speaker",
+          "start_time": 27.0,
+          "end_time": 30.0,
+          "text_en": "The reduction looks to be about 15%.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-8",
+          "speaker": "Speaker",
+          "start_time": 30.0,
+          "end_time": 35.0,
+          "text_en": "Please call me back and let me know if I should still order the maple for you,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-9",
+          "speaker": "Speaker",
+          "start_time": 35.0,
+          "end_time": 39.0,
+          "text_en": "or if you would prefer that I order the oak.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-10",
+          "speaker": "Speaker",
+          "start_time": 39.0,
+          "end_time": 52.0,
+          "text_en": "Number 89- What work was the speaker hired to do?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-11",
+          "speaker": "Speaker",
+          "start_time": 52.0,
+          "end_time": 65.0,
+          "text_en": "Number 90- What does the speaker say about the distributor?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-12",
+          "speaker": "Speaker",
+          "start_time": 65.0,
+          "end_time": 77.0,
+          "text_en": "Number 91- Why did the speaker wait to place an order?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-13",
+          "speaker": "Speaker",
+          "start_time": 77.0,
+          "end_time": 91.0,
+          "text_en": "Number 89- What was the speaker hired to place an order for you?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "29f7b794-c865-5f71-b249-b5837003cda5",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test2/part4_g92_94.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g92_94-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.0,
+          "text_en": "Questions 92 through 94 refer to the following introduction.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-2",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 9.0,
+          "text_en": "Welcome to the Central Valley Environmental Center.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-3",
+          "speaker": "Speaker",
+          "start_time": 9.0,
+          "end_time": 12.0,
+          "text_en": "We are so grateful to all of you, our volunteers,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-4",
+          "speaker": "Speaker",
+          "start_time": 12.0,
+          "end_time": 17.0,
+          "text_en": "for coming out today to help with this project to install Bluebird Nest boxes.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-5",
+          "speaker": "Speaker",
+          "start_time": 17.0,
+          "end_time": 22.0,
+          "text_en": "The Eastern Bluebird is a native species that plays an important role in our environment,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-6",
+          "speaker": "Speaker",
+          "start_time": 22.0,
+          "end_time": 26.0,
+          "text_en": "but it's threatened by habitat loss and predation.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-7",
+          "speaker": "Speaker",
+          "start_time": 26.0,
+          "end_time": 32.0,
+          "text_en": "We have numerous donated nest boxes here that will help protect our local Bluebird population.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-8",
+          "speaker": "Speaker",
+          "start_time": 32.0,
+          "end_time": 37.0,
+          "text_en": "Remember that Bluebirds prefer open woodlands and grasslands with scattered trees.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-9",
+          "speaker": "Speaker",
+          "start_time": 37.0,
+          "end_time": 43.0,
+          "text_en": "Some suitable locations are already identified on the maps you've received.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-10",
+          "speaker": "Speaker",
+          "start_time": 56.0,
+          "end_time": 68.0,
+          "text_en": "Number 93. What is the purpose of the project?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-11",
+          "speaker": "Speaker",
+          "start_time": 68.0,
+          "end_time": 79.0,
+          "text_en": "Number 94. What is marked on some maps?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "9135606e-999b-512c-bb32-17f6f66adf6e",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 4,
+      "passage_text": null,
+      "image_url": "/images/test2/part4_g95_97.png",
+      "audio_url": "/audio/test2/part4_g95_97.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g95_97-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 7.0,
+          "text_en": "Questions 95-97 refer to the following talk and list.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-2",
+          "speaker": "Speaker",
+          "start_time": 7.0,
+          "end_time": 8.0,
+          "text_en": "Hi everyone.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-3",
+          "speaker": "Speaker",
+          "start_time": 8.0,
+          "end_time": 14.0,
+          "text_en": "I want to update you on sales of our lines of dishware after the introduction of our holiday-themed patterns.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-4",
+          "speaker": "Speaker",
+          "start_time": 14.0,
+          "end_time": 17.0,
+          "text_en": "Our everyday dishware continues to perform as expected.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-5",
+          "speaker": "Speaker",
+          "start_time": 17.0,
+          "end_time": 22.0,
+          "text_en": "Also, I am pleased to report that our new year plates are a resounding success.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-6",
+          "speaker": "Speaker",
+          "start_time": 22.0,
+          "end_time": 27.0,
+          "text_en": "Total wholesale orders have outpaced those of our popular Dawn series of fine china.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-7",
+          "speaker": "Speaker",
+          "start_time": 27.0,
+          "end_time": 33.0,
+          "text_en": "We spent a lot on the design for new year, so our CEO will be happy to learn that the investment is paid off.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-8",
+          "speaker": "Speaker",
+          "start_time": 33.0,
+          "end_time": 37.0,
+          "text_en": "Looks like we will need to rethink the Harvest Festival brand though.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-9",
+          "speaker": "Speaker",
+          "start_time": 37.0,
+          "end_time": 45.0,
+          "text_en": "Unless total sales reach those of our CAFE series by next year, we may even discontinue it.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-10",
+          "speaker": "Speaker",
+          "start_time": 45.0,
+          "end_time": 58.0,
+          "text_en": "Number 95-What product does the speakers company sell?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-11",
+          "speaker": "Speaker",
+          "start_time": 58.0,
+          "end_time": 70.0,
+          "text_en": "Number 96-Why will the CEO be pleased?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-12",
+          "speaker": "Speaker",
+          "start_time": 71.0,
+          "end_time": 74.0,
+          "text_en": "Number 97-Look at the graphic.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-13",
+          "speaker": "Speaker",
+          "start_time": 74.0,
+          "end_time": 81.0,
+          "text_en": "What number of orders does the speaker say the Harvest Festival pattern must reach?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "276e1d77-a1bd-579b-bfed-f8372ff12ccb",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 4,
+      "passage_text": null,
+      "image_url": "/images/test2/part4_g98_100.png",
+      "audio_url": "/audio/test2/part4_g98_100.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g98_100-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 7.0,
+          "text_en": "Questions 98-100 refer to the following excerpt from a meeting and chart.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-2",
+          "speaker": "Speaker",
+          "start_time": 7.0,
+          "end_time": 13.0,
+          "text_en": "I'd like to welcome all of you to your first day of work at the Wildcats Customer Service Office.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-3",
+          "speaker": "Speaker",
+          "start_time": 13.0,
+          "end_time": 17.0,
+          "text_en": "Baseball season starts in exactly one month.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-4",
+          "speaker": "Speaker",
+          "start_time": 17.0,
+          "end_time": 23.0,
+          "text_en": "We expect ticket sales to be very good because the Wildcats had such a great season last year.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-5",
+          "speaker": "Speaker",
+          "start_time": 23.0,
+          "end_time": 26.0,
+          "text_en": "As you can see on the chart, we have four packages.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-6",
+          "speaker": "Speaker",
+          "start_time": 26.0,
+          "end_time": 31.0,
+          "text_en": "Make sure you let our customers know about the new Sunday package.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-7",
+          "speaker": "Speaker",
+          "start_time": 31.0,
+          "end_time": 35.0,
+          "text_en": "It includes tickets for every Sunday home game throughout the season.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-8",
+          "speaker": "Speaker",
+          "start_time": 35.0,
+          "end_time": 45.0,
+          "text_en": "Our Friday night package, holiday package and discount package were available last year and should remain popular.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-9",
+          "speaker": "Speaker",
+          "start_time": 45.0,
+          "end_time": 57.0,
+          "text_en": "Number 98, who most likely is the speaker?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-10",
+          "speaker": "Speaker",
+          "start_time": 57.0,
+          "end_time": 70.0,
+          "text_en": "Number 99, why are ticket sales expected to be good?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-11",
+          "speaker": "Speaker",
+          "start_time": 70.0,
+          "end_time": 74.0,
+          "text_en": "Number 100, look at the graphic.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-12",
+          "speaker": "Speaker",
+          "start_time": 74.0,
+          "end_time": 81.0,
+          "text_en": "How many games are included in the new ticket package that the speaker describes?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "22360dd9-ec5d-5479-bc1f-371377dc9685",
+      "group_id": "ce7fe29a-aa57-58cb-bae3-94d087dbcbb1",
+      "part": 4,
+      "question_number": 71,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What is being advertised?",
+      "options": {
+        "A": "A trip to Mexico",
+        "B": "A city tour",
+        "C": "A farm visit",
+        "D": "A botanical garden"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Bài nói là một đoạn quảng cáo giới thiệu về một địa điểm. Để xác định địa điểm này là gì, cần chú ý đến các từ khóa mô tả.\nVì sao đáp án đúng là chính xác: Người nói đề cập \"Winford Gardens has acres of outdoor gardens filled with plants you won't typically find anywhere near here\" (Winford Gardens có hàng mẫu vườn ngoài trời chứa đầy cây cối mà bạn thường không tìm thấy ở bất cứ đâu gần đây). Cụm từ \"outdoor gardens\" và \"plants\" chỉ ra đây là một vườn thực vật (botanical garden).\nBẫy đề thi ETS: (A) \"A trip to Mexico\" sai vì chỉ có \"Mexican blue palms\" được nhắc đến, không phải chuyến đi. (B) \"A city tour\" sai vì địa điểm này \"just a few miles from the downtown area\" (chỉ cách khu trung tâm vài dặm), không phải là một chuyến tham quan thành phố. (C) \"A farm visit\" sai vì không có thông tin nào về trang trại.\nMẹo phản xạ nhanh: Nghe các từ khóa mô tả địa điểm như \"gardens\", \"plants\" để suy luận về loại hình địa điểm được quảng cáo.",
+      "evidence_quote": "Winford Gardens has acres of outdoor gardens filled with plants you won't typically find anywhere near here.",
+      "paraphrase_pair": {
+        "original": "Winford Gardens has acres of outdoor gardens filled with plants you won't typically find anywhere near here.",
+        "paraphrased": "A botanical garden"
+      }
+    },
+    {
+      "id": "9cc89b5e-263e-5860-8bad-0b577e8461de",
+      "group_id": "ce7fe29a-aa57-58cb-bae3-94d087dbcbb1",
+      "part": 4,
+      "question_number": 72,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What event is happening this weekend?",
+      "options": {
+        "A": "A competition will be held.",
+        "B": "Special plants will be on display.",
+        "C": "Crops will be planted.",
+        "D": "A special sale will take place."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu xác định sự kiện diễn ra vào cuối tuần này. Cần tìm thông tin cụ thể về hoạt động được tổ chức.\nVì sao đáp án đúng là chính xác: Người nói nói \"This weekend we will have an exhibition of Mexican blue palms\" (Cuối tuần này chúng tôi sẽ có một cuộc triển lãm cây cọ xanh Mexico). \"An exhibition\" (một cuộc triển lãm) có nghĩa là các loài cây đặc biệt sẽ được trưng bày (special plants will be on display).\nBẫy đề thi ETS: (A) \"A competition will be held\" sai vì không có thông tin về cuộc thi. (C) \"Crops will be planted\" sai vì không có thông tin về việc trồng trọt. (D) \"A special sale will take place\" sai vì không có thông tin về việc giảm giá hay bán hàng đặc biệt.\nMẹo phản xạ nhanh: Nghe các cụm từ chỉ thời gian như \"This weekend\" và các từ khóa liên quan đến sự kiện như \"exhibition\" để tìm câu trả lời.",
+      "evidence_quote": "This weekend we will have an exhibition of Mexican blue palms.",
+      "paraphrase_pair": {
+        "original": "an exhibition of Mexican blue palms",
+        "paraphrased": "Special plants will be on display"
+      }
+    },
+    {
+      "id": "24674724-b619-5e13-a2dd-0c8c7318e201",
+      "group_id": "ce7fe29a-aa57-58cb-bae3-94d087dbcbb1",
+      "part": 4,
+      "question_number": 73,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What does the speaker say about a café building?",
+      "options": {
+        "A": "It will soon be repainted.",
+        "B": "It was once a greenhouse.",
+        "C": "It is located near public transportation.",
+        "D": "It is closed this spring."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi tập trung vào thông tin cụ thể về tòa nhà quán cà phê. Cần tìm mô tả về lịch sử hoặc đặc điểm của nó.\nVì sao đáp án đúng là chính xác: Người nói nói \"Winford's café is a converted building that used to be a greenhouse\" (Quán cà phê của Winford là một tòa nhà được chuyển đổi từ một nhà kính). Điều này có nghĩa là nó từng là một nhà kính (It was once a greenhouse).\nBẫy đề thi ETS: (A) \"It will soon be repainted\" sai vì không có thông tin về việc sơn lại. (C) \"It is located near public transportation\" sai vì chỉ nói \"just a few miles from the downtown area\" (chỉ cách khu trung tâm vài dặm), không đề cập đến phương tiện giao thông công cộng. (D) \"It is closed this spring\" sai vì không có thông tin về việc đóng cửa.\nMẹo phản xạ nhanh: Nghe các từ khóa liên quan đến \"café\" và các cụm từ mô tả quá khứ như \"used to be\" để tìm thông tin chính xác.",
+      "evidence_quote": "Winford's café is a converted building that used to be a greenhouse.",
+      "paraphrase_pair": {
+        "original": "a converted building that used to be a greenhouse",
+        "paraphrased": "It was once a greenhouse"
+      }
+    },
+    {
+      "id": "e4e18bf0-c119-5062-ba0f-3c2178d4546c",
+      "group_id": "7acc425a-0bbf-59f9-856b-c337461b76f1",
+      "part": 4,
+      "question_number": 74,
+      "question_type_tag": "inference",
+      "question_text": "Who most likely is the speaker?",
+      "options": {
+        "A": "A salesperson",
+        "B": "A manager",
+        "C": "A safety inspector",
+        "D": "A software developer"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu suy luận về vai trò của người nói dựa trên lời chào đầu và nội dung cuộc họp.\nVì sao đáp án đúng là chính xác: Người nói bắt đầu bằng \"Welcome to this week's managers' meeting here at South Truck Deliveries\" (Chào mừng tất cả quý vị đến với cuộc họp quản lý tuần này tại South Truck Deliveries). Cụm từ \"managers' meeting\" (cuộc họp quản lý) cho thấy người nói là một quản lý (A manager).\nBẫy đề thi ETS: (A) \"A salesperson\" sai vì không có thông tin về bán hàng. (C) \"A safety inspector\" sai vì không có thông tin về kiểm tra an toàn. (D) \"A software developer\" sai vì mặc dù có nhắc đến \"software application\" (ứng dụng phần mềm), nhưng người nói đang chủ trì cuộc họp quản lý, không phải là nhà phát triển phần mềm.\nMẹo phản xạ nhanh: Chú ý đến lời chào đầu và đối tượng của bài nói để xác định vai trò của người nói.",
+      "evidence_quote": "Welcome to this week's managers' meeting here at South Truck Deliveries.",
+      "paraphrase_pair": {
+        "original": "managers' meeting",
+        "paraphrased": "A manager"
+      }
+    },
+    {
+      "id": "3625dac0-8cb0-55a8-b4f7-3a72063401aa",
+      "group_id": "7acc425a-0bbf-59f9-856b-c337461b76f1",
+      "part": 4,
+      "question_number": 75,
+      "question_type_tag": "main_idea",
+      "question_text": "What is the main topic of the talk?",
+      "options": {
+        "A": "A delivery route",
+        "B": "A corporate merger",
+        "C": "Performance reviews",
+        "D": "Hiring procedures"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu xác định chủ đề chính của bài nói. Cần tổng hợp thông tin từ toàn bộ bài nói.\nVì sao đáp án đúng là chính xác: Người nói đề cập \"we've always written performance evaluations for our drivers and other employees on paper. ... Beginning this year, we will use a software application called Personnel Profile to enter performance appraisals\" (chúng tôi luôn viết đánh giá hiệu suất cho tài xế và các nhân viên khác trên giấy. ... Bắt đầu từ năm nay, chúng tôi sẽ sử dụng một ứng dụng phần mềm có tên Personnel Profile để nhập các đánh giá hiệu suất). Các cụm từ \"performance evaluations\" và \"performance appraisals\" đều có nghĩa là đánh giá hiệu suất (Performance reviews).\nBẫy đề thi ETS: (A) \"A delivery route\" sai vì mặc dù công ty là \"South Truck Deliveries\" nhưng chủ đề chính không phải là tuyến đường giao hàng. (B) \"A corporate merger\" sai vì không có thông tin về sáp nhập công ty. (D) \"Hiring procedures\" sai vì không có thông tin về quy trình tuyển dụng.\nMẹo phản xạ nhanh: Nghe các từ khóa lặp lại hoặc các cụm từ đồng nghĩa xuyên suốt bài nói để xác định chủ đề chính.",
+      "evidence_quote": "we've always written performance evaluations for our drivers and other employees on paper. ... Beginning this year, we will use a software application called Personnel Profile to enter performance appraisals.",
+      "paraphrase_pair": {
+        "original": "performance evaluations",
+        "paraphrased": "Performance reviews"
+      }
+    },
+    {
+      "id": "3613f903-0193-50c7-ac72-ef947f8ac4db",
+      "group_id": "7acc425a-0bbf-59f9-856b-c337461b76f1",
+      "part": 4,
+      "question_number": 76,
+      "question_type_tag": "instruction_action",
+      "question_text": "What does the speaker ask the listeners to do?",
+      "options": {
+        "A": "Pass along some information to workers",
+        "B": "Sign up for a training course",
+        "C": "Get some information from customers",
+        "D": "Talk with employees about their goals for the year"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu xác định hành động mà người nói yêu cầu người nghe thực hiện. Cần chú ý đến các chỉ dẫn hoặc yêu cầu trực tiếp.\nVì sao đáp án đúng là chính xác: Người nói nói \"She will walk you through how to enroll in a training course on using Personnel Profile, and you will complete your enrollment by the end of this meeting\" (Cô ấy sẽ hướng dẫn các bạn cách đăng ký khóa đào tạo về việc sử dụng Personnel Profile, và các bạn sẽ hoàn tất việc đăng ký trước khi cuộc họp này kết thúc). \"Enroll in a training course\" có nghĩa là đăng ký một khóa đào tạo (Sign up for a training course).\nBẫy đề thi ETS: (A) \"Pass along some information to workers\" sai vì không có yêu cầu chuyển thông tin. (C) \"Get some information from customers\" sai vì không có yêu cầu thu thập thông tin từ khách hàng. (D) \"Talk with employees about their goals for the year\" sai vì không có yêu cầu thảo luận mục tiêu với nhân viên.\nMẹo phản xạ nhanh: Nghe các cụm từ chỉ mệnh lệnh hoặc yêu cầu như \"I encourage you to\", \"you will\" để tìm hành động được yêu cầu.",
+      "evidence_quote": "She will walk you through how to enroll in a training course on using Personnel Profile, and you will complete your enrollment by the end of this meeting.",
+      "paraphrase_pair": {
+        "original": "enroll in a training course",
+        "paraphrased": "Sign up for a training course"
+      }
+    },
+    {
+      "id": "7cc72860-b62f-58f1-b28b-041c7d32ae24",
+      "group_id": "54c9f7b7-fca5-50a4-9b04-abb120426419",
+      "part": 4,
+      "question_number": 77,
+      "question_type_tag": "inference",
+      "question_text": "Who is the speaker most likely calling?",
+      "options": {
+        "A": "A real estate firm",
+        "B": "A moving company",
+        "C": "A travel agency",
+        "D": "A furniture store"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu suy luận về đối tượng mà người nói đang gọi điện dựa trên mục đích cuộc gọi.\nVì sao đáp án đúng là chính xác: Người nói nói \"You're scheduled to move my furniture to my new apartment tomorrow morning at eight\" (Bạn đã được lên lịch để chuyển đồ đạc của tôi đến căn hộ mới vào sáng mai lúc tám giờ). Cụm từ \"move my furniture\" (chuyển đồ đạc của tôi) cho thấy người nói đang gọi cho một công ty chuyển nhà (A moving company).\nBẫy đề thi ETS: (A) \"A real estate firm\" sai vì không có thông tin về bất động sản. (C) \"A travel agency\" sai vì mặc dù người nói có chuyến đi nước ngoài nhưng mục đích cuộc gọi không phải để sắp xếp chuyến đi. (D) \"A furniture store\" sai vì người nói đang chuyển đồ đạc, không phải mua đồ nội thất mới.\nMẹo phản xạ nhanh: Nghe mục đích chính của cuộc gọi (từ khóa \"move my furniture\") để xác định đối tượng được gọi.",
+      "evidence_quote": "You're scheduled to move my furniture to my new apartment tomorrow morning at eight.",
+      "paraphrase_pair": {
+        "original": "move my furniture",
+        "paraphrased": "A moving company"
+      }
+    },
+    {
+      "id": "98743d33-757c-5e4a-a197-39395136a60b",
+      "group_id": "54c9f7b7-fca5-50a4-9b04-abb120426419",
+      "part": 4,
+      "question_number": 78,
+      "question_type_tag": "inference",
+      "question_text": "Why does the speaker say, \"my apartment is on a very high floor\"?",
+      "options": {
+        "A": "To correct a misunderstanding",
+        "B": "To negotiate a price",
+        "C": "To ask about a property's value",
+        "D": "To warn about a situation"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu giải thích ý định của người nói khi đưa ra thông tin cụ thể về căn hộ của mình.\nVì sao đáp án đúng là chính xác: Người nói nói \"I'm calling because I just learned that the freight elevator in my building is broken, and my apartment is on a very high floor\" (Tôi gọi vì tôi vừa biết rằng thang máy chở hàng trong tòa nhà của tôi bị hỏng, và căn hộ của tôi ở một tầng rất cao). Việc thang máy hỏng kết hợp với căn hộ ở tầng cao tạo ra một tình huống khó khăn cho việc chuyển đồ, vì vậy người nói đang cảnh báo về tình hình (To warn about a situation).\nBẫy đề thi ETS: (A) \"To correct a misunderstanding\" sai vì không có sự hiểu lầm nào được đề cập. (B) \"To negotiate a price\" sai vì không có cuộc đàm phán giá cả nào. (C) \"To ask about a property's value\" sai vì không có thông tin về giá trị tài sản.\nMẹo phản xạ nhanh: Liên kết thông tin về \"freight elevator is broken\" và \"very high floor\" để suy luận về lý do người nói đưa ra chi tiết này.",
+      "evidence_quote": "I'm calling because I just learned that the freight elevator in my building is broken, and my apartment is on a very high floor.",
+      "paraphrase_pair": {
+        "original": "the freight elevator in my building is broken, and my apartment is on a very high floor",
+        "paraphrased": "To warn about a situation"
+      }
+    },
+    {
+      "id": "0c244ed6-fdb2-51df-83c9-9a8f7e58b72d",
+      "group_id": "54c9f7b7-fca5-50a4-9b04-abb120426419",
+      "part": 4,
+      "question_number": 79,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What will the speaker do next week?",
+      "options": {
+        "A": "Host an event",
+        "B": "Make a payment",
+        "C": "Travel abroad",
+        "D": "Begin a new job"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu xác định hành động của người nói vào tuần tới. Cần tìm thông tin cụ thể về kế hoạch trong tương lai gần.\nVì sao đáp án đúng là chính xác: Người nói nói \"I have an overseas trip coming up next week, so this work will have to happen soon\" (Tôi có một chuyến đi nước ngoài vào tuần tới, vì vậy công việc này cần phải hoàn thành sớm). \"An overseas trip\" có nghĩa là đi du lịch nước ngoài (Travel abroad).\nBẫy đề thi ETS: (A) \"Host an event\" sai vì không có thông tin về việc tổ chức sự kiện. (B) \"Make a payment\" sai vì không có thông tin về việc thanh toán. (D) \"Begin a new job\" sai vì không có thông tin về việc bắt đầu công việc mới.\nMẹo phản xạ nhanh: Nghe các cụm từ chỉ thời gian trong tương lai như \"next week\" và các từ khóa liên quan đến hoạt động như \"trip\" để tìm câu trả lời.",
+      "evidence_quote": "I have an overseas trip coming up next week, so this work will have to happen soon.",
+      "paraphrase_pair": {
+        "original": "an overseas trip coming up next week",
+        "paraphrased": "Travel abroad"
+      }
+    },
+    {
+      "id": "b24df7db-49f4-5509-b6fa-cfd0bd9cbf93",
+      "group_id": "acfc641f-2c4f-5001-a58e-beed0a457527",
+      "part": 4,
+      "question_number": 80,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Why might the listeners be disappointed?",
+      "options": {
+        "A": "A performance has been canceled.",
+        "B": "A performer will not be appearing.",
+        "C": "A new production will be delayed.",
+        "D": "A production is not new."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu xác định lý do người nghe có thể thất vọng. Cần tìm thông tin về tin xấu được đề cập.\nVì sao đáp án đúng là chính xác: Người nói nói \"Soprano Lisa Gornicka informed me earlier today that she will not be able to perform tonight. I know how disappointing this is\" (Nữ ca sĩ giọng soprano Lisa Gornicka đã thông báo với tôi sáng nay rằng cô ấy sẽ không thể biểu diễn tối nay. Tôi biết điều này thật đáng thất vọng). Việc một người biểu diễn không thể xuất hiện (A performer will not be appearing) là lý do gây thất vọng.\nBẫy đề thi ETS: (A) \"A performance has been canceled\" sai vì buổi biểu diễn không bị hủy, chỉ có người biểu diễn thay thế. (C) \"A new production will be delayed\" sai vì không có thông tin về việc trì hoãn sản xuất mới. (D) \"A production is not new\" sai vì không có thông tin về việc sản xuất không mới.\nMẹo phản xạ nhanh: Nghe các cụm từ chỉ tin xấu như \"bad news\", \"disappointing\" và thông tin cụ thể theo sau để tìm lý do.",
+      "evidence_quote": "Soprano Lisa Gornicka informed me earlier today that she will not be able to perform tonight. I know how disappointing this is.",
+      "paraphrase_pair": {
+        "original": "Soprano Lisa Gornicka ... will not be able to perform tonight",
+        "paraphrased": "A performer will not be appearing"
+      }
+    },
+    {
+      "id": "2c417036-5544-5354-a875-97723c0a8a2e",
+      "group_id": "acfc641f-2c4f-5001-a58e-beed0a457527",
+      "part": 4,
+      "question_number": 81,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What does the speaker indicate about Rita Marks?",
+      "options": {
+        "A": "She has flown in from Toronto.",
+        "B": "She taught the speaker.",
+        "C": "She has experience with a role.",
+        "D": "She is a good friend of the speaker's."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu tìm thông tin cụ thể về Rita Marks. Cần chú ý đến các chi tiết mô tả về cô ấy.\nVì sao đáp án đúng là chính xác: Người nói nói \"Not only is Ms. Marks familiar with the role of Laura, but she also knows the choreography, since she worked with our director when this production premiered in Toronto\" (Bà Marks không chỉ quen thuộc với vai Laura, mà bà ấy còn biết vũ đạo, vì bà ấy đã làm việc với đạo diễn của chúng tôi khi vở diễn này ra mắt ở Toronto). Cụm từ \"familiar with the role\" (quen thuộc với vai diễn) có nghĩa là cô ấy có kinh nghiệm với vai diễn đó (She has experience with a role).\nBẫy đề thi ETS: (A) \"She has flown in from Toronto\" sai vì chỉ nói vở diễn ra mắt ở Toronto, không phải cô ấy bay từ Toronto đến. (B) \"She taught the speaker\" sai vì không có thông tin về việc cô ấy dạy người nói. (D) \"She is a good friend of the speaker's\" sai vì không có thông tin về mối quan hệ bạn bè thân thiết.\nMẹo phản xạ nhanh: Nghe các từ khóa liên quan đến \"Rita Marks\" và các cụm từ mô tả khả năng, kinh nghiệm của cô ấy.",
+      "evidence_quote": "Not only is Ms. Marks familiar with the role of Laura, but she also knows the choreography, since she worked with our director when this production premiered in Toronto.",
+      "paraphrase_pair": {
+        "original": "Ms. Marks familiar with the role of Laura",
+        "paraphrased": "She has experience with a role"
+      }
+    },
+    {
+      "id": "e0e0da10-87b0-53fb-b795-023e008e237a",
+      "group_id": "acfc641f-2c4f-5001-a58e-beed0a457527",
+      "part": 4,
+      "question_number": 82,
+      "question_type_tag": "inference",
+      "question_text": "What does the speaker imply when he says, \"I saw the reviews from Toronto\"?",
+      "options": {
+        "A": "He attended the opera in Toronto.",
+        "B": "An audience disliked Lisa Gornicka.",
+        "C": "Critics disagree about Rita Marks's performance.",
+        "D": "Rita Marks has been praised for her singing."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu suy luận ý nghĩa ẩn ý của người nói khi đề cập đến các bài đánh giá từ Toronto.\nVì sao đáp án đúng là chính xác: Người nói nói \"Wondering what her voice is like? Well, judge for yourself, but I saw the reviews from Toronto. I can guarantee that we are in for a treat!\" (Tự hỏi giọng hát của cô ấy như thế nào ư? Chà, hãy tự mình đánh giá, nhưng tôi đã xem các bài đánh giá từ Toronto. Tôi có thể đảm bảo rằng chúng ta sẽ có một buổi biểu diễn tuyệt vời!). Cụm từ \"I can guarantee that we are in for a treat!\" (Tôi có thể đảm bảo rằng chúng ta sẽ có một buổi biểu diễn tuyệt vời!) sau khi nhắc đến các bài đánh giá từ Toronto ngụ ý rằng Rita Marks đã được khen ngợi về giọng hát của mình (Rita Marks has been praised for her singing).\nBẫy đề thi ETS: (A) \"He attended the opera in Toronto\" sai vì người nói chỉ nói đã xem các bài đánh giá, không phải đã tham dự. (B) \"An audience disliked Lisa Gornicka\" sai vì thông tin này không liên quan trực tiếp đến Rita Marks. (C) \"Critics disagree about Rita Marks's performance\" sai vì ngữ cảnh cho thấy các bài đánh giá là tích cực.\nMẹo phản xạ nhanh: Chú ý đến ngữ cảnh và các câu theo sau để suy luận ý nghĩa ẩn ý. Cụm từ \"in for a treat\" thường chỉ điều gì đó rất tốt.",
+      "evidence_quote": "Wondering what her voice is like? Well, judge for yourself, but I saw the reviews from Toronto. I can guarantee that we are in for a treat!",
+      "paraphrase_pair": {
+        "original": "I saw the reviews from Toronto. I can guarantee that we are in for a treat!",
+        "paraphrased": "Rita Marks has been praised for her singing"
+      }
+    },
+    {
+      "id": "3ebc5808-b5de-5b5b-acd8-fd4cb32909ef",
+      "group_id": "811cbb4a-186c-5736-a9f9-9ce647e56854",
+      "part": 4,
+      "question_number": 83,
+      "question_type_tag": "inference",
+      "question_text": "Where does the speaker most likely work?",
+      "options": {
+        "A": "At an automobile company",
+        "B": "At a data analysis company",
+        "C": "At a toy manufacturer",
+        "D": "At a department store"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu suy luận về nơi làm việc của người nói dựa trên nội dung cuộc họp.\nVì sao đáp án đúng là chính xác: Người nói nói \"We always welcome the opportunity to share customer information about our toys with you. I'd like to start off with some information about the remote-control car that we launched in department stores and toy stores one month ago\" (Chúng tôi luôn hoan nghênh cơ hội chia sẻ thông tin khách hàng về đồ chơi của chúng tôi với các bạn. Tôi muốn bắt đầu với một số thông tin về chiếc xe điều khiển từ xa mà chúng tôi đã ra mắt tại các cửa hàng bách hóa và cửa hàng đồ chơi một tháng trước). Các từ khóa \"toys\" (đồ chơi) và \"remote-control car\" (xe điều khiển từ xa) cho thấy người nói làm việc tại một nhà sản xuất đồ chơi (A toy manufacturer).\nBẫy đề thi ETS: (A) \"At an automobile company\" sai vì mặc dù có \"car\" nhưng đây là \"remote-control car\" (xe đồ chơi), không phải ô tô thật. (B) \"At a data analysis company\" sai vì không có thông tin về phân tích dữ liệu. (D) \"At a department store\" sai vì người nói nói \"launched in department stores\" (ra mắt tại các cửa hàng bách hóa), ngụ ý họ là nhà cung cấp cho các cửa hàng đó, không phải làm việc tại cửa hàng bách hóa.\nMẹo phản xạ nhanh: Nghe các từ khóa sản phẩm chính được thảo luận (\"toys\", \"remote-control car\") để xác định loại hình công ty.",
+      "evidence_quote": "We always welcome the opportunity to share customer information about our toys with you. I'd like to start off with some information about the remote-control car that we launched in department stores and toy stores one month ago.",
+      "paraphrase_pair": {
+        "original": "customer information about our toys",
+        "paraphrased": "At a toy manufacturer"
+      }
+    },
+    {
+      "id": "a925f5ae-9041-5c61-a7dd-5bdfcff6f44b",
+      "group_id": "811cbb4a-186c-5736-a9f9-9ce647e56854",
+      "part": 4,
+      "question_number": 84,
+      "question_type_tag": "inference",
+      "question_text": "What does the speaker mean when she says, \"It's been a mixed bag\"?",
+      "options": {
+        "A": "The product she is discussing cannot be returned for a refund.",
+        "B": "Customers often purchase more than one of the product.",
+        "C": "A competitor has developed a similar product.",
+        "D": "A product has had both positive and negative reviews."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu giải thích ý nghĩa của thành ngữ \"a mixed bag\" trong ngữ cảnh cụ thể.\nVì sao đáp án đúng là chính xác: Người nói nói \"It's been a mixed bag. Customers love the smooth action of the car and the high speed it can achieve. However, they are somewhat disappointed with the rechargeable battery the car comes with\" (Nó là một sự pha trộn. Khách hàng yêu thích chuyển động mượt mà của chiếc xe và tốc độ cao mà nó có thể đạt được. Tuy nhiên, họ hơi thất vọng với pin sạc đi kèm với chiếc xe). \"A mixed bag\" có nghĩa là có cả yếu tố tốt và xấu. Trong ngữ cảnh này, nó có nghĩa là sản phẩm đã nhận được cả đánh giá tích cực và tiêu cực (A product has had both positive and negative reviews).\nBẫy đề thi ETS: (A) \"The product she is discussing cannot be returned for a refund\" sai vì không có thông tin về chính sách hoàn tiền. (B) \"Customers often purchase more than one of the product\" sai vì không có thông tin về số lượng mua. (C) \"A competitor has developed a similar product\" sai vì không có thông tin về đối thủ cạnh tranh.\nMẹo phản xạ nhanh: Khi nghe thành ngữ, hãy chú ý đến các câu theo sau để hiểu rõ ngữ cảnh và ý nghĩa của nó. \"Mixed bag\" thường đi kèm với các ý kiến trái chiều.",
+      "evidence_quote": "It's been a mixed bag. Customers love the smooth action of the car and the high speed it can achieve. However, they are somewhat disappointed with the rechargeable battery the car comes with.",
+      "paraphrase_pair": {
+        "original": "It's been a mixed bag. Customers love the smooth action of the car and the high speed it can achieve. However, they are somewhat disappointed with the rechargeable battery the car comes with.",
+        "paraphrased": "A product has had both positive and negative reviews."
+      }
+    },
+    {
+      "id": "6858ea40-4aeb-5ece-a0cb-c629d38584ab",
+      "group_id": "811cbb4a-186c-5736-a9f9-9ce647e56854",
+      "part": 4,
+      "question_number": 85,
+      "question_type_tag": "instruction_action",
+      "question_text": "What does the speaker ask the listeners to do?",
+      "options": {
+        "A": "Try using the product she is discussing",
+        "B": "Improve one part of the product",
+        "C": "Get more information from customers",
+        "D": "Collaborate with the marketing team"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Câu hỏi yêu cầu xác định hành động mà người nói yêu cầu người nghe thực hiện. Cần chú ý đến các chỉ dẫn hoặc lời khuyên trực tiếp.\nVì sao đáp án đúng là chính xác: Người nói kết thúc bằng \"I encourage your team to find ways to make the battery charge faster and last longer\" (Tôi khuyến khích nhóm của bạn tìm cách làm cho pin sạc nhanh hơn và bền hơn). Điều này có nghĩa là người nói yêu cầu nhóm cải thiện một phần của sản phẩm (Improve one part of the product).\nBẫy đề thi ETS: (A) \"Try using the product she is discussing\" sai vì không có yêu cầu dùng thử sản phẩm. (C) \"Get more information from customers\" sai vì không có yêu cầu thu thập thêm thông tin từ khách hàng. (D) \"Collaborate with the marketing team\" sai vì người nói đang nói chuyện với \"research and development team\" (nhóm nghiên cứu và phát triển), không phải yêu cầu hợp tác với nhóm marketing.\nMẹo phản xạ nhanh: Nghe các cụm từ chỉ lời khuyên, khuyến khích như \"I encourage your team to\" và các từ khóa liên quan đến hành động cụ thể.",
+      "evidence_quote": "I encourage your team to find ways to make the battery charge faster and last longer.",
+      "paraphrase_pair": {
+        "original": "find ways to make the battery charge faster and last longer",
+        "paraphrased": "Improve one part of the product"
+      }
+    },
+    {
+      "id": "6f7a8e84-7ad9-5239-ad36-971ff7c450e4",
+      "group_id": "5e251e1d-8740-56b1-ba5a-a07c25a0ff39",
+      "part": 4,
+      "question_number": 86,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Where is the announcement most likely being made?",
+      "options": {
+        "A": "At a supermarket",
+        "B": "At a community center",
+        "C": "At a restaurant",
+        "D": "At a shopping mall"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói bắt đầu bằng cách chào \"Shopsmart shoppers!\" và đề cập đến việc mua \"Shopsmart soup or vegetables\".\nVì sao đáp án A đúng: Cụm từ \"Shopsmart shoppers\" và việc bán \"Shopsmart soup or vegetables\" trực tiếp chỉ ra rằng thông báo đang được thực hiện tại một siêu thị (supermarket) hoặc cửa hàng tạp hóa.\nBẫy đề thi ETS: Các lựa chọn khác (B, C, D) là những địa điểm công cộng nhưng không phù hợp với ngữ cảnh mua sắm thực phẩm cụ thể được đề cập.\nMẹo phản xạ nhanh: Nghe các từ khóa liên quan đến địa điểm và sản phẩm được nhắc đến. \"Shopsmart shoppers\" và \"Shopsmart soup or vegetables\" là dấu hiệu rõ ràng của một siêu thị.",
+      "evidence_quote": "Attention, Shopsmart shoppers! ... For every two cans of Shopsmart soup or vegetables that you buy...",
+      "paraphrase_pair": {
+        "original": "Shopsmart shoppers! ... Shopsmart soup or vegetables",
+        "paraphrased": "At a supermarket"
+      }
+    },
+    {
+      "id": "7556e4e1-696d-5c8b-aba8-5f88615c5340",
+      "group_id": "5e251e1d-8740-56b1-ba5a-a07c25a0ff39",
+      "part": 4,
+      "question_number": 87,
+      "question_type_tag": "main_idea",
+      "question_text": "What is the main topic of the announcement?",
+      "options": {
+        "A": "A discount offer",
+        "B": "A new product",
+        "C": "A giveaway",
+        "D": "A volunteer opportunity"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói thông báo về việc \"kicking off a Shopsmart giveaway event\" và giải thích cách tham gia để \"win a gift certificate\".\nVì sao đáp án C đúng: Toàn bộ thông báo tập trung vào việc giới thiệu một \"giveaway event\" (sự kiện tặng quà) nơi khách hàng có thể giành được \"gift certificates\" (phiếu quà tặng) khi mua sản phẩm. \"Giveaway\" (tặng quà) là chủ đề chính.\nBẫy đề thi ETS: \"A discount offer\" (A) có thể gây nhiễu vì phiếu quà tặng có giá trị giảm giá, nhưng trọng tâm là sự kiện tặng quà chứ không phải giảm giá trực tiếp. \"A new product\" (B) và \"A volunteer opportunity\" (D) không được đề cập.\nMẹo phản xạ nhanh: Nghe câu mở đầu hoặc các cụm từ lặp lại. \"Giveaway event\" và \"win a gift certificate\" là những từ khóa chính xác định chủ đề.",
+      "evidence_quote": "we are kicking off a Shopsmart giveaway event. ... you will be entered in a drawing to win a gift certificate",
+      "paraphrase_pair": {
+        "original": "kicking off a Shopsmart giveaway event",
+        "paraphrased": "A giveaway"
+      }
+    },
+    {
+      "id": "2a5a7263-f162-516d-92f4-03059a8bf74f",
+      "group_id": "5e251e1d-8740-56b1-ba5a-a07c25a0ff39",
+      "part": 4,
+      "question_number": 88,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What does the speaker say about some Shopsmart products?",
+      "options": {
+        "A": "They are not available at all Shopsmart locations.",
+        "B": "They are acquired from overseas distributors.",
+        "C": "They are currently on sale.",
+        "D": "They are the only products that qualify for an event."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói nói rõ rằng \"This offer is good only for Shopsmart-brand canned goods.\"\nVì sao đáp án D đúng: Câu \"This offer is good only for Shopsmart-brand canned goods\" có nghĩa là chỉ những sản phẩm đóng hộp mang nhãn hiệu Shopsmart mới đủ điều kiện tham gia sự kiện tặng quà này. Điều này tương ứng với lựa chọn (D) \"They are the only products that qualify for an event\" (Chúng là những sản phẩm duy nhất đủ điều kiện cho một sự kiện).\nBẫy đề thi ETS: Các lựa chọn khác không được đề cập hoặc trái ngược với thông tin trong bài nói. Không có thông tin về việc không có sẵn ở tất cả các địa điểm (A), được mua từ nhà phân phối nước ngoài (B), hay đang giảm giá (C).\nMẹo phản xạ nhanh: Tìm kiếm các cụm từ giới hạn như \"only for\" hoặc \"exclusive to\" để xác định các điều kiện cụ thể của ưu đãi.",
+      "evidence_quote": "This offer is good only for Shopsmart-brand canned goods.",
+      "paraphrase_pair": {
+        "original": "good only for Shopsmart-brand canned goods",
+        "paraphrased": "the only products that qualify for an event"
+      }
+    },
+    {
+      "id": "f5052e00-cfa7-566c-8c09-858e2f3d0ce5",
+      "group_id": "5567b37c-c014-53bf-80ba-c57e5a2624e0",
+      "part": 4,
+      "question_number": 89,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What work was the speaker hired to do?",
+      "options": {
+        "A": "Deliver firewood",
+        "B": "Repair a roof",
+        "C": "Install flooring",
+        "D": "Complete a landscaping job"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói bắt đầu cuộc gọi bằng cách nói \"I'm calling from Silva's Flooring\" và \"I was about to place your order for the maple floors that you wanted me to put in\".\nVì sao đáp án C đúng: \"Silva's Flooring\" (Sàn Silva) và việc đặt hàng \"maple floors\" (sàn gỗ phong) để \"put in\" (lắp đặt) cho khách hàng cho thấy người nói làm việc trong lĩnh vực lắp đặt sàn nhà (install flooring).\nBẫy đề thi ETS: Các lựa chọn khác (A, B, D) không liên quan đến \"flooring\" hoặc \"maple floors\". \"Firewood\" (củi), \"roof\" (mái nhà), \"landscaping\" (cảnh quan) là các dịch vụ khác.\nMẹo phản xạ nhanh: Chú ý đến tên công ty và các sản phẩm/dịch vụ cụ thể được đề cập. \"Flooring\" và \"maple floors\" là những từ khóa trực tiếp.",
+      "evidence_quote": "I'm calling from Silva's Flooring. I was about to place your order for the maple floors that you wanted me to put in",
+      "paraphrase_pair": {
+        "original": "place your order for the maple floors that you wanted me to put in",
+        "paraphrased": "Install flooring"
+      }
+    },
+    {
+      "id": "c7acf53b-c053-5340-916f-854b5ad1fdbb",
+      "group_id": "5567b37c-c014-53bf-80ba-c57e5a2624e0",
+      "part": 4,
+      "question_number": 90,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What does the speaker say about the distributor?",
+      "options": {
+        "A": "It lowered a price.",
+        "B": "It is no longer in business.",
+        "C": "It expects a delay.",
+        "D": "It has not responded to his request."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói nói \"I just found out that the hardwood distributor has lowered the price of the oak flooring.\"\nVì sao đáp án A đúng: Người nói rõ ràng nói rằng \"the hardwood distributor has lowered the price of the oak flooring\" (nhà phân phối gỗ cứng đã giảm giá sàn gỗ sồi). Điều này trực tiếp khớp với lựa chọn (A) \"It lowered a price\" (Họ đã giảm giá).\nBẫy đề thi ETS: Các lựa chọn khác (B, C, D) không được đề cập trong bài nói. Không có thông tin về việc nhà phân phối ngừng kinh doanh, dự kiến chậm trễ, hay không phản hồi yêu cầu.\nMẹo phản xạ nhanh: Nghe các động từ hành động liên quan đến nhà phân phối. \"Lowered the price\" là một cụm từ trực tiếp.",
+      "evidence_quote": "I just found out that the hardwood distributor has lowered the price of the oak flooring.",
+      "paraphrase_pair": {
+        "original": "the hardwood distributor has lowered the price",
+        "paraphrased": "It lowered a price"
+      }
+    },
+    {
+      "id": "948d96df-bfd8-5c62-99ba-3b6fa60622d3",
+      "group_id": "5567b37c-c014-53bf-80ba-c57e5a2624e0",
+      "part": 4,
+      "question_number": 91,
+      "question_type_tag": "inference",
+      "question_text": "Why did the speaker wait to place an order?",
+      "options": {
+        "A": "He is not sure what quantity is needed.",
+        "B": "He wants a customer to reconsider a decision.",
+        "C": "He forgot what the customer requested.",
+        "D": "He learned that a product is no longer available."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói nói \"I was about to place your order... but I decided to call you first. I just found out that the hardwood distributor has lowered the price of the oak flooring. I think you originally preferred oak but decided it was too expensive.\" Sau đó, người nói yêu cầu \"Please call me back and let me know if I should still order the maple for you or if you would prefer that I order the oak.\"\nVì sao đáp án B đúng: Người nói đã phát hiện ra rằng giá sàn gỗ sồi đã giảm và nhớ rằng khách hàng \"originally preferred oak but decided it was too expensive.\" Do đó, người nói gọi điện để khách hàng có thể xem xét lại quyết định của mình về loại sàn gỗ, có thể chuyển sang sàn gỗ sồi vì giá đã rẻ hơn. Điều này ngụ ý rằng người nói muốn khách hàng xem xét lại quyết định.\nBẫy đề thi ETS: Các lựa chọn khác không được hỗ trợ bởi bài nói. Không có thông tin về số lượng (A), việc quên yêu cầu của khách hàng (C), hay sản phẩm không còn nữa (D).\nMẹo phản xạ nhanh: Tìm kiếm lý do cho một hành động bất ngờ (gọi điện trước khi đặt hàng). Việc nhắc lại sở thích ban đầu của khách hàng và sự thay đổi về giá là dấu hiệu cho thấy mục đích là để khách hàng xem xét lại.",
+      "evidence_quote": "I was about to place your order for the maple floors that you wanted me to put in, but I decided to call you first. I just found out that the hardwood distributor has lowered the price of the oak flooring. I think you originally preferred oak but decided it was too expensive. ... Please call me back and let me know if I should still order the maple for you or if you would prefer that I order the oak.",
+      "paraphrase_pair": {
+        "original": "I think you originally preferred oak but decided it was too expensive. ... if you would prefer that I order the oak.",
+        "paraphrased": "He wants a customer to reconsider a decision."
+      }
+    },
+    {
+      "id": "97466f34-5463-5eeb-86c2-5881c7c53c78",
+      "group_id": "29f7b794-c865-5f71-b249-b5837003cda5",
+      "part": 4,
+      "question_number": 92,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Who most likely is the speaker?",
+      "options": {
+        "A": "A teacher in a classroom",
+        "B": "A worker at an environmental center",
+        "C": "A salesperson in a sporting goods store",
+        "D": "A guide in a natural history museum"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói bắt đầu bằng cách chào mừng \"Welcome to the Central Valley Environmental Center\" và cảm ơn \"volunteers\" đã đến giúp đỡ \"this project to install bluebird nest boxes.\"\nVì sao đáp án B đúng: Việc chào mừng mọi người đến \"Central Valley Environmental Center\" và nói về một dự án môi trường (lắp đặt hộp làm tổ cho chim bluebird) cho thấy người nói là một nhân viên tại trung tâm môi trường.\nBẫy đề thi ETS: Các lựa chọn khác không phù hợp với ngữ cảnh. Một giáo viên (A) thường chào học sinh, không phải tình nguyện viên cho một dự án môi trường. Một nhân viên bán hàng (C) sẽ nói về sản phẩm, còn hướng dẫn viên bảo tàng (D) sẽ nói về các hiện vật lịch sử.\nMẹo phản xạ nhanh: Chú ý đến tên tổ chức được nhắc đến và vai trò của người nghe (tình nguyện viên) để xác định vai trò của người nói.",
+      "evidence_quote": "Welcome to the Central Valley Environmental Center. We're so grateful to all of you, our volunteers, for coming out today to help with this project to install bluebird nest boxes.",
+      "paraphrase_pair": {
+        "original": "Welcome to the Central Valley Environmental Center",
+        "paraphrased": "A worker at an environmental center"
+      }
+    },
+    {
+      "id": "64335ed1-ebb7-51b1-b890-47f6315c421a",
+      "group_id": "29f7b794-c865-5f71-b249-b5837003cda5",
+      "part": 4,
+      "question_number": 93,
+      "question_type_tag": "main_idea",
+      "question_text": "What is the purpose of the project?",
+      "options": {
+        "A": "To recruit volunteers",
+        "B": "To release bluebirds into the wild",
+        "C": "To provide shelter for bluebirds",
+        "D": "To educate people about bluebirds"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói đề cập đến \"this project to install bluebird nest boxes\" và nói rằng những hộp này \"will help protect our local bluebird population.\"\nVì sao đáp án C đúng: Mục đích của dự án là \"install bluebird nest boxes\" (lắp đặt các hộp làm tổ cho chim bluebird) để \"help protect our local bluebird population\" (giúp bảo vệ quần thể chim bluebird địa phương). Hộp làm tổ cung cấp nơi trú ẩn, do đó mục đích là \"To provide shelter for bluebirds\" (Cung cấp nơi trú ẩn cho chim bluebird).\nBẫy đề thi ETS: \"To recruit volunteers\" (A) là một phần của việc thực hiện dự án, nhưng không phải là mục đích cuối cùng của dự án. \"To release bluebirds into the wild\" (B) và \"To educate people about bluebirds\" (D) không được đề cập trực tiếp là mục đích chính của việc lắp đặt hộp làm tổ.\nMẹo phản xạ nhanh: Tìm kiếm các cụm từ chỉ mục đích như \"to help with this project\" và \"will help protect\". \"Nest boxes\" (hộp làm tổ) trực tiếp liên quan đến \"shelter\" (nơi trú ẩn).",
+      "evidence_quote": "to help with this project to install bluebird nest boxes. ... will help protect our local bluebird population.",
+      "paraphrase_pair": {
+        "original": "install bluebird nest boxes",
+        "paraphrased": "provide shelter for bluebirds"
+      }
+    },
+    {
+      "id": "c763ca0f-0210-5b53-b071-2dfc5253723a",
+      "group_id": "29f7b794-c865-5f71-b249-b5837003cda5",
+      "part": 4,
+      "question_number": 94,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What is marked on some maps?",
+      "options": {
+        "A": "Locations where work can be done",
+        "B": "Flight patterns of bluebirds",
+        "C": "The location of nearby attractions",
+        "D": "Directions to the environmental center"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói kết thúc bài nói bằng cách nhắc nhở \"Some suitable locations are already identified on the maps you've received.\"\nVì sao đáp án A đúng: Câu \"Some suitable locations are already identified on the maps you've received\" có nghĩa là các vị trí thích hợp để thực hiện công việc (lắp đặt hộp làm tổ) đã được đánh dấu trên bản đồ. Điều này khớp với lựa chọn (A) \"Locations where work can be done\" (Các địa điểm có thể thực hiện công việc).\nBẫy đề thi ETS: Các lựa chọn khác không được đề cập. \"Flight patterns of bluebirds\" (B), \"nearby attractions\" (C), và \"directions to the environmental center\" (D) không phải là thông tin được đánh dấu trên bản đồ cho dự án này.\nMẹo phản xạ nhanh: Nghe các từ khóa như \"locations\" và \"identified on the maps\" để tìm thông tin cụ thể về bản đồ.",
+      "evidence_quote": "Some suitable locations are already identified on the maps you've received.",
+      "paraphrase_pair": {
+        "original": "suitable locations are already identified on the maps",
+        "paraphrased": "Locations where work can be done"
+      }
+    },
+    {
+      "id": "4d908fd2-4712-5a4f-a5b2-8b5d58787586",
+      "group_id": "9135606e-999b-512c-bb32-17f6f66adf6e",
+      "part": 4,
+      "question_number": 95,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What product does the speaker's company sell?",
+      "options": {
+        "A": "Bath towels",
+        "B": "Dishware",
+        "C": "Tablecloths",
+        "D": "Drinking glasses"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói bắt đầu bằng cách nói \"I want to update you on sales of our lines of dishware after the introduction of our holiday-themed patterns.\"\nVì sao đáp án B đúng: Cụm từ \"lines of dishware\" (các dòng sản phẩm đồ dùng ăn uống) trực tiếp chỉ ra rằng công ty của người nói bán \"Dishware\" (đồ dùng ăn uống).\nBẫy đề thi ETS: Các lựa chọn khác (A, C, D) không liên quan đến \"dishware\" hoặc các \"patterns\" (hoa văn) được đề cập. \"Bath towels\" (khăn tắm), \"Tablecloths\" (khăn trải bàn), và \"Drinking glasses\" (ly uống nước) là các sản phẩm khác.\nMẹo phản xạ nhanh: Nghe các từ khóa sản phẩm chính. \"Dishware\" là từ khóa trực tiếp nhất.",
+      "evidence_quote": "sales of our lines of dishware after the introduction of our holiday-themed patterns.",
+      "paraphrase_pair": {
+        "original": "lines of dishware",
+        "paraphrased": "Dishware"
+      }
+    },
+    {
+      "id": "59621d03-6be6-5fe1-81bd-789628d7aceb",
+      "group_id": "9135606e-999b-512c-bb32-17f6f66adf6e",
+      "part": 4,
+      "question_number": 96,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Why will the CEO be pleased?",
+      "options": {
+        "A": "The company bought a new warehouse.",
+        "B": "Customer reviews have been positive.",
+        "C": "Shipping costs have gone down.",
+        "D": "An investment was successful."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói nói \"We spent a lot on the design for New Year, so our CEO will be happy to learn that the investment has paid off.\"\nVì sao đáp án D đúng: Người nói giải thích rằng \"the investment has paid off\" (khoản đầu tư đã mang lại lợi nhuận), và đó là lý do \"our CEO will be happy\" (CEO sẽ hài lòng). Điều này trực tiếp khớp với lựa chọn (D) \"An investment was successful\" (Một khoản đầu tư đã thành công).\nBẫy đề thi ETS: Các lựa chọn khác không được đề cập trong bài nói. Không có thông tin về việc mua nhà kho mới (A), đánh giá tích cực của khách hàng (B), hay chi phí vận chuyển giảm (C).\nMẹo phản xạ nhanh: Tìm kiếm lý do cho cảm xúc tích cực của CEO. Cụm từ \"investment has paid off\" là dấu hiệu rõ ràng.",
+      "evidence_quote": "We spent a lot on the design for New Year, so our CEO will be happy to learn that the investment has paid off.",
+      "paraphrase_pair": {
+        "original": "the investment has paid off",
+        "paraphrased": "An investment was successful"
+      }
+    },
+    {
+      "id": "9c2f8985-e512-53dd-b51a-53660a7f321d",
+      "group_id": "9135606e-999b-512c-bb32-17f6f66adf6e",
+      "part": 4,
+      "question_number": 97,
+      "question_type_tag": "graphic",
+      "question_text": "Look at the graphic. What number of orders does the speaker say the Harvest Festival pattern must reach?",
+      "options": {
+        "A": "5,000",
+        "B": "2,000",
+        "C": "6,000",
+        "D": "200"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói nói \"Unless total sales reach those of our Café series by next year, we may even discontinue it.\"\nVì sao đáp án B đúng: Người nói nói rằng mẫu \"Harvest Festival\" có thể bị ngừng sản xuất \"Unless total sales reach those of our Café series by next year\" (trừ khi tổng doanh số đạt mức của dòng sản phẩm Café vào năm tới). Nhìn vào biểu đồ, dòng \"Café\" có \"Wholesale Orders\" là \"2,000\". Do đó, mẫu Harvest Festival phải đạt 2,000 đơn hàng.\nBẫy đề thi ETS: Các số khác trong biểu đồ là số lượng đơn hàng của các mẫu khác hoặc số lượng hiện tại của Harvest Festival (200), không phải mục tiêu cần đạt được để tránh bị ngừng sản xuất.\nMẹo phản xạ nhanh: Xác định rõ ràng mẫu sản phẩm được nhắc đến (\"Harvest Festival\") và điều kiện để nó tiếp tục tồn tại (\"reach those of our Café series\"). Sau đó, tra cứu số liệu của \"Café series\" trên biểu đồ.",
+      "evidence_quote": "Unless total sales reach those of our Café series by next year, we may even discontinue it.",
+      "paraphrase_pair": {
+        "original": "total sales reach those of our Café series",
+        "paraphrased": "2,000"
+      }
+    },
+    {
+      "id": "b08e3c94-4702-5add-bc8d-7fb86073765e",
+      "group_id": "276e1d77-a1bd-579b-bfed-f8372ff12ccb",
+      "part": 4,
+      "question_number": 98,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Who most likely is the speaker?",
+      "options": {
+        "A": "A baseball player",
+        "B": "A travel agent",
+        "C": "A new job applicant",
+        "D": "A customer service trainer"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói bắt đầu bằng cách chào mừng \"I'd like to welcome all of you to your first day of work at the Wildcats customer service office.\"\nVì sao đáp án D đúng: Việc chào mừng những người mới đến \"first day of work at the Wildcats customer service office\" (ngày làm việc đầu tiên tại văn phòng dịch vụ khách hàng của Wildcats) cho thấy người nói là người hướng dẫn hoặc đào tạo cho các nhân viên dịch vụ khách hàng mới. Do đó, \"A customer service trainer\" (Người đào tạo dịch vụ khách hàng) là phù hợp nhất.\nBẫy đề thi ETS: Các lựa chọn khác không khớp. Một cầu thủ bóng chày (A) sẽ không chào đón nhân viên văn phòng. Một đại lý du lịch (B) không liên quan đến \"Wildcats customer service office\". Một ứng viên mới (C) sẽ là người được chào đón, không phải người chào đón.\nMẹo phản xạ nhanh: Chú ý đến cụm từ \"first day of work\" và \"customer service office\" để xác định vai trò của người nói.",
+      "evidence_quote": "I'd like to welcome all of you to your first day of work at the Wildcats customer service office.",
+      "paraphrase_pair": {
+        "original": "welcome all of you to your first day of work at the Wildcats customer service office",
+        "paraphrased": "A customer service trainer"
+      }
+    },
+    {
+      "id": "b3a8ff74-4532-5c62-9cdb-77d0001d84d2",
+      "group_id": "276e1d77-a1bd-579b-bfed-f8372ff12ccb",
+      "part": 4,
+      "question_number": 99,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Why are ticket sales expected to be good?",
+      "options": {
+        "A": "The prices have been reduced.",
+        "B": "The team's previous season was successful.",
+        "C": "There is a new advertising campaign.",
+        "D": "The team has many new players."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói nói \"We expect ticket sales to be very good because the Wildcats had such a great season last year.\"\nVì sao đáp án B đúng: Người nói giải thích rằng doanh số bán vé dự kiến sẽ rất tốt \"because the Wildcats had such a great season last year\" (vì đội Wildcats đã có một mùa giải tuyệt vời vào năm ngoái). Điều này trực tiếp khớp với lựa chọn (B) \"The team's previous season was successful\" (Mùa giải trước của đội đã thành công).\nBẫy đề thi ETS: Các lựa chọn khác không được đề cập là lý do cho doanh số bán vé tốt. Không có thông tin về việc giảm giá (A), chiến dịch quảng cáo mới (C), hay nhiều cầu thủ mới (D).\nMẹo phản xạ nhanh: Tìm kiếm từ khóa \"because\" để xác định lý do. \"Great season last year\" là dấu hiệu rõ ràng.",
+      "evidence_quote": "We expect ticket sales to be very good because the Wildcats had such a great season last year.",
+      "paraphrase_pair": {
+        "original": "the Wildcats had such a great season last year",
+        "paraphrased": "The team's previous season was successful"
+      }
+    },
+    {
+      "id": "f7d86c9d-f139-5a2a-9942-0e2b65889fbb",
+      "group_id": "276e1d77-a1bd-579b-bfed-f8372ff12ccb",
+      "part": 4,
+      "question_number": 100,
+      "question_type_tag": "graphic",
+      "question_text": "Look at the graphic. How many games are included in the new ticket package that the speaker describes?",
+      "options": {
+        "A": "6",
+        "B": "16",
+        "C": "19",
+        "D": "36"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Người nói nói \"Make sure you let our customers know about the new Sunday package. It includes tickets for every Sunday home game throughout the season.\"\nVì sao đáp án B đúng: Người nói yêu cầu nhân viên thông báo về \"the new Sunday package\" (gói vé Chủ Nhật mới). Nhìn vào biểu đồ, \"Sunday package\" có \"Number of Games Included\" là \"16\". Do đó, gói vé mới này bao gồm 16 trận đấu.\nBẫy đề thi ETS: Các số khác trong biểu đồ là số lượng trận đấu của các gói vé khác (Holiday, Friday night, Discount), không phải gói Chủ Nhật mới được nhắc đến.\nMẹo phản xạ nhanh: Xác định rõ ràng gói vé được nhắc đến (\"new Sunday package\") và tra cứu số liệu tương ứng trên biểu đồ.",
+      "evidence_quote": "Make sure you let our customers know about the new Sunday package. It includes tickets for every Sunday home game throughout the season.",
+      "paraphrase_pair": {
+        "original": "the new Sunday package",
+        "paraphrased": "16"
+      }
+    }
+  ]
+}

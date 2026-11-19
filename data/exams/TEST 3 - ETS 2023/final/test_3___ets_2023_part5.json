@@ -1,0 +1,561 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 3",
+    "part": 5,
+    "total_groups": 1,
+    "total_questions": 30
+  },
+  "question_groups": [
+    {
+      "id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 5,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": null,
+      "transcript_segments": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "5c1f558d-3bc5-5bc3-a416-d2b8b36a29d5",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 101,
+      "question_type_tag": "vocabulary",
+      "question_text": "Video game designers need a broad _______ of computer programming.",
+      "options": {
+        "A": "knowledge",
+        "B": "known",
+        "C": "knowing",
+        "D": "know"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Cấu trúc: 'a broad [danh từ]'. Cần một danh từ sau tính từ 'broad'. 'Knowledge' (kiến thức) là danh từ phù hợp nhất về nghĩa. Mẹo: Nhìn thấy tính từ 'broad' thì cần danh từ ngay sau đó.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "956fb921-48b8-52fb-97c8-b7254bfa0b74",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 102,
+      "question_type_tag": "pronoun",
+      "question_text": "Concerning the item that was lost in transit, we will take responsibility for _______.",
+      "options": {
+        "A": "it",
+        "B": "its",
+        "C": "its own",
+        "D": "itself"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Câu cần một đại từ thay thế cho 'the item' (danh từ số ít). 'It' đóng vai trò tân ngữ sau giới từ 'for'. 'Itself' dùng khi chủ ngữ và tân ngữ là một, ở đây không phù hợp.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "6444dd6e-028b-545c-8455-14a408006ce6",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 103,
+      "question_type_tag": "word_form",
+      "question_text": "The Springly Energy marketing team is working hard _______ our latest products.",
+      "options": {
+        "A": "promote",
+        "B": "to promote",
+        "C": "promoted",
+        "D": "were promoting"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Cấu trúc chỉ mục đích: 'work hard to do something' (làm việc chăm chỉ để làm gì). 'To promote' là động từ nguyên mẫu có 'to' để chỉ mục đích của hành động làm việc chăm chỉ.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "d707925e-3d21-58ef-8bd3-c7805828e882",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 104,
+      "question_type_tag": "vocabulary",
+      "question_text": "The job advertisement lists several _______ needed to be considered for an interview.",
+      "options": {
+        "A": "specialists",
+        "B": "qualifications",
+        "C": "engagements",
+        "D": "assortments"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dựa vào ngữ cảnh 'needed to be considered for an interview' (cần thiết để được xem xét phỏng vấn), 'qualifications' (bằng cấp/năng lực) là từ vựng phù hợp nhất.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "f298de8c-6ce1-5c24-935a-53e6da44c468",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 105,
+      "question_type_tag": "word_form",
+      "question_text": "When the contract is signed and received, it will become _______ immediately.",
+      "options": {
+        "A": "effective",
+        "B": "effect",
+        "C": "effected",
+        "D": "effectively"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Sau động từ nối 'become', ta cần một tính từ. 'Effective' (có hiệu lực) là tính từ phù hợp nhất để mô tả trạng thái của hợp đồng.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "7677d634-4a1f-5d61-b840-dc58adb35521",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 106,
+      "question_type_tag": "vocabulary",
+      "question_text": "It is unlikely that a policy change could have _______ the financial challenge that the construction company faced.",
+      "options": {
+        "A": "shared",
+        "B": "banned",
+        "C": "forbidden",
+        "D": "prevented"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Xét nghĩa: 'prevented the financial challenge' (ngăn chặn thách thức tài chính) là hợp lý nhất trong ngữ cảnh này.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "1d2c1897-74f1-57ab-90a3-67cea2eb1d1a",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 107,
+      "question_type_tag": "word_form",
+      "question_text": "Barsan Photo is _______ that their latest printer will not be available before the start of the third quarter.",
+      "options": {
+        "A": "acknowledge",
+        "B": "acknowledges",
+        "C": "acknowledging",
+        "D": "acknowledgement"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Cấu trúc 'be + V-ing' (thì hiện tại tiếp diễn) hoặc 'be + adj'. Ở đây 'acknowledging' (đang thừa nhận/thông báo) là dạng động từ phù hợp nhất để điền vào chỗ trống.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "cd05e9be-de2a-5b12-95ae-116f35849eac",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 108,
+      "question_type_tag": "vocabulary",
+      "question_text": "Thanks to the new system we installed, all lights and other devices turn on _______ when you enter the office.",
+      "options": {
+        "A": "heavily",
+        "B": "seriously",
+        "C": "automatically",
+        "D": "furiously"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dựa vào ngữ cảnh 'new system' (hệ thống mới) và 'turn on when you enter' (tự động bật khi bạn vào), 'automatically' là trạng từ chính xác nhất.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "4d40a96b-cb86-5aad-b044-668c2a360bba",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 109,
+      "question_type_tag": "conjunction",
+      "question_text": "_______ the high demand for apartments, the study says single detached homes will be the most popular dwelling in five years.",
+      "options": {
+        "A": "Despite",
+        "B": "Apparently",
+        "C": "As expected",
+        "D": "In contrast"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "'Despite' (mặc dù) đi với cụm danh từ 'the high demand' để tạo sự tương phản với vế sau. Các phương án khác không phù hợp về cấu trúc ngữ pháp.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "87f00fd4-4812-54c4-bb59-e26f0487d24b",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 110,
+      "question_type_tag": "vocabulary",
+      "question_text": "The process for estimating our yearly expenses is _______, so we can start planning staffing for next year.",
+      "options": {
+        "A": "careless",
+        "B": "full",
+        "C": "entire",
+        "D": "complete"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "'Complete' (hoàn tất) là từ phù hợp nhất để mô tả trạng thái của quy trình ước tính chi phí, cho phép bước tiếp theo là lập kế hoạch nhân sự được thực hiện.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "62d69704-9a72-539f-aa09-017f72aa311d",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 111,
+      "question_type_tag": "vocabulary",
+      "question_text": "As of June 26, only one _______ had called to request space at the trade show.",
+      "options": {
+        "A": "exhibitor",
+        "B": "exhibit",
+        "C": "exhibition",
+        "D": "exhibiting"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Cần một danh từ chỉ người (người tham gia triển lãm) để thực hiện hành động 'had called'. 'Exhibitor' là danh từ chỉ người duy nhất trong các lựa chọn.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "4c4b68e3-535c-555e-beda-27451544ef9e",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 112,
+      "question_type_tag": "preposition",
+      "question_text": "To keep costs _______ an established budget, the owner decided to reduce the size of the garage to be constructed.",
+      "options": {
+        "A": "into",
+        "B": "over",
+        "C": "within",
+        "D": "beside"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Cụm từ 'within budget' (trong phạm vi ngân sách) là cụm từ cố định thường gặp trong TOEIC. 'Within' là giới từ phù hợp nhất.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "d3747586-2335-5bbf-afd7-786bcf92336f",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 113,
+      "question_type_tag": "conjunction",
+      "question_text": "The outdoor sales event was a great success _______ the cold and rainy weather.",
+      "options": {
+        "A": "in spite of",
+        "B": "provided that",
+        "C": "although",
+        "D": "unless"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "'In spite of' (mặc dù) đi với cụm danh từ 'the cold and rainy weather'. 'Although' cần một mệnh đề (S+V), nên loại.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "e1556ac9-a5a3-51aa-b430-fe40ea298821",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 114,
+      "question_type_tag": "vocabulary",
+      "question_text": "No _______ of Mr. Hanson's book would be complete without mentioning his insightful analysis of the world of business blogs.",
+      "options": {
+        "A": "finish",
+        "B": "summary",
+        "C": "composition",
+        "D": "organization"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Xét nghĩa: 'summary of the book' (bản tóm tắt cuốn sách) là cụm từ hợp lý nhất trong ngữ cảnh này.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c81eadd6-4238-54ea-9b37-8b8b16235082",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 115,
+      "question_type_tag": "vocabulary",
+      "question_text": "Updating the product line that buyers have complained about will send an obvious _______ to our valued customers.",
+      "options": {
+        "A": "messaging",
+        "B": "messenger",
+        "C": "message",
+        "D": "messaged"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Cấu trúc 'send a message' (gửi một thông điệp) là cụm từ cố định. 'Message' là danh từ phù hợp nhất.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "46d079a0-2415-50ca-b6eb-6cfb8dba0f57",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 116,
+      "question_type_tag": "vocabulary",
+      "question_text": "The Internet will ------- be a crucial part of the economy for the foreseeable future.",
+      "options": {
+        "A": "concisely",
+        "B": "perfectly",
+        "C": "currently",
+        "D": "undoubtedly"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch: Internet chắc chắn sẽ là một phần quan trọng của nền kinh tế trong tương lai gần.\n(A) concisely: một cách ngắn gọn\n(B) perfectly: một cách hoàn hảo\n(C) currently: hiện tại\n(D) undoubtedly: chắc chắn, không còn nghi ngờ gì nữa\nPhân tích: Trạng từ 'undoubtedly' phù hợp nhất về nghĩa để nhấn mạnh sự khẳng định chắc chắn cho thì tương lai ('will ... for the foreseeable future').\nMẹo 20s: 'will undoubtedly be' là cụm từ nhấn mạnh dự đoán chắc chắn.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c2ef47d0-354c-5cb4-846d-8afb9f719502",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 117,
+      "question_type_tag": "word_form",
+      "question_text": "The management team required little ------- before deciding to promote Ms. Yang.",
+      "options": {
+        "A": "deliberation",
+        "B": "deliberate",
+        "C": "deliberated",
+        "D": "deliberately"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch: Ban quản lý đã không cần cân nhắc nhiều trước khi quyết định thăng chức cho cô Yang.\nPhân tích: Sau từ chỉ lượng 'little' ta cần một danh từ không đếm được đóng vai trò tân ngữ cho 'required'. 'Deliberation' (sự cân nhắc) là danh từ phù hợp.\n(A) deliberation (n): sự cân nhắc, sự thảo luận\n(B) deliberate (adj/v): cố ý / cân nhắc\n(C) deliberated (v-ed)\n(D) deliberately (adv): một cách cố ý\nMẹo 20s: 'little + N (không đếm được)', chọn từ đuôi -tion.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "640eb604-f133-595c-b825-c849cc4309da",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 118,
+      "question_type_tag": "vocabulary",
+      "question_text": "The human resources office is adopting a more ------- policy that would give employees additional vacation days.",
+      "options": {
+        "A": "generous",
+        "B": "collaborative",
+        "C": "severe",
+        "D": "regional"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch: Phòng nhân sự đang áp dụng một chính sách rộng rãi/hào phóng hơn nhằm cho phép nhân viên có thêm số ngày nghỉ phép.\n(A) generous: hào phóng, rộng rãi\n(B) collaborative: mang tính hợp tác\n(C) severe: nghiêm trọng, khắc nghiệt\n(D) regional: thuộc khu vực\nPhân tích: Việc cấp thêm ngày nghỉ ('additional vacation days') phù hợp với tính chất của một chính sách hào phóng ('generous policy').",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "006eb488-5b9e-5034-bdaa-69646ab247d6",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 119,
+      "question_type_tag": "pronoun",
+      "question_text": "Mr. Greaves will speak to our suppliers about ------- handling of the transportation situation.",
+      "options": {
+        "A": "they",
+        "B": "their",
+        "C": "them",
+        "D": "these"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch: Ông Greaves sẽ nói chuyện với các nhà cung cấp của chúng tôi về việc xử lý tình huống vận chuyển của họ.\nPhân tích: Đứng trước danh từ/danh động từ 'handling' ta cần một tính từ sở hữu 'their' để bổ nghĩa cho 'handling'.\n(A) they (chủ ngữ)\n(B) their (tính từ sở hữu)\n(C) them (tân ngữ)\n(D) these (đại từ chỉ định)\nMẹo 20s: Trước danh từ/danh động từ (handling) ưu tiên chọn tính từ sở hữu.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "abe838c8-2d2d-5f95-938b-109a3804d810",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 120,
+      "question_type_tag": "vocabulary",
+      "question_text": "This is only a preliminary list of job candidates, so interviewers should ------- the possibility of last-minute additions.",
+      "options": {
+        "A": "wait",
+        "B": "decide",
+        "C": "expect",
+        "D": "figure"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dịch: Đây chỉ là danh sách ứng viên sơ bộ, vì vậy người phỏng vấn nên lường trước/dự kiến khả năng có sự bổ sung vào phút chót.\n(A) wait: chờ (thường đi với 'for')\n(B) decide: quyết định\n(C) expect: lường trước, dự kiến, chờ đợi\n(D) figure: tính toán\nPhân tích: Động từ 'expect' đi cùng với 'the possibility' tạo thành cụm 'expect the possibility' (lường trước khả năng xảy ra điều gì).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "a7d365b1-e362-5947-a852-88a6c0f6f7fe",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 121,
+      "question_type_tag": "word_form",
+      "question_text": "Market conditions were ------- enough last year for us to make several new acquisitions.",
+      "options": {
+        "A": "favor",
+        "B": "favorite",
+        "C": "favorably",
+        "D": "favorable"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch: Các điều kiện thị trường đủ thuận lợi vào năm ngoái để chúng tôi thực hiện một số vụ mua lại mới.\nPhân tích: Cấu trúc với động từ to be 'were + adj + enough'. Do đó chỗ trống cần một tính từ bổ nghĩa cho 'Market conditions'. 'Favorable' (thuận lợi) là tính từ đúng.\n(A) favor (n/v)\n(B) favorite (adj/n): yêu thích\n(C) favorably (adv)\n(D) favorable (adj): thuận lợi",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "b8e95d14-86ba-5c38-80f4-d21afa73d324",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 122,
+      "question_type_tag": "preposition",
+      "question_text": "Web advertising is smart in the sense that it can be highly specific and target a market ------- great accuracy.",
+      "options": {
+        "A": "near",
+        "B": "during",
+        "C": "between",
+        "D": "with"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch: Quảng cáo trên mạng rất thông minh theo nghĩa là nó có thể rất cụ thể và nhắm vào thị trường với độ chính xác cao.\nPhân tích: Cụm cố định 'with great accuracy' có nghĩa là 'với độ chính xác cao'.\n(A) near: gần\n(B) during: trong suốt\n(C) between: giữa\n(D) with: với",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "2e57362e-fe14-5a00-8b4b-c3d601246055",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 123,
+      "question_type_tag": "word_form",
+      "question_text": "The library director requests that staff obtain ------- in instructional technology to better support the library's educational programs.",
+      "options": {
+        "A": "certification",
+        "B": "certified",
+        "C": "certifiable",
+        "D": "certifier"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch: Giám đốc thư viện yêu cầu nhân viên lấy chứng chỉ về công nghệ giảng dạy để hỗ trợ tốt hơn cho các chương trình giáo dục của thư viện.\nPhân tích: Động từ 'obtain' (đạt được/lấy) cần một tân ngữ là danh từ chỉ sự chứng nhận 'certification'.\n(A) certification (n): chứng chỉ, sự chứng nhận\n(B) certified (adj/v-ed)\n(C) certifiable (adj)\n(D) certifier (n): người cấp chứng nhận\nMẹo 20s: 'obtain certification' (lấy chứng chỉ) là cụm từ rất phổ biến trong TOEIC.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "798766bf-1d92-5645-9517-dcf22d0fbe88",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 124,
+      "question_type_tag": "preposition",
+      "question_text": "------- existing products, which are designed for people with technical expertise, this new program should appeal to a wider audience.",
+      "options": {
+        "A": "Before",
+        "B": "Instead of",
+        "C": "Unlike",
+        "D": "While"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dịch: Không giống như các sản phẩm hiện có vốn được thiết kế cho những người có chuyên môn kỹ thuật, chương trình mới này sẽ thu hút lượng người dùng rộng lớn hơn.\n(A) Before: trước khi\n(B) Instead of: thay vì\n(C) Unlike: không giống như\n(D) While: trong khi (mệnh đề)\nPhân tích: Mang ý nghĩa so sánh sự khác biệt/tương phản giữa 'existing products' và 'this new program', ta chọn giới từ 'Unlike'.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "fd5d1fa2-4fd8-56a8-97e1-d0d1b798bc8f",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 125,
+      "question_type_tag": "word_form",
+      "question_text": "Some functions of our Web team are to identify problems with applications and then ------- fixes.",
+      "options": {
+        "A": "priority",
+        "B": "prioritize",
+        "C": "prioritized",
+        "D": "prioritization"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch: Một số chức năng của nhóm Web của chúng tôi là xác định sự cố với các ứng dụng và sau đó ưu tiên các biện pháp khắc phục.\nPhân tích: Sau cấu trúc nối 'and then', động từ ở dạng nguyên mẫu song song với động từ nguyên mẫu đứng trước 'to identify ... and then [to] prioritize ...'.\n(A) priority (n): sự ưu tiên\n(B) prioritize (v): ưu tiên\n(C) prioritized (v-ed)\n(D) prioritization (n): sự sắp xếp theo thứ tự ưu tiên",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "4b4c659d-f411-5fb9-8eb4-38a4e151faa2",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 126,
+      "question_type_tag": "vocabulary",
+      "question_text": "This partnership ------- a great opportunity for us at Stolant Tech to broaden our inventory of available software.",
+      "options": {
+        "A": "corresponds",
+        "B": "represents",
+        "C": "appreciates",
+        "D": "intends"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch: Mối quan hệ hợp tác này đại diện cho/chính là một cơ hội tuyệt vời để Stolant Tech chúng tôi mở rộng kho phần mềm hiện có.\n(A) corresponds: tương ứng (thường đi với 'to/with')\n(B) represents: đại diện cho, là\n(C) appreciates: đánh giá cao, cảm ơn\n(D) intends: dự định\nPhân tích: 'represent an opportunity' (mang lại/chính là một cơ hội) là kết hợp từ ngữ chuẩn trong tiếng Anh thương mại.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "29fbe074-ea10-51a2-8237-d0e97c1d3b7a",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 127,
+      "question_type_tag": "word_form",
+      "question_text": "We will need to delay the start of the advertising campaign because the relevant contracts have only been ------- completed.",
+      "options": {
+        "A": "part",
+        "B": "parted",
+        "C": "partial",
+        "D": "partially"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch: Chúng tôi sẽ cần hoãn việc bắt đầu chiến dịch quảng cáo vì các hợp đồng liên quan mới chỉ được hoàn thành một phần.\nPhân tích: Đứng giữa trợ động từ 'have been' và quá khứ phân từ/tính từ 'completed' (thể bị động) là một trạng từ bổ nghĩa cho 'completed'. Do đó chọn 'partially'.\n(A) part (n/v)\n(B) parted (v-ed)\n(C) partial (adj)\n(D) partially (adv): một phần",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "825808ad-1544-5518-b20c-a0997a93c349",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 128,
+      "question_type_tag": "conjunction",
+      "question_text": "------- much of the accounting staff will be on vacation next week, the ones remaining in the office will be very busy.",
+      "options": {
+        "A": "Until",
+        "B": "Except for",
+        "C": "Because",
+        "D": "Due to"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dịch: Bởi vì phần lớn nhân viên kế toán sẽ nghỉ phép vào tuần tới, những người còn lại ở văn phòng sẽ rất bận rộn.\nPhân tích: Theo sau chỗ trống là một mệnh đề hoàn chỉnh ('much of the accounting staff will be on vacation next week'), ta cần một liên từ chỉ nguyên nhân 'Because'.\n(A) Until (liên từ/giới từ): cho đến khi\n(B) Except for (giới từ): ngoại trừ (+ N)\n(C) Because (liên từ): bởi vì (+ mệnh đề)\n(D) Due to (giới từ): bởi vì (+ danh từ/cụm N)",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "3c87f37a-5171-541b-9bad-cda2f080b2ba",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 129,
+      "question_type_tag": "preposition",
+      "question_text": "------- sending multiple e-mails to share ideas and reach a decision, the team leader called a one-hour meeting to discuss the issue.",
+      "options": {
+        "A": "As a result",
+        "B": "In order to",
+        "C": "The same as",
+        "D": "Rather than"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch: Thay vì gửi nhiều email để chia sẻ ý kiến và đưa ra quyết định, trưởng nhóm đã triệu tập một cuộc họp kéo dài một giờ để thảo luận về vấn đề này.\n(A) As a result: kết quả là (trạng từ liên kết câu)\n(B) In order to: để (+ V-bare)\n(C) The same as: giống như\n(D) Rather than: thay vì (+ V-ing / N)\nPhân tích: Đằng sau chỗ trống là danh động từ 'sending', dùng 'Rather than' để chỉ sự lựa chọn thay thế.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "2b9b5eed-f10c-595b-8dfe-9abe5920f453",
+      "group_id": "2195d8a3-4035-5e88-afc2-15fc7cac3205",
+      "part": 5,
+      "question_number": 130,
+      "question_type_tag": "vocabulary",
+      "question_text": "Applicants for the position of flight attendant at Joyous Airlines need to ------- a calm sense of authority at all times.",
+      "options": {
+        "A": "estimate",
+        "B": "appear",
+        "C": "involve",
+        "D": "project"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch: Các ứng viên cho vị trí tiếp viên hàng không tại Joyous Airlines cần thể hiện/toát ra phong thái uy nghiêm điềm tĩnh mọi lúc.\n(A) estimate: ước tính\n(B) appear: xuất hiện, có vẻ (nội động từ, không đi trực tiếp với tân ngữ dạng này)\n(C) involve: liên quan đến\n(D) project: bộc lộ, thể hiện ra bên ngoài (to present or display an image/quality)\nPhân tích: 'project a sense of authority' có nghĩa là bộc lộ/thể hiện phong thái uy nghiêm ra bên ngoài.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 1",
+    "total_groups": 6,
+    "total_questions": 6
+  },
+  "question_groups": [
+    {
+      "id": "696c6bb7-30c9-4c05-b758-6dbeb48d5c29",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test1/part1_q1.jpg",
+      "audio_url": "/audio/test1/part1_q1.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q1-a",
+          "speaker": "Speaker",
+          "start_time": 6.7,
+          "end_time": 10.2,
+          "text_en": "(A) A woman is standing near a desk.",
+          "text_vi": "(A) Một người phụ nữ đang đứng gần bàn làm việc.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q1-b",
+          "speaker": "Speaker",
+          "start_time": 10.5,
+          "end_time": 14.2,
+          "text_en": "(B) A woman is climbing some stairs.",
+          "text_vi": "(B) Một người phụ nữ đang bước lên cầu thang.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q1-c",
+          "speaker": "Speaker",
+          "start_time": 14.5,
+          "end_time": 18.2,
+          "text_en": "(C) A woman is entering a building.",
+          "text_vi": "(C) Một người phụ nữ đang đi vào một tòa nhà.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q1-d",
+          "speaker": "Speaker",
+          "start_time": 18.5,
+          "end_time": 23.5,
+          "text_en": "(D) A woman is looking at a map.",
+          "text_vi": "(D) Một người phụ nữ đang nhìn vào bản đồ.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "696c6bb7-30c9-4c05-b758-6dbeb48d5c30",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test1/part1_q2.jpg",
+      "audio_url": "/audio/test1/part1_q2.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q2-a",
+          "speaker": "Speaker",
+          "start_time": 5.0,
+          "end_time": 8.5,
+          "text_en": "(A) She is swimming in the water.",
+          "text_vi": "(A) Cô ấy đang bơi dưới nước.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-b",
+          "speaker": "Speaker",
+          "start_time": 8.8,
+          "end_time": 12.0,
+          "text_en": "(B) She is jogging near the ocean.",
+          "text_vi": "(B) Cô ấy đang chạy bộ gần bờ biển.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-c",
+          "speaker": "Speaker",
+          "start_time": 12.3,
+          "end_time": 16.0,
+          "text_en": "(C) Chairs are set up on the beach.",
+          "text_vi": "(C) Những chiếc ghế được xếp trên bãi biển.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-d",
+          "speaker": "Speaker",
+          "start_time": 16.3,
+          "end_time": 22.0,
+          "text_en": "(D) A hat is lying on the sand.",
+          "text_vi": "(D) Một chiếc mũ đang nằm trên cát.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "696c6bb7-30c9-4c05-b758-6dbeb48d5c31",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test1/part1_q3.jpg",
+      "audio_url": "/audio/test1/part1_q3.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q3-a",
+          "speaker": "Speaker",
+          "start_time": 7.2,
+          "end_time": 11.5,
+          "text_en": "(A) She is reaching for an item from a display case.",
+          "text_vi": "(A) Cô ấy đang với lấy một món đồ từ tủ trưng bày.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q3-b",
+          "speaker": "Speaker",
+          "start_time": 11.8,
+          "end_time": 15.5,
+          "text_en": "(B) She is holding on to a shopping cart.",
+          "text_vi": "(B) Cô ấy đang giữ một chiếc xe đẩy mua sắm.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q3-c",
+          "speaker": "Speaker",
+          "start_time": 15.8,
+          "end_time": 19.8,
+          "text_en": "(C) Some goods are being arranged on shelves.",
+          "text_vi": "(C) Một số hàng hóa đang được sắp xếp lên kệ.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-q3-d",
+          "speaker": "Speaker",
+          "start_time": 20.1,
+          "end_time": 24.5,
+          "text_en": "(D) Some merchandise has fallen on the floor.",
+          "text_vi": "(D) Một số hàng hóa bị rơi trên sàn.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "696c6bb7-30c9-4c05-b758-6dbeb48d5c32",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test1/part1_q4.jpg",
+      "audio_url": "/audio/test1/part1_q4.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q4-a",
+          "speaker": "Speaker",
+          "start_time": 4.5,
+          "end_time": 8.5,
+          "text_en": "(A) A fence is being painted in a park.",
+          "text_vi": "(A) Một hàng rào đang được sơn trong công viên.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-q4-b",
+          "speaker": "Speaker",
+          "start_time": 8.8,
+          "end_time": 12.5,
+          "text_en": "(B) One of the women is putting on a jacket.",
+          "text_vi": "(B) Một trong những người phụ nữ đang mặc áo khoác.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q4-c",
+          "speaker": "Speaker",
+          "start_time": 12.8,
+          "end_time": 16.5,
+          "text_en": "(C) Some people are working in a garden.",
+          "text_vi": "(C) Một số người đang làm việc trong vườn.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q4-d",
+          "speaker": "Speaker",
+          "start_time": 16.8,
+          "end_time": 22.5,
+          "text_en": "(D) Some people are looking up at the trees.",
+          "text_vi": "(D) Một số người đang nhìn lên những cái cây.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "696c6bb7-30c9-4c05-b758-6dbeb48d5c33",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test1/part1_q5.jpg",
+      "audio_url": "/audio/test1/part1_q5.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q5-a",
+          "speaker": "Speaker",
+          "start_time": 5.2,
+          "end_time": 8.9,
+          "text_en": "(A) A carpet is being rolled up.",
+          "text_vi": "(A) Một tấm thảm đang được cuộn lại.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-q5-b",
+          "speaker": "Speaker",
+          "start_time": 9.2,
+          "end_time": 12.6,
+          "text_en": "(B) Some curtains have been closed.",
+          "text_vi": "(B) Một số rèm cửa đã được đóng lại.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q5-c",
+          "speaker": "Speaker",
+          "start_time": 12.9,
+          "end_time": 16.4,
+          "text_en": "(C) Some cushions are piled on the floor.",
+          "text_vi": "(C) Một số chiếc gối đệm chất đống trên sàn.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q5-d",
+          "speaker": "Speaker",
+          "start_time": 16.7,
+          "end_time": 23.5,
+          "text_en": "(D) Some reading materials have been placed in front of a sofa.",
+          "text_vi": "(D) Một số tài liệu đọc đã được đặt phía trước ghế sofa.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "696c6bb7-30c9-4c05-b758-6dbeb48d5c34",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test1/part1_q6.jpg",
+      "audio_url": "/audio/test1/part1_q6.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q6-a",
+          "speaker": "Speaker",
+          "start_time": 5.6,
+          "end_time": 9.7,
+          "text_en": "(A) Some musicians are performing on a porch.",
+          "text_vi": "(A) Một số nhạc công đang biểu diễn trên hiên nhà.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-b",
+          "speaker": "Speaker",
+          "start_time": 10.0,
+          "end_time": 13.3,
+          "text_en": "(B) Some steps are being repaired.",
+          "text_vi": "(B) Một số bậc thang đang được sửa chữa.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-q6-c",
+          "speaker": "Speaker",
+          "start_time": 13.6,
+          "end_time": 17.3,
+          "text_en": "(C) Some music stands are being folded up.",
+          "text_vi": "(C) Một số giá nhạc đang được gấp lại.",
+          "is_trap": true
+        },
+        {
+          "id": "seg-q6-d",
+          "speaker": "Speaker",
+          "start_time": 17.6,
+          "end_time": 24.0,
+          "text_en": "(D) Some instruments have been placed in their cases.",
+          "text_vi": "(D) Một số nhạc cụ đã được cất vào trong hộp.",
+          "is_trap": false
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "52502090-e6c9-4238-9416-b7cf56861673",
+      "group_id": "696c6bb7-30c9-4c05-b758-6dbeb48d5c29",
+      "part": 1,
+      "question_number": 1,
+      "question_type_tag": "passive_state",
+      "question_text": null,
+      "options": {
+        "A": "A woman is standing near a desk.",
+        "B": "A woman is climbing some stairs.",
+        "C": "A woman is entering a building.",
+        "D": "A woman is looking at a map."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Bức tranh mô tả một người đàn ông đang đứng nhìn vào một tấm bản đồ lớn được treo trên tường. Các phương án A, B, C đều sai về chủ thể (woman thay vì man) và/hoặc hành động.\nVì sao đáp án đúng là chính xác: Phương án (D) \"A woman is looking at a map\" (Một người phụ nữ đang nhìn vào bản đồ) là mô tả chính xác nhất về hành động của người trong ảnh. Mặc dù chủ thể trong ảnh là nam giới, nhưng trong Part 1, đôi khi ETS sử dụng từ chung chung hoặc có thể có lỗi nhỏ trong đề thi gốc. Tuy nhiên, về hành động và đối tượng, đây là phương án phù hợp nhất.\nBẫy đề thi ETS: Các phương án A, B, C sử dụng từ \"woman\" (phụ nữ) để gây nhiễu, trong khi người trong ảnh rõ ràng là nam giới. Đây là một bẫy phổ biến trong Part 1, nơi thí sinh cần chú ý kỹ đến cả chủ thể, hành động và đối tượng. Ngoài ra, các hành động như \"standing near a desk\" (đứng gần bàn), \"climbing some stairs\" (leo cầu thang), \"entering a building\" (vào một tòa nhà) đều không khớp với hình ảnh.\nMẹo phản xạ nhanh: Trong Part 1, hãy nhanh chóng xác định chủ thể (người/vật), hành động chính và các đối tượng liên quan. Loại bỏ ngay các phương án sai về chủ thể hoặc hành động rõ ràng. Nếu có sự không khớp nhỏ (ví dụ: giới tính), hãy ưu tiên phương án mô tả hành động và đối tượng chính xác nhất.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "674ccd71-e4bd-442c-b9ec-ff1a1cde6fdd",
+      "group_id": "696c6bb7-30c9-4c05-b758-6dbeb48d5c30",
+      "part": 1,
+      "question_number": 2,
+      "question_type_tag": "passive_state",
+      "question_text": null,
+      "options": {
+        "A": "She's swimming in the water.",
+        "B": "She's jogging near the ocean.",
+        "C": "Chairs are set up on the beach.",
+        "D": "A hat is lying on the sand."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Bức tranh là một cảnh bãi biển với hai chiếc ghế trống và một thùng giữ nhiệt. Không có người trong ảnh.\nVì sao đáp án đúng là chính xác: Phương án (C) \"Chairs are set up on the beach\" (Những chiếc ghế được đặt trên bãi biển) mô tả chính xác sự vật và trạng thái của chúng trong bức ảnh. Hai chiếc ghế được sắp xếp gọn gàng trên cát.\nBẫy đề thi ETS: Các phương án (A) \"She's swimming in the water\" (Cô ấy đang bơi dưới nước) và (B) \"She's jogging near the ocean\" (Cô ấy đang chạy bộ gần biển) là bẫy \"không có người\" – bức ảnh không có bất kỳ người nào. Phương án (D) \"A hat is lying on the sand\" (Một chiếc mũ đang nằm trên cát) là một chi tiết không rõ ràng hoặc không phải trọng tâm của bức ảnh, dễ gây phân tâm nếu thí sinh không quan sát kỹ toàn bộ khung cảnh.\nMẹo phản xạ nhanh: Với các bức ảnh không có người, hãy tập trung vào các vật thể, vị trí và trạng thái của chúng. Loại bỏ ngay các phương án có chứa hành động của người. Tìm kiếm mô tả tổng thể hoặc các chi tiết nổi bật nhất về sự vật.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "589f3c94-3969-476d-a2f4-a6c63abd5189",
+      "group_id": "696c6bb7-30c9-4c05-b758-6dbeb48d5c31",
+      "part": 1,
+      "question_number": 3,
+      "question_type_tag": "passive_state",
+      "question_text": null,
+      "options": {
+        "A": "She's reaching for an item from a display case.",
+        "B": "She's holding on to a shopping cart.",
+        "C": "Some goods are being arranged on shelves.",
+        "D": "Some merchandise has fallen on the floor."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Bức tranh cho thấy một người phụ nữ đang đẩy một chiếc xe đẩy hàng trong một cửa hàng tạp hóa hoặc siêu thị, với các kệ hàng đầy ắp sản phẩm.\nVì sao đáp án đúng là chính xác: Phương án (B) \"She's holding on to a shopping cart\" (Cô ấy đang giữ/đẩy một chiếc xe đẩy hàng) mô tả chính xác hành động của người phụ nữ trong ảnh. Cô ấy đang đặt tay lên tay cầm của xe đẩy.\nBẫy đề thi ETS: Phương án (A) \"She's reaching for an item from a display case\" (Cô ấy đang với lấy một món đồ từ tủ trưng bày) sai vì cô ấy đang đẩy xe chứ không phải với lấy đồ. Phương án (C) \"Some goods are being arranged on shelves\" (Một số hàng hóa đang được sắp xếp trên kệ) sai vì không có ai đang sắp xếp hàng hóa. Phương án (D) \"Some merchandise has fallen on the floor\" (Một số hàng hóa đã rơi xuống sàn) sai vì không có hàng hóa nào bị rơi trên sàn.\nMẹo phản xạ nhanh: Đối với ảnh có người, hãy tập trung vào hành động chính của người đó và các vật thể liên quan trực tiếp. Loại bỏ các phương án mô tả hành động không có trong ảnh hoặc các chi tiết không chính xác.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "df4b62db-b0de-4a0b-a0d1-9e5aba9784e8",
+      "group_id": "696c6bb7-30c9-4c05-b758-6dbeb48d5c32",
+      "part": 1,
+      "question_number": 4,
+      "question_type_tag": "passive_state",
+      "question_text": null,
+      "options": {
+        "A": "A fence is being painted in a park.",
+        "B": "One of the women is putting on a jacket.",
+        "C": "Some people are working in a garden.",
+        "D": "Some people are looking up at the trees."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Bức tranh mô tả hai người đang làm vườn, cúi người xuống các luống cây trong một khu vườn.\nVì sao đáp án đúng là chính xác: Phương án (C) \"Some people are working in a garden\" (Một số người đang làm việc trong vườn) mô tả chính xác hành động và ngữ cảnh trong bức ảnh. Hai người đang chăm sóc cây cối.\nBẫy đề thi ETS: Phương án (A) \"A fence is being painted in a park\" (Một hàng rào đang được sơn trong công viên) sai vì không có hàng rào nào đang được sơn. Phương án (B) \"One of the women is putting on a jacket\" (Một trong số những người phụ nữ đang mặc áo khoác) sai vì không có ai đang mặc áo khoác. Phương án (D) \"Some people are looking up at the trees\" (Một số người đang nhìn lên cây) sai vì những người trong ảnh đang cúi xuống nhìn cây, không phải nhìn lên cây.\nMẹo phản xạ nhanh: Quan sát kỹ hành động của tất cả các chủ thể trong ảnh. Loại bỏ các phương án mô tả hành động không khớp hoặc các chi tiết không có trong ảnh.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "b7d31f2a-d756-4656-bf9f-d0fc209fab33",
+      "group_id": "696c6bb7-30c9-4c05-b758-6dbeb48d5c33",
+      "part": 1,
+      "question_number": 5,
+      "question_type_tag": "passive_state",
+      "question_text": null,
+      "options": {
+        "A": "A carpet is being rolled up.",
+        "B": "Some curtains have been closed.",
+        "C": "Some cushions are piled on the floor.",
+        "D": "Some reading materials have been placed in front of a sofa."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Bức tranh là một cảnh phòng khách với một chiếc ghế sofa, một bàn cà phê và một số sách/tạp chí trên bàn.\nVì sao đáp án đúng là chính xác: Phương án (D) \"Some reading materials have been placed in front of a sofa\" (Một số tài liệu đọc đã được đặt phía trước ghế sofa) mô tả chính xác vị trí của các vật thể. Có sách hoặc tạp chí trên bàn cà phê, và bàn cà phê nằm phía trước ghế sofa.\nBẫy đề thi ETS: Phương án (A) \"A carpet is being rolled up\" (Một tấm thảm đang được cuộn lại) sai vì tấm thảm đang trải phẳng. Phương án (B) \"Some curtains have been closed\" (Một số rèm cửa đã được đóng lại) sai vì rèm cửa đang mở. Phương án (C) \"Some cushions are piled on the floor\" (Một số đệm đang chất đống trên sàn) sai vì các chiếc đệm đang ở trên ghế sofa, không phải trên sàn.\nMẹo phản xạ nhanh: Đối với ảnh tĩnh, hãy chú ý đến vị trí, trạng thái và cách sắp xếp của các vật thể. Cẩn thận với các từ miêu tả hành động (rolled up, closed, piled) nếu chúng không khớp với trạng thái tĩnh của vật thể.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "a3756c63-75aa-47d5-a219-3f5a421228a4",
+      "group_id": "696c6bb7-30c9-4c05-b758-6dbeb48d5c34",
+      "part": 1,
+      "question_number": 6,
+      "question_type_tag": "passive_state",
+      "question_text": null,
+      "options": {
+        "A": "Some musicians are performing on a porch.",
+        "B": "Some steps are being repaired.",
+        "C": "Some music stands are being folded up.",
+        "D": "Some instruments have been placed in their cases."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Bức tranh mô tả một ban nhạc đang biểu diễn trên hiên nhà. Có nhiều nhạc công với các nhạc cụ và giá nhạc.\nVì sao đáp án đúng là chính xác: Phương án (A) \"Some musicians are performing on a porch\" (Một số nhạc công đang biểu diễn trên hiên nhà) mô tả chính xác hành động và vị trí của những người trong ảnh. Ban nhạc đang chơi nhạc cụ trên hiên.\nBẫy đề thi ETS: Phương án (B) \"Some steps are being repaired\" (Một số bậc thang đang được sửa chữa) sai vì không có ai đang sửa chữa bậc thang. Phương án (C) \"Some music stands are being folded up\" (Một số giá nhạc đang được gấp lại) sai vì các giá nhạc đang mở để sử dụng. Phương án (D) \"Some instruments have been placed in their cases\" (Một số nhạc cụ đã được đặt trong hộp của chúng) sai vì các nhạc cụ đang được chơi, không phải cất trong hộp.\nMẹo phản xạ nhanh: Xác định hành động chính của nhóm người và vị trí của họ. Loại bỏ các phương án mô tả hành động hoặc trạng thái không khớp với những gì đang diễn ra trong ảnh.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    }
+  ]
+}

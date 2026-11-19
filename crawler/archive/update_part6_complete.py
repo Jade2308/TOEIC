@@ -1,0 +1,400 @@
+#!/usr/bin/env python3
+"""
+scripts/update_part6_complete.py
+================================
+Updates raw_data/TEST 1 - ETS 2023/test1_part6.json with all 4 reading passage groups
+and 16 questions (131-146) for ETS TOEIC 2023 Test 1.
+Includes exact verbatim passage text with proper (131) _______ blanks,
+official ETS answer keys, deep Vietnamese coaching explanations, and links to
+the cropped passage images.
+"""
+
+import json
+import os
+import sys
+
+if sys.platform.startswith("win"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
+part6_data = {
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 1",
+    "part": 6,
+    "total_groups": 4,
+    "total_questions": 16,
+    "updated_at": "2026-10-31"
+  },
+  "question_groups": [
+    {
+      "id": "8f30c773-25e3-4770-8c7f-aa03de1dfd71",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 6,
+      "passage_text": """<h3 class="font-bold text-base mb-1 text-neutral-900 dark:text-neutral-100">Local Barbershop Wins State Competition</h3>
+<p class="text-xs text-neutral-500 mb-3 italic">By Miranda Warren</p>
+<p class="mb-3">MALENDA COUNTY (January 12)—Pat and Kenny's Barbershop, <strong>(131) _______</strong> at 3949 Grand Street, has been named the best barbershop in the state by the Barber and Hairdresser's Coalition. The criteria for selection include reputation, affordability, professionalism, and accreditations. <strong>(132) _______</strong>.</p>
+<p class="mb-3">Founders and owners Kenneth Webber and Patrick Miller have been best friends since childhood. <strong>(133) _______</strong> opened the shop 34 years ago. <strong>(134) _______</strong> the shop retains its old-fashioned charm, the barbers have mastered the latest styles, not just the more traditional ones. People of all ages seeking a haircut or a new style should try Pat and Kenny's Barbershop.</p>""",
+      "image_url": "/images/test1/part6_131_134.png",
+      "audio_url": None,
+      "transcript_segments": None
+    },
+    {
+      "id": "f2a89c1b-90d4-4a25-9c87-bb1234567891",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 6,
+      "passage_text": """<h3 class="font-bold text-base mb-2 text-neutral-900 dark:text-neutral-100">Gasgo Propane Tank Exchange</h3>
+<p class="mb-3">You have chosen a safe and <strong>(135) _______</strong> way to obtain fuel for your stoves, grills, heaters, fireplaces, or other devices. Simply follow the directions <strong>(136) _______</strong>.</p>
+<p class="mb-3">When your tank runs out of propane, take it to our store and leave it on one of the clearly marked green shelves outside the store. <strong>(137) _______</strong>. Then, pay the cashier inside the store for a fresh tank of propane. Next, the cashier or another staff member will accompany you to the outdoor exchange area. The staff person will give you a full tank to take home and provide help if you have multiple tanks to carry. Follow the instructions on the tank to connect it to your device.</p>
+<p class="mb-3">Be sure to visit us again when you need a <strong>(138) _______</strong>.</p>""",
+      "image_url": "/images/test1/part6_135_138.png",
+      "audio_url": None,
+      "transcript_segments": None
+    },
+    {
+      "id": "e3b78d2c-81e5-4b36-8d98-cc2345678902",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 6,
+      "passage_text": """<div class="border-b border-neutral-200 dark:border-neutral-800 pb-2 mb-3 text-xs space-y-1">
+  <div><strong>To:</strong> Technicarn Enterprises Customers</div>
+  <div><strong>From:</strong> Technicarn Enterprises Customer Service</div>
+  <div><strong>Date:</strong> 10 September</div>
+  <div><strong>Subject:</strong> Serving You</div>
+</div>
+<p class="mb-2">Dear Valued Customer:</p>
+<p class="mb-3">We want your <strong>(139) _______</strong> with Technicarn Enterprises to be easy and enjoyable. To that end, we are pleased to announce our newly designed Web site, with enhanced customer-friendly features.</p>
+<p class="mb-3">Our new Web site provides answers to your questions 24 hours a day, every day of the year. On our home page, you can get information about system setup, or you can troubleshoot by visiting <strong>(140) _______</strong> the Internet Issues or TV and Streaming Issues pages. <strong>(141) _______</strong>, you can find detailed information concerning account management, access, billing, and payment.</p>
+<p class="mb-3"><strong>(142) _______</strong>. Please explore the new Web site at your earliest convenience: <a href="http://www.technicarnenterprises.com" class="text-indigo-600 underline">www.technicarnenterprises.com</a>. As always, thank you for allowing us to serve you.</p>
+<p class="text-xs text-neutral-500">Best regards,<br/>The Technicarn Enterprises Customer Service Team</p>""",
+      "image_url": "/images/test1/part6_139_142.png",
+      "audio_url": None,
+      "transcript_segments": None
+    },
+    {
+      "id": "d4c67e3d-72f6-4c47-7e09-dd3456789013",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 6,
+      "passage_text": """<h3 class="font-bold text-base mb-2 text-neutral-900 dark:text-neutral-100">Garner City Transport Cares About the Environment</h3>
+<p class="mb-3">Beginning May 1, the sale and use of paper tickets and transit passes will be <strong>(143) _______</strong> on all Garner City Transport bus and subway lines. This change applies to single-ride tickets <strong>(144) _______</strong> to weekly and monthly passes. Eliminating paper benefits the environment and leads to less litter.</p>
+<p class="mb-3">Riders can download the free Garner City Transport app. With the app, they can add money to their accounts, purchase tickets, plan <strong>(145) _______</strong>, and track arrival and departure times.</p>
+<p class="mb-3">Alternatively, passengers can purchase a rechargeable transit card at any station. <strong>(146) _______</strong>. Value can be added to the card via the Garner City Transport Web site at <a href="http://www.garnercitytransport.org" class="text-indigo-600 underline">www.garnercitytransport.org</a>.</p>""",
+      "image_url": "/images/test1/part6_143_146.png",
+      "audio_url": None,
+      "transcript_segments": None
+    }
+  ],
+  "questions": [
+    # Group 1 (131-134)
+    {
+      "id": "aa515a1c-06e9-4313-acab-55bad35d8025",
+      "group_id": "8f30c773-25e3-4770-8c7f-aa03de1dfd71",
+      "part": 6,
+      "question_number": 131,
+      "question_type_tag": "word_form",
+      "question_text": "Pat and Kenny's Barbershop, (131) _______ at 3949 Grand Street, has been named the best barbershop in the state by the Barber and Hairdresser's Coalition.",
+      "options": {
+        "A": "locate",
+        "B": "located",
+        "C": "locates",
+        "D": "location"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng sau danh từ riêng chỉ địa điểm \"Pat and Kenny's Barbershop\" và trước cụm giới từ nơi chốn \"at 3949 Grand Street\". Động từ chính của mệnh đề là \"has been named\". Đây là cấu trúc rút gọn mệnh đề quan hệ ở thể bị động (reduced relative clause).\nVì sao đáp án đúng là chính xác: Tiệm cắt tóc được đặt/tọa lạc tại địa chỉ đó (dạng đầy đủ: which is located -> rút gọn thành located). Do đó, phân từ quá khứ (V-ed) \"located\" là đáp án chính xác duy nhất.\nBẫy đề thi ETS: (A) \"locate\" là động từ nguyên mẫu sai cấu trúc. (C) \"locates\" chia thì hiện tại chủ động không hợp nghĩa (tiệm không tự đi định vị). (D) \"location\" là danh từ không thể đứng nối trực tiếp giữa chủ ngữ và cụm giới từ.\nMẹo phản xạ nhanh: Khi thấy cấu trúc [Danh từ cơ sở/địa điểm, (131) _______ + at/in/on + Địa chỉ...], luôn chọn ngay phân từ \"located\" (tọa lạc tại).",
+      "evidence_quote": "at 3949 Grand Street, has been named the best barbershop in the state",
+      "paraphrase_pair": None
+    },
+    {
+      "id": "49cdea15-0056-4ae5-a39c-7c5283c4792b",
+      "group_id": "8f30c773-25e3-4770-8c7f-aa03de1dfd71",
+      "part": 6,
+      "question_number": 132,
+      "question_type_tag": "inference",
+      "question_text": "The criteria for selection include reputation, affordability, professionalism, and accreditations. (132) _______.",
+      "options": {
+        "A": "The results will be announced later this month.",
+        "B": "We are proud to serve our community with excellence.",
+        "C": "Pat and Kenny's shop excelled in all four categories.",
+        "D": "Please call in advance to schedule an appointment."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu trước vừa liệt kê 4 tiêu chí tuyển chọn giải thưởng (\"criteria for selection include reputation, affordability, professionalism, and accreditations\"). Chỗ trống cần một câu kết luận giải thích lý do vì sao tiệm của Pat và Kenny đoạt giải quán quân toàn bang.\nVì sao đáp án đúng là chính xác: (C) \"Pat and Kenny's shop excelled in all four categories\" (Tiệm của Pat và Kenny xuất sắc ở cả bốn hạng mục) gắn kết hoàn hảo với 4 tiêu chí đã được liệt kê ở câu ngay trước đó, khẳng định chiến thắng thuyết phục.\nBẫy đề thi ETS: (A) nói về việc kết quả sẽ công bố sau là sai, vì giải thưởng đã được trao. (B) dùng ngôi thứ nhất \"We\", không phù hợp với văn phong bài báo của phóng viên. (D) là câu mời gọi đặt lịch hẹn, không ăn nhập với việc trao giải.\nMẹo phản xạ nhanh: Đối với câu điền cả câu (sentence insertion), tìm từ khoá quy chiếu số lượng: \"four categories\" đối ứng trực tiếp với 4 tiêu chí được liệt kê ở câu liền trước.",
+      "evidence_quote": "The criteria for selection include reputation, affordability, professionalism, and accreditations.",
+      "paraphrase_pair": None
+    },
+    {
+      "id": "3501d86c-3c2e-4e82-b392-7910be079041",
+      "group_id": "8f30c773-25e3-4770-8c7f-aa03de1dfd71",
+      "part": 6,
+      "question_number": 133,
+      "question_type_tag": "word_form",
+      "question_text": "Founders and owners Kenneth Webber and Patrick Miller have been best friends since childhood. (133) _______ opened the shop 34 years ago.",
+      "options": {
+        "A": "I",
+        "B": "We",
+        "C": "They",
+        "D": "He"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống là chủ ngữ số nhiều đứng trước động từ quá khứ \"opened\". Chủ ngữ này thay thế cho danh từ ở câu trước: \"Founders and owners Kenneth Webber and Patrick Miller\" (hai người đồng sáng lập).\nVì sao đáp án đúng là chính xác: Kenneth Webber và Patrick Miller là hai người (ngôi thứ 3 số nhiều), đại từ nhân xưng làm chủ ngữ chuẩn xác là \"They\".\nBẫy đề thi ETS: (A) \"I\" và (B) \"We\" là đại từ ngôi thứ nhất, không hợp với giọng điệu bài báo tin tức khách quan. (D) \"He\" chỉ dùng cho 1 người nam số ít.\nMẹo phản xạ nhanh: Xác định danh từ được thay thế ở câu trước (hai người) -> Chọn ngay đại từ số nhiều tương ứng (\"They\").",
+      "evidence_quote": "Founders and owners Kenneth Webber and Patrick Miller have been best friends since childhood.",
+      "paraphrase_pair": None
+    },
+    {
+      "id": "9cd23f49-0bf6-4d40-8c53-a0be7146ffc0",
+      "group_id": "8f30c773-25e3-4770-8c7f-aa03de1dfd71",
+      "part": 6,
+      "question_number": 134,
+      "question_type_tag": "conjunction",
+      "question_text": "(134) _______ the shop retains its old-fashioned charm, the barbers have mastered the latest styles, not just the more traditional ones.",
+      "options": {
+        "A": "While",
+        "B": "Despite",
+        "C": "Even",
+        "D": "Yet"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng đầu một mệnh đề hoàn chỉnh (có S là \"the shop\" và V là \"retains\"), nối với mệnh đề chính sau dấu phẩy. Hai vế mang ý nghĩa tương phản: dù tiệm giữ nét duyên dáng hoài cổ nhưng các thợ cắt tóc lại rất sành điệu các kiểu mẫu hiện đại.\nVì sao đáp án đúng là chính xác: (A) \"While\" (mặc dù, trong khi) là liên từ phụ thuộc diễn tả sự đối lập giữa hai mệnh đề (While + S + V, S + V).\nBẫy đề thi ETS: (B) \"Despite\" là giới từ, bắt buộc đi với danh từ/V-ing chứ không đi với mệnh đề. (C) \"Even\" là trạng từ (thường đi với Even though / Even if). (D) \"Yet\" là liên từ đẳng lập nối giữa hai câu, không đứng đầu mệnh đề theo cấu trúc này.\nMẹo phản xạ nhanh: Thấy vế sau là mệnh đề đầy đủ (S + V) thể hiện sự tương phản -> Chọn ngay liên từ \"While\" / \"Although\", loại ngay giới từ \"Despite\".",
+      "evidence_quote": "the barbers have mastered the latest styles, not just the more traditional ones.",
+      "paraphrase_pair": None
+    },
+
+    # Group 2 (135-138)
+    {
+      "id": "a1b2c3d4-1351-4001-8001-000000000135",
+      "group_id": "f2a89c1b-90d4-4a25-9c87-bb1234567891",
+      "part": 6,
+      "question_number": 135,
+      "question_type_tag": "word_form",
+      "question_text": "You have chosen a safe and (135) _______ way to obtain fuel for your stoves, grills, heaters, fireplaces, or other devices.",
+      "options": {
+        "A": "economy",
+        "B": "economics",
+        "C": "economize",
+        "D": "economical"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng sau tính từ \"safe\" và liên từ \"and\", trước danh từ \"way\". Theo cấu trúc song hành (parallel structure), vị trí này cần một tính từ cùng loại với \"safe\" để bổ nghĩa cho danh từ \"way\".\nVì sao đáp án đúng là chính xác: (D) \"economical\" là tính từ có nghĩa là \"tiết kiệm, kinh tế\" (ít tốn kém). Cụm \"a safe and economical way\" có nghĩa là \"một phương thức an toàn và tiết kiệm\".\nBẫy đề thi ETS: (A) \"economy\" là danh từ (nền kinh tế). (B) \"economics\" là danh từ (ngành kinh tế học). (C) \"economize\" là động từ (tiết kiệm chi tiêu). Hãy lưu ý phân biệt \"economic\" (thuộc kinh tế) vs \"economical\" (tiết kiệm).\nMẹo phản xạ nhanh: Cấu trúc song hành kinh điển: [Tính từ + and + (135) _______ + Danh từ] -> Chỗ trống bắt buộc phải là một tính từ (đuôi -al: economical).",
+      "evidence_quote": "safe and (135) _______ way to obtain fuel",
+      "paraphrase_pair": None
+    },
+    {
+      "id": "a1b2c3d4-1351-4002-8002-000000000136",
+      "group_id": "f2a89c1b-90d4-4a25-9c87-bb1234567891",
+      "part": 6,
+      "question_number": 136,
+      "question_type_tag": "vocabulary",
+      "question_text": "Simply follow the directions (136) _______.",
+      "options": {
+        "A": "below",
+        "B": "finally",
+        "C": "sometimes",
+        "D": "hourly"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu này kết thúc đoạn mở đầu và chuẩn bị dẫn dắt người đọc vào các bước đổi bình ga được trình bày chi tiết ở đoạn văn ngay bên dưới.\nVì sao đáp án đúng là chính xác: (A) \"below\" (ở bên dưới, dưới đây) bổ nghĩa cho danh từ \"the directions\" tạo thành cụm từ phổ biến trong văn bản hướng dẫn: \"the directions below\" (các hướng dẫn dưới đây).\nBẫy đề thi ETS: (B) \"finally\" (cuối cùng) dùng ở bước kết, không dùng ở đầu bài hướng dẫn. (C) \"sometimes\" (thỉnh thoảng) không hợp nghĩa hướng dẫn chuẩn mực. (D) \"hourly\" (hàng giờ) là tần suất thời gian sai ngữ nghĩa.\nMẹo phản xạ nhanh: Collocation chỉ vị trí chỉ dẫn trong văn bản: \"the directions below\" hoặc \"as detailed below\".",
+      "evidence_quote": "Simply follow the directions",
+      "paraphrase_pair": None
+    },
+    {
+      "id": "a1b2c3d4-1351-4003-8003-000000000137",
+      "group_id": "f2a89c1b-90d4-4a25-9c87-bb1234567891",
+      "part": 6,
+      "question_number": 137,
+      "question_type_tag": "inference",
+      "question_text": "When your tank runs out of propane, take it to our store and leave it on one of the clearly marked green shelves outside the store. (137) _______. Then, pay the cashier inside the store for a fresh tank of propane.",
+      "options": {
+        "A": "Come again very soon.",
+        "B": "It is warmer in the store.",
+        "C": "Do not take it inside.",
+        "D": "The tank is prefilled."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu trước hướng dẫn khách hàng để bình ga cũ lên kệ màu xanh ở ngoài cửa hàng (\"outside the store\"). Câu sau hướng dẫn bước tiếp theo: vào bên trong để thanh toán với thu ngân (\"pay the cashier inside\"). Vì ga là chất dễ cháy nổ, việc mang bình vào nhà là nguy hiểm.\nVì sao đáp án đúng là chính xác: (C) \"Do not take it inside\" (Không mang bình vào bên trong cửa hàng) là quy tắc an toàn quan trọng, nhấn mạnh lại hướng dẫn để bình ngoài kệ màu xanh trước khi vào thanh toán.\nBẫy đề thi ETS: (A) là câu chào kết thúc, không nằm giữa các bước hướng dẫn. (B) nói về nhiệt độ không liên quan đến quy trình đổi bình ga. (D) sai vì bình khách vừa mang tới là bình rỗng (\"runs out of propane\").\nMẹo phản xạ nhanh: Đối chiếu không gian logic: \"leave it on shelves outside the store\" -> \"Do not take it inside\" -> \"Then, pay the cashier inside\".",
+      "evidence_quote": "leave it on one of the clearly marked green shelves outside the store.",
+      "paraphrase_pair": None
+    },
+    {
+      "id": "a1b2c3d4-1351-4004-8004-000000000138",
+      "group_id": "f2a89c1b-90d4-4a25-9c87-bb1234567891",
+      "part": 6,
+      "question_number": 138,
+      "question_type_tag": "vocabulary",
+      "question_text": "Be sure to visit us again when you need a (138) _______.",
+      "options": {
+        "A": "model",
+        "B": "version",
+        "C": "heater",
+        "D": "replacement"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng sau mạo từ \"a\", cần một danh từ đếm được số ít chỉ đối tượng mà khách hàng cần đổi khi hết ga trong dịch vụ \"Gasgo Propane Tank Exchange\".\nVì sao đáp án đúng là chính xác: (D) \"replacement\" (bình thay thế, vật thay thế). Khi dùng hết bình ga, khách quay lại để đổi lấy một bình thay thế mới (\"when you need a replacement\").\nBẫy đề thi ETS: (A) \"model\" (kiểu mẫu) và (B) \"version\" (phiên bản) thường dùng cho phần mềm, xe cộ. (C) \"heater\" (máy sưởi) là thiết bị sử dụng ga, không phải sản phẩm được đổi tại đây.\nMẹo phản xạ nhanh: Dịch vụ đổi bình ga (\"Tank Exchange\") -> quay lại khi cần đổi bình mới (\"need a replacement\").",
+      "evidence_quote": "Be sure to visit us again when you need a",
+      "paraphrase_pair": None
+    },
+
+    # Group 3 (139-142)
+    {
+      "id": "b2c3d4e5-1391-4001-8001-000000000139",
+      "group_id": "e3b78d2c-81e5-4b36-8d98-cc2345678902",
+      "part": 6,
+      "question_number": 139,
+      "question_type_tag": "word_form",
+      "question_text": "We want your (139) _______ with Technicarn Enterprises to be easy and enjoyable.",
+      "options": {
+        "A": "experience",
+        "B": "experienced",
+        "C": "experiencing",
+        "D": "experiential"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng sau tính từ sở hữu \"your\", đóng vai trò làm tân ngữ cho động từ \"want\" trong cấu trúc [want + tân ngữ + to be + tính từ]. Vị trí này bắt buộc phải là một danh từ.\nVì sao đáp án đúng là chính xác: (A) \"experience\" vừa là động từ vừa là danh từ không đếm được/đếm được mang nghĩa \"trải nghiệm\". Cụm \"your experience with...\" nghĩa là \"trải nghiệm của quý khách với công ty Technicarn\".\nBẫy đề thi ETS: (B) \"experienced\" là tính từ (giàu kinh nghiệm) hoặc V-ed. (C) \"experiencing\" là danh động từ/V-ing. (D) \"experiential\" là tính từ (dựa trên trải nghiệm).\nMẹo phản xạ nhanh: Sau tính từ sở hữu (your, our, their...) luôn là một danh từ -> chọn ngay danh từ \"experience\".",
+      "evidence_quote": "with Technicarn Enterprises to be easy and enjoyable.",
+      "paraphrase_pair": None
+    },
+    {
+      "id": "b2c3d4e5-1391-4002-8002-000000000140",
+      "group_id": "e3b78d2c-81e5-4b36-8d98-cc2345678902",
+      "part": 6,
+      "question_number": 140,
+      "question_type_tag": "conjunction",
+      "question_text": "On our home page, you can get information about system setup, or you can troubleshoot by visiting (140) _______ the Internet Issues or TV and Streaming Issues pages.",
+      "options": {
+        "A": "either",
+        "B": "both",
+        "C": "rather",
+        "D": "each"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Quan sát phía sau chỗ trống có liên từ tương quan \"or\": \"the Internet Issues OR TV and Streaming Issues pages\".\nVì sao đáp án đúng là chính xác: (A) \"either\" kết hợp với \"or\" tạo thành cặp liên từ tương quan kinh điển \"either A or B\" (hoặc trang sự cố Internet hoặc trang sự cố Truyền hình).\nBẫy đề thi ETS: (B) \"both\" chỉ đi đôi với \"and\" (both A and B). (C) \"rather\" đi với \"than\" (rather than). (D) \"each\" là đại từ/tính từ không đi kèm với \"or\".\nMẹo phản xạ nhanh: Nhìn thấy \"or\" ở phía sau -> Chọn ngay \"either\" (Cặp song hành either ... or).",
+      "evidence_quote": "the Internet Issues or TV and Streaming Issues pages.",
+      "paraphrase_pair": None
+    },
+    {
+      "id": "b2c3d4e5-1391-4003-8003-000000000141",
+      "group_id": "e3b78d2c-81e5-4b36-8d98-cc2345678902",
+      "part": 6,
+      "question_number": 141,
+      "question_type_tag": "conjunction",
+      "question_text": "(141) _______, you can find detailed information concerning account management, access, billing, and payment.",
+      "options": {
+        "A": "Therefore",
+        "B": "Regardless",
+        "C": "For example",
+        "D": "Moreover"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng đầu câu ngăn cách bởi dấu phẩy, đóng vai trò trạng từ liên kết (transitional adverb). Câu trước đề cập tới thông tin kỹ thuật và xử lý sự cố. Câu này giới thiệu thêm các thông tin về quản lý tài khoản, truy cập và hoá đơn thanh toán.\nVì sao đáp án đúng là chính xác: (D) \"Moreover\" (Hơn nữa, ngoài ra) dùng để bổ sung thêm thông tin cùng hướng tích cực về những lợi ích mà trang web mới mang lại.\nBẫy đề thi ETS: (A) \"Therefore\" chỉ hệ quả nhân quả (do đó). (B) \"Regardless\" mang nghĩa bất chấp/dù sao đi nữa. (C) \"For example\" đưa ra ví dụ minh họa, trong khi tài khoản và hóa đơn là danh mục độc lập với sự cố mạng.\nMẹo phản xạ nhanh: Khi câu sau liệt kê thêm các tính năng hữu ích bổ sung cho câu trước -> Chọn trạng từ mang ý nghĩa bổ sung: Moreover / Furthermore / In addition.",
+      "evidence_quote": "you can find detailed information concerning account management, access, billing, and payment.",
+      "paraphrase_pair": None
+    },
+    {
+      "id": "b2c3d4e5-1391-4004-8004-000000000142",
+      "group_id": "e3b78d2c-81e5-4b36-8d98-cc2345678902",
+      "part": 6,
+      "question_number": 142,
+      "question_type_tag": "inference",
+      "question_text": "(142) _______. Please explore the new Web site at your earliest convenience: www.technicarnenterprises.com.",
+      "options": {
+        "A": "We also need to inform you that your payment is five days past due.",
+        "B": "We recommend that you purchase all related accessories in our retail store.",
+        "C": "If you get an error message, disconnect from the Internet and try again.",
+        "D": "If you cannot find what you need online, simply call our support number."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Email do Đội ngũ Chăm sóc khách hàng (Customer Service Team) gửi để giới thiệu website tự phục vụ mới. Sau khi hướng dẫn cách tìm thông tin trên web, một bức thư chuyên nghiệp luôn mở ra kênh hỗ trợ trực tiếp dự phòng.\nVì sao đáp án đúng là chính xác: (D) \"If you cannot find what you need online, simply call our support number\" (Nếu quý khách không thể tìm thấy những gì mình cần trên mạng, chỉ cần gọi vào số hỗ trợ của chúng tôi) là câu kết nối tự nhiên và hoàn hảo giữa website và dịch vụ hỗ trợ khách hàng.\nBẫy đề thi ETS: (A) nhắc nợ quá hạn lạc đề với thư thông báo tính năng mới. (B) khuyến khích mua phụ kiện ở cửa hàng bán lẻ không liên quan đến dịch vụ khách hàng viễn thông. (C) ngắt mạng khi gặp lỗi là chỉ dẫn kỹ thuật quá chi tiết không thích hợp cho đoạn kết thư.\nMẹo phản xạ nhanh: Sau khi giới thiệu website hỗ trợ, câu khép lại thường là phương án hỗ trợ qua điện thoại nếu khách hàng không tìm thấy thông tin trên mạng.",
+      "evidence_quote": "Please explore the new Web site at your earliest convenience:",
+      "paraphrase_pair": None
+    },
+
+    # Group 4 (143-146)
+    {
+      "id": "c3d4e5f6-1431-4001-8001-000000000143",
+      "group_id": "d4c67e3d-72f6-4c47-7e09-dd3456789013",
+      "part": 6,
+      "question_number": 143,
+      "question_type_tag": "vocabulary",
+      "question_text": "Beginning May 1, the sale and use of paper tickets and transit passes will be (143) _______ on all Garner City Transport bus and subway lines.",
+      "options": {
+        "A": "enlarged",
+        "B": "discontinued",
+        "C": "accessible",
+        "D": "refreshed"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chủ ngữ là việc bán và dùng vé giấy (\"the sale and use of paper tickets and transit passes\"). Cuối đoạn có câu then chốt: \"Eliminating paper benefits the environment\" (Việc loại bỏ giấy mang lại lợi ích cho môi trường).\nVì sao đáp án đúng là chính xác: (B) \"discontinued\" (bị ngừng sản xuất/ngừng phát hành) hoàn toàn tương ứng với hành động \"Eliminating paper\" (ngừng dùng vé giấy).\nBẫy đề thi ETS: (A) \"enlarged\" (được mở rộng/phóng to). (C) \"accessible\" (dễ tiếp cận). (D) \"refreshed\" (được làm mới). Cả 3 từ này đi ngược lại hoàn toàn với mục tiêu ngừng phát hành vé giấy.\nMẹo phản xạ nhanh: Đọc lướt câu ngay phía sau: \"Eliminating paper\" (loại bỏ giấy) -> Chọn ngay \"discontinued\" (ngừng phát hành).",
+      "evidence_quote": "Eliminating paper benefits the environment and leads to less litter.",
+      "paraphrase_pair": {
+        "original": "Eliminating paper",
+        "paraphrased": "discontinued"
+      }
+    },
+    {
+      "id": "c3d4e5f6-1431-4002-8002-000000000144",
+      "group_id": "d4c67e3d-72f6-4c47-7e09-dd3456789013",
+      "part": 6,
+      "question_number": 144,
+      "question_type_tag": "conjunction",
+      "question_text": "This change applies to single-ride tickets (144) _______ to weekly and monthly passes.",
+      "options": {
+        "A": "sharing",
+        "B": "but",
+        "C": "except",
+        "D": "as well as"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng giữa hai cụm giới từ song hành: \"to single-ride tickets\" và \"to weekly and monthly passes\". Câu này mang ý nghĩa mở rộng: thay đổi áp dụng cho vé một lượt cũng như vé tuần và tháng.\nVì sao đáp án đúng là chính xác: (D) \"as well as\" (cũng như, cũng như là) là liên từ liên kết hai thành phần đồng đẳng để bổ sung thông tin: \"applies to A as well as to B\".\nBẫy đề thi ETS: (A) \"sharing\" là phân từ không có chức năng nối. (B) \"but\" chỉ sự đối lập không phù hợp vì cả hai loại vé đều bị áp dụng quy định mới. (C) \"except\" là ngoại trừ, nếu ngoại trừ thì không dùng cấu trúc này.\nMẹo phản xạ nhanh: Cấu trúc liên kết song hành quen thuộc: [A + as well as + B] (A cũng như B).",
+      "evidence_quote": "This change applies to single-ride tickets",
+      "paraphrase_pair": None
+    },
+    {
+      "id": "c3d4e5f6-1431-4003-8003-000000000145",
+      "group_id": "d4c67e3d-72f6-4c47-7e09-dd3456789013",
+      "part": 6,
+      "question_number": 145,
+      "question_type_tag": "vocabulary",
+      "question_text": "With the app, they can add money to their accounts, purchase tickets, plan (145) _______, and track arrival and departure times.",
+      "options": {
+        "A": "routes",
+        "B": "responses",
+        "C": "software",
+        "D": "careers"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống là danh từ làm tân ngữ của động từ \"plan\" (lập kế hoạch, lên lộ trình) nằm trong chuỗi tính năng của ứng dụng giao thông công cộng (\"Garner City Transport app\").\nVì sao đáp án đúng là chính xác: (A) \"routes\" (các tuyến đường, lộ trình di chuyển). Trong các ứng dụng xe buýt và tàu điện ngầm, tính năng \"plan routes\" (lên kế hoạch lộ trình di chuyển) là tính năng cơ bản và thiết yếu nhất.\nBẫy đề thi ETS: (B) \"responses\" (phản hồi). (C) \"software\" (phần mềm). (D) \"careers\" (sự nghiệp). Không ai lên kế hoạch nghề nghiệp hay phần mềm trên ứng dụng mua vé xe buýt.\nMẹo phản xạ nhanh: Cụm từ cố định trong chủ đề giao thông công cộng: \"plan routes\" (lập lộ trình di chuyển).",
+      "evidence_quote": "and track arrival and departure times.",
+      "paraphrase_pair": None
+    },
+    {
+      "id": "c3d4e5f6-1431-4004-8004-000000000146",
+      "group_id": "d4c67e3d-72f6-4c47-7e09-dd3456789013",
+      "part": 6,
+      "question_number": 146,
+      "question_type_tag": "inference",
+      "question_text": "Alternatively, passengers can purchase a rechargeable transit card at any station. (146) _______. Value can be added to the card via the Garner City Transport Web site at www.garnercitytransport.org.",
+      "options": {
+        "A": "People often use credit cards to purchase meals during the flight.",
+        "B": "Many people like public transportation because it is inexpensive.",
+        "C": "The durable cards are made from recycled materials.",
+        "D": "There was a small price increase last month."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu trước vừa giới thiệu phương án thay thế cho vé giấy: \"passengers can purchase a rechargeable transit card\" (hành khách có thể mua thẻ đi xe nạp lại được). Tiêu đề của bài là \"Garner City Transport Cares About the Environment\" (chăm sóc môi trường).\nVì sao đáp án đúng là chính xác: (C) \"The durable cards are made from recycled materials\" (Những chiếc thẻ bền bỉ này được làm từ vật liệu tái chế) kết nối trực tiếp với \"transit card\" ở câu trước qua cụm \"The durable cards\", đồng thời thể hiện giải pháp thân thiện với môi trường đúng như tiêu đề.\nBẫy đề thi ETS: (A) nhắc đến chuyến bay (\"flight\") hoàn toàn lạc đề với xe buýt và tàu điện ngầm. (B) nói chung chung về giá vé rẻ. (D) nói về việc tăng giá vé tháng trước, không liên quan đến lợi ích của thẻ từ.\nMẹo phản xạ nhanh: Tìm đại từ/từ thay thế liên kết: \"transit card\" -> \"The durable cards\" và liên hệ với chủ đề bảo vệ môi trường: \"Environment\" -> \"recycled materials\".",
+      "evidence_quote": "Alternatively, passengers can purchase a rechargeable transit card at any station.",
+      "paraphrase_pair": {
+        "original": "Cares About the Environment",
+        "paraphrased": "made from recycled materials"
+      }
+    }
+  ]
+}
+
+# Save to processed_data/TEST 1 - ETS 2023/final/test1_part6.json
+processed_path = "processed_data/TEST 1 - ETS 2023/final/test1_part6.json"
+with open(processed_path, "w", encoding="utf-8") as f:
+    json.dump(part6_data, f, ensure_ascii=False, indent=2)
+
+print(f"[✓] Saved updated Part 6 data to {processed_path}")
+print(f"    Total groups: {len(part6_data['question_groups'])}")
+print(f"    Total questions: {len(part6_data['questions'])}")

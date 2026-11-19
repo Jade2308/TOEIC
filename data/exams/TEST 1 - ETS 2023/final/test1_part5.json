@@ -1,0 +1,562 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 1",
+    "extracted_at": "2026-10-28 22:32:24",
+    "model_used": "gemini-2.5-flash",
+    "total_groups": 1,
+    "total_questions": 30
+  },
+  "question_groups": [
+    {
+      "id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 5,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": null,
+      "transcript_segments": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "991d6f28-5198-421a-8518-84990a241c79",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 101,
+      "question_type_tag": "verb_tense",
+      "question_text": "When she held her last meeting, Ms. Toba ------- her sales staff to perform even better next quarter.",
+      "options": {
+        "A": "encourage",
+        "B": "is encouraging",
+        "C": "encouraged",
+        "D": "was encouraged"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu có hai mệnh đề. Mệnh đề đầu tiên là \"When she held her last meeting\" sử dụng thì quá khứ đơn (held). Mệnh đề chính cần một động từ chia ở thì quá khứ đơn để phù hợp với ngữ cảnh thời gian. Chủ ngữ là \"Ms. Toba\" và \"her sales staff\" là tân ngữ, cho thấy động từ cần ở thể chủ động.\nVì sao đáp án đúng là chính xác: Đáp án (C) \"encouraged\" là dạng quá khứ đơn của động từ \"encourage\" và ở thể chủ động, phù hợp với ngữ cảnh là Ms. Toba đã khuyến khích nhân viên của mình trong cuộc họp cuối cùng.\nBẫy đề thi ETS: (A) \"encourage\" là động từ nguyên mẫu, không đúng thì. (B) \"is encouraging\" là thì hiện tại tiếp diễn, không phù hợp với ngữ cảnh quá khứ. (D) \"was encouraged\" là thì quá khứ đơn nhưng ở thể bị động, nghĩa là Ms. Toba được khuyến khích, không phải cô ấy khuyến khích nhân viên.\nMẹo phản xạ nhanh: Khi có một mệnh đề thời gian ở quá khứ, động từ trong mệnh đề chính thường cũng ở quá khứ. Xác định chủ động/bị động dựa vào mối quan hệ giữa chủ ngữ và hành động.",
+      "evidence_quote": "When she held her last meeting, Ms. Toba encouraged her sales staff to perform even better next quarter.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "839b0ca0-1382-47af-9b16-43c48bf46308",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 102,
+      "question_type_tag": "preposition",
+      "question_text": "All staff have been informed --- the proposed partnership with ERI Finance.",
+      "options": {
+        "A": "for",
+        "B": "about",
+        "C": "to",
+        "D": "at"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một giới từ đi kèm với động từ \"informed\" (đã được thông báo). Cụm từ \"informed about\" là cấu trúc cố định.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"about\" là giới từ chính xác để diễn tả việc thông báo về một điều gì đó. \"informed about something\" có nghĩa là được thông báo về điều gì đó.\nBẫy đề thi ETS: Các giới từ (A) \"for\", (C) \"to\", (D) \"at\" không tạo thành cụm từ có nghĩa hoặc không phù hợp ngữ cảnh với \"informed\".\nMẹo phản xạ nhanh: Học các cụm động từ + giới từ cố định (phrasal verbs) là rất quan trọng trong TOEIC.",
+      "evidence_quote": "All staff have been informed about the proposed partnership with ERI Finance.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "e30df759-d9bf-43ca-92cd-a7b9cb89177a",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 103,
+      "question_type_tag": "word_form",
+      "question_text": "On Friday, Mr. Nakamura will discuss ------- ideas for supporting busy waiters.",
+      "options": {
+        "A": "his",
+        "B": "him",
+        "C": "himself",
+        "D": "he"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng trước danh từ \"ideas\" (ý tưởng). Vị trí này cần một tính từ sở hữu để bổ nghĩa cho danh từ \"ideas\". Chủ ngữ của câu là \"Mr. Nakamura\", là nam giới.\nVì sao đáp án đúng là chính xác: Đáp án (A) \"his\" là tính từ sở hữu (của anh ấy), phù hợp để bổ nghĩa cho \"ideas\" và chỉ người nam \"Mr. Nakamura\".\nBẫy đề thi ETS: (B) \"him\" là đại từ tân ngữ. (C) \"himself\" là đại từ phản thân. (D) \"he\" là đại từ chủ ngữ. Cả ba đều không thể đứng trước danh từ để làm tính từ sở hữu.\nMẹo phản xạ nhanh: Nhận diện vị trí cần tính từ sở hữu (trước danh từ) và chọn dạng sở hữu phù hợp với chủ ngữ.",
+      "evidence_quote": "On Friday, Mr. Nakamura will discuss his ideas for supporting busy waiters.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "2cf0e422-46a8-4c4d-b396-621a61852171",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 104,
+      "question_type_tag": "vocabulary",
+      "question_text": "The Forestry Commission was created to ------- the state's natural resources and wildlife.",
+      "options": {
+        "A": "allow",
+        "B": "manage",
+        "C": "succeed",
+        "D": "finish"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một động từ nguyên mẫu theo sau \"to\" (trong cấu trúc \"was created to + V-inf\" để chỉ mục đích). Ngữ cảnh là về một \"Forestry Commission\" (Ủy ban Lâm nghiệp) và \"natural resources and wildlife\" (tài nguyên thiên nhiên và động vật hoang dã).\nVì sao đáp án đúng là chính xác: Đáp án (B) \"manage\" (quản lý) là động từ phù hợp nhất với mục đích của một ủy ban lâm nghiệp đối với tài nguyên thiên nhiên và động vật hoang dã.\nBẫy đề thi ETS: (A) \"allow\" (cho phép) không diễn tả đúng chức năng chính. (C) \"succeed\" (thành công) là một kết quả, không phải hành động quản lý. (D) \"finish\" (hoàn thành) không phù hợp với việc duy trì và quản lý tài nguyên.\nMẹo phản xạ nhanh: Đọc kỹ ngữ cảnh và chọn từ vựng có nghĩa phù hợp nhất với chủ thể và đối tượng của hành động.",
+      "evidence_quote": "The Forestry Commission was created to manage the state's natural resources and wildlife.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "6d232228-b657-4674-a951-b5cce3a0635c",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 105,
+      "question_type_tag": "word_form",
+      "question_text": "By following established guidelines, construction workers will be able to complete their tasks -------.",
+      "options": {
+        "A": "safety",
+        "B": "safe",
+        "C": "safeness",
+        "D": "safely"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng sau động từ \"complete\" (hoàn thành) và tân ngữ \"their tasks\" (nhiệm vụ của họ). Vị trí này cần một trạng từ để bổ nghĩa cho cách thức hoàn thành công việc.\nVì sao đáp án đúng là chính xác: Đáp án (D) \"safely\" là trạng từ (một cách an toàn), mô tả cách thức công nhân hoàn thành nhiệm vụ của họ, phù hợp với việc tuân thủ các hướng dẫn (\"established guidelines\").\nBẫy đề thi ETS: (A) \"safety\" là danh từ (sự an toàn). (B) \"safe\" là tính từ (an toàn). (C) \"safeness\" cũng là danh từ nhưng ít dùng hơn. Cả ba đều không thể bổ nghĩa cho động từ.\nMẹo phản xạ nhanh: Nếu chỗ trống bổ nghĩa cho động từ, hãy tìm trạng từ (thường có đuôi -ly).",
+      "evidence_quote": "By following established guidelines, construction workers will be able to complete their tasks safely.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "fe25ac2d-d51f-4ce5-9a16-f692711bc6c6",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 106,
+      "question_type_tag": "vocabulary",
+      "question_text": "With her numerous credentials, Dr. Kwan is highly ------- to teach medieval history at Maston University.",
+      "options": {
+        "A": "arranged",
+        "B": "ready",
+        "C": "available",
+        "D": "qualified"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một tính từ đứng sau trạng từ \"highly\" (rất, cực kỳ) và trước cụm \"to teach\" (để dạy). Ngữ cảnh đề cập đến \"numerous credentials\" (nhiều bằng cấp, chứng chỉ).\nVì sao đáp án đúng là chính xác: Đáp án (D) \"qualified\" (đủ tiêu chuẩn, có trình độ) là tính từ phù hợp nhất. Việc có nhiều bằng cấp, chứng chỉ khiến Dr. Kwan \"rất đủ tiêu chuẩn\" để giảng dạy.\nBẫy đề thi ETS: (A) \"arranged\" (được sắp xếp) không phù hợp với \"highly\" và \"credentials\". (B) \"ready\" (sẵn sàng) có thể đúng về mặt ngữ pháp nhưng không mạnh bằng \"qualified\" khi có \"credentials\". (C) \"available\" (có sẵn) không diễn tả khả năng giảng dạy dựa trên bằng cấp.\nMẹo phản xạ nhanh: Khi có từ khóa như \"credentials\", hãy nghĩ ngay đến các từ liên quan đến trình độ, năng lực như \"qualified\", \"competent\".",
+      "evidence_quote": "With her numerous credentials, Dr. Kwan is highly qualified to teach medieval history at Maston University.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "58b02fef-1453-4b5c-82af-184396a58313",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 107,
+      "question_type_tag": "word_form",
+      "question_text": "------- at the annual technology conference is mandatory for all engineers at the Treemont Corporation.",
+      "options": {
+        "A": "Attendance",
+        "B": "Attend",
+        "C": "Attends",
+        "D": "Attended"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng ở đầu câu và là chủ ngữ của động từ \"is mandatory\" (là bắt buộc). Vị trí chủ ngữ cần một danh từ.\nVì sao đáp án đúng là chính xác: Đáp án (A) \"Attendance\" là danh từ (sự tham dự), phù hợp làm chủ ngữ của câu.\nBẫy đề thi ETS: (B) \"Attend\" là động từ nguyên mẫu. (C) \"Attends\" là động từ chia ở ngôi thứ ba số ít. (D) \"Attended\" là động từ quá khứ hoặc phân từ hai. Cả ba đều không thể làm chủ ngữ trong cấu trúc này.\nMẹo phản xạ nhanh: Nếu chỗ trống là chủ ngữ của câu và theo sau là động từ \"to be\" hoặc động từ chia, hãy tìm danh từ.",
+      "evidence_quote": "Attendance at the annual technology conference is mandatory for all engineers at the Treemont Corporation.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "8c9bf0b2-f4f1-4594-bfa8-d2b9708a79b2",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 108,
+      "question_type_tag": "vocabulary",
+      "question_text": "The café ---- features poets, folk singers, and drama groups on its stage.",
+      "options": {
+        "A": "tightly",
+        "B": "occasionally",
+        "C": "vaguely",
+        "D": "realistically"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một trạng từ để bổ nghĩa cho động từ \"features\" (có, trình diễn). Ngữ cảnh là một quán cà phê có các buổi biểu diễn của \"poets, folk singers, and drama groups\" (nhà thơ, ca sĩ dân gian và nhóm kịch).\nVì sao đáp án đúng là chính xác: Đáp án (B) \"occasionally\" (thỉnh thoảng, đôi khi) là trạng từ phù hợp nhất để diễn tả tần suất các buổi biểu diễn này diễn ra tại quán cà phê.\nBẫy đề thi ETS: (A) \"tightly\" (chặt chẽ) không phù hợp ngữ nghĩa. (C) \"vaguely\" (một cách mơ hồ) không có nghĩa trong ngữ cảnh này. (D) \"realistically\" (một cách thực tế) cũng không phù hợp.\nMẹo phản xạ nhanh: Khi chọn trạng từ, hãy xem xét nó bổ nghĩa cho động từ nào và ý nghĩa của nó có phù hợp với ngữ cảnh chung của câu không.",
+      "evidence_quote": "The café occasionally features poets, folk singers, and drama groups on its stage.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "4363f4ec-946d-49b4-8e04-805be257d056",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 109,
+      "question_type_tag": "conjunction",
+      "question_text": "Before the seminar began, attendees were assured ------- all scheduled presenters would appear.",
+      "options": {
+        "A": "who",
+        "B": "around",
+        "C": "that",
+        "D": "therefore"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng sau động từ \"assured\" (được đảm bảo) và trước một mệnh đề hoàn chỉnh (\"all scheduled presenters would appear\"). Vị trí này cần một liên từ để giới thiệu mệnh đề danh ngữ làm tân ngữ cho \"assured\".\nVì sao đáp án đúng là chính xác: Đáp án (C) \"that\" là liên từ phù hợp nhất để giới thiệu một mệnh đề danh ngữ sau các động từ như \"assured\", \"said\", \"believed\", v.v.\nBẫy đề thi ETS: (A) \"who\" là đại từ quan hệ dùng cho người, không dùng để giới thiệu mệnh đề danh ngữ trong trường hợp này. (B) \"around\" là giới từ. (D) \"therefore\" là trạng từ liên kết, không phải liên từ.\nMẹo phản xạ nhanh: Sau các động từ diễn tả sự nhận thức, thông báo, đảm bảo (ví dụ: know, believe, say, assure), thường dùng \"that\" để giới thiệu mệnh đề danh ngữ.",
+      "evidence_quote": "attendees were assured that all scheduled presenters would appear.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "8f8ccb00-7cce-4e2c-be2d-a7e8def8c95f",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 110,
+      "question_type_tag": "conjunction",
+      "question_text": "Forever Pet has been a leader in bringing new products, ------- Fun Bone and Chew Right, to the market.",
+      "options": {
+        "A": "however",
+        "B": "furthermore",
+        "C": "as if",
+        "D": "such as"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng sau cụm danh từ \"new products\" và trước các ví dụ cụ thể \"Fun Bone and Chew Right\". Vị trí này cần một cụm từ để giới thiệu ví dụ.\nVì sao đáp án đúng là chính xác: Đáp án (D) \"such as\" (chẳng hạn như, ví dụ như) là cụm từ chính xác để giới thiệu các ví dụ cụ thể cho \"new products\".\nBẫy đề thi ETS: (A) \"however\" (tuy nhiên) dùng để chỉ sự đối lập. (B) \"furthermore\" (hơn nữa) dùng để thêm thông tin. (C) \"as if\" (như thể là) dùng để diễn tả một giả định. Cả ba đều không phù hợp để giới thiệu ví dụ.\nMẹo phản xạ nhanh: Khi thấy một danh sách các mục cụ thể theo sau một danh từ chung, hãy nghĩ đến \"such as\" hoặc \"for example/instance\".",
+      "evidence_quote": "Forever Pet has been a leader in bringing new products, such as Fun Bone and Chew Right, to the market.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c80b2ff3-1ec6-4de2-a8de-609c7bc02f6b",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 111,
+      "question_type_tag": "word_form",
+      "question_text": "Ms. Turner is in charge of ------- the organization of records in the human services department.",
+      "options": {
+        "A": "improve",
+        "B": "improved",
+        "C": "improving",
+        "D": "improvement"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cụm từ \"in charge of\" (phụ trách) yêu cầu một danh từ hoặc một danh động từ (gerund - V-ing) theo sau. Chỗ trống đứng trước cụm danh từ \"the organization of records\".\nVì sao đáp án đúng là chính xác: Đáp án (C) \"improving\" là danh động từ, có thể đứng sau giới từ \"of\" và mang theo tân ngữ của nó (\"the organization of records\"). Cụm \"improving the organization of records\" có nghĩa là \"việc cải thiện việc tổ chức hồ sơ\".\nBẫy đề thi ETS: (A) \"improve\" là động từ nguyên mẫu. (B) \"improved\" là quá khứ phân từ hoặc tính từ. (D) \"improvement\" là danh từ. Mặc dù \"improvement\" là danh từ, nhưng \"improving the organization\" (hành động cải thiện) thường được dùng phổ biến hơn và tự nhiên hơn là \"improvement of the organization\" (sự cải thiện của việc tổ chức) khi nói về trách nhiệm.\nMẹo phản xạ nhanh: Sau giới từ, thường dùng danh từ hoặc danh động từ. Nếu có tân ngữ theo sau, danh động từ thường là lựa chọn tốt.",
+      "evidence_quote": "Ms. Turner is in charge of improving the organization of records in the human services department.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "87ff3be5-13eb-4afd-9ac4-ff71aa650868",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 112,
+      "question_type_tag": "vocabulary",
+      "question_text": "Sheefon Bank clients always receive an e-mail or text ------- following any change to their account password.",
+      "options": {
+        "A": "issue",
+        "B": "alert",
+        "C": "claim",
+        "D": "member"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một danh từ để chỉ loại e-mail hoặc tin nhắn văn bản mà khách hàng nhận được. Ngữ cảnh là \"following any change to their account password\" (sau bất kỳ thay đổi nào đối với mật khẩu tài khoản của họ).\nVì sao đáp án đúng là chính xác: Đáp án (B) \"alert\" (thông báo, cảnh báo) là danh từ phù hợp nhất. Khi có thay đổi về mật khẩu, ngân hàng thường gửi \"alert\" để thông báo cho khách hàng.\nBẫy đề thi ETS: (A) \"issue\" (vấn đề, sự phát hành) không phù hợp. (C) \"claim\" (yêu cầu, khiếu nại) không đúng ngữ cảnh. (D) \"member\" (thành viên) không liên quan.\nMẹo phản xạ nhanh: Đọc kỹ ngữ cảnh để chọn từ vựng có nghĩa chính xác nhất. Các từ liên quan đến bảo mật tài khoản thường đi kèm với \"alert\" hoặc \"notification\".",
+      "evidence_quote": "Sheefon Bank clients always receive an e-mail or text alert following any change to their account password.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "567ddb73-ef34-4611-b8a9-c91478ae9c13",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 113,
+      "question_type_tag": "word_form",
+      "question_text": "A drop in consumer demand has led to a ------- decrease in the production of large pickup trucks.",
+      "options": {
+        "A": "remark",
+        "B": "remarked",
+        "C": "remarking",
+        "D": "remarkable"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng giữa mạo từ \"a\" và danh từ \"decrease\" (sự giảm). Vị trí này cần một tính từ để bổ nghĩa cho danh từ \"decrease\".\nVì sao đáp án đúng là chính xác: Đáp án (D) \"remarkable\" là tính từ (đáng kể, đáng chú ý), phù hợp để mô tả một sự giảm sút. \"A remarkable decrease\" có nghĩa là một sự giảm sút đáng kể.\nBẫy đề thi ETS: (A) \"remark\" là danh từ (nhận xét) hoặc động từ (nhận xét). (B) \"remarked\" là quá khứ phân từ hoặc động từ quá khứ. (C) \"remarking\" là danh động từ hoặc hiện tại phân từ. Cả ba đều không phải là tính từ phù hợp trong ngữ cảnh này.\nMẹo phản xạ nhanh: Cấu trúc \"a/an + (tính từ) + danh từ\" là rất phổ biến. Nhận diện vị trí cần tính từ và chọn dạng từ phù hợp.",
+      "evidence_quote": "A drop in consumer demand has led to a remarkable decrease in the production of large pickup trucks.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "d8c42c28-3b6d-431d-8097-f482cf0bc445",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 114,
+      "question_type_tag": "vocabulary",
+      "question_text": "After coating the potatoes in flour and spices, chefs should place them ------- into the deep fryer.",
+      "options": {
+        "A": "rarely",
+        "B": "honestly",
+        "C": "doubtfully",
+        "D": "directly"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một trạng từ để bổ nghĩa cho động từ \"place\" (đặt). Ngữ cảnh là về việc nấu ăn, cụ thể là đặt khoai tây vào nồi chiên ngập dầu.\nVì sao đáp án đúng là chính xác: Đáp án (D) \"directly\" (trực tiếp) là trạng từ phù hợp nhất. Nó diễn tả hành động đặt khoai tây vào nồi chiên một cách trực tiếp, không qua trung gian hay trì hoãn, điều này phổ biến trong các hướng dẫn nấu ăn.\nBẫy đề thi ETS: (A) \"rarely\" (hiếm khi) diễn tả tần suất, không phù hợp với hành động. (B) \"honestly\" (thành thật) và (C) \"doubtfully\" (một cách nghi ngờ) không phù hợp ngữ nghĩa trong ngữ cảnh nấu ăn.\nMẹo phản xạ nhanh: Trong các câu hướng dẫn hoặc quy trình, các trạng từ chỉ cách thức như \"directly\", \"carefully\", \"slowly\" thường là đáp án đúng.",
+      "evidence_quote": "After coating the potatoes in flour and spices, chefs should place them directly into the deep fryer.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "0059d8dd-0b28-46ca-9e2b-48861e129f17",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 115,
+      "question_type_tag": "word_form",
+      "question_text": "Several banks have released applications that allow ------- customers to pay bills easily by phone.",
+      "options": {
+        "A": "their",
+        "B": "they",
+        "C": "them",
+        "D": "themselves"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng trước danh từ \"customers\" (khách hàng). Vị trí này cần một tính từ sở hữu để bổ nghĩa cho danh từ này. Tính từ sở hữu phải tương ứng với chủ thể \"Several banks\" (nhiều ngân hàng).\nVì sao đáp án đúng là chính xác: Đáp án (A) \"their\" là tính từ sở hữu (của họ), phù hợp để chỉ khách hàng của \"several banks\".\nBẫy đề thi ETS: (B) \"they\" là đại từ chủ ngữ. (C) \"them\" là đại từ tân ngữ. (D) \"themselves\" là đại từ phản thân. Cả ba đều không thể đứng trước danh từ để làm tính từ sở hữu.\nMẹo phản xạ nhanh: Nhận diện vị trí cần tính từ sở hữu (trước danh từ) và chọn dạng sở hữu phù hợp với chủ ngữ/chủ thể được nhắc đến.",
+      "evidence_quote": "Several banks have released applications that allow their customers to pay bills easily by phone.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "43e2a118-57ea-4743-bc74-dc78b5294a17",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 116,
+      "question_type_tag": "vocabulary",
+      "question_text": "The personnel department will ------- only those applicants who have five or more years of experience for the position.",
+      "options": {
+        "A": "participate",
+        "B": "consider",
+        "C": "grant",
+        "D": "make"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một động từ. Chủ ngữ là \"The personnel department\" (phòng nhân sự) và tân ngữ là \"those applicants\" (những ứng viên đó). Ngữ cảnh là phòng nhân sự sẽ làm gì với các ứng viên có kinh nghiệm.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"consider\" (xem xét) là động từ phù hợp nhất. Phòng nhân sự sẽ \"xem xét\" những ứng viên đáp ứng tiêu chí kinh nghiệm.\nBẫy đề thi ETS: (A) \"participate\" (tham gia) không đi với tân ngữ trực tiếp là \"applicants\". (C) \"grant\" (cấp, ban cho) thường dùng cho yêu cầu, quyền lợi, không phải cho ứng viên. (D) \"make\" (làm) quá chung chung và không phù hợp ngữ cảnh.\nMẹo phản xạ nhanh: Trong ngữ cảnh tuyển dụng, các động từ như \"consider\", \"evaluate\", \"interview\" thường được dùng để chỉ hành động của phòng nhân sự đối với ứng viên.",
+      "evidence_quote": "The personnel department will consider only those applicants who have five or more years of experience for the position.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "5ac31e64-a809-4cb2-81b1-e5a32e160536",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 117,
+      "question_type_tag": "word_form",
+      "question_text": "Employees of Belfore Electronics Ltd. are ------- involved in community-assistance programs.",
+      "options": {
+        "A": "active",
+        "B": "actively",
+        "C": "activate",
+        "D": "activity"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng trước tính từ \"involved\" (tham gia) và sau động từ \"are\". Vị trí này cần một trạng từ để bổ nghĩa cho tính từ \"involved\", diễn tả mức độ hoặc cách thức tham gia.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"actively\" là trạng từ (một cách tích cực), mô tả việc nhân viên tham gia \"một cách tích cực\" vào các chương trình hỗ trợ cộng đồng.\nBẫy đề thi ETS: (A) \"active\" là tính từ. (C) \"activate\" là động từ. (D) \"activity\" là danh từ. Cả ba đều không thể bổ nghĩa cho tính từ \"involved\".\nMẹo phản xạ nhanh: Trạng từ thường đứng trước tính từ để bổ nghĩa cho tính từ đó. Dấu hiệu -ly thường chỉ trạng từ.",
+      "evidence_quote": "Employees of Belfore Electronics Ltd. are actively involved in community-assistance programs.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "49b85783-a557-4c0c-a723-80e9bf80e7a9",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 118,
+      "question_type_tag": "vocabulary",
+      "question_text": "The executives at Macalter Equipment decided they would not ------ the contract without major changes.",
+      "options": {
+        "A": "renew",
+        "B": "consume",
+        "C": "identify",
+        "D": "resemble"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một động từ. Chủ ngữ là \"The executives\" (các giám đốc điều hành) và tân ngữ là \"the contract\" (hợp đồng). Ngữ cảnh là họ sẽ không làm gì với hợp đồng \"without major changes\" (nếu không có những thay đổi lớn).\nVì sao đáp án đúng là chính xác: Đáp án (A) \"renew\" (gia hạn) là động từ phù hợp nhất với \"the contract\". Nếu không có thay đổi lớn, họ sẽ không gia hạn hợp đồng.\nBẫy đề thi ETS: (B) \"consume\" (tiêu thụ) không phù hợp với hợp đồng. (C) \"identify\" (nhận dạng) không có nghĩa trong ngữ cảnh này. (D) \"resemble\" (giống với) cũng không phù hợp.\nMẹo phản xạ nhanh: Khi có từ khóa như \"contract\", hãy nghĩ đến các động từ liên quan đến hợp đồng như \"sign\", \"renew\", \"terminate\", \"amend\".",
+      "evidence_quote": "The executives at Macalter Equipment decided they would not renew the contract without major changes.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "7067cae0-2d67-4141-9436-ec764e3c5305",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 119,
+      "question_type_tag": "word_form",
+      "question_text": "Wet suits are made with a ------- layer of rubber that traps heat and keeps divers warm.",
+      "options": {
+        "A": "protect",
+        "B": "protects",
+        "C": "protective",
+        "D": "protectively"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng giữa mạo từ \"a\" và danh từ \"layer\" (lớp). Vị trí này cần một tính từ để bổ nghĩa cho danh từ \"layer\". Ngữ cảnh là về bộ đồ lặn (\"wet suits\") và chức năng của lớp cao su là \"traps heat and keeps divers warm\" (giữ nhiệt và giữ ấm cho thợ lặn).\nVì sao đáp án đúng là chính xác: Đáp án (C) \"protective\" là tính từ (có tính bảo vệ), phù hợp để mô tả một lớp cao su có chức năng bảo vệ và giữ ấm. \"A protective layer\" có nghĩa là một lớp bảo vệ.\nBẫy đề thi ETS: (A) \"protect\" là động từ nguyên mẫu. (B) \"protects\" là động từ chia ở ngôi thứ ba số ít. (D) \"protectively\" là trạng từ. Cả ba đều không thể bổ nghĩa cho danh từ \"layer\" trong cấu trúc này.\nMẹo phản xạ nhanh: Cấu trúc \"a/an + (tính từ) + danh từ\" là rất phổ biến. Nhận diện vị trí cần tính từ và chọn dạng từ phù hợp.",
+      "evidence_quote": "Wet suits are made with a protective layer of rubber that traps heat and keeps divers warm.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "5aa5c2ba-e0ba-4788-8a86-c0aeb3361869",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 120,
+      "question_type_tag": "vocabulary",
+      "question_text": "Newcamp Services managers will meet to discuss the proposed ------- of three smaller branches into one large branch.",
+      "options": {
+        "A": "security",
+        "B": "bracket",
+        "C": "connector",
+        "D": "merger"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một danh từ. Ngữ cảnh là các nhà quản lý sẽ họp để thảo luận về việc \"of three smaller branches into one large branch\" (ba chi nhánh nhỏ hơn thành một chi nhánh lớn). Hành động này là sự kết hợp các công ty hoặc chi nhánh.\nVì sao đáp án đúng là chính xác: Đáp án (D) \"merger\" (sự sáp nhập) là danh từ phù hợp nhất để diễn tả việc kết hợp nhiều chi nhánh nhỏ thành một chi nhánh lớn.\nBẫy đề thi ETS: (A) \"security\" (an ninh) không liên quan. (B) \"bracket\" (dấu ngoặc, giá đỡ) không phù hợp. (C) \"connector\" (đầu nối) không đúng ngữ cảnh kinh doanh.\nMẹo phản xạ nhanh: Trong ngữ cảnh kinh doanh, khi nói về việc kết hợp các công ty, chi nhánh, \"merger\" là từ khóa quan trọng.",
+      "evidence_quote": "Newcamp Services managers will meet to discuss the proposed merger of three smaller branches into one large branch.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "d3a12006-2151-437e-8859-f99cacf6f038",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 121,
+      "question_type_tag": "word_form",
+      "question_text": "At Yarzen Technology, clients' records are ------- and can only be accessed by a small group of fund managers.",
+      "options": {
+        "A": "confide",
+        "B": "confidential",
+        "C": "confidentially",
+        "D": "confidentiality"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng sau động từ \"are\" và cần một tính từ để mô tả \"clients' records\" (hồ sơ khách hàng). Mệnh đề sau \"and\" (\"can only be accessed by a small group of fund managers\") cung cấp ngữ cảnh về tính chất của hồ sơ.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"confidential\" là tính từ (bí mật, bảo mật), phù hợp để mô tả hồ sơ khách hàng mà chỉ một nhóm nhỏ quản lý quỹ mới có thể truy cập.\nBẫy đề thi ETS: (A) \"confide\" là động từ (tâm sự). (C) \"confidentially\" là trạng từ (một cách bí mật). (D) \"confidentiality\" là danh từ (sự bảo mật). Cả ba đều không thể làm tính từ bổ nghĩa cho \"records\" trong cấu trúc này.\nMẹo phản xạ nhanh: Sau động từ \"to be\" thường là tính từ hoặc danh từ. Ngữ cảnh \"only be accessed by a small group\" là dấu hiệu rõ ràng cho tính từ \"confidential\".",
+      "evidence_quote": "At Yarzen Technology, clients' records are confidential and can only be accessed by a small group of fund managers.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "5139ae12-bea5-430d-971c-ecbbbbf6816c",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 122,
+      "question_type_tag": "vocabulary",
+      "question_text": "The featured panel at the NHJ Medical Conference will discuss recent ------- in online health-care services.",
+      "options": {
+        "A": "memories",
+        "B": "varieties",
+        "C": "trends",
+        "D": "rehearsals"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một danh từ. Ngữ cảnh là một \"Medical Conference\" (Hội nghị Y tế) sẽ thảo luận về những điều \"recent\" (gần đây) trong \"online health-care services\" (dịch vụ chăm sóc sức khỏe trực tuyến).\nVì sao đáp án đúng là chính xác: Đáp án (C) \"trends\" (xu hướng) là danh từ phù hợp nhất để diễn tả những phát triển hoặc thay đổi gần đây trong một lĩnh vực cụ thể như dịch vụ chăm sóc sức khỏe trực tuyến.\nBẫy đề thi ETS: (A) \"memories\" (ký ức) không phù hợp với ngữ cảnh hội nghị y tế. (B) \"varieties\" (sự đa dạng) không diễn tả đúng nội dung thảo luận. (D) \"rehearsals\" (buổi diễn tập) không liên quan.\nMẹo phản xạ nhanh: Khi nói về các cuộc thảo luận, hội nghị về một lĩnh vực, các từ như \"trends\", \"developments\", \"issues\" thường là lựa chọn đúng.",
+      "evidence_quote": "The featured panel at the NHJ Medical Conference will discuss recent trends in online health-care services.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "cf5454c7-4122-45ee-8a8e-792d7bdab4d0",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 123,
+      "question_type_tag": "verb_tense",
+      "question_text": "All of Millville's restaurants ------ several times a year by the city health department.",
+      "options": {
+        "A": "inspect",
+        "B": "inspected",
+        "C": "are inspecting",
+        "D": "are inspected"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chủ ngữ của câu là \"All of Millville's restaurants\" (tất cả các nhà hàng của Millville). Hành động \"inspect\" (kiểm tra) được thực hiện \"by the city health department\" (bởi sở y tế thành phố). Điều này cho thấy câu cần ở thể bị động. Cụm từ \"several times a year\" (vài lần một năm) chỉ một hành động lặp đi lặp lại, thường xuyên, nên cần dùng thì hiện tại đơn.\nVì sao đáp án đúng là chính xác: Đáp án (D) \"are inspected\" là dạng bị động của thì hiện tại đơn (to be + V3/ed), phù hợp với cả thể bị động và thì hiện tại đơn.\nBẫy đề thi ETS: (A) \"inspect\" là động từ nguyên mẫu, thể chủ động. (B) \"inspected\" có thể là quá khứ đơn chủ động hoặc quá khứ phân từ, nhưng không phải hiện tại bị động. (C) \"are inspecting\" là hiện tại tiếp diễn chủ động. Cả ba đều không phù hợp với ngữ cảnh bị động và thì hiện tại đơn.\nMẹo phản xạ nhanh: Khi thấy \"by + tác nhân\" sau chỗ trống, hãy nghĩ ngay đến thể bị động. \"Several times a year\" là dấu hiệu của thì hiện tại đơn.",
+      "evidence_quote": "All of Millville's restaurants are inspected several times a year by the city health department.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "3a6c4e30-d950-4d37-a122-31b81fa9f2b8",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 124,
+      "question_type_tag": "vocabulary",
+      "question_text": "Sweet Sunlight Bakery has steadily built a ---- base of customers with its delicious cookies and cakes.",
+      "options": {
+        "A": "brief",
+        "B": "loyal",
+        "C": "strict",
+        "D": "careful"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một tính từ để bổ nghĩa cho cụm danh từ \"base of customers\" (cơ sở khách hàng). Ngữ cảnh là tiệm bánh này làm ra \"delicious cookies and cakes\" (bánh quy và bánh ngọt ngon).\nVì sao đáp án đúng là chính xác: Đáp án (B) \"loyal\" (trung thành) là tính từ phù hợp nhất. Một tiệm bánh với sản phẩm ngon sẽ xây dựng được một \"cơ sở khách hàng trung thành\".\nBẫy đề thi ETS: (A) \"brief\" (ngắn gọn) không phù hợp để mô tả khách hàng. (C) \"strict\" (nghiêm khắc) và (D) \"careful\" (cẩn thận) cũng không phù hợp với ngữ cảnh khách hàng của tiệm bánh.\nMẹo phản xạ nhanh: Liên kết tính chất của sản phẩm/dịch vụ (delicious cookies and cakes) với tính chất của khách hàng (loyal customers).",
+      "evidence_quote": "Sweet Sunlight Bakery has steadily built a loyal base of customers with its delicious cookies and cakes.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "9076eccd-8b25-49ab-8168-efbe71045b27",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 125,
+      "question_type_tag": "word_form",
+      "question_text": "According to financial analysts, ------- in medical technology companies are expected to increase in value.",
+      "options": {
+        "A": "invest",
+        "B": "investing",
+        "C": "invested",
+        "D": "investments"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng ở đầu mệnh đề chính và là chủ ngữ của động từ \"are expected to increase in value\" (được kỳ vọng sẽ tăng giá trị). Vị trí chủ ngữ cần một danh từ. Ngữ cảnh là về \"financial analysts\" (các nhà phân tích tài chính) và \"medical technology companies\" (các công ty công nghệ y tế).\nVì sao đáp án đúng là chính xác: Đáp án (D) \"investments\" là danh từ số nhiều (các khoản đầu tư), phù hợp làm chủ ngữ và có nghĩa trong ngữ cảnh tài chính, chỉ những thứ được kỳ vọng tăng giá trị.\nBẫy đề thi ETS: (A) \"invest\" là động từ nguyên mẫu. (B) \"investing\" là danh động từ hoặc hiện tại phân từ. Mặc dù danh động từ có thể làm chủ ngữ, nhưng \"investments\" (các khoản đầu tư) là danh từ cụ thể hơn và phù hợp hơn với việc \"tăng giá trị\". (C) \"invested\" là quá khứ phân từ hoặc động từ quá khứ.\nMẹo phản xạ nhanh: Khi chỗ trống là chủ ngữ và có liên quan đến tài chính, hãy tìm danh từ số nhiều hoặc danh từ không đếm được phù hợp.",
+      "evidence_quote": "According to financial analysts, investments in medical technology companies are expected to increase in value.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "fdf07761-8ba2-4ab3-8898-58ad31fcba3e",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 126,
+      "question_type_tag": "vocabulary",
+      "question_text": "The city's harbor is ----- to container ships and fishing vessels of all sizes.",
+      "options": {
+        "A": "accessible",
+        "B": "formal",
+        "C": "reasonable",
+        "D": "likely"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một tính từ đứng sau động từ \"is\" và trước giới từ \"to\". Ngữ cảnh là về \"the city's harbor\" (cảng của thành phố) và khả năng tiếp nhận \"container ships and fishing vessels of all sizes\" (tàu container và tàu đánh cá đủ kích cỡ).\nVì sao đáp án đúng là chính xác: Đáp án (A) \"accessible\" (có thể tiếp cận, có thể vào được) là tính từ phù hợp nhất. Nó diễn tả rằng cảng có thể được tàu thuyền đủ loại tiếp cận.\nBẫy đề thi ETS: (B) \"formal\" (trang trọng) không phù hợp để mô tả cảng. (C) \"reasonable\" (hợp lý) không đúng ngữ cảnh. (D) \"likely\" (có khả năng) thường đi với \"to V\" hoặc \"that clause\", không phù hợp với \"to container ships\".\nMẹo phản xạ nhanh: Khi mô tả khả năng tiếp cận hoặc sử dụng một địa điểm, \"accessible\" là một từ vựng phổ biến trong TOEIC.",
+      "evidence_quote": "The city's harbor is accessible to container ships and fishing vessels of all sizes.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c577c451-6619-466e-a45d-e2655661f083",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 127,
+      "question_type_tag": "conjunction",
+      "question_text": "Maya's Dancewear expanded its advertising markets, and sales have ------- increased.",
+      "options": {
+        "A": "controlling",
+        "B": "consequently",
+        "C": "beneath",
+        "D": "even though"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một trạng từ liên kết để nối hai mệnh đề. Mệnh đề đầu tiên (\"Maya's Dancewear expanded its advertising markets\") là nguyên nhân, và mệnh đề thứ hai (\"sales have increased\") là kết quả.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"consequently\" (do đó, kết quả là) là trạng từ liên kết phù hợp nhất để diễn tả mối quan hệ nhân quả giữa việc mở rộng thị trường quảng cáo và doanh số tăng.\nBẫy đề thi ETS: (A) \"controlling\" là hiện tại phân từ hoặc danh động từ, không phải trạng từ liên kết. (C) \"beneath\" là giới từ (bên dưới). (D) \"even though\" là liên từ phụ thuộc chỉ sự nhượng bộ (mặc dù), không phù hợp với mối quan hệ nhân quả.\nMẹo phản xạ nhanh: Khi hai mệnh đề có mối quan hệ nguyên nhân-kết quả, hãy tìm các trạng từ liên kết như \"consequently\", \"therefore\", \"as a result\".",
+      "evidence_quote": "Maya's Dancewear expanded its advertising markets, and sales have consequently increased.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "1e8e7b8a-f8fa-4ac5-b088-3a351ee284c4",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 128,
+      "question_type_tag": "conjunction",
+      "question_text": "Dobson Ice Cream will not introduce any new flavors ------- the customer survey results are analyzed.",
+      "options": {
+        "A": "around",
+        "B": "until",
+        "C": "despite",
+        "D": "past"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần một liên từ hoặc giới từ để giới thiệu một mệnh đề thời gian (\"the customer survey results are analyzed\"). Ngữ cảnh là Dobson Ice Cream sẽ không giới thiệu hương vị mới cho đến khi kết quả khảo sát được phân tích.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"until\" (cho đến khi) là liên từ phù hợp nhất để diễn tả một hành động sẽ không xảy ra trước một thời điểm hoặc sự kiện nhất định.\nBẫy đề thi ETS: (A) \"around\" là giới từ chỉ thời gian hoặc địa điểm ước chừng. (C) \"despite\" là giới từ chỉ sự nhượng bộ, theo sau là danh từ/danh động từ. (D) \"past\" là giới từ chỉ thời gian hoặc địa điểm. Cả ba đều không phù hợp để giới thiệu một mệnh đề thời gian với ý nghĩa \"cho đến khi\".\nMẹo phản xạ nhanh: Khi có hành động phủ định (\"will not introduce\") và một điều kiện thời gian, \"until\" thường là lựa chọn đúng.",
+      "evidence_quote": "Dobson Ice Cream will not introduce any new flavors until the customer survey results are analyzed.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "5ce04bf9-b452-4203-a4f2-00f432a9b8d7",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 129,
+      "question_type_tag": "verb_tense",
+      "question_text": "The renovated company gym ------- with free weights and exercise machines.",
+      "options": {
+        "A": "will equip",
+        "B": "to equip",
+        "C": "has been equipped",
+        "D": "is equipping"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chủ ngữ là \"The renovated company gym\" (phòng gym của công ty đã được cải tạo). Phòng gym không tự trang bị mà \"được trang bị\" các thiết bị. Do đó, câu cần ở thể bị động. Việc cải tạo đã hoàn thành và kết quả là phòng gym hiện có các thiết bị, gợi ý thì hiện tại hoàn thành bị động.\nVì sao đáp án đúng là chính xác: Đáp án (C) \"has been equipped\" là thì hiện tại hoàn thành bị động, diễn tả một hành động đã hoàn thành trong quá khứ và có kết quả liên quan đến hiện tại (phòng gym hiện đã có các thiết bị).\nBẫy đề thi ETS: (A) \"will equip\" là thì tương lai chủ động. (B) \"to equip\" là động từ nguyên mẫu. (D) \"is equipping\" là thì hiện tại tiếp diễn chủ động. Cả ba đều không phù hợp với ngữ cảnh bị động và ý nghĩa của câu.\nMẹo phản xạ nhanh: Khi chủ ngữ là vật và hành động là tác động lên vật đó, hãy nghĩ đến thể bị động. Thì hiện tại hoàn thành bị động thường dùng để nói về kết quả của một hành động đã hoàn thành.",
+      "evidence_quote": "The renovated company gym has been equipped with free weights and exercise machines.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "bb878c64-67ba-4866-aff9-089457d3cbb5",
+      "group_id": "f9b1f563-386a-4205-82c3-ac29a2af9f6c",
+      "part": 5,
+      "question_number": 130,
+      "question_type_tag": "conjunction",
+      "question_text": "------- driving their cars, workers who travel to the town center should use the bus lines.",
+      "options": {
+        "A": "Because of",
+        "B": "Instead of",
+        "C": "Whenever",
+        "D": "Although"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng trước cụm danh động từ \"driving their cars\" và giới thiệu một hành động thay thế cho hành động được đề xuất trong mệnh đề chính (\"should use the bus lines\"). Vị trí này cần một giới từ hoặc cụm giới từ.\nVì sao đáp án đúng là chính xác: Đáp án (B) \"Instead of\" (thay vì) là cụm giới từ phù hợp nhất, diễn tả việc thay thế một hành động này bằng một hành động khác. Nó theo sau bởi danh từ hoặc danh động từ.\nBẫy đề thi ETS: (A) \"Because of\" (bởi vì) chỉ nguyên nhân. (C) \"Whenever\" (bất cứ khi nào) là liên từ phụ thuộc chỉ thời gian, theo sau là mệnh đề. (D) \"Although\" (mặc dù) là liên từ phụ thuộc chỉ sự nhượng bộ, theo sau là mệnh đề. Cả ba đều không phù hợp về nghĩa hoặc cấu trúc ngữ pháp.\nMẹo phản xạ nhanh: Khi câu đưa ra một lựa chọn hoặc một sự thay thế cho một hành động khác, \"instead of\" là cụm từ thường được sử dụng.",
+      "evidence_quote": "Instead of driving their cars, workers who travel to the town center should use the bus lines.",
+      "paraphrase_pair": null
+    }
+  ]
+}

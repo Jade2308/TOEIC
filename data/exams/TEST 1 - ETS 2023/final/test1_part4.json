@@ -1,0 +1,1373 @@
+{
+  "test_name": "ETS TOEIC 2023 - Test 1",
+  "part": 4,
+  "total_groups": 10,
+  "total_questions": 30,
+  "question_groups": [
+    {
+      "id": "e8d9968c-8597-56d9-8274-b607d8078d01",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 4,
+      "image_url": null,
+      "audio_url": "/audio/test1/part4_g71_73.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p4-71-01",
+          "speaker": "Speaker",
+          "start_time": 6.62,
+          "end_time": 23.66,
+          "text_en": "Attention all film lovers!",
+          "text_vi": "Xin toàn thể những người yêu điện ảnh hãy chú ý!",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-71-02",
+          "speaker": "Speaker",
+          "start_time": 23.66,
+          "end_time": 40.69,
+          "text_en": "The Braddon Cinema has just opened.",
+          "text_vi": "Rạp chiếu phim Braddon vừa mới khai trương.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-71-03",
+          "speaker": "Speaker",
+          "start_time": 40.69,
+          "end_time": 57.73,
+          "text_en": "Its interior is designed to resemble the classic cinemas from the 1920s.",
+          "text_vi": "Nội thất bên trong được thiết kế mô phỏng các rạp chiếu phim cổ điển từ những năm 1920.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-71-04",
+          "speaker": "Speaker",
+          "start_time": 57.73,
+          "end_time": 74.77,
+          "text_en": "It offers comfortable, reclining seats and individual tray tables for food and drinks.",
+          "text_vi": "Rạp có những chiếc ghế tựa lưng thoải mái và bàn khay riêng cho đồ ăn thức uống.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-71-05",
+          "speaker": "Speaker",
+          "start_time": 74.77,
+          "end_time": 91.8,
+          "text_en": "The grand opening is next week and will feature showings of classic films from different eras!",
+          "text_vi": "Lễ khai trương lớn diễn ra vào tuần tới và sẽ trình chiếu các bộ phim kinh điển từ nhiều thời kỳ khác nhau!",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-71-06",
+          "speaker": "Speaker",
+          "start_time": 91.8,
+          "end_time": 108.84,
+          "text_en": "And here's good advice: to avoid traffic in the city center, the Braddon Cinema is easily reached by riding the train to Center Station.",
+          "text_vi": "Và đây là lời khuyên hữu ích: để tránh kẹt xe ở trung tâm thành phố, bạn có thể dễ dàng đến Rạp chiếu phim Braddon bằng cách đi tàu đến Ga Trung tâm.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "dd45812f-9bc0-51f3-8533-7a9d72f2bd27",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 4,
+      "image_url": null,
+      "audio_url": "/audio/test1/part4_g74_76.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p4-74-01",
+          "speaker": "Abdi",
+          "start_time": 7.16,
+          "end_time": 23.97,
+          "text_en": "Hi. This is Abdi calling from the Springtown Hotel reservation desk.",
+          "text_vi": "Xin chào. Tôi là Abdi gọi từ quầy đặt phòng của khách sạn Springtown.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-74-02",
+          "speaker": "Abdi",
+          "start_time": 23.97,
+          "end_time": 40.78,
+          "text_en": "We received your e-mail regarding your upcoming reservation.",
+          "text_vi": "Chúng tôi đã nhận được email của bạn liên quan đến việc đặt phòng sắp tới.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-74-03",
+          "speaker": "Abdi",
+          "start_time": 40.78,
+          "end_time": 57.59,
+          "text_en": "I see that you asked to move to a room facing the ocean.",
+          "text_vi": "Tôi thấy bạn đã yêu cầu chuyển sang phòng hướng biển.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-74-04",
+          "speaker": "Abdi",
+          "start_time": 57.59,
+          "end_time": 74.4,
+          "text_en": "We make every effort to accommodate such requests, but those rooms are always booked far in advance.",
+          "text_vi": "Chúng tôi luôn nỗ lực hết sức để đáp ứng các yêu cầu như vậy, nhưng những phòng đó luôn được đặt trước từ rất sớm.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-74-05",
+          "speaker": "Abdi",
+          "start_time": 74.4,
+          "end_time": 91.21,
+          "text_en": "Your current room, though, has a lovely view of our garden, which we think you will quite enjoy this time of year.",
+          "text_vi": "Tuy nhiên, căn phòng hiện tại của bạn có tầm nhìn tuyệt đẹp ra khu vườn của chúng tôi, điều mà chúng tôi nghĩ bạn sẽ khá thích vào thời điểm này trong năm.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-74-06",
+          "speaker": "Abdi",
+          "start_time": 91.21,
+          "end_time": 108.02,
+          "text_en": "And don't forget to bring your swimming suit! Our new pool will be open for the first time this weekend.",
+          "text_vi": "Và đừng quên mang theo đồ bơi nhé! Hồ bơi mới của chúng tôi sẽ mở cửa lần đầu tiên vào cuối tuần này.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "ca2831a7-20f5-511f-94c7-f32fecb4d952",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 4,
+      "image_url": null,
+      "audio_url": "/audio/test1/part4_g77_79.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p4-77-01",
+          "speaker": "Lisa Campbell",
+          "start_time": 5.54,
+          "end_time": 20.31,
+          "text_en": "Good morning, volunteers. My name is Lisa Campbell.",
+          "text_vi": "Chào buổi sáng, các tình nguyện viên. Tên tôi là Lisa Campbell.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-77-02",
+          "speaker": "Lisa Campbell",
+          "start_time": 20.31,
+          "end_time": 35.08,
+          "text_en": "Thank you for coming today to help us maintain the natural habitat here at the Blue Mountain Forest Preserve.",
+          "text_vi": "Cảm ơn các bạn đã đến hôm nay để giúp chúng tôi duy trì môi trường sống tự nhiên tại Khu bảo tồn rừng Blue Mountain này.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-77-03",
+          "speaker": "Lisa Campbell",
+          "start_time": 35.08,
+          "end_time": 49.85,
+          "text_en": "Forest conservation is so important!",
+          "text_vi": "Bảo tồn rừng là vô cùng quan trọng!",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-77-04",
+          "speaker": "Lisa Campbell",
+          "start_time": 49.85,
+          "end_time": 64.61,
+          "text_en": "Since this is your first day, I'll cover some of the basics.",
+          "text_vi": "Vì hôm nay là ngày đầu tiên của các bạn, tôi sẽ phổ biến một số điều cơ bản.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-77-05",
+          "speaker": "Lisa Campbell",
+          "start_time": 64.61,
+          "end_time": 79.38,
+          "text_en": "I advise you to always carry water with you. We have refillable bottles, and everyone is welcome to take one as a gift from us at the forest preserve.",
+          "text_vi": "Tôi khuyên các bạn luôn mang theo nước bên mình. Chúng tôi có bình nước dùng nhiều lần và hoan nghênh mọi người lấy một chiếc làm quà từ khu bảo tồn rừng của chúng tôi.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-77-06",
+          "speaker": "Lisa Campbell",
+          "start_time": 79.38,
+          "end_time": 94.15,
+          "text_en": "It can get hot in the afternoon, so staying hydrated is important.",
+          "text_vi": "Trời có thể nóng vào buổi chiều, vì vậy việc bổ sung đủ nước là rất quan trọng.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-77-07",
+          "speaker": "Lisa Campbell",
+          "start_time": 94.15,
+          "end_time": 108.92,
+          "text_en": "Now, if you'll follow me, I'll show you the steps for planting young tree saplings to support biodiversity.",
+          "text_vi": "Bây giờ, nếu các bạn đi theo tôi, tôi sẽ hướng dẫn các bước trồng cây non để hỗ trợ đa dạng sinh học.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "cf2f3534-bff8-5c47-8b2a-6edb205454a0",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 4,
+      "image_url": null,
+      "audio_url": "/audio/test1/part4_g80_82.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p4-80-01",
+          "speaker": "Speaker",
+          "start_time": 4.0,
+          "end_time": 25.17,
+          "text_en": "Hello. I'm calling about the financial-management workshop that your company is hosting later this week.",
+          "text_vi": "Xin chào. Tôi gọi điện về hội thảo quản lý tài chính mà công ty bạn sẽ tổ chức vào cuối tuần này.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-80-02",
+          "speaker": "Speaker",
+          "start_time": 25.17,
+          "end_time": 46.34,
+          "text_en": "I'm with the Archton Group; we registered for the workshop over a month ago.",
+          "text_vi": "Tôi thuộc Tập đoàn Archton; chúng tôi đã đăng ký tham gia hội thảo cách đây hơn một tháng.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-80-03",
+          "speaker": "Speaker",
+          "start_time": 46.34,
+          "end_time": 67.5,
+          "text_en": "I realized that we never received the meal vouchers that are supposed to be part of the workshop package.",
+          "text_vi": "Tôi nhận ra rằng chúng tôi chưa bao giờ nhận được các phiếu ăn uống vốn là một phần trong gói hội thảo.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-80-04",
+          "speaker": "Speaker",
+          "start_time": 67.5,
+          "end_time": 88.67,
+          "text_en": "We need these because we have ten people attending, and we are traveling long-distance to attend the conference.",
+          "text_vi": "Chúng tôi cần những phiếu này vì chúng tôi có 10 người tham dự, và chúng tôi phải di chuyển quãng đường xa để tham dự hội nghị.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-80-05",
+          "speaker": "Speaker",
+          "start_time": 88.67,
+          "end_time": 109.84,
+          "text_en": "Would you please send me an e-mail with the meal vouchers included as an attachment as soon as you can? Thank you.",
+          "text_vi": "Bạn có thể vui lòng gửi cho tôi một email đính kèm các phiếu ăn uống càng sớm càng tốt được không? Xin cảm ơn.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "c9bb909a-df88-5040-8b2a-dd00aa23526e",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 4,
+      "image_url": null,
+      "audio_url": "/audio/test1/part4_g83_85.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p4-83-01",
+          "speaker": "Speaker",
+          "start_time": 4.0,
+          "end_time": 14.44,
+          "text_en": "M-Au. This is the end of our tour.",
+          "text_vi": "M-Au. Đây là kết thúc chuyến tham quan của chúng ta.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-83-02",
+          "speaker": "Speaker",
+          "start_time": 14.44,
+          "end_time": 24.87,
+          "text_en": "Thank you for coming to the Oakton Garden Collective.",
+          "text_vi": "Cảm ơn quý vị đã đến với Oakton Garden Collective.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-83-03",
+          "speaker": "Speaker",
+          "start_time": 24.87,
+          "end_time": 35.31,
+          "text_en": "I hope you've learned a lot about urban gardening.",
+          "text_vi": "Tôi hy vọng quý vị đã học được nhiều điều về làm vườn đô thị.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-83-04",
+          "speaker": "Speaker",
+          "start_time": 35.31,
+          "end_time": 45.74,
+          "text_en": "Feel free to spend more time looking around.",
+          "text_vi": "Cứ tự nhiên dành thêm thời gian để tham quan.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-83-05",
+          "speaker": "Speaker",
+          "start_time": 45.74,
+          "end_time": 56.18,
+          "text_en": "Don't forget to pick up your free vegetable seedling before you leave.",
+          "text_vi": "Đừng quên nhận cây con rau miễn phí trước khi rời đi.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-83-06",
+          "speaker": "Speaker",
+          "start_time": 56.18,
+          "end_time": 66.62,
+          "text_en": "You can choose a cucumber plant or a tomato plant.",
+          "text_vi": "Quý vị có thể chọn một cây dưa chuột hoặc một cây cà chua.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-83-07",
+          "speaker": "Speaker",
+          "start_time": 66.62,
+          "end_time": 77.05,
+          "text_en": "Also, if you'd like to have your own garden plot next spring, applications are now available.",
+          "text_vi": "Ngoài ra, nếu quý vị muốn có một mảnh vườn riêng vào mùa xuân tới, đơn đăng ký hiện đã có sẵn.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-83-08",
+          "speaker": "Speaker",
+          "start_time": 77.05,
+          "end_time": 87.49,
+          "text_en": "You'll get a plot for just a small fee.",
+          "text_vi": "Quý vị sẽ có một mảnh đất chỉ với một khoản phí nhỏ.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-83-09",
+          "speaker": "Speaker",
+          "start_time": 87.49,
+          "end_time": 97.92,
+          "text_en": "We have many other fun activities listed in our monthly newsletter.",
+          "text_vi": "Chúng tôi có nhiều hoạt động vui chơi khác được liệt kê trong bản tin hàng tháng của chúng tôi.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-83-10",
+          "speaker": "Speaker",
+          "start_time": 97.92,
+          "end_time": 108.36,
+          "text_en": "Consider joining our e-mail list to receive these monthly updates about upcoming events.",
+          "text_vi": "Hãy cân nhắc tham gia danh sách email của chúng tôi để nhận các bản cập nhật hàng tháng này về các sự kiện sắp tới.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "c0e86af7-6ae8-5609-81c4-6bc076ed8756",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 4,
+      "image_url": null,
+      "audio_url": "/audio/test1/part4_g86_88.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p4-86-01",
+          "speaker": "Speaker",
+          "start_time": 4.0,
+          "end_time": 18.62,
+          "text_en": "W-Au. Have you developed the perfect product but are unsure how to reach more customers?",
+          "text_vi": "W-Au. Quý vị đã phát triển được sản phẩm hoàn hảo nhưng không chắc chắn làm thế nào để tiếp cận nhiều khách hàng hơn?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-86-02",
+          "speaker": "Speaker",
+          "start_time": 18.62,
+          "end_time": 33.23,
+          "text_en": "At Whole Planet Marketing, our team of expert digital marketers is ready to help you reach your target audience.",
+          "text_vi": "Tại Whole Planet Marketing, đội ngũ chuyên gia tiếp thị kỹ thuật số của chúng tôi sẵn sàng giúp quý vị tiếp cận đối tượng mục tiêu của mình.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-86-03",
+          "speaker": "Speaker",
+          "start_time": 33.23,
+          "end_time": 47.85,
+          "text_en": "Unlike other marketing firms, we'll connect you with a digital marketer who'll work with you individually.",
+          "text_vi": "Không giống như các công ty tiếp thị khác, chúng tôi sẽ kết nối quý vị với một chuyên gia tiếp thị kỹ thuật số sẽ làm việc riêng với quý vị.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-86-04",
+          "speaker": "Speaker",
+          "start_time": 47.85,
+          "end_time": 62.47,
+          "text_en": "During your one-on-one meetings, you'll develop a marketing plan that will draw in customers.",
+          "text_vi": "Trong các cuộc họp riêng, quý vị sẽ phát triển một kế hoạch tiếp thị thu hút khách hàng.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-86-05",
+          "speaker": "Speaker",
+          "start_time": 62.47,
+          "end_time": 77.09,
+          "text_en": "Just go to wholeplanetmarketing.com today to complete a brief questionnaire.",
+          "text_vi": "Chỉ cần truy cập wholeplanetmarketing.com ngay hôm nay để hoàn thành một bảng câu hỏi ngắn.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-86-06",
+          "speaker": "Speaker",
+          "start_time": 77.09,
+          "end_time": 91.7,
+          "text_en": "Then, one of our specialists will contact you to make an appointment for a free proposal.",
+          "text_vi": "Sau đó, một trong những chuyên gia của chúng tôi sẽ liên hệ với quý vị để đặt lịch hẹn cho một đề xuất miễn phí.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-86-07",
+          "speaker": "Speaker",
+          "start_time": 91.7,
+          "end_time": 106.32,
+          "text_en": "Let Whole Planet Marketing bring customers to you!",
+          "text_vi": "Hãy để Whole Planet Marketing mang khách hàng đến với quý vị!",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "3830eb72-7f1a-541c-83b6-d4d49a520306",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 4,
+      "image_url": null,
+      "audio_url": "/audio/test1/part4_g89_91.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p4-89-01",
+          "speaker": "Speaker",
+          "start_time": 4.0,
+          "end_time": 15.32,
+          "text_en": "M-Au. Hello, everyone.",
+          "text_vi": "M-Au. Xin chào mọi người.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-89-02",
+          "speaker": "Speaker",
+          "start_time": 15.32,
+          "end_time": 26.64,
+          "text_en": "There's very exciting news for all of us here at the Ziegler Research Institute.",
+          "text_vi": "Có một tin tức rất thú vị cho tất cả chúng ta tại Viện Nghiên cứu Ziegler.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-89-03",
+          "speaker": "Speaker",
+          "start_time": 26.64,
+          "end_time": 37.96,
+          "text_en": "We've just been awarded the Sugiyama Grant to support our research into aquatic ecosystems.",
+          "text_vi": "Chúng ta vừa được trao Giải thưởng Sugiyama để hỗ trợ nghiên cứu của chúng ta về hệ sinh thái dưới nước.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-89-04",
+          "speaker": "Speaker",
+          "start_time": 37.96,
+          "end_time": 49.28,
+          "text_en": "We can now invest in state-of-the-art equipment to study the biodiversity of coral reefs.",
+          "text_vi": "Giờ đây, chúng ta có thể đầu tư vào thiết bị hiện đại để nghiên cứu đa dạng sinh học của rạn san hô.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-89-05",
+          "speaker": "Speaker",
+          "start_time": 49.28,
+          "end_time": 60.6,
+          "text_en": "As you may know, the Sugiyama Foundation offers a variety of substantial grants each year.",
+          "text_vi": "Như quý vị đã biết, Quỹ Sugiyama cung cấp nhiều khoản tài trợ đáng kể mỗi năm.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-89-06",
+          "speaker": "Speaker",
+          "start_time": 60.6,
+          "end_time": 71.92,
+          "text_en": "It is notable, though, that for this particular award, they received over 200 applications.",
+          "text_vi": "Tuy nhiên, điều đáng chú ý là đối với giải thưởng cụ thể này, họ đã nhận được hơn 200 đơn đăng ký.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-89-07",
+          "speaker": "Speaker",
+          "start_time": 71.92,
+          "end_time": 83.24,
+          "text_en": "Our work at the reefs will probably not begin for several months.",
+          "text_vi": "Công việc của chúng ta tại các rạn san hô có lẽ sẽ không bắt đầu trong vài tháng tới.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-89-08",
+          "speaker": "Speaker",
+          "start_time": 83.24,
+          "end_time": 94.56,
+          "text_en": "We still need to order the equipment.",
+          "text_vi": "Chúng ta vẫn cần đặt hàng thiết bị.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-89-09",
+          "speaker": "Speaker",
+          "start_time": 94.56,
+          "end_time": 105.88,
+          "text_en": "But I want to thank you for your efforts on the application.",
+          "text_vi": "Nhưng tôi muốn cảm ơn quý vị vì những nỗ lực của quý vị trong việc nộp đơn.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "ad29c743-2f66-5584-ae4b-eb3502a830e9",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 4,
+      "image_url": null,
+      "audio_url": "/audio/test1/part4_g92_94.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p4-92-01",
+          "speaker": "Yuri Yamakawa",
+          "start_time": 4.0,
+          "end_time": 18.65,
+          "text_en": "W-Au. On behalf of Onetech Solar, I'd like to welcome you to our manufacturing facility and congratulate you on your employment here.",
+          "text_vi": "W-Au. Thay mặt Onetech Solar, tôi xin chào mừng quý vị đến với cơ sở sản xuất của chúng tôi và chúc mừng quý vị đã được tuyển dụng tại đây.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-92-02",
+          "speaker": "Yuri Yamakawa",
+          "start_time": 18.65,
+          "end_time": 33.29,
+          "text_en": "I'm Yuri Yamakawa, and today I'll be leading this orientation for new hires.",
+          "text_vi": "Tôi là Yuri Yamakawa, và hôm nay tôi sẽ dẫn dắt buổi định hướng này cho các nhân viên mới.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-92-03",
+          "speaker": "Yuri Yamakawa",
+          "start_time": 33.29,
+          "end_time": 47.94,
+          "text_en": "We'll start with a video that provides an overview of the production process for the solar panels we make.",
+          "text_vi": "Chúng ta sẽ bắt đầu với một video cung cấp tổng quan về quy trình sản xuất các tấm pin mặt trời mà chúng tôi sản xuất.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-92-04",
+          "speaker": "Yuri Yamakawa",
+          "start_time": 47.94,
+          "end_time": 62.58,
+          "text_en": "Then we'll tour the various areas of the factory, including the assembly room and the quality-control inspection center.",
+          "text_vi": "Sau đó, chúng ta sẽ tham quan các khu vực khác nhau của nhà máy, bao gồm phòng lắp ráp và trung tâm kiểm tra chất lượng.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-92-05",
+          "speaker": "Yuri Yamakawa",
+          "start_time": 62.58,
+          "end_time": 77.23,
+          "text_en": "After lunch, my colleague Markara Sara will join you.",
+          "text_vi": "Sau bữa trưa, đồng nghiệp của tôi, Markara Sara, sẽ tham gia cùng quý vị.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-92-06",
+          "speaker": "Yuri Yamakawa",
+          "start_time": 77.23,
+          "end_time": 91.87,
+          "text_en": "I have a consultation with a client.",
+          "text_vi": "Tôi có một buổi tư vấn với khách hàng.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-92-07",
+          "speaker": "Yuri Yamakawa",
+          "start_time": 91.87,
+          "end_time": 106.52,
+          "text_en": "And now, let's get started with the video.",
+          "text_vi": "Và bây giờ, chúng ta hãy bắt đầu với video.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "540fc925-1405-5f07-9e8f-f6aea447d030",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 4,
+      "image_url": "/images/test1/part4_g95_97.png",
+      "audio_url": "/audio/test1/part4_g95_97.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p4-95-01",
+          "speaker": "Vinod Singh",
+          "start_time": 4.0,
+          "end_time": 24.28,
+          "text_en": "Hi. This is Vinod Singh. I'm in your store on Monday looking at refrigerators for my apartment.",
+          "text_vi": "Chào. Tôi là Vinod Singh. Tôi đã ở cửa hàng của bạn vào thứ Hai để xem tủ lạnh cho căn hộ của tôi.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-95-02",
+          "speaker": "Vinod Singh",
+          "start_time": 24.28,
+          "end_time": 44.56,
+          "text_en": "One of your employees showed me what you have in stock.",
+          "text_vi": "Một trong những nhân viên của bạn đã cho tôi xem những gì bạn có trong kho.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-95-03",
+          "speaker": "Vinod Singh",
+          "start_time": 44.56,
+          "end_time": 64.84,
+          "text_en": "I've decided to go with the extra-large refrigerator—the one with the stainless-steel finish, because it'll match the other appliances in my apartment.",
+          "text_vi": "Tôi đã quyết định chọn chiếc tủ lạnh cỡ lớn hơn—chiếc có lớp hoàn thiện bằng thép không gỉ, vì nó sẽ phù hợp với các thiết bị khác trong căn hộ của tôi.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-95-04",
+          "speaker": "Vinod Singh",
+          "start_time": 64.84,
+          "end_time": 85.12,
+          "text_en": "Oh, and is there an additional charge for delivering outside of the downtown area?",
+          "text_vi": "Ồ, và có tính thêm phí giao hàng bên ngoài khu vực trung tâm thành phố không?",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-95-05",
+          "speaker": "Vinod Singh",
+          "start_time": 85.12,
+          "end_time": 105.4,
+          "text_en": "Please call me at 555-0130 so we can finalize the details.",
+          "text_vi": "Vui lòng gọi cho tôi theo số 555-0130 để chúng ta có thể hoàn tất các chi tiết.",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "a97aab26-e964-5826-ae78-98401dbf37c0",
+      "test_name": "ETS TOEIC 2023 - Test 1",
+      "part": 4,
+      "image_url": "/images/test1/part4_g98_100.png",
+      "audio_url": "/audio/test1/part4_g98_100.mp3",
+      "passage_text": null,
+      "transcript_segments": [
+        {
+          "id": "seg-p4-98-01",
+          "speaker": "Speaker",
+          "start_time": 4.0,
+          "end_time": 16.23,
+          "text_en": "Good afternoon, everyone. I'd like to go over the product tests for our laptop-computer backpack, because they will require some design changes.",
+          "text_vi": "Chào buổi chiều, mọi người. Tôi muốn xem lại các bài kiểm tra sản phẩm cho ba lô máy tính xách tay của chúng ta, vì chúng sẽ yêu cầu một số thay đổi thiết kế.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-98-02",
+          "speaker": "Speaker",
+          "start_time": 16.23,
+          "end_time": 28.46,
+          "text_en": "As you know, we hired a marketing firm to test the prototype and designed among consumers.",
+          "text_vi": "Như các bạn đã biết, chúng ta đã thuê một công ty tiếp thị để kiểm tra nguyên mẫu và thiết kế giữa người tiêu dùng.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-98-03",
+          "speaker": "Speaker",
+          "start_time": 28.46,
+          "end_time": 40.69,
+          "text_en": "Now, we received very positive feedback overall.",
+          "text_vi": "Bây giờ, chúng ta đã nhận được phản hồi rất tích cực nói chung.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-98-04",
+          "speaker": "Speaker",
+          "start_time": 40.69,
+          "end_time": 52.92,
+          "text_en": "Consumers liked the separate computer compartment.",
+          "text_vi": "Người tiêu dùng thích ngăn đựng máy tính riêng biệt.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-98-05",
+          "speaker": "Speaker",
+          "start_time": 52.92,
+          "end_time": 65.15,
+          "text_en": "However, many people felt that the shoulder straps were uncomfortable when the bag was full.",
+          "text_vi": "Tuy nhiên, nhiều người cảm thấy dây đeo vai không thoải mái khi túi đầy.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-98-06",
+          "speaker": "Speaker",
+          "start_time": 65.15,
+          "end_time": 77.38,
+          "text_en": "It's important that the backpack have comfortable shoulder straps, since its purpose is to carry heavy equipment.",
+          "text_vi": "Điều quan trọng là ba lô phải có dây đeo vai thoải mái, vì mục đích của nó là mang thiết bị nặng.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-98-07",
+          "speaker": "Speaker",
+          "start_time": 77.38,
+          "end_time": 89.61,
+          "text_en": "So, we need to revise the design as quickly as possible.",
+          "text_vi": "Vì vậy, chúng ta cần sửa đổi thiết kế càng nhanh càng tốt.",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-98-08",
+          "speaker": "Speaker",
+          "start_time": 89.61,
+          "end_time": 101.84,
+          "text_en": "Since we're scheduled to have our official product release early next year.",
+          "text_vi": "Vì chúng ta dự kiến sẽ phát hành sản phẩm chính thức vào đầu năm tới.",
+          "is_trap": false
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "201e605f-26f3-5947-80b4-4aada8c473de",
+      "group_id": "e8d9968c-8597-56d9-8274-b607d8078d01",
+      "question_number": 71,
+      "part": 4,
+      "question_text": "What feature of a business does the speaker emphasize?",
+      "options": {
+        "A": "The quality of its food",
+        "B": "The extended hours it is open",
+        "C": "The style of its decor",
+        "D": "The affordable prices it offers"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "1. Dịch câu hỏi & lựa chọn:\nĐặc điểm nào của doanh nghiệp được người nói nhấn mạnh?\n(A) Chất lượng đồ ăn\n(B) Giờ mở cửa kéo dài\n(C) Phong cách trang trí nội thất\n(D) Mức giá phải chăng\n\n2. Phân tích dẫn chứng:\nNgười nói đề cập: 'Its interior is designed to resemble the classic cinemas from the 1920s' (Nội thất bên trong được thiết kế mô phỏng các rạp chiếu phim cổ điển từ những năm 1920). 'Interior design' đồng nghĩa với 'style of its decor' -> Chọn (C).\n\n3. Bẫy phân tâm:\n(A) Có nhắc đến tray tables for food and drinks nhưng không nói về chất lượng đồ ăn.\n(B) và (D) Không xuất hiện trong bài.",
+      "question_type_tag": "detail_lookup",
+      "evidence_quote": "Its interior is designed to resemble the classic cinemas from the 1920s.",
+      "paraphrase_pair": {
+        "original": "interior is designed to resemble...",
+        "paraphrased": "The style of its decor"
+      },
+      "image_url": null
+    },
+    {
+      "id": "f0d541a2-70df-5573-868b-023071bcc698",
+      "group_id": "e8d9968c-8597-56d9-8274-b607d8078d01",
+      "question_number": 72,
+      "part": 4,
+      "question_text": "What can attendees do at the grand opening event?",
+      "options": {
+        "A": "Go on a tour",
+        "B": "Get a free gift",
+        "C": "Talk to an actor",
+        "D": "Watch some movies"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "1. Dịch câu hỏi & lựa chọn:\nNhững người tham dự có thể làm gì tại sự kiện khai trương lớn?\n(A) Đi tham quan rạp\n(B) Nhận quà tặng miễn phí\n(C) Trò chuyện với một diễn viên\n(D) Xem vài bộ phim\n\n2. Phân tích dẫn chứng:\nNgười nói cho biết: 'The grand opening is next week and will feature showings of classic films from different eras!' (Lễ khai trương sẽ có các buổi chiếu phim kinh điển từ các thời kỳ khác nhau). 'Showings of classic films' tương đương với 'Watch some movies' -> Chọn (D).\n\n3. Bẫy phân tâm:\nCác phương án (A), (B), (C) là những hoạt động thường thấy trong sự kiện khai trương nhưng hoàn toàn không được nhắc tới.",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "The grand opening is next week and will feature showings of classic films from different eras!",
+      "paraphrase_pair": {
+        "original": "showings of classic films",
+        "paraphrased": "Watch some movies"
+      },
+      "image_url": null
+    },
+    {
+      "id": "568fb373-5707-5bf4-a727-8310893241b5",
+      "group_id": "e8d9968c-8597-56d9-8274-b607d8078d01",
+      "question_number": 73,
+      "part": 4,
+      "question_text": "What does the speaker advise event attendees to do?",
+      "options": {
+        "A": "Arrive early",
+        "B": "Use public transportation",
+        "C": "Order tickets in advance",
+        "D": "Purchase a membership"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "1. Dịch câu hỏi & lựa chọn:\nNgười nói khuyên những người tham dự sự kiện nên làm gì?\n(A) Đến sớm\n(B) Sử dụng phương tiện giao thông công cộng\n(C) Đặt vé trước\n(D) Mua thẻ thành viên\n\n2. Phân tích dẫn chứng:\nNgười nói đưa ra lời khuyên: 'And here's good advice: to avoid traffic in the city center, the Braddon Cinema is easily reached by riding the train to Center Station'. Hành động 'riding the train' (đi tàu hoả) chính là 'Use public transportation' -> Chọn (B).\n\n3. Bẫy phân tâm:\n(A), (C), (D) là những lời khuyên quen thuộc khi đi xem phim/sự kiện nhưng không có trong bài.",
+      "question_type_tag": "instruction_action",
+      "evidence_quote": "And here's good advice: to avoid traffic in the city center, the Braddon Cinema is easily reached by riding the train to Center Station.",
+      "paraphrase_pair": {
+        "original": "riding the train",
+        "paraphrased": "Use public transportation"
+      },
+      "image_url": null
+    },
+    {
+      "id": "16e58a10-f980-5287-a333-bd0583ee8976",
+      "group_id": "dd45812f-9bc0-51f3-8533-7a9d72f2bd27",
+      "question_number": 74,
+      "part": 4,
+      "question_text": "What does the listener want to do?",
+      "options": {
+        "A": "Request shuttle service",
+        "B": "Extend a hotel stay",
+        "C": "Change a room assignment",
+        "D": "Cancel a reservation"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "1. Dịch câu hỏi & lựa chọn:\nNgười nghe muốn làm gì?\n(A) Yêu cầu dịch vụ xe đưa đón\n(B) Gia hạn thời gian ở khách sạn\n(C) Thay đổi việc phân chia phòng\n(D) Hủy đặt phòng\n\n2. Phân tích dẫn chứng:\nNgười nói nêu rõ: 'I see that you asked to move to a room facing the ocean' (Tôi thấy bạn đã yêu cầu chuyển sang một phòng hướng biển). Hành động chuyển phòng này chính là 'Change a room assignment' -> Chọn (C).\n\n3. Bẫy phân tâm:\n(A), (B), (D) không được đề cập trong email của khách.",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "I see that you asked to move to a room facing the ocean.",
+      "paraphrase_pair": {
+        "original": "move to a room facing the ocean",
+        "paraphrased": "Change a room assignment"
+      },
+      "image_url": null
+    },
+    {
+      "id": "c24fa79c-c3b7-5fea-a66e-08a9944b331b",
+      "group_id": "dd45812f-9bc0-51f3-8533-7a9d72f2bd27",
+      "question_number": 75,
+      "part": 4,
+      "question_text": "Why does the speaker say, \"those rooms are always booked far in advance\"?",
+      "options": {
+        "A": "To express approval for a room design",
+        "B": "To explain why a hotel is successful",
+        "C": "To indicate his disbelief",
+        "D": "To deny the listener's request"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "1. Dịch câu hỏi & lựa chọn:\nTại sao người nói lại nói: \"những phòng đó luôn được đặt trước từ rất sớm\"?\n(A) Để bày tỏ sự đồng tình đối với một thiết kế phòng\n(B) Để giải thích lý do tại sao khách sạn lại thành công\n(C) Để biểu lộ sự hoài nghi của mình\n(D) Để từ chối yêu cầu của người nghe\n\n2. Phân tích dẫn chứng:\nKhách yêu cầu chuyển sang phòng hướng biển. Người nói nói rằng họ luôn cố gắng đáp ứng nhưng những phòng đó luôn được đặt trước từ sớm, sau đó an ủi khách bằng căn phòng hướng vườn hiện tại. Câu nói mang ý từ chối khéo léo yêu cầu đổi phòng của khách -> Chọn (D).",
+      "question_type_tag": "intent",
+      "evidence_quote": "We make every effort to accommodate such requests, but those rooms are always booked far in advance. Your current room, though, has a lovely view of our garden...",
+      "paraphrase_pair": null,
+      "image_url": null
+    },
+    {
+      "id": "a9fa5a25-d8ed-540a-a0a5-238fa51da2dd",
+      "group_id": "dd45812f-9bc0-51f3-8533-7a9d72f2bd27",
+      "question_number": 76,
+      "part": 4,
+      "question_text": "According to the speaker, what should the listener bring?",
+      "options": {
+        "A": "Some warm clothes",
+        "B": "Some swimwear",
+        "C": "A credit card",
+        "D": "A copy of a key"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "1. Dịch câu hỏi & lựa chọn:\nTheo người nói, người nghe nên mang theo thứ gì?\n(A) Một số quần áo ấm\n(B) Đồ bơi\n(C) Thẻ tín dụng\n(D) Một bản sao chìa khóa\n\n2. Phân tích dẫn chứng:\nỞ cuối thông điệp, người nói dặn: 'And don't forget to bring your swimming suit! Our new pool will be open...' Từ 'swimming suit' đồng nghĩa với 'swimwear' -> Chọn (B).",
+      "question_type_tag": "instruction_action",
+      "evidence_quote": "And don't forget to bring your swimming suit!",
+      "paraphrase_pair": {
+        "original": "swimming suit",
+        "paraphrased": "swimwear"
+      },
+      "image_url": null
+    },
+    {
+      "id": "6d4ffa9b-11c2-59f5-b940-2821e2b178ff",
+      "group_id": "ca2831a7-20f5-511f-94c7-f32fecb4d952",
+      "question_number": 77,
+      "part": 4,
+      "question_text": "Who most likely is the speaker?",
+      "options": {
+        "A": "An archaeologist",
+        "B": "A marine biologist",
+        "C": "A conservation expert",
+        "D": "An athletic trainer"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "1. Dịch câu hỏi & lựa chọn:\nNgười nói rất có thể là ai?\n(A) Một nhà khảo cổ học\n(B) Một nhà sinh vật học biển\n(C) Một chuyên gia bảo tồn\n(D) Một huấn luyện viên thể thao\n\n2. Phân tích dẫn chứng:\nNgười nói chào đón các tình nguyện viên đến Khu bảo tồn rừng Blue Mountain và nhấn mạnh: 'maintain the natural habitat here at the Blue Mountain Forest Preserve. Forest conservation is so important!'. Do đó, người nói là chuyên gia bảo tồn thiên nhiên (conservation expert) -> Chọn (C).\n\n3. Bẫy phân tâm:\n(B) Marine biologist liên quan đến biển, trong khi đây là 'forest' (rừng).",
+      "question_type_tag": "wh_who",
+      "evidence_quote": "Thank you for coming today to help us maintain the natural habitat here at the Blue Mountain Forest Preserve. Forest conservation is so important!",
+      "paraphrase_pair": {
+        "original": "maintain the natural habitat... Forest conservation",
+        "paraphrased": "conservation expert"
+      },
+      "image_url": null
+    },
+    {
+      "id": "50f5b584-9e49-57b3-92d9-d0c488838234",
+      "group_id": "ca2831a7-20f5-511f-94c7-f32fecb4d952",
+      "question_number": 78,
+      "part": 4,
+      "question_text": "What does the speaker advise the listeners to do?",
+      "options": {
+        "A": "Take a water bottle",
+        "B": "Consult a site map",
+        "C": "Apply sunscreen regularly",
+        "D": "Write careful notes"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "1. Dịch câu hỏi & lựa chọn:\nNgười nói khuyên những người nghe nên làm gì?\n(A) Mang theo một chai/bình nước\n(B) Tham khảo bản đồ khu vực\n(C) Thường xuyên thoa kem chống nắng\n(D) Ghi chép cẩn thận\n\n2. Phân tích dẫn chứng:\nNgười nói nêu rõ: 'I advise you to always carry water with you. We have refillable bottles, and everyone is welcome to take one as a gift' -> Chọn (A).",
+      "question_type_tag": "instruction_action",
+      "evidence_quote": "I advise you to always carry water with you. We have refillable bottles, and everyone is welcome to take one as a gift...",
+      "paraphrase_pair": {
+        "original": "carry water with you... refillable bottles",
+        "paraphrased": "Take a water bottle"
+      },
+      "image_url": null
+    },
+    {
+      "id": "6f06af80-eb09-5a60-8916-24ca8540c5e7",
+      "group_id": "ca2831a7-20f5-511f-94c7-f32fecb4d952",
+      "question_number": 79,
+      "part": 4,
+      "question_text": "What does the speaker say she is going to do next?",
+      "options": {
+        "A": "Answer some questions",
+        "B": "Demonstrate a process",
+        "C": "Introduce a colleague",
+        "D": "Take the listeners to lunch"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "1. Dịch câu hỏi & lựa chọn:\nNgười nói nói rằng cô ấy sẽ làm gì tiếp theo?\n(A) Trả lời một số câu hỏi\n(B) Minh họa/thực hành một quy trình\n(C) Giới thiệu một người đồng nghiệp\n(D) Đưa người nghe đi ăn trưa\n\n2. Phân tích dẫn chứng:\nNgười nói bảo: 'I'll show you the steps for planting young tree saplings' (Tôi sẽ chỉ cho các bạn các bước để trồng các cây non). 'Show the steps' chính là 'demonstrate a process' (hướng dẫn/thực hiện một quy trình) -> Chọn (B).",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "Now, if you'll follow me, I'll show you the steps for planting young tree saplings to support biodiversity.",
+      "paraphrase_pair": {
+        "original": "show you the steps for planting young tree saplings",
+        "paraphrased": "Demonstrate a process"
+      },
+      "image_url": null
+    },
+    {
+      "id": "5c26e5c1-5c9f-5991-8a41-e53689a46cd6",
+      "group_id": "cf2f3534-bff8-5c47-8b2a-6edb205454a0",
+      "question_number": 80,
+      "part": 4,
+      "question_text": "Why will the speaker be traveling?",
+      "options": {
+        "A": "To inspect a factory",
+        "B": "To repair a product",
+        "C": "To perform in a concert",
+        "D": "To attend a workshop"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "1. Dịch câu hỏi & lựa chọn:\nTại sao người nói sẽ đi công tác/di chuyển?\n(A) Để thanh tra một nhà máy\n(B) Để sửa chữa một sản phẩm\n(C) Để biểu diễn trong một buổi hòa nhạc\n(D) Để tham dự một buổi hội thảo\n\n2. Phân tích dẫn chứng:\nNgười nói mở đầu: 'I'm calling about the financial-management workshop that your company is hosting...' và sau đó giải thích: 'we are traveling long-distance to attend the conference'. Mục đích chuyến đi là tham dự hội thảo -> Chọn (D).",
+      "question_type_tag": "wh_why",
+      "evidence_quote": "I'm calling about the financial-management workshop that your company is hosting later this week... we are traveling long-distance to attend the conference.",
+      "paraphrase_pair": {
+        "original": "financial-management workshop... attend the conference",
+        "paraphrased": "attend a workshop"
+      },
+      "image_url": null
+    },
+    {
+      "id": "3b7044d3-2505-5cd6-bf1c-7caa827db1bd",
+      "group_id": "cf2f3534-bff8-5c47-8b2a-6edb205454a0",
+      "question_number": 81,
+      "part": 4,
+      "question_text": "Why is the speaker concerned?",
+      "options": {
+        "A": "A seating arrangement is wrong.",
+        "B": "A company credit card was not charged.",
+        "C": "Some meal tickets were not sent.",
+        "D": "Her taxi driver is unable to find a hotel."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "1. Dịch câu hỏi & lựa chọn:\nTại sao người nói lại lo lắng?\n(A) Việc sắp xếp chỗ ngồi bị sai.\n(B) Thẻ tín dụng của công ty chưa bị trừ tiền.\n(C) Một số phiếu ăn uống chưa được gửi.\n(D) Tài xế taxi của cô ấy không tìm được khách sạn.\n\n2. Phân tích dẫn chứng:\nNgười nói nói rõ lý do lo lắng: 'I realized that we never received the meal vouchers that are supposed to be part of the workshop package'. Từ 'meal vouchers' được diễn giải lại thành 'meal tickets' -> Chọn (C).",
+      "question_type_tag": "wh_why",
+      "evidence_quote": "I realized that we never received the meal vouchers that are supposed to be part of the workshop package.",
+      "paraphrase_pair": {
+        "original": "never received the meal vouchers",
+        "paraphrased": "meal tickets were not sent"
+      },
+      "image_url": null
+    },
+    {
+      "id": "c2506a54-f751-55ef-b5a1-fea9c08ca030",
+      "group_id": "cf2f3534-bff8-5c47-8b2a-6edb205454a0",
+      "question_number": 82,
+      "part": 4,
+      "question_text": "What does the speaker ask the listener to do?",
+      "options": {
+        "A": "Send an e-mail",
+        "B": "Meet at an office",
+        "C": "Confirm a schedule",
+        "D": "Look up an account number"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "1. Dịch câu hỏi & lựa chọn:\nNgười nói yêu cầu người nghe làm gì?\n(A) Gửi một bức thư điện tử\n(B) Gặp nhau tại văn phòng\n(C) Xác nhận một lịch trình\n(D) Tra cứu một số tài khoản\n\n2. Phân tích dẫn chứng:\nỞ câu cuối, người nói yêu cầu: 'Would you please send me an e-mail with the meal vouchers included as an attachment as soon as you can?' -> Chọn (A).",
+      "question_type_tag": "instruction_action",
+      "evidence_quote": "Would you please send me an e-mail with the meal vouchers included as an attachment as soon as you can?",
+      "paraphrase_pair": {
+        "original": "send me an e-mail with the meal vouchers included as an attachment",
+        "paraphrased": "Send an e-mail"
+      },
+      "image_url": null
+    },
+    {
+      "id": "7b10ca42-050b-52ae-b4ad-006dc8edf702",
+      "group_id": "c9bb909a-df88-5040-8b2a-dd00aa23526e",
+      "question_number": 83,
+      "part": 4,
+      "question_text": "What does the speaker remind the listeners to do?",
+      "options": {
+        "A": "Keep a gate closed",
+        "B": "Return equipment to a shed",
+        "C": "Check a list of supplies",
+        "D": "Select a free gift"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch câu hỏi: Người nói nhắc nhở người nghe làm gì?\nĐáp án D: Chọn một món quà miễn phí.\n\nDẫn chứng trong bài nói: \"Don't forget to pick up your free vegetable seedling before you leave. You can choose a cucumber plant or a tomato plant.\" (Đừng quên nhận cây con rau miễn phí trước khi rời đi. Bạn có thể chọn một cây dưa chuột hoặc một cây cà chua.)\n\nGiải thích: Người nói rõ ràng nhắc nhở người nghe nhận một \"free vegetable seedling\" (cây con rau miễn phí), đây chính là một loại \"free gift\" (món quà miễn phí). Do đó, đáp án D là chính xác.\n\nPhân tích các phương án sai:\nA, B, C không được đề cập trong bài nói.",
+      "question_type_tag": "detail_lookup",
+      "evidence_quote": "Don't forget to pick up your free vegetable seedling before you leave. You can choose a cucumber plant or a tomato plant.",
+      "paraphrase_pair": {
+        "original": "pick up your free vegetable seedling",
+        "paraphrased": "Select a free gift"
+      },
+      "image_url": null
+    },
+    {
+      "id": "46dde552-7bc7-5583-a526-b79e8f06b64c",
+      "group_id": "c9bb909a-df88-5040-8b2a-dd00aa23526e",
+      "question_number": 84,
+      "part": 4,
+      "question_text": "According to the speaker, what can the listeners \"apply for\"?",
+      "options": {
+        "A": "A garden plot",
+        "B": "A volunteer opportunity",
+        "C": "A gardening workshop",
+        "D": "A farmers market table"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch câu hỏi: Theo người nói, người nghe có thể \"đăng ký\" cái gì?\nĐáp án A: Một mảnh vườn.\n\nDẫn chứng trong bài nói: \"Also, if you'd like to have your own garden plot next spring, applications are now available.\" (Ngoài ra, nếu quý vị muốn có một mảnh vườn riêng vào mùa xuân tới, đơn đăng ký hiện đã có sẵn.)\n\nGiải thích: Người nói trực tiếp đề cập rằng đơn đăng ký đã có sẵn cho \"your own garden plot\" (mảnh vườn riêng của bạn). Do đó, đáp án A là chính xác.\n\nPhân tích các phương án sai:\nB, C, D không được đề cập là thứ có thể đăng ký trong bài nói.",
+      "question_type_tag": "detail_lookup",
+      "evidence_quote": "Also, if you'd like to have your own garden plot next spring, applications are now available.",
+      "paraphrase_pair": null,
+      "image_url": null
+    },
+    {
+      "id": "eaa69de8-9a6e-56fb-a60d-3441a9860e58",
+      "group_id": "c9bb909a-df88-5040-8b2a-dd00aa23526e",
+      "question_number": 85,
+      "part": 4,
+      "question_text": "How can the listeners get information about future events?",
+      "options": {
+        "A": "By signing up for a newsletter",
+        "B": "By joining a membership program",
+        "C": "By looking at a Web site",
+        "D": "By attending weekly meetings"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch câu hỏi: Làm thế nào người nghe có thể nhận thông tin về các sự kiện sắp tới?\nĐáp án A: Bằng cách đăng ký nhận bản tin.\n\nDẫn chứng trong bài nói: \"Consider joining our e-mail list to receive these monthly updates about upcoming events.\" (Hãy cân nhắc tham gia danh sách email của chúng tôi để nhận các bản cập nhật hàng tháng này về các sự kiện sắp tới.)\n\nGiải thích: Người nói khuyên người nghe tham gia \"e-mail list\" (danh sách email) để nhận \"monthly updates\" (cập nhật hàng tháng) về các sự kiện. Việc tham gia danh sách email để nhận thông tin định kỳ tương đương với việc đăng ký nhận bản tin (newsletter). Do đó, đáp án A là chính xác.\n\nPhân tích các phương án sai:\nB, C, D không được đề cập là cách để nhận thông tin về sự kiện trong bài nói.",
+      "question_type_tag": "detail_lookup",
+      "evidence_quote": "Consider joining our e-mail list to receive these monthly updates about upcoming events.",
+      "paraphrase_pair": {
+        "original": "joining our e-mail list",
+        "paraphrased": "signing up for a newsletter"
+      },
+      "image_url": null
+    },
+    {
+      "id": "79622f19-f13d-5b44-a700-95fcc6bb25aa",
+      "group_id": "c0e86af7-6ae8-5609-81c4-6bc076ed8756",
+      "question_number": 86,
+      "part": 4,
+      "question_text": "What service does the business offer?",
+      "options": {
+        "A": "Financial planning",
+        "B": "Digital marketing",
+        "C": "Real estate sales",
+        "D": "International shipping"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch câu hỏi: Dịch vụ mà doanh nghiệp này cung cấp là gì?\nĐáp án B: Tiếp thị kỹ thuật số.\n\nDẫn chứng trong bài nói: \"At Whole Planet Marketing, our team of expert digital marketers is ready to help you reach your target audience.\" (Tại Whole Planet Marketing, đội ngũ chuyên gia tiếp thị kỹ thuật số của chúng tôi sẵn sàng giúp quý vị tiếp cận đối tượng mục tiêu của mình.)\n\nGiải thích: Người nói giới thiệu công ty là \"Whole Planet Marketing\" và có \"expert digital marketers\" (chuyên gia tiếp thị kỹ thuật số) giúp khách hàng tiếp cận đối tượng mục tiêu. Điều này trực tiếp chỉ ra dịch vụ chính là tiếp thị kỹ thuật số. Do đó, đáp án B là chính xác.\n\nPhân tích các phương án sai:\nA, C, D không liên quan đến thông tin được cung cấp trong bài nói.",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "At Whole Planet Marketing, our team of expert digital marketers is ready to help you reach your target audience.",
+      "paraphrase_pair": null,
+      "image_url": null
+    },
+    {
+      "id": "5beef2c9-6453-5723-9445-a05e1a9977d2",
+      "group_id": "c0e86af7-6ae8-5609-81c4-6bc076ed8756",
+      "question_number": 87,
+      "part": 4,
+      "question_text": "According to the speaker, how is the business different from its competitors?",
+      "options": {
+        "A": "It has several local offices.",
+        "B": "It offers a money-back guarantee.",
+        "C": "Its employees have industry certification.",
+        "D": "Its employees work one-on-one with clients."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch câu hỏi: Theo người nói, doanh nghiệp này khác biệt với các đối thủ cạnh tranh như thế nào?\nĐáp án D: Nhân viên của họ làm việc trực tiếp với khách hàng.\n\nDẫn chứng trong bài nói: \"Unlike other marketing firms, we'll connect you with a digital marketer who'll work with you individually.\" (Không giống như các công ty tiếp thị khác, chúng tôi sẽ kết nối quý vị với một chuyên gia tiếp thị kỹ thuật số sẽ làm việc riêng với quý vị.)\n\nGiải thích: Người nói nhấn mạnh sự khác biệt bằng cách nói rằng công ty sẽ kết nối khách hàng với một chuyên gia tiếp thị kỹ thuật số \"who'll work with you individually\" (người sẽ làm việc riêng với bạn). Điều này có nghĩa là nhân viên làm việc trực tiếp (one-on-one) với khách hàng. Do đó, đáp án D là chính xác.\n\nPhân tích các phương án sai:\nA, B, C không được đề cập là điểm khác biệt của công ty trong bài nói.",
+      "question_type_tag": "detail_lookup",
+      "evidence_quote": "Unlike other marketing firms, we'll connect you with a digital marketer who'll work with you individually.",
+      "paraphrase_pair": {
+        "original": "work with you individually",
+        "paraphrased": "employees work one-on-one with clients"
+      },
+      "image_url": null
+    },
+    {
+      "id": "9c839626-5e5f-55cf-a0d3-afea447d6f56",
+      "group_id": "c0e86af7-6ae8-5609-81c4-6bc076ed8756",
+      "question_number": 88,
+      "part": 4,
+      "question_text": "How can the listeners make an appointment?",
+      "options": {
+        "A": "By sending an e-mail",
+        "B": "By calling customer service",
+        "C": "By filling out a questionnaire",
+        "D": "By sending a text message"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dịch câu hỏi: Làm thế nào người nghe có thể đặt lịch hẹn?\nĐáp án C: Bằng cách điền vào một bảng câu hỏi.\n\nDẫn chứng trong bài nói: \"Just go to wholeplanetmarketing.com today to complete a brief questionnaire. Then, one of our specialists will contact you to make an appointment for a free proposal.\" (Chỉ cần truy cập wholeplanetmarketing.com ngay hôm nay để hoàn thành một bảng câu hỏi ngắn. Sau đó, một trong những chuyên gia của chúng tôi sẽ liên hệ với quý vị để đặt lịch hẹn cho một đề xuất miễn phí.)\n\nGiải thích: Người nói hướng dẫn người nghe truy cập trang web và \"complete a brief questionnaire\" (hoàn thành một bảng câu hỏi ngắn) như bước đầu tiên để đặt lịch hẹn. Sau đó, một chuyên gia sẽ liên hệ để sắp xếp cuộc hẹn. Do đó, đáp án C là chính xác.\n\nPhân tích các phương án sai:\nA, B, D không phải là cách được hướng dẫn để bắt đầu quá trình đặt lịch hẹn.",
+      "question_type_tag": "instruction_action",
+      "evidence_quote": "Just go to wholeplanetmarketing.com today to complete a brief questionnaire. Then, one of our specialists will contact you to make an appointment for a free proposal.",
+      "paraphrase_pair": {
+        "original": "complete a brief questionnaire",
+        "paraphrased": "filling out a questionnaire"
+      },
+      "image_url": null
+    },
+    {
+      "id": "4f34fd37-03a2-5019-aa21-732d6f2010ca",
+      "group_id": "3830eb72-7f1a-541c-83b6-d4d49a520306",
+      "question_number": 89,
+      "part": 4,
+      "question_text": "Who most likely are the listeners?",
+      "options": {
+        "A": "Marine biologists",
+        "B": "Museum directors",
+        "C": "Rare-book librarians",
+        "D": "Agricultural engineers"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch câu hỏi: Người nghe có khả năng cao nhất là ai?\nĐáp án A: Các nhà sinh vật biển.\n\nDẫn chứng trong bài nói: \"We've just been awarded the Sugiyama Grant to support our research into aquatic ecosystems. We can now invest in state-of-the-art equipment to study the biodiversity of coral reefs.\" (Chúng ta vừa được trao Giải thưởng Sugiyama để hỗ trợ nghiên cứu của chúng ta về hệ sinh thái dưới nước. Giờ đây, chúng ta có thể đầu tư vào thiết bị hiện đại để nghiên cứu đa dạng sinh học của rạn san hô.)\n\nGiải thích: Bài nói tập trung vào việc nghiên cứu \"aquatic ecosystems\" (hệ sinh thái dưới nước) và \"biodiversity of coral reefs\" (đa dạng sinh học của rạn san hô). Đây là những lĩnh vực chuyên môn của các nhà sinh vật biển. Người nói đang thông báo tin tức cho những người cùng làm việc trong dự án này. Do đó, đáp án A là chính xác.\n\nPhân tích các phương án sai:\nB, C, D không liên quan đến chủ đề nghiên cứu được đề cập.",
+      "question_type_tag": "inference",
+      "evidence_quote": "We've just been awarded the Sugiyama Grant to support our research into aquatic ecosystems. We can now invest in state-of-the-art equipment to study the biodiversity of coral reefs.",
+      "paraphrase_pair": null,
+      "image_url": null
+    },
+    {
+      "id": "6dfe637d-feb3-5fb8-8d76-3d0eb70e2384",
+      "group_id": "3830eb72-7f1a-541c-83b6-d4d49a520306",
+      "question_number": 90,
+      "part": 4,
+      "question_text": "What does the speaker mean when he says, \"they received over 200 applications\"?",
+      "options": {
+        "A": "An opportunity is unlikely to occur.",
+        "B": "An award is impressive.",
+        "C": "A decision will take longer than usual.",
+        "D": "A competitor has been very successful."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch câu hỏi: Người nói có ý gì khi nói, \"họ đã nhận được hơn 200 đơn đăng ký\"?\nĐáp án B: Một giải thưởng ấn tượng.\n\nDẫn chứng trong bài nói: \"It is notable, though, that for this particular award, they received over 200 applications.\" (Tuy nhiên, điều đáng chú ý là đối với giải thưởng cụ thể này, họ đã nhận được hơn 200 đơn đăng ký.)\n\nGiải thích: Người nói đề cập đến việc nhận được hơn 200 đơn đăng ký sau khi nói rằng Quỹ Sugiyama cung cấp \"substantial grants\" (các khoản tài trợ đáng kể) và trước khi nói \"It is notable, though\" (Tuy nhiên, điều đáng chú ý là). Việc có hơn 200 đơn đăng ký cho thấy sự cạnh tranh rất cao, và việc giành được giải thưởng trong bối cảnh đó làm cho thành tựu này trở nên ấn tượng. Do đó, đáp án B là chính xác.\n\nPhân tích các phương án sai:\nA. Không có dấu hiệu cho thấy cơ hội không thể xảy ra; ngược lại, họ đã giành được giải thưởng.\nC. Số lượng đơn đăng ký lớn có thể dẫn đến việc ra quyết định lâu hơn, nhưng ý chính của người nói là nhấn mạnh giá trị của giải thưởng khi có nhiều người nộp đơn.\nD. Không đề cập đến sự thành công của đối thủ cạnh tranh, mà là sự cạnh tranh cho giải thưởng.",
+      "question_type_tag": "intent",
+      "evidence_quote": "It is notable, though, that for this particular award, they received over 200 applications.",
+      "paraphrase_pair": null,
+      "image_url": null
+    },
+    {
+      "id": "93c51ac1-aee4-5878-a3d7-886cf976580b",
+      "group_id": "3830eb72-7f1a-541c-83b6-d4d49a520306",
+      "question_number": 91,
+      "part": 4,
+      "question_text": "Why does the speaker say that work cannot begin right away?",
+      "options": {
+        "A": "Additional funds are needed.",
+        "B": "Some special training is required.",
+        "C": "An application has to be approved.",
+        "D": "Some equipment needs to be ordered."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch câu hỏi: Tại sao người nói nói rằng công việc không thể bắt đầu ngay lập tức?\nĐáp án D: Một số thiết bị cần được đặt hàng.\n\nDẫn chứng trong bài nói: \"Our work at the reefs will probably not begin for several months. We still need to order the equipment.\" (Công việc của chúng ta tại các rạn san hô có lẽ sẽ không bắt đầu trong vài tháng tới. Chúng ta vẫn cần đặt hàng thiết bị.)\n\nGiải thích: Người nói trực tiếp giải thích lý do công việc chưa thể bắt đầu là vì họ \"still need to order the equipment\" (vẫn cần đặt hàng thiết bị). Do đó, đáp án D là chính xác.\n\nPhân tích các phương án sai:\nA. Họ vừa nhận được tài trợ, nên không phải thiếu tiền.\nB, C. Không có thông tin nào trong bài nói đề cập đến việc cần đào tạo đặc biệt hoặc chờ phê duyệt đơn đăng ký.",
+      "question_type_tag": "wh_why",
+      "evidence_quote": "Our work at the reefs will probably not begin for several months. We still need to order the equipment.",
+      "paraphrase_pair": null,
+      "image_url": null
+    },
+    {
+      "id": "4e649caf-b169-577f-a04a-205d4b5a8157",
+      "group_id": "ad29c743-2f66-5584-ae4b-eb3502a830e9",
+      "question_number": 92,
+      "part": 4,
+      "question_text": "What is the purpose of the talk?",
+      "options": {
+        "A": "To recognize outstanding achievements",
+        "B": "To introduce new products to the public",
+        "C": "To announce a manager's retirement",
+        "D": "To provide new employees with information"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch câu hỏi: Mục đích của bài nói là gì?\nĐáp án D: Cung cấp thông tin cho nhân viên mới.\n\nDẫn chứng trong bài nói: \"I'm Yuri Yamakawa, and today I'll be leading this orientation for new hires.\" (Tôi là Yuri Yamakawa, và hôm nay tôi sẽ dẫn dắt buổi định hướng này cho các nhân viên mới.)\n\nGiải thích: Người nói giới thiệu mình là Yuri Yamakawa và sẽ dẫn dắt \"orientation for new hires\" (buổi định hướng cho nhân viên mới). Mục đích của một buổi định hướng là cung cấp thông tin cần thiết cho nhân viên mới. Do đó, đáp án D là chính xác.\n\nPhân tích các phương án sai:\nA. Bài nói là về định hướng, không phải công nhận thành tích.\nB. Bài nói giới thiệu về quy trình sản xuất, không phải sản phẩm mới ra mắt công chúng.\nC. Không có thông tin nào về việc nghỉ hưu của quản lý.",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "I'd like to welcome you to our manufacturing facility and congratulate you on your employment here. I'm Yuri Yamakawa, and today I'll be leading this orientation for new hires.",
+      "paraphrase_pair": {
+        "original": "leading this orientation for new hires",
+        "paraphrased": "provide new employees with information"
+      },
+      "image_url": null
+    },
+    {
+      "id": "33d64c14-dba8-57ff-8877-5c01008c2c0f",
+      "group_id": "ad29c743-2f66-5584-ae4b-eb3502a830e9",
+      "question_number": 93,
+      "part": 4,
+      "question_text": "Where is the talk taking place?",
+      "options": {
+        "A": "At a banquet hall",
+        "B": "At a government building",
+        "C": "At a factory",
+        "D": "At a construction site"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dịch câu hỏi: Bài nói đang diễn ra ở đâu?\nĐáp án C: Tại một nhà máy.\n\nDẫn chứng trong bài nói: \"I'd like to welcome you to our manufacturing facility... Then we'll tour the various areas of the factory, including the assembly room and the quality-control inspection center.\" (Tôi xin chào mừng quý vị đến với cơ sở sản xuất của chúng tôi... Sau đó, chúng ta sẽ tham quan các khu vực khác nhau của nhà máy, bao gồm phòng lắp ráp và trung tâm kiểm tra chất lượng.)\n\nGiải thích: Người nói chào mừng người nghe đến \"manufacturing facility\" (cơ sở sản xuất) và đề cập đến việc tham quan \"the factory\" (nhà máy) với các khu vực như \"assembly room\" (phòng lắp ráp) và \"quality-control inspection center\" (trung tâm kiểm tra chất lượng). Tất cả những từ khóa này đều chỉ ra địa điểm là một nhà máy. Do đó, đáp án C là chính xác.\n\nPhân tích các phương án sai:\nA, B, D không phù hợp với các từ khóa như \"manufacturing facility\", \"factory\", \"assembly room\".",
+      "question_type_tag": "wh_where",
+      "evidence_quote": "I'd like to welcome you to our manufacturing facility... Then we'll tour the various areas of the factory, including the assembly room and the quality-control inspection center.",
+      "paraphrase_pair": {
+        "original": "our manufacturing facility... the factory",
+        "paraphrased": "At a factory"
+      },
+      "image_url": null
+    },
+    {
+      "id": "c5f55532-dab9-56a5-a6ab-1f0329f5a207",
+      "group_id": "ad29c743-2f66-5584-ae4b-eb3502a830e9",
+      "question_number": 94,
+      "part": 4,
+      "question_text": "What does the speaker mean when she says, \"I have a consultation with a client\"?",
+      "options": {
+        "A": "She needs to reschedule a meeting.",
+        "B": "She will not be with the listeners in the afternoon.",
+        "C": "A customer has just placed a large order.",
+        "D": "A marketing campaign will begin soon."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch câu hỏi: Người nói có ý gì khi nói, \"Tôi có một buổi tư vấn với khách hàng\"?\nĐáp án B: Cô ấy sẽ không ở cùng người nghe vào buổi chiều.\n\nDẫn chứng trong bài nói: \"After lunch, my colleague Markara Sara will join you. I have a consultation with a client.\" (Sau bữa trưa, đồng nghiệp của tôi, Markara Sara, sẽ tham gia cùng quý vị. Tôi có một buổi tư vấn với khách hàng.)\n\nGiải thích: Người nói thông báo rằng sau bữa trưa, đồng nghiệp của cô ấy (Markara Sara) sẽ tiếp tục dẫn dắt buổi định hướng, vì bản thân người nói có một buổi tư vấn với khách hàng. Điều này ngụ ý rằng người nói sẽ bận và không thể tiếp tục ở cùng người nghe vào buổi chiều. Do đó, đáp án B là chính xác.\n\nPhân tích các phương án sai:\nA. Không có dấu hiệu cho thấy cô ấy cần sắp xếp lại cuộc họp.\nC. Mặc dù có buổi tư vấn với khách hàng, nhưng không có thông tin nào cho thấy khách hàng vừa đặt một đơn hàng lớn.\nD. Không có thông tin nào về việc bắt đầu chiến dịch tiếp thị.",
+      "question_type_tag": "intent",
+      "evidence_quote": "After lunch, my colleague Markara Sara will join you. I have a consultation with a client.",
+      "paraphrase_pair": null,
+      "image_url": null
+    },
+    {
+      "id": "8db02bb4-a1e8-57b0-82ed-ec5eb116a4f9",
+      "group_id": "540fc925-1405-5f07-9e8f-f6aea447d030",
+      "question_number": 95,
+      "part": 4,
+      "question_text": "What is the main purpose of the call?",
+      "options": {
+        "A": "To place an order",
+        "B": "To dispute a charge",
+        "C": "To arrange a meeting",
+        "D": "To check a store's inventory"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch câu hỏi: Mục đích chính của cuộc gọi là gì?\n(A) Để đặt hàng\n(B) Để tranh chấp một khoản phí\n(C) Để sắp xếp một cuộc họp\n(D) Để kiểm tra hàng tồn kho của cửa hàng\n\nGiải thích: Người nói Vinod Singh gọi điện để nói rằng anh ấy đã quyết định mua một chiếc tủ lạnh (\"I've decided to go with the extra-large refrigerator\") và muốn hoàn tất các chi tiết (\"finalize the details\"). Điều này rõ ràng cho thấy mục đích của cuộc gọi là để đặt hàng. Các lựa chọn khác không phù hợp với nội dung cuộc gọi.\n\nBí quyết: Khi nghe các cụm từ như \"I've decided to go with...\" (tôi đã quyết định chọn...) và \"finalize the details\" (hoàn tất các chi tiết), hãy nghĩ ngay đến việc đặt hàng hoặc hoàn tất giao dịch.",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "I've decided to go with the extra-large refrigerator—the one with the stainless-steel finish... Please call me at 555-0130 so we can finalize the details.",
+      "paraphrase_pair": {
+        "original": "I've decided to go with the extra-large refrigerator... so we can finalize the details.",
+        "paraphrased": "The speaker has chosen a product and wants to complete the purchase process."
+      },
+      "image_url": null
+    },
+    {
+      "id": "6671433b-caf0-5569-9ce4-1588164fba0f",
+      "group_id": "540fc925-1405-5f07-9e8f-f6aea447d030",
+      "question_number": 96,
+      "part": 4,
+      "question_text": "Look at the graphic. Which model does the speaker prefer?",
+      "options": {
+        "A": "SG-200",
+        "B": "SG-250",
+        "C": "XG-300",
+        "D": "XG-350"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch câu hỏi: Nhìn vào biểu đồ. Người nói thích mẫu nào?\n(A) SG-200\n(B) SG-250\n(C) XG-300\n(D) XG-350\n\nGiải thích: Người nói nói rằng anh ấy đã chọn \"the extra-large refrigerator—the one with the stainless-steel finish\" (chiếc tủ lạnh cỡ lớn hơn—chiếc có lớp hoàn thiện bằng thép không gỉ). Dựa vào bảng thông tin:\n- Cột \"Extra Large\": Các mẫu XG-300 và XG-350 được đánh dấu.\n- Cột \"Stainless Steel\": Các mẫu SG-250, XG-300 và XG-350 được đánh dấu.\nKết hợp cả hai tiêu chí \"Extra Large\" và \"Stainless Steel\", chúng ta có hai mẫu phù hợp là XG-300 và XG-350. Trong TOEIC, khi có nhiều lựa chọn phù hợp với mô tả cơ bản, thường thì lựa chọn có số hiệu cao hơn hoặc có nhiều tính năng hơn (nếu không bị loại trừ) sẽ là đáp án đúng. XG-350 là mẫu có số hiệu cao hơn và cũng có thêm tính năng \"Ice Maker\" so với XG-300. Do đó, XG-350 là lựa chọn phù hợp nhất.\n\nBí quyết: Với câu hỏi đồ họa, hãy xác định chính xác các tiêu chí được nhắc đến trong bài nói và đối chiếu với bảng. Nếu có nhiều lựa chọn thỏa mãn, hãy tìm kiếm các gợi ý ngầm khác (ví dụ: số hiệu cao hơn, nhiều tính năng hơn) hoặc xem xét ngữ cảnh chung.",
+      "question_type_tag": "graphic",
+      "evidence_quote": "I've decided to go with the extra-large refrigerator—the one with the stainless-steel finish",
+      "paraphrase_pair": null,
+      "image_url": "/images/test1/part4_q96.png"
+    },
+    {
+      "id": "4dcd656c-85f4-5c88-82dd-a069b1d37517",
+      "group_id": "540fc925-1405-5f07-9e8f-f6aea447d030",
+      "question_number": 97,
+      "part": 4,
+      "question_text": "What does the speaker ask about?",
+      "options": {
+        "A": "A warranty",
+        "B": "A return process",
+        "C": "A delivery fee",
+        "D": "Product availability"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dịch câu hỏi: Người nói hỏi về điều gì?\n(A) Một bảo hành\n(B) Quy trình trả hàng\n(C) Phí giao hàng\n(D) Tình trạng sẵn có của sản phẩm\n\nGiải thích: Người nói hỏi rõ ràng: \"is there an additional charge for delivering outside of the downtown area?\" (có tính thêm phí giao hàng bên ngoài khu vực trung tâm thành phố không?). \"Additional charge for delivering\" chính là phí giao hàng.\n\nBí quyết: Lắng nghe các câu hỏi trực tiếp của người nói. Các từ khóa như \"charge\" (phí), \"delivering\" (giao hàng) sẽ giúp bạn xác định đúng đáp án.",
+      "question_type_tag": "wh_what",
+      "evidence_quote": "is there an additional charge for delivering outside of the downtown area?",
+      "paraphrase_pair": {
+        "original": "is there an additional charge for delivering outside of the downtown area?",
+        "paraphrased": "The speaker inquires about extra costs for product transportation."
+      },
+      "image_url": null
+    },
+    {
+      "id": "589fec7d-4e8d-56a1-bd1e-b98812c9a73b",
+      "group_id": "a97aab26-e964-5826-ae78-98401dbf37c0",
+      "question_number": 98,
+      "part": 4,
+      "question_text": "Who most likely are the listeners?",
+      "options": {
+        "A": "Marketing experts",
+        "B": "Product designers",
+        "C": "Product managers",
+        "D": "Audio engineers"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Dịch câu hỏi: Ai có khả năng cao nhất là người nghe?\n(A) Chuyên gia tiếp thị\n(B) Nhà thiết kế sản phẩm\n(C) Quản lý sản phẩm\n(D) Kỹ sư âm thanh\n\nGiải thích: Người nói đang thảo luận về kết quả kiểm tra sản phẩm, các thay đổi thiết kế cần thiết và lịch trình phát hành sản phẩm (\"official product release early next year\"). Những người tham gia vào việc quản lý toàn bộ vòng đời sản phẩm, từ thiết kế, thử nghiệm đến phát hành, chính là các quản lý sản phẩm (Product managers). Mặc dù \"Product designers\" (B) cũng có thể tham gia vào việc thay đổi thiết kế, nhưng \"Product managers\" (C) bao quát hơn các khía cạnh về kiểm tra, phản hồi khách hàng và lịch trình phát hành. \"Marketing experts\" (A) đã được thuê để thử nghiệm, không phải là người nghe. \"Audio engineers\" (D) không liên quan đến sản phẩm ba lô máy tính.\n\nBí quyết: Khi nghe về các chủ đề như kiểm tra sản phẩm, thay đổi thiết kế, phản hồi khách hàng và lịch trình phát hành, hãy nghĩ đến những vai trò quản lý tổng thể sản phẩm.",
+      "question_type_tag": "inference",
+      "evidence_quote": "I'd like to go over the product tests for our laptop-computer backpack, because they will require some design changes... we need to revise the design as quickly as possible. Since we're scheduled to have our official product release early next year.",
+      "paraphrase_pair": {
+        "original": "I'd like to go over the product tests... require some design changes... we need to revise the design... scheduled to have our official product release early next year.",
+        "paraphrased": "The speaker is discussing product development, testing, design revisions, and release schedules."
+      },
+      "image_url": null
+    },
+    {
+      "id": "7a91cc72-e5c3-5cf3-ab77-185d79b19f9a",
+      "group_id": "a97aab26-e964-5826-ae78-98401dbf37c0",
+      "question_number": 99,
+      "part": 4,
+      "question_text": "Look at the graphic. What was the approval rating of the feature that will be improved?",
+      "options": {
+        "A": "40 percent",
+        "B": "50 percent",
+        "C": "60 percent",
+        "D": "80 percent"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch câu hỏi: Nhìn vào biểu đồ. Tỷ lệ chấp thuận của tính năng sẽ được cải thiện là bao nhiêu?\n(A) 40 phần trăm\n(B) 50 phần trăm\n(C) 60 phần trăm\n(D) 80 phần trăm\n\nGiải thích: Người nói đề cập rằng \"many people felt that the shoulder straps were uncomfortable\" (nhiều người cảm thấy dây đeo vai không thoải mái) và \"we need to revise the design\" (chúng ta cần sửa đổi thiết kế). Điều này cho thấy \"shoulder straps\" (dây đeo vai) là tính năng cần được cải thiện. Nhìn vào biểu đồ \"Approval Rating\", cột \"Shoulder Straps\" chỉ ra mức 50 phần trăm.\n\nBí quyết: Xác định tính năng cần cải thiện dựa trên bài nói, sau đó tìm cột tương ứng trên biểu đồ và đọc giá trị.",
+      "question_type_tag": "graphic",
+      "evidence_quote": "However, many people felt that the shoulder straps were uncomfortable when the bag was full. It's important that the backpack have comfortable shoulder straps... So, we need to revise the design as quickly as possible.",
+      "paraphrase_pair": null,
+      "image_url": "/images/test1/part4_q99.png"
+    },
+    {
+      "id": "42cf6c8b-e99d-5efd-b56b-8f9c1d5f3364",
+      "group_id": "a97aab26-e964-5826-ae78-98401dbf37c0",
+      "question_number": 100,
+      "part": 4,
+      "question_text": "According to the speaker, why is a revision urgent?",
+      "options": {
+        "A": "A competitor is making a similar product.",
+        "B": "A product will be offered for sale soon.",
+        "C": "A product will be introduced at a trade show.",
+        "D": "The cost of a product's materials will rise soon."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Dịch câu hỏi: Theo người nói, tại sao việc sửa đổi lại khẩn cấp?\n(A) Một đối thủ cạnh tranh đang sản xuất sản phẩm tương tự.\n(B) Một sản phẩm sẽ sớm được bán.\n(C) Một sản phẩm sẽ được giới thiệu tại một triển lãm thương mại.\n(D) Chi phí nguyên vật liệu của sản phẩm sẽ sớm tăng.\n\nGiải thích: Người nói nói rằng \"we need to revise the design as quickly as possible\" (chúng ta cần sửa đổi thiết kế càng nhanh càng tốt) và đưa ra lý do: \"Since we're scheduled to have our official product release early next year\" (Vì chúng ta dự kiến sẽ phát hành sản phẩm chính thức vào đầu năm tới). Việc phát hành sản phẩm chính thức có nghĩa là sản phẩm sẽ sớm được bán ra thị trường.\n\nBí quyết: Lắng nghe các cụm từ chỉ thời gian và kế hoạch như \"scheduled to have our official product release early next year\" để xác định lý do cho sự khẩn cấp.",
+      "question_type_tag": "wh_why",
+      "evidence_quote": "So, we need to revise the design as quickly as possible. Since we're scheduled to have our official product release early next year.",
+      "paraphrase_pair": {
+        "original": "Since we're scheduled to have our official product release early next year.",
+        "paraphrased": "The product is slated for launch in the near future."
+      },
+      "image_url": null
+    }
+  ]
+}

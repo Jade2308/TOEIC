@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 3",
+    "part": 6,
+    "total_groups": 4,
+    "total_questions": 16
+  },
+  "question_groups": [
+    {
+      "id": "4bbbd9a5-214e-5e98-974d-36c3dccdc816",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 6,
+      "passage_text": "### Darway City Park Project Updates\n\nDarway City Park management strives to keep all visitor trails **[131] _______** while improvement projects are underway. Currently, crews are trimming vegetation around directional signs along the park's Woodmor bike path, so cyclists should ride carefully in this area. Note that **[132] _______** possible, renovation work is scheduled to take place during off-peak times because fewer people use the park then. New informational signs that highlight specific features of the surrounding natural environment will also be installed along sections of the trail. **[133] _______**. This phase of the project will be completed next month, and there is expected to be little **[134] _______** to park users as it progresses. The city's Department of Parks makes every effort to avoid trail closures and detours during work projects.",
+      "image_url": "/images/test3/part6_131_134.png",
+      "audio_url": null,
+      "transcript_segments": []
+    },
+    {
+      "id": "0407f1dd-7ac5-509b-a26d-a41d1bc0dd10",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 6,
+      "passage_text": "From: McGuckin, Edward\nTo: All Summer Guests\nSent: Wednesday, May 15, 8:02 A.M.\nSubject: Enjoying local beaches\n\nWe look forward to your visit to the Grand Hotel at Miracle Beach! The town council has recently passed an ordinance requiring that beachgoers pay for (135) _______ to the local beaches. We know how important free beach entry has been for our guests. (136) _______, we have arranged for beach passes to be available for you—free of charge. All you have to do is ask for the pass when you check in and return the pass when you check out.\n\nPlease be advised that municipal beach-patrol staff members will be walking along the beach (137) _______ to check for passes such as the ones we are providing. (138) _______. Make sure to get your pass and avoid the possible penalty.",
+      "image_url": "/images/test3/part6_135_138.png",
+      "audio_url": null,
+      "transcript_segments": []
+    },
+    {
+      "id": "b8590034-3503-521d-b911-d3680ce5fa54",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 6,
+      "passage_text": "From: Eun-Mi Park\nTo: All Employees at the New Korea Financial Group (NKFG)\nSubject: Workplace Improvements\nDate: March 12\n\nAs part of our commitment to providing a comfortable environment for our employees, maintenance work will begin this week with the goal of (139) _______ individual work spaces. The work will proceed in stages. First, new carpeting will be installed tomorrow in each office and cubicle.\n\nTo help ensure that this project (140) _______ smoothly, please remove all personal items from the floor in your work area before you leave today. (141) _______, open metal bookcases will be replaced later in the week with state-of-the-art, high-density plastic bookshelves with sliding doors. We are confident that these initiatives will improve the appearance of work spaces throughout the company. (142) _______ Thank you in advance for your understanding and cooperation.",
+      "image_url": "/images/test3/part6_139_142.png",
+      "audio_url": null,
+      "transcript_segments": []
+    },
+    {
+      "id": "e6ac7b88-dc9a-580c-8b90-21f6a1485f54",
+      "test_name": "ETS TOEIC 2023 - Test 3",
+      "part": 6,
+      "passage_text": "### The Newly Renovated Clairmont Cinema\n\nBy Sara Langly\n\nBRISTOL (12 September)—After six months, the Clairmont Cinema has finally reopened. Since the owners were (143) _______ about their plans, filmgoers were not sure what to expect when the doors opened last night. The biggest change is that there are now three theatres inside the complex instead of just one. (144) _______. On the one hand, filmgoers now have access to more of the independent films that Clairmont Cinema has long been proud of offering. On the other hand, these films are showing on very small screens. (145) _______, I felt like I was at home watching television. Still, the multiple offerings are fantastic, as is the new refreshment stand, so I encourage all film lovers to discover for (146) _______ what the new Clairmont Cinema has to offer.",
+      "image_url": "/images/test3/part6_143_146.png",
+      "audio_url": null,
+      "transcript_segments": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "37888922-7570-5eb0-ad1b-bcc06f4c9bc7",
+      "group_id": "4bbbd9a5-214e-5e98-974d-36c3dccdc816",
+      "part": 6,
+      "question_number": 131,
+      "question_type_tag": "vocabulary",
+      "question_text": "Darway City Park management strives to keep all visitor trails [131] while improvement projects are underway.",
+      "options": {
+        "A": "open",
+        "B": "noticeable",
+        "C": "practical",
+        "D": "genuine"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch nghĩa: Ban quản lý Công viên Thành phố Darway nỗ lực giữ cho tất cả các lối đi dành cho khách tham quan được mở cửa (open) trong khi các dự án cải tạo đang diễn ra. Phía cuối bài viết có thông tin 'avoid trail closures' (tránh việc đóng cửa lối đi), củng cố đáp án A là chính xác.\n- (A) open: mở cửa, cho phép truy cập\n- (B) noticeable: đáng chú ý\n- (C) practical: thực tế, tiện dụng\n- (D) genuine: chân thật, chính hãng",
+      "evidence_quote": "The city's Department of Parks makes every effort to avoid trail closures and detours during work projects.",
+      "paraphrase_pair": {
+        "original": "avoid trail closures",
+        "paraphrased": "keep all visitor trails open"
+      }
+    },
+    {
+      "id": "0d890337-6607-542f-ae5c-122331039a15",
+      "group_id": "4bbbd9a5-214e-5e98-974d-36c3dccdc816",
+      "part": 6,
+      "question_number": 132,
+      "question_type_tag": "conjunction",
+      "question_text": "Note that [132] possible, renovation work is scheduled to take place during off-peak times because fewer people use the park then.",
+      "options": {
+        "A": "frequently",
+        "B": "considering",
+        "C": "whenever",
+        "D": "moreover"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Cấu trúc cố định 'whenever possible' mang nghĩa 'bất cứ khi nào có thể'.\nDịch: Lưu ý rằng bất cứ khi nào có thể, công việc cải tạo sẽ được lên kế hoạch thực hiện vào các giờ thấp điểm vì lúc đó có ít người sử dụng công viên hơn.\n- (A) frequently: thường xuyên (trạng từ không đi trực tiếp với tính từ possible thành cụm chỉ điều kiện)\n- (B) considering: xét đến (giới từ/liên từ)\n- (C) whenever: bất cứ khi nào\n- (D) moreover: hơn nữa (trạng từ liên kết)",
+      "evidence_quote": "Note that whenever possible, renovation work is scheduled to take place during off-peak times",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "e2a2c60b-5b83-5900-a5a7-5a60f3d6496b",
+      "group_id": "4bbbd9a5-214e-5e98-974d-36c3dccdc816",
+      "part": 6,
+      "question_number": 133,
+      "question_type_tag": "sentence_insertion",
+      "question_text": "Select the best sentence to fill in blank 133.",
+      "options": {
+        "A": "They are intended to increase visitors' enjoyment of the park.",
+        "B": "They are designed to communicate these updated regulations.",
+        "C": "Visitors especially enjoy using the park café and other amenities.",
+        "D": "Planting new trees requires proper planning and site selection."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Câu phía trước đề cập: 'New informational signs that highlight specific features of the surrounding natural environment will also be installed...' (Các biển chỉ dẫn thông tin mới làm nổi bật các đặc điểm cụ thể của môi trường tự nhiên xung quanh cũng sẽ được lắp đặt...).\nĐại từ 'They' ở đầu câu A dùng để thay thế cho danh từ số nhiều 'New informational signs'.\nDịch câu A: Chúng được tạo ra nhằm tăng sự thích thú/trải nghiệm của du khách khi đến công viên.",
+      "evidence_quote": "New informational signs that highlight specific features of the surrounding natural environment will also be installed along sections of the trail.",
+      "paraphrase_pair": {
+        "original": "New informational signs that highlight specific features of the surrounding natural environment",
+        "paraphrased": "They are intended to increase visitors' enjoyment of the park."
+      }
+    },
+    {
+      "id": "e3c3999a-b74d-58d0-a82b-127f373beb61",
+      "group_id": "4bbbd9a5-214e-5e98-974d-36c3dccdc816",
+      "part": 6,
+      "question_number": 134,
+      "question_type_tag": "vocabulary",
+      "question_text": "This phase of the project will be completed next month, and there is expected to be little [134] to park users as it progresses.",
+      "options": {
+        "A": "supplement",
+        "B": "reduction",
+        "C": "implementation",
+        "D": "disruption"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Dịch nghĩa: Giai đoạn này của dự án sẽ hoàn thành vào tháng tới và dự kiến sẽ có rất ít sự gián đoạn/ảnh hưởng (disruption) tới người sử dụng công viên trong quá trình thực hiện.\n- (A) supplement: phần bổ sung\n- (B) reduction: sự cắt giảm\n- (C) implementation: sự thực thi/tiến hành\n- (D) disruption: sự gián đoạn, phiền phức",
+      "evidence_quote": "there is expected to be little disruption to park users as it progresses.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "43f43956-c29d-5f27-9755-4746f2b11031",
+      "group_id": "0407f1dd-7ac5-509b-a26d-a41d1bc0dd10",
+      "part": 6,
+      "question_number": 135,
+      "question_type_tag": "vocabulary",
+      "question_text": "135.",
+      "options": {
+        "A": "accessing",
+        "B": "access",
+        "C": "accessory",
+        "D": "accessed"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Chỗ trống cần một danh từ sau giới từ 'for'. 'Access' (danh từ) có nghĩa là sự tiếp cận, quyền truy cập. Cấu trúc 'pay for access to' (trả tiền để được quyền tiếp cận/vào) là cụm từ phù hợp nhất về nghĩa. Các phương án khác sai về từ loại hoặc nghĩa.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "bc909fbd-770b-5ae0-ae5d-da1e4f3a2be1",
+      "group_id": "0407f1dd-7ac5-509b-a26d-a41d1bc0dd10",
+      "part": 6,
+      "question_number": 136,
+      "question_type_tag": "transition_word",
+      "question_text": "136.",
+      "options": {
+        "A": "Nevertheless",
+        "B": "Otherwise",
+        "C": "However",
+        "D": "Therefore"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Câu trước nói về việc phải trả tiền để vào bãi biển, câu sau nói về việc khách sạn đã chuẩn bị sẵn vé miễn phí cho khách. Đây là mối quan hệ nhân quả (vì biết khách thích miễn phí nên khách sạn đã chuẩn bị vé). 'Therefore' (do đó) là từ nối phù hợp nhất để chỉ kết quả.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "5604dceb-88f9-597f-8f80-6a5e93dc7c9e",
+      "group_id": "0407f1dd-7ac5-509b-a26d-a41d1bc0dd10",
+      "part": 6,
+      "question_number": 137,
+      "question_type_tag": "word_form",
+      "question_text": "137.",
+      "options": {
+        "A": "regular",
+        "B": "regularly",
+        "C": "regulate",
+        "D": "regulation"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Chỗ trống cần một trạng từ để bổ nghĩa cho động từ 'walking' (đi bộ). 'Regularly' (một cách thường xuyên) là trạng từ phù hợp nhất để mô tả tần suất nhân viên đi tuần tra trên bãi biển.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "e964ef3f-41fd-5bf5-b88b-9458ee9b3ab9",
+      "group_id": "0407f1dd-7ac5-509b-a26d-a41d1bc0dd10",
+      "part": 6,
+      "question_number": 138,
+      "question_type_tag": "sentence_insertion",
+      "question_text": "138.",
+      "options": {
+        "A": "Take all personal belongings with you when you leave the beach.",
+        "B": "Sadly, having to pay for the beach is a growing phenomenon nationwide.",
+        "C": "A fine will be imposed on anyone who has not secured passes for local beaches.",
+        "D": "We will also provide beach towels for any guest who asks for one."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Câu sau là 'Make sure to get your pass and avoid the possible penalty' (Hãy chắc chắn lấy vé để tránh bị phạt). Câu C nói về việc bị phạt nếu không có vé, tạo sự liên kết logic chặt chẽ với câu sau đó.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "b6d95618-6ca9-52c5-932f-cf271e850f8b",
+      "group_id": "b8590034-3503-521d-b911-d3680ce5fa54",
+      "part": 6,
+      "question_number": 139,
+      "question_type_tag": "vocabulary",
+      "question_text": "Choose the best word to complete the sentence.",
+      "options": {
+        "A": "combining",
+        "B": "enhancing",
+        "C": "cleaning",
+        "D": "reassigning"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Câu này yêu cầu chọn từ vựng phù hợp với ngữ cảnh 'cải thiện môi trường làm việc'. 'Enhancing' (nâng cao/cải thiện) là từ phù hợp nhất để mô tả mục tiêu của việc cải tạo không gian làm việc. Các từ khác như 'combining' (kết hợp), 'cleaning' (làm sạch), 'reassigning' (phân công lại) không phù hợp về mặt ngữ nghĩa trong ngữ cảnh này.",
+      "evidence_quote": "maintenance work will begin this week with the goal of enhancing individual work spaces.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "be4f9b75-480d-550e-88ba-54e4a0e69072",
+      "group_id": "b8590034-3503-521d-b911-d3680ce5fa54",
+      "part": 6,
+      "question_number": 140,
+      "question_type_tag": "verb_tense",
+      "question_text": "Choose the best verb form to complete the sentence.",
+      "options": {
+        "A": "running",
+        "B": "runs",
+        "C": "ran",
+        "D": "to run"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Cấu trúc 'ensure that + S + V'. Ở đây chủ ngữ là 'this project' (số ít), nên động từ phải chia ở thì hiện tại đơn để diễn tả một sự thật hoặc kế hoạch. 'Runs smoothly' là cụm từ cố định (diễn ra suôn sẻ).",
+      "evidence_quote": "To help ensure that this project runs smoothly",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "38c664a4-5e96-59b5-b39a-86755d7baef7",
+      "group_id": "b8590034-3503-521d-b911-d3680ce5fa54",
+      "part": 6,
+      "question_number": 141,
+      "question_type_tag": "transition_word",
+      "question_text": "Choose the best transition word to complete the sentence.",
+      "options": {
+        "A": "For example",
+        "B": "Normally",
+        "C": "Next",
+        "D": "In summary"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Đoạn văn liệt kê các bước thực hiện công việc theo trình tự thời gian. Sau khi đã nhắc đến việc trải thảm (First), bước tiếp theo là thay thế tủ sách. Do đó, 'Next' là từ nối phù hợp nhất để chỉ trình tự các bước.",
+      "evidence_quote": "First, new carpeting will be installed tomorrow... Next, open metal bookcases will be replaced later in the week",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "67a72637-b27b-5614-8582-a05d815b51e6",
+      "group_id": "b8590034-3503-521d-b911-d3680ce5fa54",
+      "part": 6,
+      "question_number": 142,
+      "question_type_tag": "sentence_insertion",
+      "question_text": "Choose the best sentence to complete the paragraph.",
+      "options": {
+        "A": "We regret any inconvenience these measures may cause this week.",
+        "B": "We are proud of the financial services we provide to our loyal customers.",
+        "C": "The metal bookshelves were installed only five years ago.",
+        "D": "Books are always welcome at local charities."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Câu này nằm ở cuối email thông báo về việc sửa chữa, cải tạo văn phòng. Việc sửa chữa thường gây ồn ào hoặc bất tiện, nên câu xin lỗi vì sự bất tiện này là phép lịch sự chuẩn mực trong văn phong công sở.",
+      "evidence_quote": "We are confident that these initiatives will improve the appearance of work spaces throughout the company. We regret any inconvenience these measures may cause this week.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "d32eb8bb-d75a-5740-84e4-eb7197aad798",
+      "group_id": "e6ac7b88-dc9a-580c-8b90-21f6a1485f54",
+      "part": 6,
+      "question_number": 143,
+      "question_type_tag": "vocabulary",
+      "question_text": "143.",
+      "options": {
+        "A": "vague",
+        "B": "flexible",
+        "C": "joyful",
+        "D": "encouraging"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Dịch: Vì chủ sở hữu không rõ ràng (vague) về kế hoạch của họ, người xem phim không chắc chắn điều gì sẽ xảy ra. 'Vague' (mơ hồ) phù hợp với ngữ cảnh 'không chắc chắn điều gì sẽ xảy ra' ở vế sau. Các từ còn lại không hợp nghĩa.",
+      "evidence_quote": "Since the owners were vague about their plans, filmgoers were not sure what to expect",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "cf64ff1b-0e70-587b-8afa-ba0a62c10598",
+      "group_id": "e6ac7b88-dc9a-580c-8b90-21f6a1485f54",
+      "part": 6,
+      "question_number": 144,
+      "question_type_tag": "sentence_insertion",
+      "question_text": "144.",
+      "options": {
+        "A": "This has advantages and disadvantages.",
+        "B": "A large number of filmgoers came to the reopening.",
+        "C": "Big changes are often difficult but necessary.",
+        "D": "The owners will likely enjoy significant profits."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Câu này đóng vai trò là câu chủ đề cho đoạn tiếp theo. Ngay sau chỗ trống, tác giả dùng cấu trúc 'On the one hand' (một mặt) và 'On the other hand' (mặt khác) để liệt kê ưu điểm và nhược điểm của việc thay đổi cấu trúc rạp. Do đó, câu A là lựa chọn logic nhất.",
+      "evidence_quote": "On the one hand, filmgoers now have access to more of the independent films... On the other hand, these films are showing on very small screens.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "7f5ff80d-5a99-55cb-a1e3-c43fdc046f82",
+      "group_id": "e6ac7b88-dc9a-580c-8b90-21f6a1485f54",
+      "part": 6,
+      "question_number": 145,
+      "question_type_tag": "transition_word",
+      "question_text": "145.",
+      "options": {
+        "A": "Instead",
+        "B": "Regardless",
+        "C": "In conclusion",
+        "D": "In fact"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Tác giả vừa nêu ra việc màn hình nhỏ, sau đó dùng 'In fact' (thực tế là) để nhấn mạnh hoặc giải thích rõ hơn về trải nghiệm đó (cảm giác như đang xem TV ở nhà).",
+      "evidence_quote": "these films are showing on very small screens. In fact, I felt like I was at home watching television.",
+      "paraphrase_pair": null
+    },
+    {
+      "id": "a047b8ed-319b-5491-aef6-2aa1773d8b94",
+      "group_id": "e6ac7b88-dc9a-580c-8b90-21f6a1485f54",
+      "part": 6,
+      "question_number": 146,
+      "question_type_tag": "pronoun",
+      "question_text": "146.",
+      "options": {
+        "A": "them",
+        "B": "oneself",
+        "C": "themselves",
+        "D": "itself"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Cấu trúc 'discover for themselves' là một cụm từ cố định mang nghĩa 'tự mình khám phá/trải nghiệm'. Chủ ngữ là 'all film lovers' (số nhiều) nên đại từ phản thân phải là 'themselves'.",
+      "evidence_quote": "I encourage all film lovers to discover for themselves what the new Clairmont Cinema has to offer.",
+      "paraphrase_pair": null
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 4",
+    "part": 5,
+    "total_groups": 1,
+    "total_questions": 30
+  },
+  "question_groups": [
+    {
+      "id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 5,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": null,
+      "transcript_segments": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "fed22b45-e178-5c55-bfd8-3a2f693029a0",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 101,
+      "question_type_tag": "word_form",
+      "question_text": "After software updates, our customers report significant ------- in both speed and reliability.",
+      "options": {
+        "A": "improvable",
+        "B": "improvements",
+        "C": "improves",
+        "D": "improved"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống cần điền một danh từ làm tân ngữ trực tiếp cho động từ 'report', đứng sau tính từ 'significant'. Đáp án (B) 'improvements' là danh từ số nhiều, (A) là tính từ, (C) là động từ chia số ít, (D) là động từ dạng V-ed/V3.\nVì sao đáp án đúng là chính xác: Cụm 'significant improvements' có nghĩa là 'sự cải thiện đáng kể', hoàn toàn phù hợp về mặt nghĩa và ngữ pháp.\nBẫy đề thi ETS: Thí sinh có thể nhầm với (D) 'improved' vì nghĩ đây là dạng phân từ làm tính từ, nhưng sau 'significant' cần một danh từ để chỉ sự việc được báo cáo.\nMẹo phản xạ nhanh: Sau tính từ bổ nghĩa ('significant'), hãy ưu tiên tìm danh từ.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "e35866d1-93d8-51d0-b102-31d5b8def6a1",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 102,
+      "question_type_tag": "preposition",
+      "question_text": "McNeal Unlimited's market profile was finished before the due date listed ------- the project plan.",
+      "options": {
+        "A": "in",
+        "B": "about",
+        "C": "until",
+        "D": "along"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cần điền một giới từ thích hợp đi với danh từ 'the project plan' để chỉ vị trí thông tin.\nVì sao đáp án đúng là chính xác: Giới từ 'in' dùng để chỉ sự có mặt bên trong tài liệu hoặc kế hoạch (in the project plan - có trong kế hoạch dự án).\nBẫy đề thi ETS: Các giới từ khác như 'about', 'until', 'along' không tạo thành cụm từ chỉ vị trí thông tin chuẩn xác trong văn cảnh này.\nMẹo phản xạ nhanh: Khi nói về thông tin nằm trong tài liệu, sách, hay kế hoạch, luôn dùng giới từ 'in'.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "106b4bbb-afb4-5c5a-995a-f13ee2842b7a",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 103,
+      "question_type_tag": "word_form",
+      "question_text": "Employees can take up to two weeks off at a time as long as ------- requests are approved in advance.",
+      "options": {
+        "A": "they",
+        "B": "their",
+        "C": "themselves",
+        "D": "them"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng trước danh từ 'requests', cần một tính từ sở hữu để bổ nghĩa.\nVì sao đáp án đúng là chính xác: 'their' là tính từ sở hữu, chỉ các yêu cầu của nhân viên (their requests).\nBẫy đề thi ETS: (A) đại từ nhân xưng, (C) đại từ phản thân, (D) đại từ tân ngữ đều không thể đứng trước danh từ để làm hạn định từ sở hữu.\nMẹo phản xạ nhanh: Trống đứng trước danh từ chỉ vật/sự việc thì mặc định chọn tính từ sở hữu.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "30603d89-a0a0-5f1b-a954-22b4f2e4b0ed",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 104,
+      "question_type_tag": "word_form",
+      "question_text": "Service representatives are responsible for being the ------- contact for each of our clients.",
+      "options": {
+        "A": "small",
+        "B": "most",
+        "C": "abundant",
+        "D": "primary"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cần một tính từ đứng trước danh từ 'contact' để bổ nghĩa, chỉ vai trò của đại diện dịch vụ.\nVì sao đáp án đúng là chính xác: 'primary contact' nghĩa là 'mối liên hệ chính / người liên hệ chính', rất phù hợp với ngữ cảnh dịch vụ khách hàng.\nBẫy đề thi ETS: (A) nhỏ, (B) hầu hết, (C) phong phú không phù hợp về ngữ nghĩa với cụm từ chỉ vai trò liên lạc.\nMẹo phản xạ nhanh: Nhớ cụm từ cố định trong kinh doanh: 'primary contact' (người liên hệ chính).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "e01f2d7b-81bd-5ff7-90bb-d4e9378481ce",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 105,
+      "question_type_tag": "word_form",
+      "question_text": "The ------- of the fund-raiser was due to bad weather, so the event will be rescheduled for next weekend.",
+      "options": {
+        "A": "cancellation",
+        "B": "cancel",
+        "C": "canceled",
+        "D": "canceler"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống làm chủ ngữ cho câu (đứng sau mạo từ 'The' và trước giới từ 'of'), nên cần một danh từ.\nVì sao đáp án đúng là chính xác: 'cancellation' (sự hủy bỏ) là danh từ duy nhất phù hợp, giải thích lý do tại sao sự kiện phải dời lại do thời tiết xấu.\nBẫy đề thi ETS: (B) là động từ, (C) là tính từ/V-ed, (D) là danh từ chỉ người (người hủy), không hợp logic.\nMẹo phản xạ nhanh: Sau mạo từ 'The' và trước giới từ 'of' luôn là vị trí của danh từ.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "5fb97d5e-1282-5bd1-af8e-568d5a06a981",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 106,
+      "question_type_tag": "word_form",
+      "question_text": "AVB Education's online courses help users master many computer skills more ------- than other learning methods do.",
+      "options": {
+        "A": "nearly",
+        "B": "lightly",
+        "C": "previously",
+        "D": "effectively"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu đã có đầy đủ chủ ngữ, động từ, tân ngữ, chỗ trống cần trạng từ bổ nghĩa cho động từ 'master' hoặc cấu trúc so sánh hơn.\nVì sao đáp án đúng là chính xác: 'effectively' (một cách hiệu quả) bổ nghĩa cho việc làm chủ kỹ năng máy tính.\nBẫy đề thi ETS: (A) gần như, (B) nhẹ nhàng, (C) trước đây không tạo ra ý nghĩa hợp lý trong bối cảnh học tập trực tuyến.\nMẹo phản xạ nhanh: Khi nói về kết quả học tập hoặc công việc, các trạng từ chỉ hiệu quả như 'effectively' thường được ưu tiên.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c5afd44e-c63c-59ee-b4ca-40b1b6dfc838",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 107,
+      "question_type_tag": "word_form",
+      "question_text": "The ------- of several celebrities at the Sasaki Museum attracted local residents seeking photographs.",
+      "options": {
+        "A": "presenter",
+        "B": "presented",
+        "C": "presence",
+        "D": "presentable"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng sau mạo từ 'The' và trước giới từ 'of', làm chủ ngữ, cần một danh từ.\nVì sao đáp án đúng là chính xác: 'presence' (sự hiện diện) của các nhân vật nổi tiếng đã thu hút người dân địa phương.\nBẫy đề thi ETS: (A) người thuyết trình (không hợp nghĩa với 'several celebrities'), (B) dạng phân từ, (D) tính từ.\nMẹo phản xạ nhanh: Cấu trúc 'The + [Noun] + of + Noun' thường dùng để chỉ sự hiện diện, chất lượng, hoặc số lượng.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "e2568b0a-4ef8-5893-9ba8-1c4c1b8916a8",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 108,
+      "question_type_tag": "vocabulary",
+      "question_text": "The committee enthusiastically ------- the theater company's grant application because it encourages community participation.",
+      "options": {
+        "A": "approved",
+        "B": "caused",
+        "C": "affected",
+        "D": "practiced"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cần điền một động từ đóng vai trò vị ngữ, đi với tân ngữ là 'grant application' (đơn xin tài trợ).\nVì sao đáp án đúng là chính xác: 'approved' (phê duyệt) là từ vựng chính xác vì ủy ban nhiệt tình phê duyệt đơn xin tài trợ khi nó khuyến khích sự tham gia của cộng đồng.\nBẫy đề thi ETS: (B) gây ra, (C) ảnh hưởng, (D) thực hành không hợp lý khi đi với hồ sơ xin trợ cấp.\nMẹo phản xạ nhanh: Điểm mấu chốt là tìm động từ đi kèm với 'application' hoặc 'proposal' (thường là approve, review, submit).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "9ae80879-f80e-5703-9f7f-87af2a32aa6b",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 109,
+      "question_type_tag": "word_form",
+      "question_text": "Mr. Ibrahim told the management team that preparation for the annual shareholders' meeting was going ------- as planned.",
+      "options": {
+        "A": "preciseness",
+        "B": "precise",
+        "C": "precision",
+        "D": "precisely"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng trước cụm từ 'as planned' và bổ nghĩa cho cụm động từ 'was going', do đó cần một trạng từ.\nVì sao đáp án đúng là chính xác: 'precisely' là trạng từ, tạo thành cụm 'precisely as planned' (chính xác như đã lên kế hoạch).\nBẫy đề thi ETS: (A), (C) là danh từ, (B) là tính từ, không thể dùng để bổ nghĩa cho cả cụm trạng ngữ phía sau.\nMẹo phản xạ nhanh: Trạng từ đứng trước cụm từ so sánh 'as planned' để nhấn mạnh mức độ chính xác.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "018c9dea-01d7-551f-8049-95fce28c54e7",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 110,
+      "question_type_tag": "preposition",
+      "question_text": "Aryxco's shipping costs vary based upon the destination and the weight ------- the package.",
+      "options": {
+        "A": "as",
+        "B": "along",
+        "C": "between",
+        "D": "of"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cần điền một giới từ nối giữa danh từ 'weight' và danh từ 'the package' để chỉ sự sở hữu hoặc liên kết.\nVì sao đáp án đúng là chính xác: 'weight of the package' nghĩa là 'trọng lượng của bưu kiện', dùng giới từ 'of'.\nBẫy đề thi ETS: Các giới từ khác không tạo ra cấu trúc sở hữu chính xác cho danh từ chỉ trọng lượng.\nMẹo phản xạ nhanh: Cấu trúc Noun 1 + of + Noun 2 là cấu trúc sở hữu cách phổ biến trong tiếng Anh.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "9eb9a220-42c1-57c2-bbd3-2f59cbd2359f",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 111,
+      "question_type_tag": "word_form",
+      "question_text": "The health records of our clients are stored on a ------- server that is accessible only to authorized users.",
+      "options": {
+        "A": "secure",
+        "B": "securing",
+        "C": "securely",
+        "D": "secureness"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng trước danh từ 'server' và sau mạo từ 'a', cần một tính từ để bổ nghĩa.\nVì sao đáp án đúng là chính xác: 'secure' là tính từ (máy chủ bảo mật), phù hợp để miêu tả hệ thống lưu trữ hồ sơ y tế.\nBẫy đề thi ETS: (B) là V-ing, (C) là trạng từ, (D) là danh từ, không đứng ở vị trí trước danh từ để làm thuộc từ.\nMẹo phản xạ nhanh: Trước danh từ 'server' luôn ưu tiên chọn tính từ bổ nghĩa.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "5f20c80e-8ba2-5dbd-8b83-e7f064a6d876",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 112,
+      "question_type_tag": "vocabulary",
+      "question_text": "Before we sign a contract with the heating company, we must confirm that its proposal meets our installation -------.",
+      "options": {
+        "A": "customers",
+        "B": "businesses",
+        "C": "requirements",
+        "D": "volunteers"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cần điền một danh từ làm tân ngữ cho động từ 'meets', đi sau tính từ 'installation'.\nVì sao đáp án đúng là chính xác: 'installation requirements' có nghĩa là 'các yêu cầu lắp đặt', hoàn toàn hợp logic trong bối cảnh xem xét đề xuất trước khi ký hợp đồng.\nBẫy đề thi ETS: (A) khách hàng, (B) doanh nghiệp, (D) tình nguyện viên không đi chung hợp lý với từ 'installation'.\nMẹo phản xạ nhanh: Nhớ cụm từ kỹ thuật: 'installation requirements' (yêu cầu lắp đặt).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "58d316c8-a98c-5ecf-9f6f-1fe54d577880",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 113,
+      "question_type_tag": "preposition",
+      "question_text": "The area ------- the new Furniture Vine headquarters is covered by dense forest.",
+      "options": {
+        "A": "among",
+        "B": "happening",
+        "C": "foreseeable",
+        "D": "surrounding"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng giữa danh từ 'The area' và 'the new Furniture Vine headquarters', làm chức năng phân từ/giới từ chỉ khu vực xung quanh.\nVì sao đáp án đúng là chính xác: 'surrounding' đóng vai trò là phân từ mang nghĩa 'xung quanh' (vùng xung quanh trụ sở mới).\nBẫy đề thi ETS: (A) among dùng cho từ 3 đối tượng trở lên, (B) happening và (C) foreseeable không hợp ngữ nghĩa.\nMẹo phản xạ nhanh: Cụm 'the surrounding area' hoặc 'the area surrounding + [noun]' là cấu trúc mô tả địa điểm rất phổ biến.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "ce6f2f66-0931-5b29-89fb-132719a1601f",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 114,
+      "question_type_tag": "word_form",
+      "question_text": "The firm's top analysts expect that the acquisition of Valuwest, Inc., will lead to a ------- future for shareholders.",
+      "options": {
+        "A": "prosperous",
+        "B": "voluntary",
+        "C": "sizable",
+        "D": "calculating"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng trước danh từ 'future' và sau mạo từ 'a', cần một tính từ bổ nghĩa.\nVì sao đáp án đúng là chính xác: 'prosperous' nghĩa là 'thịnh vượng, phát đạt', tạo ra cụm 'a prosperous future' (một tương lai thịnh vượng) cho các cổ đông sau vụ mua lại.\nBẫy đề thi ETS: (B) tự nguyện, (C) đáng kể, (D) tính toán không mang sắc thái tích cực phù hợp khi nói về tương lai tài chính của cổ đông.\nMẹo phản xạ nhanh: Đi với từ 'future' trong bối cảnh kinh doanh thường là các tính từ tích cực như 'prosperous', 'bright', 'successful'.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "5c4e0649-8a59-5da1-b44b-8c6ca5086b51",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 115,
+      "question_type_tag": "preposition",
+      "question_text": "Upon reviewing the draft of the agreement, the lead lawyer will notify Ms. Gwan's team ------- any concerns.",
+      "options": {
+        "A": "regarding",
+        "B": "afterward",
+        "C": "toward",
+        "D": "as soon as"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cần điền một giới từ mang nghĩa 'về vấn đề gì đó' để nối tiếp thông báo với danh từ 'any concerns'.\nVì sao đáp án đúng là chính xác: 'regarding' (về, liên quan đến) là giới từ hoàn toàn phù hợp để chỉ nội dung thông báo.\nBẫy đề thi ETS: (B) là trạng từ, (C) chỉ hướng đến, (D) là liên từ chỉ thời gian, không làm giới từ bổ nghĩa cho tân ngữ phía sau.\nMẹo phản xạ nhanh: Các giới từ mang nghĩa 'về' thường gặp trong văn bản thương mại: regarding, concerning, about.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "3f43804b-f902-5682-b661-a0c5b051841c",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 116,
+      "question_type_tag": "vocabulary",
+      "question_text": "Following a two-year break, the Grear Institute is once again ------- career-building workshops for health-care workers.",
+      "options": {
+        "A": "informing",
+        "B": "providing",
+        "C": "passing",
+        "D": "deciding"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cần một động từ ở dạng V-ing đi với tân ngữ 'career-building workshops' (các hội thảo xây dựng sự nghiệp).\nVì sao đáp án đúng là chính xác: 'providing' (cung cấp, tổ chức) kết hợp hoàn hảo với 'workshops'.\nBẫy đề thi ETS: (A) thông báo, (C) vượt qua/đi qua, (D) quyết định không đi chung hợp lý với hội thảo.\nMẹo phản xạ nhanh: Nhớ cụm từ hay đi cùng nhau: 'provide workshops' hoặc 'offer workshops'.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "4e993e75-3086-57c1-8155-19d2bd2dfe6a",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 117,
+      "question_type_tag": "word_form",
+      "question_text": "The Cedar Lake Hotel adjusted its ------- prices in an attempt to increase its share of the growing market.",
+      "options": {
+        "A": "competed",
+        "B": "competition",
+        "C": "competitor",
+        "D": "competitive"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng trước danh từ 'prices' và sau tính từ sở hữu 'its', cần một tính từ bổ nghĩa cho 'prices'.\nVì sao đáp án đúng là chính xác: 'competitive prices' có nghĩa là 'giá cả cạnh tranh', cụm từ kinh doanh rất quen thuộc.\nBẫy đề thi ETS: (A) động từ V-ed, (B) danh từ, (C) danh từ chỉ người, không thể đứng trước danh từ chính để làm tính từ bổ nghĩa trực tiếp.\nMẹo phản xạ nhanh: Cụm từ cố định 'competitive prices' (giá cả cạnh tranh) xuất hiện rất thường xuyên trong đề thi TOEIC.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "a549a318-8abd-52bf-b3e4-084af83593c5",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 118,
+      "question_type_tag": "word_form",
+      "question_text": "Operating hours of Big Midwest Cafés are subject to local ------- enforced by the city in which the café is located.",
+      "options": {
+        "A": "fragments",
+        "B": "equalities",
+        "C": "regulations",
+        "D": "categories"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cần điền một danh từ làm tân ngữ cho giới từ 'to' trong cụm 'be subject to' (tuân theo).\nVì sao đáp án đúng là chính xác: 'local regulations' (các quy định địa phương) là cụm từ chính xác miêu tả những điều luật do thành phố ban hành.\nBẫy đề thi ETS: (A) mảnh vỡ, (B) sự bình đẳng, (D) danh mục không phù hợp với ngữ cảnh tuân thủ luật lệ thành phố.\nMẹo phản xạ nhanh: Cụm từ thông dụng: 'local regulations' (các quy định địa phương).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c558f3c7-312c-5d86-9add-df028ffda163",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 119,
+      "question_type_tag": "word_form",
+      "question_text": "The legal department ------- revisions to the amendment last week, and Ms. Koehler sent it to the corporate group for review.",
+      "options": {
+        "A": "completed",
+        "B": "completes",
+        "C": "will complete",
+        "D": "is completing"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Dấu hiệu thời gian trong câu là 'last week' (tuần trước), đòi hỏi động từ phải được chia ở thì quá khứ đơn.\nVì sao đáp án đúng là chính xác: 'completed' là dạng quá khứ đơn của động từ 'complete', phù hợp với mốc thời gian 'last week'.\nBẫy đề thi ETS: (B) hiện tại đơn, (C) tương lai đơn, (D) hiện tại tiếp diễn đều sai thì.\nMẹo phản xạ nhanh: Nhìn thấy 'last week' -> Lập tức chọn động từ cột 2 / V-ed (quá khứ đơn).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "2cbdaa6c-16ac-572a-8a90-ec0608c19e32",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 120,
+      "question_type_tag": "vocabulary",
+      "question_text": "Ms. Arriata asked all ------- in yesterday's Productivity and Technology workshop to send in their questionnaires.",
+      "options": {
+        "A": "activities",
+        "B": "objectives",
+        "C": "participants",
+        "D": "schedules"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cần điền một danh từ chỉ người vì động từ phía sau là 'to send in their questionnaires' (gửi bảng câu hỏi của họ).\nVì sao đáp án đúng là chính xác: 'participants' (những người tham gia) là từ duy nhất chỉ người, phù hợp với việc tham dự hội thảo và gửi lại khảo sát.\nBẫy đề thi ETS: (A) hoạt động, (B) mục tiêu, (D) lịch trình là danh từ chỉ vật, không thể thực hiện hành động gửi bảng khảo sát.\nMẹo phản xạ nhanh: Đi với từ 'workshop' (hội thảo) thường là từ chỉ người tham gia: participants / attendees.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "de0f5e8c-178b-5093-96c7-8b0ab00e297f",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 121,
+      "question_type_tag": "word_form",
+      "question_text": "Consumers noted that Sunnyside Chocolates taste ------- different from all other chocolates.",
+      "options": {
+        "A": "distinguish",
+        "B": "distinguishably",
+        "C": "to distinguish",
+        "D": "distinguishing"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chỗ trống đứng trước tính từ 'different' và bổ nghĩa cho nó, do đó cần một trạng từ.\nVì sao đáp án đúng là chính xác: 'distinguishably' là trạng từ, dùng để bổ nghĩa cho tính từ 'different' (khác biệt một cách rõ rệt).\nBẫy đề thi ETS: (A) động từ, (C) động từ nguyên mẫu, (D) phân từ, không dùng để bổ nghĩa trực tiếp cho tính từ phía sau.\nMẹo phản xạ nhanh: Trước tính từ/phân từ thường là trạng từ bổ nghĩa.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "a0e3cdae-30c6-5bc5-a743-8cfea2e4ac58",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 122,
+      "question_type_tag": "vocabulary",
+      "question_text": "With bicycling becoming more popular than ever, the city council plans to ------- the number of bicycle lanes on city streets.",
+      "options": {
+        "A": "generate",
+        "B": "invent",
+        "C": "expand",
+        "D": "organize"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cần điền một động từ đi với tân ngữ 'the number of bicycle lanes' (số lượng làn đường dành cho xe đạp).\nVì sao đáp án đúng là chính xác: 'expand' (mở rộng) là động từ phù hợp nhất khi nói về việc tăng quy mô hoặc số lượng làn đường xe đạp.\nBẫy đề thi ETS: (A) tạo ra, (B) phát minh, (D) tổ chức không kết hợp tự nhiên với danh từ chỉ số lượng làn đường.\nMẹo phản xạ nhanh: Khi thành phố muốn tăng hạ tầng đường xá, từ vựng 'expand' (mở rộng) luôn là lựa chọn hàng đầu.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "ba1aa0d0-9761-529b-bdf7-6a28b391946d",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 123,
+      "question_type_tag": "word_form",
+      "question_text": "Claston Industry's guidelines help ensure that equipment ordered from all suppliers ------- safety standards.",
+      "options": {
+        "A": "meets",
+        "B": "meeting",
+        "C": "to meet",
+        "D": "was met"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Mệnh đề that có chủ ngữ là 'equipment ordered from all suppliers', chỗ trống cần một động từ chính chia theo chủ ngữ số ít 'equipment'.\nVì sao đáp án đúng là chính xác: 'meets' là động từ chia ở thì hiện tại đơn, số ít, phù hợp với chủ ngữ không đếm được 'equipment'.\nBẫy đề thi ETS: (B) V-ing không làm vị ngữ độc lập, (C) to-infinitive sai cấu trúc câu, (D) thể bị động không hợp ngữ cảnh chủ động đáp ứng tiêu chuẩn.\nMẹo phản xạ nhanh: Cụm từ cố định trong kinh doanh: 'meet standards' (đáp ứng tiêu chuẩn).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "2e1bae8c-48b2-57a9-aa1d-4c27d8576129",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 124,
+      "question_type_tag": "word_form",
+      "question_text": "Though Ms. Daiyu ------- handles customer inquiries, Mr. Mei takes over when she gets a special assignment from her manager.",
+      "options": {
+        "A": "never",
+        "B": "almost",
+        "C": "deeply",
+        "D": "usually"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu bắt đầu bằng liên từ 'Though' (mặc dù) thể hiện sự đối lập giữa thói quen thông thường và tình huống ngoại lệ (Mr. Mei thay thế khi cô ấy bận).\nVì sao đáp án đúng là chính xác: 'usually' (thường xuyên) thể hiện công việc bình thường của cô ấy trước khi có sự thay đổi.\nBẫy đề thi ETS: (A) không bao giờ, (C) sâu sắc không tạo nghĩa tương phản hợp lý với vế sau.\nMẹo phản xạ nhanh: Nhận diện cấu trúc đối lập 'Though + [trạng từ chỉ tần suất thông thường], but/however...'",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "992edbd1-6726-5f8a-ae3a-71ff15714535",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 125,
+      "question_type_tag": "word_form",
+      "question_text": "Opportunities for growth cannot ------- by Aksika Medical without a careful analysis of the costs and benefits.",
+      "options": {
+        "A": "pursue",
+        "B": "be pursued",
+        "C": "pursuing",
+        "D": "to pursue"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Chủ ngữ là 'Opportunities for growth' (Cơ hội tăng trưởng - chỉ vật), đi sau cụm động từ khuyết thiếu 'cannot', cấu trúc phải ở thể bị động.\nVì sao đáp án đúng là chính xác: Cấu trúc bị động 'cannot + be + V3/V-ed' ('be pursued' - được theo đuổi).\nBẫy đề thi ETS: (A) dạng chủ động, (C) V-ing, (D) to-V đều không đi sau động từ khuyết thiếu để tạo thành thể bị động.\nMẹo phản xạ nhanh: Thấy chủ ngữ là vật đứng trước chỗ trống với động từ khuyết thiếu -> 90% chọn thể bị động (be + V3).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c27952e5-78cc-5da4-a345-79b0eabcc961",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 126,
+      "question_type_tag": "conjunction",
+      "question_text": "Mayson Technology not only leads its competitors in revenue ------- in award-winning innovations.",
+      "options": {
+        "A": "but also",
+        "B": "so that",
+        "C": "and",
+        "D": "yet"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cấu trúc song hành kinh điển trong tiếng Anh: 'not only ... but also ...'.\nVì sao đáp án đúng là chính xác: 'not only ... but also' nghĩa là 'không những... mà còn...', phù hợp hoàn hảo với vế câu.\nBẫy đề thi ETS: (B), (C), (D) không tạo thành cặp liên từ tương quan với 'not only'.\nMẹo phản xạ nhanh: Thấy 'not only' ở vế trước -> Lập tức tìm 'but also' ở vế sau.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "99f393e3-990c-5eb2-abcf-57033a60efe2",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 127,
+      "question_type_tag": "word_form",
+      "question_text": "Our presentation will provide an overview of ------- the theoretical and the practical aspects of machine learning.",
+      "options": {
+        "A": "each",
+        "B": "any",
+        "C": "such",
+        "D": "both"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cấu trúc song hành với liên từ 'and': 'both ... and ...' (cả... lẫn...).\nVì sao đáp án đúng là chính xác: 'both the theoretical and the practical aspects' (cả khía cạnh lý thuyết lẫn thực tiễn).\nBẫy đề thi ETS: Các từ khác không kết hợp với 'and' để tạo thành cặp từ nối song hành.\nMẹo phản xạ nhanh: Nhận diện cấu trúc '... and ...' để chọn từ đi kèm phù hợp như 'both ... and'.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "db0f48cc-2f20-5b9f-b655-55a0578c035e",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 128,
+      "question_type_tag": "word_form",
+      "question_text": "The responsibilities of new assembly-line supervisors at the Streamline Auto Plant increase ------- as they gain more experience.",
+      "options": {
+        "A": "diligently",
+        "B": "completely",
+        "C": "progressively",
+        "D": "cooperatively"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cần một trạng từ bổ nghĩa cho động từ 'increase' (tăng lên) dựa trên quá trình tích lũy kinh nghiệm theo thời gian.\nVì sao đáp án đúng là chính xác: 'progressively' nghĩa là 'tăng dần lên theo tiến trình', rất hợp nghĩa khi kinh nghiệm tăng thì trách nhiệm cũng tăng theo.\nBẫy đề thi ETS: (A) chăm chỉ, (B) hoàn toàn, (D) hợp tác không phản ánh đúng ý nghĩa tăng tiến theo kinh nghiệm.\nMẹo phản xạ nhanh: Trạng từ chỉ mức độ tiến triển theo thời gian hoặc kinh nghiệm thường là 'progressively'.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "21985586-3c38-5893-bcdf-4c06a22fcaf1",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 129,
+      "question_type_tag": "word_form",
+      "question_text": "Although unforeseen factors initially ------- the construction of the wind farm, it opened on schedule.",
+      "options": {
+        "A": "complicate",
+        "B": "complicated",
+        "C": "are complicating",
+        "D": "be complicated"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Mệnh đề trạng ngữ chỉ thời gian với từ 'initially' (ban đầu) kết hợp với vế sau chia thì quá khứ ('opened'), đòi hỏi động từ ở vế trước cũng phải ở thì quá khứ đơn.\nVì sao đáp án đúng là chính xác: 'complicated' là dạng quá khứ đơn của động từ 'complicate' (làm phức tạp, gây trở ngại).\nBẫy đề thi ETS: (A) hiện tại đơn, (C) hiện tại tiếp diễn, (D) sai cấu trúc.\nMẹo phản xạ nhanh: Thấy trạng từ 'initially' kết hợp với sự việc trong quá khứ -> Dùng thì quá khứ đơn.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "48f2d4ad-31c6-5d3b-b3ac-a5a95e720ad7",
+      "group_id": "2ea8551a-78d8-5943-b884-78321185ebc1",
+      "part": 5,
+      "question_number": 130,
+      "question_type_tag": "conjunction",
+      "question_text": "------- Haruto sees an opportunity for professional development, he is sure to take advantage of it.",
+      "options": {
+        "A": "Even though",
+        "B": "Owing to",
+        "C": "Whenever",
+        "D": "Whereas"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Cần một liên từ nối hai mệnh đề chỉ điều kiện/thời gian: 'Mỗi khi Haruto nhìn thấy cơ hội phát triển nghề nghiệp, anh ấy chắc chắn sẽ tận dụng nó'.\nVì sao đáp án đúng là chính xác: 'Whenever' (bất cứ khi nào) là liên từ chỉ thời gian/sự lặp lại phù hợp nhất với ngữ cảnh này.\nBẫy đề thi ETS: (A) Mặc dù, (D) Trong khi đó biểu thị sự đối lập; (B) Owing to là giới từ theo sau là cụm danh từ chứ không phải mệnh đề (S + V).\nMẹo phản xạ nhanh: Theo sau chỗ trống là một mệnh đề đầy đủ (Haruto sees...) nên loại ngay giới từ (B) 'Owing to'.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    }
+  ]
+}

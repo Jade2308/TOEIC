@@ -1,41 +1,67 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
+# Dependencies
+node_modules/
 /node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
+/web/node_modules/
 
-# testing
-/coverage
-
-# next.js
+# Next.js build output
+.next/
 /.next/
+/web/.next/
+out/
 /out/
+/web/out/
+build/
+/build/
 
-# production
-/build
+# Environment files
+.env
+.env*.local
+!.env.example
+!/web/.env.example
+!/crawler/.env.example
 
-# misc
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+crawler/.temp/
+.temp/
+
+# Personal local user data & backups (keep .gitkeep)
+data/user/*.json
+data/user/*.tmp*
+backups/
+
+# Raw materials and media storage (PDFs, full MP3s, sliced audio, images)
+# These large binary assets should be stored locally on the server/Samba share, not in Git
+data/raw/*
+!data/raw/.gitkeep
+data/media/*
+!data/media/.gitkeep
+data/media/audio/*
+!data/media/audio/.gitkeep
+data/media/images/*
+!data/media/images/.gitkeep
+
+# Crawler intermediate artifacts (whisper raw, draft answer segments)
+data/exams/**/intermediate/
+
+# TypeScript & Cache
+*.tsbuildinfo
+next-env.d.ts
+/web/next-env.d.ts
+.cache/
+
+# OS and logs
 .DS_Store
+Thumbs.db
 *.pem
-
-# debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
-
-# env files (can opt-in for committing if needed)
-.env*
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts

@@ -1,0 +1,405 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 2",
+    "part": 1,
+    "total_groups": 6,
+    "total_questions": 6
+  },
+  "question_groups": [
+    {
+      "id": "508968a0-db37-5eb9-82c2-a3ca607fcc61",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test2/part1_q1.jpg",
+      "audio_url": "/audio/test2/part1_q1.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q1-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 6.0,
+          "text_en": "Number 1. Look at the picture marked number 1 in your testbook.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q1-2",
+          "speaker": "Speaker",
+          "start_time": 6.0,
+          "end_time": 20.0,
+          "text_en": "A. A woman is holding a power tool. B. A woman is opening a drawer. C. A printer is being unplugged. D. Office supplies are being put into a box.",
+          "text_vi": "",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "3e762274-8864-5e22-bf38-097051a7595c",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test2/part1_q2.jpg",
+      "audio_url": "/audio/test2/part1_q2.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q2-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.6,
+          "text_en": "2. Look at the picture marked number 2 in your testbook.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-2",
+          "speaker": "Speaker",
+          "start_time": 5.6,
+          "end_time": 9.3,
+          "text_en": "A. Plants are on top of a cart.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-3",
+          "speaker": "Speaker",
+          "start_time": 9.3,
+          "end_time": 13.8,
+          "text_en": "B. A watering can is next to some trees.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-4",
+          "speaker": "Speaker",
+          "start_time": 13.8,
+          "end_time": 17.4,
+          "text_en": "C. A man is digging in a garden.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-5",
+          "speaker": "Speaker",
+          "start_time": 17.4,
+          "end_time": 25.7,
+          "text_en": "D. A man is near a display of potted plants.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-6",
+          "speaker": "Speaker",
+          "start_time": 25.7,
+          "end_time": 29.7,
+          "text_en": "Go on to the next page.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "fea32d5b-b863-57ec-8bb3-0117693fb2d1",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test2/part1_q3.jpg",
+      "audio_url": "/audio/test2/part1_q3.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q3-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.28,
+          "text_en": "Number 3. Look at the picture marked number 3 in your testbook.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q3-2",
+          "speaker": "Speaker",
+          "start_time": 5.84,
+          "end_time": 8.8,
+          "text_en": "A. The man is fixing a machine.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q3-3",
+          "speaker": "Speaker",
+          "start_time": 9.44,
+          "end_time": 12.48,
+          "text_en": "B. The man is buying some equipment.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q3-4",
+          "speaker": "Speaker",
+          "start_time": 13.12,
+          "end_time": 15.84,
+          "text_en": "C. The man is lifting a weight.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q3-5",
+          "speaker": "Speaker",
+          "start_time": 16.4,
+          "end_time": 19.48,
+          "text_en": "D. The man is looking at the ceiling.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "16cd6fd0-1b68-543b-b12e-e100462799d9",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test2/part1_q4.jpg",
+      "audio_url": "/audio/test2/part1_q4.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q4-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.6,
+          "text_en": "Number 4. Look at the picture marked Number 4 in your testbook.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q4-2",
+          "speaker": "Speaker",
+          "start_time": 5.6,
+          "end_time": 10.2,
+          "text_en": "A. A wall is decorated with various items.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q4-3",
+          "speaker": "Speaker",
+          "start_time": 10.2,
+          "end_time": 14.2,
+          "text_en": "B. Two chairs are blocking a doorway.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q4-4",
+          "speaker": "Speaker",
+          "start_time": 14.2,
+          "end_time": 18.4,
+          "text_en": "C. A door has been propped open with a statue.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q4-5",
+          "speaker": "Speaker",
+          "start_time": 18.4,
+          "end_time": 23.4,
+          "text_en": "D. A painting is hanging next to a window...",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "bd770aac-cb23-52ee-ba95-d2a989db8115",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test2/part1_q5.jpg",
+      "audio_url": "/audio/test2/part1_q5.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q5-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 10.4,
+          "text_en": "No, number five, look at the picture marked number five in your test book.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q5-2",
+          "speaker": "Speaker",
+          "start_time": 11.52,
+          "end_time": 18.08,
+          "text_en": "A, some people are browsing in a shop. B, some people are exchanging gifts.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q5-3",
+          "speaker": "Speaker",
+          "start_time": 18.96,
+          "end_time": 25.84,
+          "text_en": "C, a customer is paying for some goods. D, some salespeople are preparing a display.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "b02c45a5-fe30-5424-bbfc-9ee27a76cb75",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test2/part1_q6.jpg",
+      "audio_url": "/audio/test2/part1_q6.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q6-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 5.04,
+          "text_en": "Number 6. Look at the picture marked Number 6 in your testbook.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-2",
+          "speaker": "Speaker",
+          "start_time": 5.92,
+          "end_time": 13.36,
+          "text_en": "A. Cones are blocking access to a road. B. Some soil is in a pile on the ground.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-3",
+          "speaker": "Speaker",
+          "start_time": 14.24,
+          "end_time": 21.68,
+          "text_en": "C. Some bushes have been planted in front of a building. D. A tree is lying in the roadway.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-4",
+          "speaker": "Speaker",
+          "start_time": 21.68,
+          "end_time": 28.4,
+          "text_en": "Go on to the next page.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "d55f13b2-3a82-5ab8-9169-048c7e8968a7",
+      "group_id": "508968a0-db37-5eb9-82c2-a3ca607fcc61",
+      "part": 1,
+      "question_number": 1,
+      "question_type_tag": "instruction_action",
+      "question_text": null,
+      "options": {
+        "A": "A woman is holding a power tool.",
+        "B": "A woman is opening a drawer.",
+        "C": "A printer is being unplugged.",
+        "D": "Office supplies are being put into a box."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Bức ảnh mô tả một người phụ nữ đang thực hiện hành động mở ngăn kéo tại một quầy làm việc.Vì sao B đúng: Lựa chọn (B) \"A woman is opening a drawer\" (Một người phụ nữ đang mở một ngăn kéo) mô tả chính xác hành động của người phụ nữ trong ảnh.Bẫy đề thi ETS: (A) \"A woman is holding a power tool\" (Một người phụ nữ đang cầm một dụng cụ điện) sai vì người phụ nữ không cầm dụng cụ điện nào. Đây là bẫy từ vựng sai đối tượng/hành động. (C) \"A printer is being unplugged\" (Một máy in đang được rút phích cắm) sai vì máy in đang đặt trên bàn và không có hành động rút phích cắm nào diễn ra. Đây là bẫy thì tiếp diễn bị động (passive 'being' trap) với hành động không có thật. (D) \"Office supplies are being put into a box\" (Văn phòng phẩm đang được cho vào hộp) sai vì không có văn phòng phẩm nào đang được cho vào hộp. Đây là bẫy từ vựng sai đối tượng/hành động.Mẹo phản xạ nhanh: Tập trung vào chủ thể (người phụ nữ) và hành động chính (mở ngăn kéo). Loại bỏ ngay các đáp án có hành động không có trong ảnh hoặc mô tả sai đối tượng.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "22566c24-6e47-5d2e-b46d-a77bb3340fe3",
+      "group_id": "3e762274-8864-5e22-bf38-097051a7595c",
+      "part": 1,
+      "question_number": 2,
+      "question_type_tag": "instruction_action",
+      "question_text": null,
+      "options": {
+        "A": "Plants are on top of a cart.",
+        "B": "A watering can is next to some trees.",
+        "C": "A man is digging in a garden.",
+        "D": "A man is near a display of potted plants."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh: Bức ảnh chụp một người đàn ông đang ở giữa một khu vườn ươm hoặc nơi trưng bày cây cảnh, xung quanh là nhiều chậu cây.Vì sao D đúng: Lựa chọn (D) \"A man is near a display of potted plants\" (Một người đàn ông đang ở gần khu trưng bày cây cảnh trong chậu) mô tả chính xác vị trí và khung cảnh xung quanh người đàn ông. Các chậu cây được sắp xếp có thể coi là một \"display\".Bẫy đề thi ETS: (A) \"Plants are on top of a cart\" (Cây cối đang ở trên xe đẩy) sai vì mặc dù có xe đẩy nhưng cây không chủ yếu đặt trên đó. Đây là bẫy sai vị trí/sắp xếp. (B) \"A watering can is next to some trees\" (Một bình tưới nước đang ở cạnh vài cái cây) sai vì không có bình tưới nước nào trong ảnh. Đây là bẫy từ vựng không có trong ảnh. (C) \"A man is digging in a garden\" (Một người đàn ông đang đào đất trong vườn) sai vì người đàn ông đang chăm sóc cây chứ không phải đang \"đào đất\". Đây là bẫy sai hành động.Mẹo phản xạ nhanh: Đối với ảnh phong cảnh hoặc nhiều vật thể, hãy tìm đáp án mô tả tổng thể hoặc vị trí tương đối chính xác nhất. Tránh các đáp án quá cụ thể nhưng sai chi tiết hoặc có từ không xuất hiện trong ảnh.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "f03a6fb5-69c6-58f5-a15f-340bee67f923",
+      "group_id": "fea32d5b-b863-57ec-8bb3-0117693fb2d1",
+      "part": 1,
+      "question_number": 3,
+      "question_type_tag": "instruction_action",
+      "question_text": null,
+      "options": {
+        "A": "The man is fixing a machine.",
+        "B": "The man is buying some equipment.",
+        "C": "The man is lifting a weight.",
+        "D": "The man is looking at the ceiling."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh: Bức ảnh cho thấy một người đàn ông đang ở trong phòng tập thể dục, thực hiện động tác nâng tạ.Vì sao C đúng: Lựa chọn (C) \"The man is lifting a weight\" (Người đàn ông đang nâng một quả tạ) mô tả chính xác hành động của người đàn ông trong ảnh. \"Weight\" là từ chung cho các loại tạ.Bẫy đề thi ETS: (A) \"The man is fixing a machine\" (Người đàn ông đang sửa một cái máy) sai vì người đàn ông đang tập thể dục, không phải sửa chữa. Đây là bẫy sai hành động. (B) \"The man is buying some equipment\" (Người đàn ông đang mua một số thiết bị) sai vì người đàn ông đang sử dụng thiết bị, không phải mua sắm. Đây là bẫy sai hành động. (D) \"The man is looking at the ceiling\" (Người đàn ông đang nhìn lên trần nhà) sai vì người đàn ông đang tập trung vào việc nâng tạ. Đây là bẫy sai hành động/hướng nhìn.Mẹo phản xạ nhanh: Tập trung vào hành động chính và đối tượng trực tiếp của hành động. Các đáp án sai thường mô tả hành động tương tự nhưng không chính xác hoặc sai hoàn toàn.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "13e43b63-17c4-5e00-8516-8cb5a1430cfd",
+      "group_id": "16cd6fd0-1b68-543b-b12e-e100462799d9",
+      "part": 1,
+      "question_number": 4,
+      "question_type_tag": "instruction_action",
+      "question_text": null,
+      "options": {
+        "A": "A wall is decorated with various items.",
+        "B": "Two chairs are blocking a doorway.",
+        "C": "A door has been propped open with a statue.",
+        "D": "A painting is hanging next to a window."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Bức ảnh chụp nội thất một căn phòng với một bức tường được trang trí bằng tranh và sừng hươu, cùng với hai ghế bành và một bàn nhỏ.Vì sao A đúng: Lựa chọn (A) \"A wall is decorated with various items\" (Một bức tường được trang trí bằng nhiều vật phẩm khác nhau) mô tả chính xác bức tường trong ảnh, với một bức tranh và sừng hươu.Bẫy đề thi ETS: (B) \"Two chairs are blocking a doorway\" (Hai chiếc ghế đang chặn lối đi) sai vì hai chiếc ghế không chặn bất kỳ lối đi nào. Đây là bẫy sai vị trí. (C) \"A door has been propped open with a statue\" (Một cánh cửa đang được chống mở bằng một bức tượng) sai vì không có cánh cửa nào được chống mở bằng tượng. Đây là bẫy sai đối tượng/hành động. (D) \"A painting is hanging next to a window\" (Một bức tranh đang treo cạnh cửa sổ) sai vì mặc dù có bức tranh nhưng không có cửa sổ nào rõ ràng bên cạnh nó. Đây là bẫy sai chi tiết/vị trí.Mẹo phản xạ nhanh: Đối với ảnh nội thất, hãy quan sát kỹ các vật thể và cách chúng được sắp xếp. Tìm đáp án mô tả tổng thể hoặc một phần rõ ràng của bức ảnh một cách chính xác. Cẩn thận với các từ như \"blocking,\" \"propped open,\" \"next to\" nếu chúng không hoàn toàn đúng.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "03285e7b-efff-5017-beba-050717657bda",
+      "group_id": "bd770aac-cb23-52ee-ba95-d2a989db8115",
+      "part": 1,
+      "question_number": 5,
+      "question_type_tag": "instruction_action",
+      "question_text": null,
+      "options": {
+        "A": "Some people are browsing in a shop.",
+        "B": "Some people are exchanging gifts.",
+        "C": "A customer is paying for some goods.",
+        "D": "Some salespeople are preparing a display."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh: Bức ảnh chụp hai người trong một cửa hàng, một người đang xem xét các mặt hàng trên quầy trưng bày.Vì sao A đúng: Lựa chọn (A) \"Some people are browsing in a shop\" (Một số người đang xem hàng trong một cửa hàng) mô tả chính xác hoạt động của người phụ nữ ở phía trước, đang xem các sản phẩm, và khung cảnh chung là một cửa hàng.Bẫy đề thi ETS: (B) \"Some people are exchanging gifts\" (Một số người đang trao đổi quà tặng) sai vì không có hành động trao đổi quà tặng nào diễn ra. Đây là bẫy sai hành động. (C) \"A customer is paying for some goods\" (Một khách hàng đang thanh toán tiền hàng) sai vì không có ai đang thanh toán. Đây là bẫy sai hành động. (D) \"Some salespeople are preparing a display\" (Một số nhân viên bán hàng đang chuẩn bị một quầy trưng bày) sai vì những người trong ảnh có vẻ là khách hàng, và không có hành động chuẩn bị trưng bày nào rõ ràng. Đây là bẫy sai vai trò/hành động.Mẹo phản xạ nhanh: Khi có nhiều người, hãy tìm đáp án mô tả hành động chung hoặc hành động của một nhóm người một cách chính xác. Tránh các đáp án gán vai trò hoặc hành động không có căn cứ.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "e623a85a-171b-5d50-a606-1727b3376820",
+      "group_id": "b02c45a5-fe30-5424-bbfc-9ee27a76cb75",
+      "part": 1,
+      "question_number": 6,
+      "question_type_tag": "instruction_action",
+      "question_text": null,
+      "options": {
+        "A": "Cones are blocking access to a road.",
+        "B": "Some soil is in a pile on the ground.",
+        "C": "Some bushes have been planted in front of a building.",
+        "D": "A tree is lying in the roadway."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh: Bức ảnh chụp một khu vực ngoài trời, có thể là bãi đỗ xe hoặc công trường, với vài cọc tiêu giao thông và những đống đất nhỏ.Vì sao B đúng: Lựa chọn (B) \"Some soil is in a pile on the ground\" (Một ít đất đang chất thành đống trên mặt đất) mô tả chính xác một chi tiết rõ ràng trong ảnh: có những đống đất nhỏ nằm rải rác.Bẫy đề thi ETS: (A) \"Cones are blocking access to a road\" (Các cọc tiêu đang chặn lối vào đường) sai vì không rõ liệu các cọc tiêu có đang chặn lối vào đường hay chỉ đơn thuần là đặt trên mặt đất. Đây là bẫy sai chức năng/hành động. (C) \"Some bushes have been planted in front of a building\" (Một số bụi cây đã được trồng trước một tòa nhà) sai vì không có tòa nhà nào rõ ràng trong ảnh và không thể xác định hành động \"đã được trồng\". Đây là bẫy sai đối tượng/hành động. (D) \"A tree is lying in the roadway\" (Một cái cây đang nằm trên đường) sai vì không có cái cây nào đổ trên đường. Đây là bẫy từ vựng không có trong ảnh.Mẹo phản xạ nhanh: Đối với ảnh ngoài trời, hãy chú ý đến các vật thể tự nhiên và nhân tạo. Tìm kiếm các mô tả đơn giản, trực tiếp và chính xác về vị trí hoặc trạng thái của các vật thể. Tránh các suy luận về chức năng hoặc hành động không rõ ràng.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    }
+  ]
+}

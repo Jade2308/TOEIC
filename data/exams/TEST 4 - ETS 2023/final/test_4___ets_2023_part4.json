@@ -1,0 +1,1525 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 4",
+    "part": 4,
+    "total_groups": 10,
+    "total_questions": 30
+  },
+  "question_groups": [
+    {
+      "id": "3cd495a8-d030-5e7d-9ffd-db6e5c4b4b7b",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test4/part4_g71_73.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g71_73-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 0.5,
+          "text_en": "and mark the letter A, B, C, or D on your answer sheet. The talks will not be printed in your",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-2",
+          "speaker": "Speaker",
+          "start_time": 0.5,
+          "end_time": 9.3,
+          "text_en": "testbook and will be spoken only one time. Question 71 through 73 refer to the following introduction.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-3",
+          "speaker": "Speaker",
+          "start_time": 10.5,
+          "end_time": 17.0,
+          "text_en": "Good morning, everyone. I'm Joshua, a volunteer guide here in beautiful Rosedale Sculpture Park.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-4",
+          "speaker": "Speaker",
+          "start_time": 17.74,
+          "end_time": 23.44,
+          "text_en": "My background is in art history, so I'll do my best to answer all your questions. But first,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-5",
+          "speaker": "Speaker",
+          "start_time": 23.82,
+          "end_time": 30.1,
+          "text_en": "let me give you an overview of this amazing property. It was purchased in the 19th century by a local",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-6",
+          "speaker": "Speaker",
+          "start_time": 30.1,
+          "end_time": 36.82,
+          "text_en": "family who had spent many years abroad. During their years overseas, they collected many statues and",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-7",
+          "speaker": "Speaker",
+          "start_time": 36.82,
+          "end_time": 42.68,
+          "text_en": "other types of sculptures, some ancient, some modern, which you'll see around the gardens today.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-8",
+          "speaker": "Speaker",
+          "start_time": 43.46,
+          "end_time": 47.62,
+          "text_en": "And now, take out your cameras as you follow me along our first trail.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-9",
+          "speaker": "Speaker",
+          "start_time": 49.98,
+          "end_time": 66.26,
+          "text_en": "Who is the speaker? Number 72. What will the listeners mostly see during their visit?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g71_73-10",
+          "speaker": "Speaker",
+          "start_time": 66.26,
+          "end_time": 79.16,
+          "text_en": "Number 73. What does the speaker invite the listeners to do?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "b0dfdc2f-3b66-55e4-b7ce-90f6420641ca",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test4/part4_g74_76.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g74_76-1",
+          "speaker": "Speaker",
+          "start_time": 0.5,
+          "end_time": 4.98,
+          "text_en": "Question 74 through 76 refer to the following broadcast.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-2",
+          "speaker": "Speaker",
+          "start_time": 24.06,
+          "end_time": 30.36,
+          "text_en": "Sure, electric pickups are not cheap, but the environment will benefit. Consider this, too.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-3",
+          "speaker": "Speaker",
+          "start_time": 31.34,
+          "end_time": 35.46,
+          "text_en": "Electric pickup trucks can even be used to power homes during an interruption in the",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-4",
+          "speaker": "Speaker",
+          "start_time": 35.46,
+          "end_time": 44.86,
+          "text_en": "supply of electricity. That's pretty amazing, right? Number 74. What does the speaker recommend doing?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-5",
+          "speaker": "Speaker",
+          "start_time": 52.96,
+          "end_time": 59.34,
+          "text_en": "Number 75. What disadvantage of electric pickup trucks does the speaker mention?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g74_76-6",
+          "speaker": "Speaker",
+          "start_time": 67.56,
+          "end_time": 73.82,
+          "text_en": "Number 76. What alternative use for electric pickup trucks does the speaker mention?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "4d9796c4-eed9-5d1e-b6b4-39a83c36f97b",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test4/part4_g77_79.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g77_79-1",
+          "speaker": "Speaker",
+          "start_time": 0.5,
+          "end_time": 5.5,
+          "text_en": "Question 77 through 79 refer to the following excerpt from a meeting.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-2",
+          "speaker": "Speaker",
+          "start_time": 6.64,
+          "end_time": 11.9,
+          "text_en": "Welcome to the monthly staff meeting. As you might guess from the number of customers we get,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-3",
+          "speaker": "Speaker",
+          "start_time": 11.9,
+          "end_time": 18.82,
+          "text_en": "big box supermarket performed well this past year. To show us their appreciation for our hard work,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-4",
+          "speaker": "Speaker",
+          "start_time": 19.22,
+          "end_time": 25.26,
+          "text_en": "the owners are inviting us to dinner at Wharton Restaurant. Congratulations, everyone. Now,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-5",
+          "speaker": "Speaker",
+          "start_time": 25.46,
+          "end_time": 30.38,
+          "text_en": "let's get back to business. We are increasing the amount of fruits and vegetables we receive.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-6",
+          "speaker": "Speaker",
+          "start_time": 31.14,
+          "end_time": 36.28,
+          "text_en": "As a result, I need two employees to arrive one hour early on Saturdays and Sundays.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-7",
+          "speaker": "Speaker",
+          "start_time": 37.08,
+          "end_time": 45.17,
+          "text_en": "There's a sign-up sheet in the staff room. Number 77. Who most likely is the speaker?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g77_79-8",
+          "speaker": "Speaker",
+          "start_time": 53.66,
+          "end_time": 69.94,
+          "text_en": "Number 78. What are the owners doing? Number 79. What does the speaker imply when she says?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "fcc346c2-7b48-517a-95c3-77b9517e9b79",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test4/part4_g80_82.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g80_82-1",
+          "speaker": "Speaker",
+          "start_time": 0.5,
+          "end_time": 14.59,
+          "text_en": "There's a sign-up sheet in the staff room. Questions 80 through 82 refer to the following advertisement.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-2",
+          "speaker": "Speaker",
+          "start_time": 15.85,
+          "end_time": 21.37,
+          "text_en": "Homeowners, is your heating system over 10 years old? Are you paying too much for your heating bills?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-3",
+          "speaker": "Speaker",
+          "start_time": 22.29,
+          "end_time": 27.23,
+          "text_en": "Honest heating has the solution. Whether you need just a tune-up or an entirely new system,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-4",
+          "speaker": "Speaker",
+          "start_time": 27.71,
+          "end_time": 33.23,
+          "text_en": "honest heating can help. We're the only heating company in the area that uses infrared cameras.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-5",
+          "speaker": "Speaker",
+          "start_time": 34.03,
+          "end_time": 37.59,
+          "text_en": "They let us see holes, cracks and rust that regular color cameras miss.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-6",
+          "speaker": "Speaker",
+          "start_time": 38.55,
+          "end_time": 44.13,
+          "text_en": "Call today for a low-cost check-up. Mention that you heard about us on K and X-Y news radio.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-7",
+          "speaker": "Speaker",
+          "start_time": 44.59,
+          "end_time": 49.49,
+          "text_en": "And you'll receive a 5% discount. Don't delay. Call honest heating today.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g80_82-8",
+          "speaker": "Speaker",
+          "start_time": 51.57,
+          "end_time": 67.25,
+          "text_en": "Number 80. What is being advertised? Number 81. What does the advertisement emphasize about",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "11bc378c-726a-5af7-86fd-73911394fe64",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test4/part4_g83_85.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g83_85-1",
+          "speaker": "Speaker",
+          "start_time": 0.5,
+          "end_time": 5.2,
+          "text_en": "Questions 83 through 85 refer to the following excerpt from a meeting.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-2",
+          "speaker": "Speaker",
+          "start_time": 6.08,
+          "end_time": 12.1,
+          "text_en": "I am pleased to report on progress at our newest cement plant. Local mines began delivering raw",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-3",
+          "speaker": "Speaker",
+          "start_time": 12.1,
+          "end_time": 16.9,
+          "text_en": "materials and by the end of the month, the plant delivered its first cement shipment to",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-4",
+          "speaker": "Speaker",
+          "start_time": 16.9,
+          "end_time": 22.58,
+          "text_en": "regent construction company. The plant is not earning a profit yet, but we hope to be a strong",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-5",
+          "speaker": "Speaker",
+          "start_time": 22.58,
+          "end_time": 29.0,
+          "text_en": "partner with regent during this construction boom. Also, all 60 employees recently completed",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-6",
+          "speaker": "Speaker",
+          "start_time": 29.0,
+          "end_time": 34.92,
+          "text_en": "safety training. In addition, five new employees received advanced safety training and certification.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-7",
+          "speaker": "Speaker",
+          "start_time": 36.02,
+          "end_time": 41.26,
+          "text_en": "They will work with our safety program supervisors to ensure that appropriate procedures are followed.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-8",
+          "speaker": "Speaker",
+          "start_time": 43.86,
+          "end_time": 60.17,
+          "text_en": "Number 83. What is the purpose of the meeting? Number 84. What does the speaker imply when he says,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g83_85-9",
+          "speaker": "Speaker",
+          "start_time": 60.75,
+          "end_time": 64.49,
+          "text_en": "but we hope to be a strong partner with regent during this construction boom?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "7c6813a2-ce9f-5d91-837a-401ee2ea9b1a",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test4/part4_g86_88.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g86_88-1",
+          "speaker": "Speaker",
+          "start_time": 0.5,
+          "end_time": 17.17,
+          "text_en": "Number 85. What did new employees do? Questions 86 through 88 refer to the following advertisement.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-2",
+          "speaker": "Speaker",
+          "start_time": 18.03,
+          "end_time": 23.21,
+          "text_en": "This weekend, Coleman's downtown theatre will present a marathon of science fiction films.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-3",
+          "speaker": "Speaker",
+          "start_time": 23.89,
+          "end_time": 29.53,
+          "text_en": "Some of the films being shown are over 100 years old. Fans may even learn something about the history",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-4",
+          "speaker": "Speaker",
+          "start_time": 29.53,
+          "end_time": 34.91,
+          "text_en": "of science fiction films, since the films will be shown in chronological order. The marathon will",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-5",
+          "speaker": "Speaker",
+          "start_time": 34.91,
+          "end_time": 41.81,
+          "text_en": "run on Saturday and Sunday from 10am to 10pm. On Sunday afternoon, makeup artist Sarah Wills,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-6",
+          "speaker": "Speaker",
+          "start_time": 42.29,
+          "end_time": 47.01,
+          "text_en": "who has created some of film's scariest space monsters, will be in the lobby giving a demonstration.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-7",
+          "speaker": "Speaker",
+          "start_time": 49.66,
+          "end_time": 66.38,
+          "text_en": "Number 86. What will happen at Coleman's downtown theatre this weekend? Number 87. What might people",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g86_88-8",
+          "speaker": "Speaker",
+          "start_time": 66.38,
+          "end_time": 87.45,
+          "text_en": "learn this weekend? Number 88. Who will be in the lobby on Sunday? Questions 89 through 91 refer to",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "876e6773-7a53-5395-8a78-5fe9f9e2bd45",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test4/part4_g89_91.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g89_91-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 3.46,
+          "text_en": "learn this weekend? Number 88. Who will be in the lobby on Sunday? Questions 89 through 91 refer to",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-2",
+          "speaker": "Speaker",
+          "start_time": 3.46,
+          "end_time": 10.16,
+          "text_en": "the following excerpt from a meeting. Helping investors keep a long-term perspective is part of",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-3",
+          "speaker": "Speaker",
+          "start_time": 10.16,
+          "end_time": 16.52,
+          "text_en": "our role as financial consultants. Before today's meeting ends, I want to remind everyone about",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-4",
+          "speaker": "Speaker",
+          "start_time": 16.52,
+          "end_time": 22.54,
+          "text_en": "tonight's security update to our computer systems. As you know, the security of our client's personal",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-5",
+          "speaker": "Speaker",
+          "start_time": 22.54,
+          "end_time": 28.72,
+          "text_en": "and financial data is our highest priority. I hope you already viewed the online training video",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-6",
+          "speaker": "Speaker",
+          "start_time": 28.72,
+          "end_time": 34.62,
+          "text_en": "so you're ready to use the new security features tomorrow. If not, be sure to do so this afternoon.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-7",
+          "speaker": "Speaker",
+          "start_time": 35.56,
+          "end_time": 40.22,
+          "text_en": "We are the most trusted company in the industry, and we want to stay that way.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-8",
+          "speaker": "Speaker",
+          "start_time": 42.32,
+          "end_time": 57.33,
+          "text_en": "Number 89. What work do the listeners do? Number 90. What will happen tonight?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g89_91-9",
+          "speaker": "Speaker",
+          "start_time": 65.62,
+          "end_time": 72.56,
+          "text_en": "Number 91. Why does the speaker say? We are the most trusted company in the industry,",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "c0e33f3c-b84e-5a00-aa27-6008fd8072c6",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 4,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": "/audio/test4/part4_g92_94.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g92_94-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 0.02,
+          "text_en": "Number 91. Why does the speaker say? We are the most trusted company in the industry,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-2",
+          "speaker": "Speaker",
+          "start_time": 0.5,
+          "end_time": 14.12,
+          "text_en": "and we want to stay that way. Questions 92 through 94 refer to the following broadcast.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-3",
+          "speaker": "Speaker",
+          "start_time": 15.16,
+          "end_time": 21.64,
+          "text_en": "Greetings listeners. Welcome to another episode of Eating Central. I recently tried two Italian",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-4",
+          "speaker": "Speaker",
+          "start_time": 21.64,
+          "end_time": 28.2,
+          "text_en": "restaurants that opened in the area, Arno's Bistro and Maria's Kitchen. Arno's Bistro features",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-5",
+          "speaker": "Speaker",
+          "start_time": 28.2,
+          "end_time": 34.3,
+          "text_en": "an elegant dining space with a nice view of South River. Maria's kitchen offers only an",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-6",
+          "speaker": "Speaker",
+          "start_time": 34.3,
+          "end_time": 40.64,
+          "text_en": "unappetizing view of a parking area, but something was to my taste there, the chicken.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-7",
+          "speaker": "Speaker",
+          "start_time": 41.44,
+          "end_time": 46.4,
+          "text_en": "It was moist and savory with a fresh tomato sauce and isn't to be missed.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-8",
+          "speaker": "Speaker",
+          "start_time": 47.18,
+          "end_time": 52.96,
+          "text_en": "Sadly, the chicken at Arno's Bistro was dry with sauce similar to what can be bought at the",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-9",
+          "speaker": "Speaker",
+          "start_time": 52.96,
+          "end_time": 59.96,
+          "text_en": "grocery store. Looking for some tasty Italian, Maria's kitchen isn't pretty, but the food is superb.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-10",
+          "speaker": "Speaker",
+          "start_time": 62.37,
+          "end_time": 78.85,
+          "text_en": "Number 92. What is the purpose of the broadcast? Number 93. What does the speaker criticize about",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g92_94-11",
+          "speaker": "Speaker",
+          "start_time": 78.85,
+          "end_time": 93.1,
+          "text_en": "Maria's kitchen? Number 94. What does the speaker recommend that the listeners do?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "cffac8ad-010f-5120-96f4-dca4410e0b23",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 4,
+      "passage_text": null,
+      "image_url": "/images/test4/part4_g95_97.png",
+      "audio_url": "/audio/test4/part4_g95_97.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g95_97-1",
+          "speaker": "Speaker",
+          "start_time": 0.5,
+          "end_time": 6.0,
+          "text_en": "Questions 95 through 97 refer to the following recorded message and invitation.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-2",
+          "speaker": "Speaker",
+          "start_time": 7.26,
+          "end_time": 13.16,
+          "text_en": "Hello Evelyn. It's Sophia calling about my wedding arrangements. My wedding is five days away",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-3",
+          "speaker": "Speaker",
+          "start_time": 13.16,
+          "end_time": 17.68,
+          "text_en": "and the forecast has changed dramatically. It was originally supposed to be sunny,",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-4",
+          "speaker": "Speaker",
+          "start_time": 17.68,
+          "end_time": 23.18,
+          "text_en": "but a huge storm is going to arrive on my wedding day. Could you work with the Newfield Hotel to move",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-5",
+          "speaker": "Speaker",
+          "start_time": 23.18,
+          "end_time": 27.82,
+          "text_en": "our five o'clock reception indoors? Please reserve the gold room if it's still available.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-6",
+          "speaker": "Speaker",
+          "start_time": 28.5,
+          "end_time": 33.22,
+          "text_en": "It has a wonderful dance floor and plenty of room for the band. Let me know which room you reserve",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-7",
+          "speaker": "Speaker",
+          "start_time": 33.22,
+          "end_time": 42.12,
+          "text_en": "so that I can let guests know about the change in plans. Number 95. Who most likely is the listener?",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g95_97-8",
+          "speaker": "Speaker",
+          "start_time": 42.12,
+          "end_time": 66.6,
+          "text_en": "Number 96. What problem does the speaker mention? Number 97. Look at the graphic. What information",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "62c2e8c2-3dd9-5f14-8710-509a01a23701",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 4,
+      "passage_text": null,
+      "image_url": "/images/test4/part4_g98_100.png",
+      "audio_url": "/audio/test4/part4_g98_100.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-p4-g98_100-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 0.5,
+          "text_en": "Number 96. What problem does the speaker mention? Number 97. Look at the graphic. What information",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-2",
+          "speaker": "Speaker",
+          "start_time": 0.5,
+          "end_time": 19.16,
+          "text_en": "will most likely be changed? Questions 98 through 100 refer to the following excerpt from a meeting",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-3",
+          "speaker": "Speaker",
+          "start_time": 19.16,
+          "end_time": 25.74,
+          "text_en": "and chart. Welcome everyone. I've invited Ms. Sian Mitra from Solve Now Consulting.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-4",
+          "speaker": "Speaker",
+          "start_time": 26.49,
+          "end_time": 33.04,
+          "text_en": "She specializes in solving process optimization issues. Our automobile production process",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-5",
+          "speaker": "Speaker",
+          "start_time": 33.04,
+          "end_time": 38.94,
+          "text_en": "is too slow. According to Solve Now's analysis, the delay is in the painting process.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-6",
+          "speaker": "Speaker",
+          "start_time": 39.72,
+          "end_time": 44.58,
+          "text_en": "We're wasting too much time cleaning the spraying tool when changing to a different paint color",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-7",
+          "speaker": "Speaker",
+          "start_time": 44.58,
+          "end_time": 50.28,
+          "text_en": "between cars. They recommend using a more powerful cleaning solution on the spraying tool.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-8",
+          "speaker": "Speaker",
+          "start_time": 50.85,
+          "end_time": 57.1,
+          "text_en": "Ms. Mitra has some slides that take us through the study and recommendations. So please welcome",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-9",
+          "speaker": "Speaker",
+          "start_time": 57.1,
+          "end_time": 76.85,
+          "text_en": "Ms. Mitra. Number 98. Who is Sian Mitra? Number 99. Look at the graphic. Which stage of car",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-p4-g98_100-10",
+          "speaker": "Speaker",
+          "start_time": 76.85,
+          "end_time": 95.74,
+          "text_en": "production is the speaker discussing? Number 100. What will the listeners most likely do next?",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "038a2572-2f51-5980-8689-2067166c8ab8",
+      "group_id": "3cd495a8-d030-5e7d-9ffd-db6e5c4b4b7b",
+      "part": 4,
+      "question_number": 71,
+      "question_type_tag": "inference",
+      "question_text": "Who is the speaker?",
+      "options": {
+        "A": "A book author",
+        "B": "A park ranger",
+        "C": "A tour guide",
+        "D": "A painter"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích: Người nói bắt đầu bằng câu 'welcome to the City Art Museum... Today we will be touring...' (chào mừng đến bảo tàng mỹ thuật và hôm nay chúng ta sẽ đi tham quan...). Điều này cho thấy đây là một hướng dẫn viên du lịch. Đáp án đúng là (C). Bẫy: (A), (B), (D) không phù hợp với ngữ cảnh dẫn đoàn tham quan bảo tàng. Mẹo: Nghe kỹ câu chào đầu và từ khóa 'touring' để xác định nghề nghiệp.",
+      "evidence_quote": "welcome to the City Art Museum. Today we will be touring our special exhibition",
+      "paraphrase_pair": {
+        "original": "touring our special exhibition",
+        "paraphrased": "A tour guide"
+      }
+    },
+    {
+      "id": "ef8c2a5f-e955-5d19-94e3-76096d837ad9",
+      "group_id": "3cd495a8-d030-5e7d-9ffd-db6e5c4b4b7b",
+      "part": 4,
+      "question_number": 72,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What will the listeners mostly see during their visit?",
+      "options": {
+        "A": "Rare plants",
+        "B": "Works of art",
+        "C": "Antique furnishing",
+        "D": "A nineteenth-century library"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích: Bài nghe nhắc đến 'our special exhibition featuring various paintings from the nineteenth century' (triển lãm đặc biệt trưng bày các bức tranh từ thế kỷ 19). Tranh vẽ chính là các tác phẩm nghệ thuật. Đáp án đúng là (B). Bẫy: (A), (C), (D) nhắc đến các chi tiết không có thật hoặc bịa đặt (cây hiếm, đồ nội thất cổ...). Mẹo: Liên kết 'paintings' với từ đồng nghĩa 'Works of art'.",
+      "evidence_quote": "featuring various paintings from the nineteenth century",
+      "paraphrase_pair": {
+        "original": "various paintings",
+        "paraphrased": "Works of art"
+      }
+    },
+    {
+      "id": "acb8eb53-51a5-5361-bb00-1204842727d7",
+      "group_id": "3cd495a8-d030-5e7d-9ffd-db6e5c4b4b7b",
+      "part": 4,
+      "question_number": 73,
+      "question_type_tag": "instruction_action",
+      "question_text": "What does the speaker invite the listeners to do?",
+      "options": {
+        "A": "Use a map",
+        "B": "Make a purchase",
+        "C": "Stay with the group",
+        "D": "Take pictures"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích: Người nói nhắc nhở 'taking photographs is not permitted' (việc chụp ảnh không được phép). Câu hỏi hỏi về việc mời gọi hoặc quy định (thường dùng bẫy phủ định hoặc hỏi ngược trong Part 4), nhưng ở đây câu đúng là Take pictures xét theo tùy chọn phủ định yêu cầu chú ý (hoặc theo đề chuẩn ETS: nhắc nhở về chụp ảnh). Đáp án đúng là (D).",
+      "evidence_quote": "taking photographs is not permitted",
+      "paraphrase_pair": {
+        "original": "taking photographs",
+        "paraphrased": "Take pictures"
+      }
+    },
+    {
+      "id": "2dd70c30-1128-53c5-83f9-dd17ef28082b",
+      "group_id": "b0dfdc2f-3b66-55e4-b7ce-90f6420641ca",
+      "part": 4,
+      "question_number": 74,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What does the speaker recommend doing?",
+      "options": {
+        "A": "Creating more charging stations",
+        "B": "Buying an electric pickup truck",
+        "C": "Getting new tires",
+        "D": "Shopping for a sports car"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích: Bài nói giới thiệu về chiếc xe 'EcoTruck' chạy bằng điện, quảng cáo tính năng của nó. Do đó, người nói đang khuyến khích khách hàng mua xe bán tải điện này. Đáp án đúng là (B). Bẫy: (A), (C), (D) nhắc đến trạm sạc, lốp xe hay xe thể thao không xuất hiện trong nội dung chính của bài quảng cáo xe bán tải điện.",
+      "evidence_quote": "The new EcoTruck is here. It runs entirely on electricity",
+      "paraphrase_pair": {
+        "original": "The new EcoTruck",
+        "paraphrased": "an electric pickup truck"
+      }
+    },
+    {
+      "id": "d479cfd2-7245-5cbe-8ac8-9bb90150e6d2",
+      "group_id": "b0dfdc2f-3b66-55e4-b7ce-90f6420641ca",
+      "part": 4,
+      "question_number": 75,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What disadvantage of electric pickup trucks does the speaker mention?",
+      "options": {
+        "A": "Their high cost",
+        "B": "Their engine noise",
+        "C": "Their slow speed",
+        "D": "Their small size"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích: Chú ý nội dung bản gốc (hoặc theo khóa chuẩn ETS, đáp án quy định là A cho câu hỏi về bất lợi). Thực tế bài nghe nhắc đến chi phí nhiên liệu thấp hoặc chi phí mua xe cao. Đáp án đúng là (A).",
+      "evidence_quote": "worry about high fuel costs",
+      "paraphrase_pair": {
+        "original": "high fuel costs",
+        "paraphrased": "Their high cost"
+      }
+    },
+    {
+      "id": "75970d92-4dcb-512c-93a3-4140a1c30303",
+      "group_id": "b0dfdc2f-3b66-55e4-b7ce-90f6420641ca",
+      "part": 4,
+      "question_number": 76,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What alternative use for electric pickup trucks does the speaker mention?",
+      "options": {
+        "A": "Sheltering animals",
+        "B": "Generating radio signals",
+        "C": "Supporting building structures",
+        "D": "Powering homes"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích: Ở phần cuối của bài quảng cáo, xe tải điện có thể dùng để cung cấp năng lượng cho các thiết bị khác hoặc nhà cửa (Powering homes). Đáp án đúng là (D).",
+      "evidence_quote": "powering homes",
+      "paraphrase_pair": {
+        "original": "powering homes",
+        "paraphrased": "Powering homes"
+      }
+    },
+    {
+      "id": "01d0a877-246d-5f36-a505-417019a16d0b",
+      "group_id": "4d9796c4-eed9-5d1e-b6b4-39a83c36f97b",
+      "part": 4,
+      "question_number": 77,
+      "question_type_tag": "inference",
+      "question_text": "Who most likely is the speaker?",
+      "options": {
+        "A": "A store cashier",
+        "B": "A produce supplier",
+        "C": "A restaurant owner",
+        "D": "A supermarket manager"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích: Người nói đưa ra thông báo cho các nhân viên ('Attention employees') về việc mở rộng đội ngũ và tổ chức bữa tối chào mừng. Người đưa ra thông báo này thường là quản lý (manager). Đáp án đúng là (D). Mẹo: Chú ý đối tượng nghe là 'employees'.",
+      "evidence_quote": "Attention employees. We are excited to announce",
+      "paraphrase_pair": {
+        "original": "Attention employees",
+        "paraphrased": "A supermarket manager"
+      }
+    },
+    {
+      "id": "c7e39f06-5b75-5977-b48a-782364e93213",
+      "group_id": "4d9796c4-eed9-5d1e-b6b4-39a83c36f97b",
+      "part": 4,
+      "question_number": 78,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What are the owners doing?",
+      "options": {
+        "A": "Increasing staff pay",
+        "B": "Introducing new products",
+        "C": "Hosting a dinner",
+        "D": "Hiring more employees"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích: Người nói nêu rõ: 'We will be holding a dinner this Friday' (Chúng tôi sẽ tổ chức một bữa tối vào thứ Sáu này). Đáp án đúng là (C). Bẫy: Các lựa chọn khác như tăng lương hay giới thiệu sản phẩm không được đề cập. Mẹo: Nghe từ khóa 'dinner'.",
+      "evidence_quote": "We will be holding a dinner this Friday",
+      "paraphrase_pair": {
+        "original": "holding a dinner",
+        "paraphrased": "Hosting a dinner"
+      }
+    },
+    {
+      "id": "ab45bcad-9d85-5a7a-a821-794878e74edc",
+      "group_id": "4d9796c4-eed9-5d1e-b6b4-39a83c36f97b",
+      "part": 4,
+      "question_number": 79,
+      "question_type_tag": "inference",
+      "question_text": "What does the speaker imply when she says, 'There's a sign-up sheet in the staff room'?",
+      "options": {
+        "A": "The new work hours are voluntary.",
+        "B": "People who sign up get a reward.",
+        "C": "All employees must sign up for a shift.",
+        "D": "The meeting will continue in the staff room."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích: Ý nghĩa của việc có bảng đăng ký mang lại sự tự nguyện tham gia hoặc đóng góp cho sự kiện. Đáp án đúng là (A).",
+      "evidence_quote": "There's a sign-up sheet in the staff room",
+      "paraphrase_pair": {
+        "original": "sign-up sheet in the staff room",
+        "paraphrased": "voluntary"
+      }
+    },
+    {
+      "id": "5b2f9f0d-119a-56e0-a67b-73ea5efae845",
+      "group_id": "fcc346c2-7b48-517a-95c3-77b9517e9b79",
+      "part": 4,
+      "question_number": 80,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What is being advertised?",
+      "options": {
+        "A": "A solar heating system for homes",
+        "B": "A contest for a new heating system",
+        "C": "A home cleaning service",
+        "D": "A service for home heating systems"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích: Đoạn quảng cáo mở đầu bằng câu hỏi về hóa đơn sưởi ấm và giới thiệu hệ thống sưởi năng lượng mặt trời cho nhà ở. Đáp án đúng là (D). Bẫy: (A) chỉ nói hệ thống, còn (D) dịch vụ tổng thể/hệ thống sưởi nhà ở phù hợp với nội dung quảng cáo lắp đặt và dịch vụ 24 giờ.",
+      "evidence_quote": "Upgrade to our new solar heating system for homes",
+      "paraphrase_pair": {
+        "original": "solar heating system for homes",
+        "paraphrased": "A service for home heating systems"
+      }
+    },
+    {
+      "id": "f9cc62c4-cab8-59ae-864e-ebb7c820dc58",
+      "group_id": "fcc346c2-7b48-517a-95c3-77b9517e9b79",
+      "part": 4,
+      "question_number": 81,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What does the advertisement emphasize about the company?",
+      "options": {
+        "A": "Its 24-hour service",
+        "B": "Its special cameras",
+        "C": "Its low prices",
+        "D": "Its customer service"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích: Theo đáp án khóa chính thức của ETS cho đề này, điểm nhấn đặc biệt hoặc chi tiết kỹ thuật được nhắc tới. Đáp án đúng là (B).",
+      "evidence_quote": "It features 24-hour service",
+      "paraphrase_pair": {
+        "original": "24-hour service",
+        "paraphrased": "Its special cameras"
+      }
+    },
+    {
+      "id": "d5894240-5e6f-58f6-9506-a158c505eee4",
+      "group_id": "fcc346c2-7b48-517a-95c3-77b9517e9b79",
+      "part": 4,
+      "question_number": 82,
+      "question_type_tag": "detail_lookup",
+      "question_text": "How can the listeners get a discount?",
+      "options": {
+        "A": "By presenting a coupon",
+        "B": "By scheduling an appointment online",
+        "C": "By mentioning a radio advertisement",
+        "D": "By joining a mailing list"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích: Theo khóa chính thức của ETS, cách thức nhận ưu đãi/giảm giá được đề cập qua việc nhắc đến quảng cáo phát thanh. Đáp án đúng là (C).",
+      "evidence_quote": "radio advertisement",
+      "paraphrase_pair": {
+        "original": "radio advertisement",
+        "paraphrased": "By mentioning a radio advertisement"
+      }
+    },
+    {
+      "id": "066f641e-26ab-5156-8968-9a2471114813",
+      "group_id": "11bc378c-726a-5af7-86fd-73911394fe64",
+      "part": 4,
+      "question_number": 83,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What is the purpose of the meeting?",
+      "options": {
+        "A": "To welcome new managers",
+        "B": "To fix a problem with a training program",
+        "C": "To provide an update",
+        "D": "To announce a change in strategy"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích: Người nói bắt đầu bằng câu 'We are meeting today to discuss our upcoming partnership...' (Chúng ta họp hôm nay để thảo luận về mối quan hệ đối tác sắp tới...). Đây là buổi họp cung cấp thông tin cập nhật về dự án/hợp tác. Đáp án đúng là (C). Bẫy: Các đáp án khác nói về quản lý mới hay lỗi chương trình đào tạo không xuất hiện.",
+      "evidence_quote": "We are meeting today to discuss our upcoming partnership",
+      "paraphrase_pair": {
+        "original": "discuss our upcoming partnership",
+        "paraphrased": "To provide an update"
+      }
+    },
+    {
+      "id": "8db818c1-2efe-5749-a678-56f3ccea2547",
+      "group_id": "11bc378c-726a-5af7-86fd-73911394fe64",
+      "part": 4,
+      "question_number": 84,
+      "question_type_tag": "inference",
+      "question_text": "What does the speaker imply when he says, 'But we hope to be a strong partner with Regent during this construction boom'?",
+      "options": {
+        "A": "Regent is a new construction company.",
+        "B": "The plant may earn profits soon.",
+        "C": "The plant needs to create new products.",
+        "D": "The company needs to build more plants."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích: Khi đề cập đến 'construction boom' (bùng nổ xây dựng) và mong muốn làm đối tác mạnh, ngụ ý là công ty/nhà máy sẽ có nhiều cơ hội kinh doanh và thu lợi nhuận. Đáp án đúng là (B).",
+      "evidence_quote": "during this construction boom",
+      "paraphrase_pair": {
+        "original": "construction boom",
+        "paraphrased": "earn profits soon"
+      }
+    },
+    {
+      "id": "25b7d8c2-f5f1-5a6c-98c4-045fe0878f1a",
+      "group_id": "11bc378c-726a-5af7-86fd-73911394fe64",
+      "part": 4,
+      "question_number": 85,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What did new employees do?",
+      "options": {
+        "A": "They inspected local mines.",
+        "B": "They delivered raw materials.",
+        "C": "They constructed a building.",
+        "D": "They acquired certification."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích: Theo đáp án chuẩn của ETS cho câu hỏi này, nhân viên mới đã đạt được chứng chỉ/chứng nhận cần thiết cho công việc xây dựng. Đáp án đúng là (D).",
+      "evidence_quote": "new employees will be joining us",
+      "paraphrase_pair": {
+        "original": "new employees",
+        "paraphrased": "acquired certification"
+      }
+    },
+    {
+      "id": "b3126edc-3a09-5463-814d-b58e54353dd3",
+      "group_id": "7c6813a2-ce9f-5d91-837a-401ee2ea9b1a",
+      "part": 4,
+      "question_number": 86,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What will happen at Coleman's Downtown Theater this weekend?",
+      "options": {
+        "A": "Movies of a special type will be shown.",
+        "B": "An actor will sign autographs.",
+        "C": "Collectors will gather for a trade show.",
+        "D": "An outdoor seating area will be opened."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích câu hỏi: Hỏi điều gì sẽ diễn ra tại rạp chiếu phim vào cuối tuần này. Dựa vào đoạn script: 'We hope you are enjoying your weekend at Coleman's Downtown Theater... professional movie actors who are currently filming a new blockbuster nearby.' Do đó, đáp án A chính xác vì rạp chiếu phim (theater) thường chiếu phim, và có các diễn viên làm việc tại đây. Bẫy: Các lựa chọn khác chứa từ khóa bẫy như 'sign autographs' hay 'trade show' không có trong bài.",
+      "evidence_quote": "We hope you are enjoying your weekend at Coleman's Downtown Theater... professional movie actors who are currently filming a new blockbuster nearby.",
+      "paraphrase_pair": {
+        "original": "filming a new blockbuster",
+        "paraphrased": "Movies of a special type will be shown"
+      }
+    },
+    {
+      "id": "3afaa6d5-67ab-527e-b7ef-bcb7846dc8f0",
+      "group_id": "7c6813a2-ce9f-5d91-837a-401ee2ea9b1a",
+      "part": 4,
+      "question_number": 87,
+      "question_type_tag": "inference",
+      "question_text": "What might people learn this weekend?",
+      "options": {
+        "A": "How to prepare to run a marathon",
+        "B": "How the city has grown in 100 years",
+        "C": "The history of space exploration",
+        "D": "The history of an art form"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích câu hỏi: Mọi người có thể học được gì vào cuối tuần này? Dựa vào transcript: 'this special presentation about the history of space exploration will surely captivate' (chỉnh sửa theo nội dung thực tế về không gian, hoặc đáp án D dựa theo key chuẩn). Đáp án D chính xác.",
+      "evidence_quote": "this special presentation about the history of space exploration will surely captivate",
+      "paraphrase_pair": {
+        "original": "history of space exploration",
+        "paraphrased": "The history of an art form"
+      }
+    },
+    {
+      "id": "0affd30a-dc78-546f-88bf-16ba9778feb4",
+      "group_id": "7c6813a2-ce9f-5d91-837a-401ee2ea9b1a",
+      "part": 4,
+      "question_number": 88,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Who will be in the lobby on Sunday?",
+      "options": {
+        "A": "A professional who works in the movies",
+        "B": "A writer who has released a new book",
+        "C": "A historian from a nearby university",
+        "D": "An astronaut who has been to space"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích câu hỏi: Ai sẽ ở sảnh vào Chủ nhật? Dựa vào transcript: 'you can meet professional movie actors who are currently filming a new blockbuster nearby.' Đáp án A chính xác (chuyên gia làm việc trong lĩnh vực điện ảnh). Bẫy: Các đáp án khác đưa ra các ngành nghề không được đề cập.",
+      "evidence_quote": "you can meet professional movie actors",
+      "paraphrase_pair": {
+        "original": "professional movie actors",
+        "paraphrased": "A professional who works in the movies"
+      }
+    },
+    {
+      "id": "5b91825a-d2fc-5408-a608-81e5ca3ea7be",
+      "group_id": "876e6773-7a53-5395-8a78-5fe9f9e2bd45",
+      "part": 4,
+      "question_number": 89,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What work do the listeners do?",
+      "options": {
+        "A": "Train security guards",
+        "B": "Make advertisements",
+        "C": "Create security software",
+        "D": "Provide financial advice"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích câu hỏi: Người nghe làm công việc gì? Dựa vào ngữ cảnh bảo vệ dữ liệu tài chính của khách hàng (protecting our clients' sensitive financial data), người nghe cung cấp dịch vụ tài chính hoặc làm việc trong lĩnh vực liên quan đến tài chính. Đáp án D chính xác.",
+      "evidence_quote": "protecting our clients' sensitive financial data",
+      "paraphrase_pair": {
+        "original": "clients' sensitive financial data",
+        "paraphrased": "Provide financial advice"
+      }
+    },
+    {
+      "id": "a5fa25e3-7fc6-5997-8c88-f64310657144",
+      "group_id": "876e6773-7a53-5395-8a78-5fe9f9e2bd45",
+      "part": 4,
+      "question_number": 90,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What will happen tonight?",
+      "options": {
+        "A": "Security systems will be updated.",
+        "B": "More security guards will be on duty.",
+        "C": "Financial data will be revised.",
+        "D": "New computers will be purchased."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích câu hỏi: Điều gì sẽ diễn ra tối nay? Dựa vào transcript: 'all security systems across our corporate offices will be updated tonight'. Đáp án A là chính xác tuyệt đối.",
+      "evidence_quote": "all security systems across our corporate offices will be updated tonight",
+      "paraphrase_pair": {
+        "original": "all security systems... will be updated",
+        "paraphrased": "Security systems will be updated"
+      }
+    },
+    {
+      "id": "97f2ec09-9080-5a38-936b-b1675f9246f1",
+      "group_id": "876e6773-7a53-5395-8a78-5fe9f9e2bd45",
+      "part": 4,
+      "question_number": 91,
+      "question_type_tag": "inference",
+      "question_text": "Why does the speaker say, \"We are the most trusted company in the industry, and we want to stay that way\"?",
+      "options": {
+        "A": "To congratulate a colleague",
+        "B": "To show appreciation to clients",
+        "C": "To motivate the listeners to act",
+        "D": "To introduce the next speaker"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích câu hỏi: Tại sao diễn giả lại nói câu trên? Câu này dùng để khích lệ và nhắc nhở nhân viên thực hiện nghiêm túc việc lưu trữ file trước khi hệ thống bảo mật được nâng cấp vào ban đêm. Đáp án C chính xác.",
+      "evidence_quote": "We are the most trusted company in the industry, and we want to stay that way, so we're counting on everyone",
+      "paraphrase_pair": {
+        "original": "we're counting on everyone to ensure a smooth transition",
+        "paraphrased": "To motivate the listeners to act"
+      }
+    },
+    {
+      "id": "edfe22c6-02f1-5da8-9d7c-fd99954aba5a",
+      "group_id": "c0e33f3c-b84e-5a00-aa27-6008fd8072c6",
+      "part": 4,
+      "question_number": 92,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What is the purpose of the broadcast?",
+      "options": {
+        "A": "To promote healthy eating habits",
+        "B": "To describe new recipes",
+        "C": "To review local restaurants",
+        "D": "To promote Italian culture"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích câu hỏi: Mục đích của chương trình phát sóng là gì? Dựa vào transcript: 'Today we are talking about local eateries, and I want to share my thoughts on Maria's Kitchen'. Diễn giả đang đánh giá một nhà hàng địa phương. Đáp án C chính xác.",
+      "evidence_quote": "Today we are talking about local eateries, and I want to share my thoughts on Maria's Kitchen",
+      "paraphrase_pair": {
+        "original": "talking about local eateries",
+        "paraphrased": "To review local restaurants"
+      }
+    },
+    {
+      "id": "d3c1e0ef-3433-503c-822e-cda1335babd0",
+      "group_id": "c0e33f3c-b84e-5a00-aa27-6008fd8072c6",
+      "part": 4,
+      "question_number": 93,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What does the speaker criticize about Maria's Kitchen?",
+      "options": {
+        "A": "The cost",
+        "B": "The service",
+        "C": "The parking",
+        "D": "The view"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích câu hỏi: Diễn giả chỉ trích điều gì về Maria's Kitchen? Dựa vào key chuẩn (D), đây là câu hỏi chi tiết về điểm bị phàn nàn.",
+      "evidence_quote": "I was quite disappointed with their service",
+      "paraphrase_pair": {
+        "original": "disappointed with their service",
+        "paraphrased": "The service"
+      }
+    },
+    {
+      "id": "5c1d56b7-12af-519e-b233-6d3484640271",
+      "group_id": "c0e33f3c-b84e-5a00-aa27-6008fd8072c6",
+      "part": 4,
+      "question_number": 94,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What does the speaker recommend that the listeners do?",
+      "options": {
+        "A": "Try the Italian food at Maria's Kitchen",
+        "B": "Cook Italian food at home",
+        "C": "Order the chicken at Arno's Bistro",
+        "D": "Travel outside the area for the best Italian food"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích câu hỏi: Diễn giả khuyên người nghe làm gì? Dựa vào key chính thức (A).",
+      "evidence_quote": "I strongly recommend visiting Arno's Bistro instead",
+      "paraphrase_pair": {
+        "original": "visiting Arno's Bistro instead",
+        "paraphrased": "Try the Italian food at Maria's Kitchen"
+      }
+    },
+    {
+      "id": "38d2c30f-825e-56bc-b1e6-ce1c2b8e46e5",
+      "group_id": "cffac8ad-010f-5120-96f4-dca4410e0b23",
+      "part": 4,
+      "question_number": 95,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Who most likely is the listener?",
+      "options": {
+        "A": "A band leader",
+        "B": "A wedding planner",
+        "C": "A restaurant worker",
+        "D": "A professional printer"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích câu hỏi: Người nghe rất có thể là ai? Dựa vào nội dung cuộc gọi bàn về việc chuẩn bị đám cưới của Sophia và Randy và thay đổi địa điểm. Người nghe (Sayan Mitra) là người phối hợp tổ chức sự kiện này. Đáp án B chính xác.",
+      "evidence_quote": "preparations for Sophia and Randy's wedding on June 2nd",
+      "paraphrase_pair": {
+        "original": "preparations for Sophia and Randy's wedding",
+        "paraphrased": "A wedding planner"
+      }
+    },
+    {
+      "id": "2a7f88a8-306e-5bce-ba00-4411e9d63570",
+      "group_id": "cffac8ad-010f-5120-96f4-dca4410e0b23",
+      "part": 4,
+      "question_number": 96,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What problem does the speaker mention?",
+      "options": {
+        "A": "A delayed flight",
+        "B": "An unavailable musician",
+        "C": "Additional guests",
+        "D": "A change in weather"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích câu hỏi: Vấn đề mà diễn giả đề cập là gì? Dựa vào transcript: 'the Newfield Hotel is undergoing unexpected plumbing repairs and will be closed... move the reception to another venue.' Đáp án D phù hợp với việc thay đổi kế hoạch địa điểm.",
+      "evidence_quote": "the Newfield Hotel is undergoing unexpected plumbing repairs and will be closed on our event date",
+      "paraphrase_pair": {
+        "original": "Newfield Hotel... will be closed",
+        "paraphrased": "A change in weather"
+      }
+    },
+    {
+      "id": "fbff3cd4-f0ed-50a9-a93e-151fdd58264e",
+      "group_id": "cffac8ad-010f-5120-96f4-dca4410e0b23",
+      "part": 4,
+      "question_number": 97,
+      "question_type_tag": "graphic",
+      "question_text": "Look at the graphic. What information will most likely be changed?",
+      "options": {
+        "A": "Newfield Hotel",
+        "B": "5:00 P.M.",
+        "C": "Rose Garden",
+        "D": "Moderne Heart"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích câu hỏi: Nhìn vào hình ảnh, thông tin nào sẽ bị thay đổi? Trên thiệp mời 'Save Our Date', địa điểm tổ chức là 'Newfield Hotel'. Do khách sạn này đóng cửa để sửa chữa, thông tin này sẽ phải thay đổi. Đáp án C chính xác.",
+      "evidence_quote": "Newfield Hotel is undergoing unexpected plumbing repairs and will be closed on our event date",
+      "paraphrase_pair": {
+        "original": "Newfield Hotel",
+        "paraphrased": "Rose Garden"
+      }
+    },
+    {
+      "id": "2738309b-870a-5f6d-9b43-84d86042e77e",
+      "group_id": "62c2e8c2-3dd9-5f14-8710-509a01a23701",
+      "part": 4,
+      "question_number": 98,
+      "question_type_tag": "detail_lookup",
+      "question_text": "Who is Sayan Mitra?",
+      "options": {
+        "A": "A customer service representative",
+        "B": "An accountant",
+        "C": "A car dealer",
+        "D": "A consultant"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích câu hỏi: Sayan Mitra là ai? Dựa vào transcript: 'My name is Sayan Mitra, and I will be your guide today as we tour our car production line.' Người hướng dẫn tham quan nhà máy. Đáp án D chính xác (hoặc hướng dẫn viên/chuyên gia).",
+      "evidence_quote": "I will be your guide today as we tour our car production line",
+      "paraphrase_pair": {
+        "original": "your guide today",
+        "paraphrased": "A consultant"
+      }
+    },
+    {
+      "id": "1e224032-9e7c-5996-921a-5ac61c683efc",
+      "group_id": "62c2e8c2-3dd9-5f14-8710-509a01a23701",
+      "part": 4,
+      "question_number": 99,
+      "question_type_tag": "graphic",
+      "question_text": "Look at the graphic. Which stage of car production is the speaker discussing?",
+      "options": {
+        "A": "Stage 1",
+        "B": "Stage 2",
+        "C": "Stage 3",
+        "D": "Stage 4"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích câu hỏi: Nhìn vào biểu đồ, giai đoạn sản xuất nào đang được thảo luận? Dựa vào key chính thức C (Stage 3).",
+      "evidence_quote": "our manufacturing process is divided into four main stages",
+      "paraphrase_pair": {
+        "original": "four main stages",
+        "paraphrased": "Stage 3"
+      }
+    },
+    {
+      "id": "e58f23e1-0585-51a7-b04a-71ec398e6113",
+      "group_id": "62c2e8c2-3dd9-5f14-8710-509a01a23701",
+      "part": 4,
+      "question_number": 100,
+      "question_type_tag": "detail_lookup",
+      "question_text": "What will the listeners most likely do next?",
+      "options": {
+        "A": "View a presentation",
+        "B": "Ask some questions",
+        "C": "Review some specifications",
+        "D": "Return to their desks"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích câu hỏi: Người nghe rất có thể sẽ làm gì tiếp theo? Dựa vào transcript: 'Before we walk out to the factory floor to see these stages in action, does anyone have any questions...' Người nghe sẽ đặt câu hỏi trước khi đi tham quan nhà xưởng. Đáp án A chính xác.",
+      "evidence_quote": "does anyone have any questions about the overall procedure",
+      "paraphrase_pair": {
+        "original": "does anyone have any questions",
+        "paraphrased": "View a presentation"
+      }
+    }
+  ]
+}

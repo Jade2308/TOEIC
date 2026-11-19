@@ -1,0 +1,561 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 2",
+    "part": 5,
+    "total_groups": 1,
+    "total_questions": 30
+  },
+  "question_groups": [
+    {
+      "id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "test_name": "ETS TOEIC 2023 - Test 2",
+      "part": 5,
+      "passage_text": null,
+      "image_url": null,
+      "audio_url": null,
+      "transcript_segments": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "5d79bb81-a456-50e3-bbc7-505c3309a41d",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 101,
+      "question_type_tag": "verb_tense",
+      "question_text": "Last week, three staff members ------- at the local library's book sale.",
+      "options": {
+        "A": "volunteer",
+        "B": "voluntary",
+        "C": "volunteered",
+        "D": "volunteering"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu có trạng ngữ chỉ thời gian \"Last week\" (tuần trước) cho thấy hành động đã xảy ra và kết thúc trong quá khứ. Chủ ngữ là \"three staff members\" (ba nhân viên). Vị trí cần điền là động từ chính của câu.\nVì sao đáp án đúng là chính xác: \"volunteered\" là dạng quá khứ đơn của động từ \"volunteer\" (tình nguyện), phù hợp với thì quá khứ đơn được chỉ định bởi \"Last week\". (Dịch: Tuần trước, ba nhân viên đã tình nguyện tại buổi bán sách của thư viện địa phương.)\nBẫy đề thi ETS: \n(A) \"volunteer\" là động từ nguyên mẫu hoặc danh từ, không phù hợp với thì quá khứ.\n(B) \"voluntary\" là tính từ (tự nguyện), không thể làm động từ chính.\n(D) \"volunteering\" là danh động từ hoặc thì tiếp diễn, cần có trợ động từ (ví dụ: were volunteering) để làm động từ chính trong câu này, nhưng ngữ cảnh quá khứ đơn không yêu cầu thì tiếp diễn.\nMẹo phản xạ nhanh: Khi thấy trạng ngữ chỉ thời gian cụ thể trong quá khứ như \"Last week\", hãy tìm ngay động từ ở thì quá khứ đơn. Loại bỏ các lựa chọn là danh từ, tính từ hoặc dạng V-ing không có trợ động từ.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "049ff7c8-559a-5461-8983-48158b4851a8",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 102,
+      "question_type_tag": "preposition",
+      "question_text": "In April, prices are expected to drop ------- 20 percent.",
+      "options": {
+        "A": "with",
+        "B": "on",
+        "C": "since",
+        "D": "by"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu này nói về sự thay đổi về số lượng hoặc tỷ lệ. Giới từ cần điền đứng trước một con số hoặc tỷ lệ phần trăm để chỉ mức độ thay đổi.\nVì sao đáp án đúng là chính xác: Giới từ \"by\" được dùng để chỉ mức độ thay đổi, giảm hoặc tăng bao nhiêu. (Dịch: Vào tháng Tư, giá dự kiến sẽ giảm 20 phần trăm.)\nBẫy đề thi ETS: \n(A) \"with\" thường chỉ sự đi kèm, cùng với.\n(B) \"on\" thường chỉ vị trí trên bề mặt hoặc ngày tháng cụ thể.\n(C) \"since\" chỉ mốc thời gian bắt đầu từ khi nào.\nCác giới từ này không phù hợp để diễn tả mức độ thay đổi.\nMẹo phản xạ nhanh: Khi thấy động từ chỉ sự thay đổi (drop, increase, rise, fall) theo sau là một con số hoặc phần trăm, hãy nghĩ ngay đến giới từ \"by\" để chỉ mức độ thay đổi.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "91aa33fc-24e0-55ec-b6f7-e23f12fe0b2a",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 103,
+      "question_type_tag": "pronoun",
+      "question_text": "The project management software allows staff to handle many tasks by -------.",
+      "options": {
+        "A": "themselves",
+        "B": "them",
+        "C": "they",
+        "D": "theirs"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu này có cấu trúc \"by + đại từ phản thân\" để nhấn mạnh rằng hành động được thực hiện bởi chính chủ thể, không cần sự giúp đỡ từ bên ngoài. Chủ thể ở đây là \"staff\" (nhân viên), là một danh từ số nhiều.\nVì sao đáp án đúng là chính xác: \"themselves\" là đại từ phản thân số nhiều, phù hợp với chủ ngữ \"staff\" (số nhiều) và cấu trúc \"by + đại từ phản thân\" (tự mình). (Dịch: Phần mềm quản lý dự án cho phép nhân viên tự mình xử lý nhiều nhiệm vụ.)\nBẫy đề thi ETS: \n(B) \"them\" là đại từ tân ngữ, không dùng để nhấn mạnh hành động tự thân.\n(C) \"they\" là đại từ chủ ngữ, không đứng sau giới từ \"by\" trong trường hợp này.\n(D) \"theirs\" là đại từ sở hữu, không phù hợp với ngữ cảnh.\nMẹo phản xạ nhanh: Khi thấy \"by\" theo sau là một khoảng trống và ngữ cảnh cần nhấn mạnh hành động tự thân của chủ ngữ, hãy chọn đại từ phản thân tương ứng với chủ ngữ đó.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "e7a67770-fd28-5bab-afec-d60312ed531d",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 104,
+      "question_type_tag": "vocabulary",
+      "question_text": "Local manufacturers have ------- shipping times by hiring external shipping companies.",
+      "options": {
+        "A": "attempted",
+        "B": "reduced",
+        "C": "weakened",
+        "D": "finished"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu này nói về việc các nhà sản xuất địa phương đã làm gì với thời gian vận chuyển bằng cách thuê các công ty vận chuyển bên ngoài. Hành động thuê công ty bên ngoài thường nhằm mục đích cải thiện hiệu quả, đặc biệt là về thời gian.\nVì sao đáp án đúng là chính xác: \"reduced\" (giảm bớt) là động từ phù hợp nhất về nghĩa. Thuê công ty vận chuyển bên ngoài thường giúp giảm thời gian vận chuyển. (Dịch: Các nhà sản xuất địa phương đã giảm thời gian vận chuyển bằng cách thuê các công ty vận chuyển bên ngoài.)\nBẫy đề thi ETS: \n(A) \"attempted\" (cố gắng) không phù hợp vì câu cần một kết quả hành động.\n(C) \"weakened\" (làm suy yếu) mang nghĩa tiêu cực, không phù hợp với việc thuê thêm dịch vụ.\n(D) \"finished\" (hoàn thành) không dùng với \"shipping times\" mà dùng với \"shipping process\" hoặc \"delivery\".\nMẹo phản xạ nhanh: Đọc kỹ ngữ cảnh và mối quan hệ nhân quả. Thuê thêm dịch vụ vận chuyển bên ngoài thường dẫn đến việc giảm thời gian vận chuyển. Chọn từ có nghĩa tích cực và phù hợp với kết quả mong muốn.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "9b6582a0-e114-509f-98fd-0cfb90f53478",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 105,
+      "question_type_tag": "word_form",
+      "question_text": "Gramwell Corporation may charge an ------- fee for last month's work.",
+      "options": {
+        "A": "add",
+        "B": "adding",
+        "C": "additionally",
+        "D": "additional"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền đứng trước danh từ \"fee\" (phí) và sau mạo từ \"an\". Do đó, đây phải là một tính từ bổ nghĩa cho danh từ \"fee\".\nVì sao đáp án đúng là chính xác: \"additional\" là tính từ (bổ sung, thêm vào), phù hợp để bổ nghĩa cho \"fee\". (Dịch: Tập đoàn Gramwell có thể tính thêm một khoản phí cho công việc của tháng trước.)\nBẫy đề thi ETS: \n(A) \"add\" là động từ (thêm vào).\n(B) \"adding\" là danh động từ hoặc thì tiếp diễn.\n(C) \"additionally\" là trạng từ (thêm vào đó).\nCác lựa chọn này không phải là tính từ và không thể đứng trước danh từ \"fee\" để bổ nghĩa.\nMẹo phản xạ nhanh: Khi thấy mạo từ (a/an/the) + khoảng trống + danh từ, hãy ưu tiên chọn tính từ. Kiểm tra hậu tố để xác định dạng từ.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "27659cb6-dbb0-575d-9f57-5627958493c4",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 106,
+      "question_type_tag": "pronoun",
+      "question_text": "Ms. Kang prefers to complete ------- current project before transferring to the finance department.",
+      "options": {
+        "A": "herself",
+        "B": "she",
+        "C": "her",
+        "D": "hers"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền đứng trước cụm danh từ \"current project\" (dự án hiện tại). Do đó, đây phải là một tính từ sở hữu bổ nghĩa cho cụm danh từ này.\nVì sao đáp án đúng là chính xác: \"her\" là tính từ sở hữu (của cô ấy), phù hợp để chỉ dự án thuộc về Ms. Kang. (Dịch: Cô Kang muốn hoàn thành dự án hiện tại của mình trước khi chuyển sang bộ phận tài chính.)\nBẫy đề thi ETS: \n(A) \"herself\" là đại từ phản thân, không đứng trước danh từ để bổ nghĩa.\n(B) \"she\" là đại từ chủ ngữ.\n(D) \"hers\" là đại từ sở hữu, không đứng trước danh từ.\nMẹo phản xạ nhanh: Khi thấy khoảng trống đứng trước một danh từ và cần chỉ sự sở hữu, hãy chọn tính từ sở hữu (my, your, his, her, its, our, their).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c0b563c2-c7b6-5e78-ac09-91a1c432cd53",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 107,
+      "question_type_tag": "word_form",
+      "question_text": "There are ------- criteria that must be met for a password to be changed successfully.",
+      "options": {
+        "A": "specific",
+        "B": "to specify",
+        "C": "specify",
+        "D": "specifies"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền đứng trước danh từ \"criteria\" (tiêu chí) và sau động từ \"are\". Do đó, đây phải là một tính từ bổ nghĩa cho danh từ \"criteria\".\nVì sao đáp án đúng là chính xác: \"specific\" là tính từ (cụ thể, đặc trưng), phù hợp để mô tả các tiêu chí. (Dịch: Có những tiêu chí cụ thể phải được đáp ứng để thay đổi mật khẩu thành công.)\nBẫy đề thi ETS: \n(B) \"to specify\" là động từ nguyên mẫu có \"to\".\n(C) \"specify\" là động từ nguyên mẫu.\n(D) \"specifies\" là động từ chia ở ngôi thứ ba số ít.\nCác lựa chọn này đều là động từ và không thể bổ nghĩa cho danh từ \"criteria\" trong vị trí này.\nMẹo phản xạ nhanh: Khi thấy \"be + khoảng trống + danh từ\", hãy ưu tiên chọn tính từ để bổ nghĩa cho danh từ đó.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "5e79c022-1142-54ca-8606-ecceaf3803f1",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 108,
+      "question_type_tag": "word_form",
+      "question_text": "To assist the costume designers in preparing for the film, fabric samples can be sent to the ------- designer.",
+      "options": {
+        "A": "leader",
+        "B": "leads",
+        "C": "led",
+        "D": "lead"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền đứng trước danh từ \"designer\" (nhà thiết kế). Trong trường hợp này, từ cần điền đóng vai trò như một danh từ bổ nghĩa cho danh từ khác, tạo thành một cụm danh từ ghép.\nVì sao đáp án đúng là chính xác: \"lead\" là danh từ (chính, chủ chốt) khi đứng trước một danh từ khác để tạo thành danh từ ghép \"lead designer\" (nhà thiết kế chính). (Dịch: Để hỗ trợ các nhà thiết kế trang phục chuẩn bị cho bộ phim, các mẫu vải có thể được gửi đến nhà thiết kế chính.)\nBẫy đề thi ETS: \n(A) \"leader\" (người lãnh đạo) không tạo thành cụm từ cố định \"leader designer\".\n(B) \"leads\" là động từ chia ở ngôi thứ ba số ít hoặc danh từ số nhiều.\n(C) \"led\" là quá khứ phân từ của \"lead\", không phù hợp trong ngữ cảnh này.\nMẹo phản xạ nhanh: Khi có khoảng trống giữa \"the\" và một danh từ khác, và các lựa chọn là các dạng từ khác nhau của cùng một gốc, hãy xem xét khả năng tạo thành danh từ ghép. \"Lead designer\" là một cụm từ thông dụng.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "ac88f410-504d-58b2-847f-1d2b815600fe",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 109,
+      "question_type_tag": "verb_form",
+      "question_text": "The product presentation has been fully rehearsed, so it can be ------- any day next week.",
+      "options": {
+        "A": "film",
+        "B": "filmed",
+        "C": "films",
+        "D": "to film"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu có cấu trúc \"can be + V3/ed\" (thể bị động của động từ khuyết thiếu). Chủ ngữ \"it\" (thay thế cho \"the product presentation\") không tự thực hiện hành động \"film\" (quay phim) mà được quay phim.\nVì sao đáp án đúng là chính xác: \"filmed\" là quá khứ phân từ (V3/ed) của động từ \"film\", tạo thành cấu trúc bị động \"can be filmed\" (có thể được quay phim). (Dịch: Buổi thuyết trình sản phẩm đã được tập dượt kỹ lưỡng, vì vậy nó có thể được quay phim vào bất kỳ ngày nào trong tuần tới.)\nBẫy đề thi ETS: \n(A) \"film\" là động từ nguyên mẫu hoặc danh từ, không phù hợp với cấu trúc bị động.\n(C) \"films\" là động từ chia ở ngôi thứ ba số ít hoặc danh từ số nhiều.\n(D) \"to film\" là động từ nguyên mẫu có \"to\", không phù hợp với cấu trúc bị động sau \"can be\".\nMẹo phản xạ nhanh: Khi thấy \"can be\" và chủ ngữ không tự thực hiện hành động, hãy chọn ngay quá khứ phân từ (V3/ed) để tạo thành câu bị động.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "5ebaf95a-f222-5808-9223-c67500d6865f",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 110,
+      "question_type_tag": "vocabulary",
+      "question_text": "The new logo is part of a comprehensive effort to ------- the brand's identity and appeal to younger consumers.",
+      "options": {
+        "A": "remind",
+        "B": "refer",
+        "C": "refresh",
+        "D": "repeat"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu này nói về mục đích của việc thiết kế logo mới. Logo mới là một phần trong nỗ lực toàn diện để làm gì đó với nhận diện thương hiệu và thu hút người tiêu dùng trẻ tuổi.\nVì sao đáp án đúng là chính xác: \"refresh\" (làm mới, cải thiện) là động từ phù hợp nhất về nghĩa. Logo mới thường được tạo ra để làm mới hình ảnh thương hiệu. (Dịch: Logo mới là một phần trong nỗ lực toàn diện nhằm làm mới nhận diện thương hiệu và thu hút người tiêu dùng trẻ tuổi.)\nBẫy đề thi ETS: \n(A) \"remind\" (nhắc nhở) không phù hợp với \"identity\" (nhận diện).\n(B) \"refer\" (tham khảo, đề cập) không có nghĩa phù hợp.\n(D) \"repeat\" (lặp lại) không phải là mục đích của việc tạo logo mới.\nMẹo phản xạ nhanh: Đọc kỹ ngữ cảnh và chọn động từ có nghĩa phù hợp nhất với mục đích của hành động. \"Refresh identity\" là một cụm từ phổ biến trong marketing.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "1a04393d-c158-51f2-9526-ed3167b870f0",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 111,
+      "question_type_tag": "word_form",
+      "question_text": "The latest sport utility vehicle from Bondon Automotive can carry eight people -------.",
+      "options": {
+        "A": "comfortable",
+        "B": "comfort",
+        "C": "comfortably",
+        "D": "comforting"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền đứng sau động từ \"carry\" và bổ nghĩa cho cách thức hành động \"carry people\". Do đó, đây phải là một trạng từ.\nVì sao đáp án đúng là chính xác: \"comfortably\" là trạng từ (một cách thoải mái), bổ nghĩa cho động từ \"carry\" (chở) để diễn tả cách thức chở người. (Dịch: Mẫu xe thể thao đa dụng mới nhất của Bondon Automotive có thể chở tám người một cách thoải mái.)\nBẫy đề thi ETS: \n(A) \"comfortable\" là tính từ (thoải mái), không bổ nghĩa cho động từ.\n(B) \"comfort\" là danh từ (sự thoải mái) hoặc động từ (an ủi).\n(D) \"comforting\" là tính từ (an ủi, dễ chịu) hoặc thì tiếp diễn, không phù hợp với ngữ cảnh.\nMẹo phản xạ nhanh: Khi cần bổ nghĩa cho động từ (cách thức hành động), hãy chọn trạng từ (thường có đuôi -ly).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "c3fc9ffd-8a93-5bb8-9ac0-429de1256c1a",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 112,
+      "question_type_tag": "conjunction",
+      "question_text": "------- deciding to replace the food-service provider, the management team conducted a survey of all employees.",
+      "options": {
+        "A": "Before",
+        "B": "Unless",
+        "C": "Whether",
+        "D": "Except"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền là một liên từ hoặc giới từ đứng trước một danh động từ (V-ing) \"deciding\" và nối hai mệnh đề, diễn tả mối quan hệ thời gian hoặc điều kiện.\nVì sao đáp án đúng là chính xác: \"Before\" có thể là giới từ hoặc liên từ. Khi là giới từ, nó có thể đứng trước V-ing để chỉ thời gian. \"Before deciding...\" (Trước khi quyết định...) phù hợp với ngữ cảnh là hành động khảo sát diễn ra trước khi đưa ra quyết định. (Dịch: Trước khi quyết định thay thế nhà cung cấp dịch vụ ăn uống, đội ngũ quản lý đã tiến hành khảo sát tất cả nhân viên.)\nBẫy đề thi ETS: \n(B) \"Unless\" (trừ khi) là liên từ chỉ điều kiện, không đứng trước V-ing.\n(C) \"Whether\" (liệu rằng) là liên từ, không đứng trước V-ing.\n(D) \"Except\" (ngoại trừ) là giới từ, nhưng không phù hợp về nghĩa trong ngữ cảnh này.\nMẹo phản xạ nhanh: Khi thấy khoảng trống đứng trước V-ing và cần một từ chỉ mối quan hệ thời gian, hãy cân nhắc \"Before\" hoặc \"After\".",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "800faefc-b3e4-5eae-ad7c-aba74b976e44",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 113,
+      "question_type_tag": "word_form",
+      "question_text": "Although Mr. Cho was ------- about transferring to the Houston office, he is now working there confidently and productively.",
+      "options": {
+        "A": "hesitate",
+        "B": "hesitant",
+        "C": "hesitation",
+        "D": "hesitated"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền đứng sau động từ \"was\" (dạng của \"to be\") và trước giới từ \"about\". Do đó, đây phải là một tính từ bổ nghĩa cho chủ ngữ \"Mr. Cho\".\nVì sao đáp án đúng là chính xác: \"hesitant\" là tính từ (do dự, ngần ngại), phù hợp với cấu trúc \"be + adjective + about\" và ngữ cảnh của câu. (Dịch: Mặc dù ông Cho đã do dự về việc chuyển đến văn phòng Houston, nhưng giờ đây ông ấy đang làm việc ở đó một cách tự tin và hiệu quả.)\nBẫy đề thi ETS: \n(A) \"hesitate\" là động từ nguyên mẫu (do dự).\n(C) \"hesitation\" là danh từ (sự do dự).\n(D) \"hesitated\" là động từ chia ở thì quá khứ đơn hoặc quá khứ phân từ, không phù hợp sau \"was\" để bổ nghĩa cho chủ ngữ.\nMẹo phản xạ nhanh: Sau động từ \"to be\" và trước một giới từ, thường là vị trí của một tính từ. Tìm từ có hậu tố tính từ (-ant, -ent, -ful, -ous, v.v.).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "835eb91e-a50e-5508-aa25-0d4841f0aadf",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 114,
+      "question_type_tag": "conjunction",
+      "question_text": "The personnel office should be contacted about unpaid leave ------- supervisors cannot approve it.",
+      "options": {
+        "A": "as",
+        "B": "either",
+        "C": "like",
+        "D": "instead"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền là một liên từ nối hai mệnh đề, diễn tả mối quan hệ nguyên nhân-kết quả hoặc lý do. Mệnh đề thứ hai giải thích lý do tại sao cần liên hệ phòng nhân sự.\nVì sao đáp án đúng là chính xác: \"as\" là liên từ (bởi vì, vì), phù hợp để đưa ra lý do. (Dịch: Nên liên hệ phòng nhân sự về việc nghỉ phép không lương vì người giám sát không thể phê duyệt.)\nBẫy đề thi ETS: \n(B) \"either\" (hoặc là) thường đi với \"or\" hoặc dùng trong cấu trúc phủ định.\n(C) \"like\" (giống như) là giới từ hoặc động từ, không dùng để nối hai mệnh đề với nghĩa lý do.\n(D) \"instead\" (thay vào đó) là trạng từ, cần dấu câu (ví dụ: chấm phẩy) để nối hai mệnh đề.\nMẹo phản xạ nhanh: Khi mệnh đề thứ hai giải thích lý do cho mệnh đề thứ nhất, hãy tìm các liên từ chỉ nguyên nhân như \"as\", \"because\", \"since\".",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "4382573c-6176-5db9-a0fe-1f80b5c68d74",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 115,
+      "question_type_tag": "verb_form",
+      "question_text": "Yesterday the board voted to ------- with discussions about acquiring Atlasburg Financial.",
+      "options": {
+        "A": "proceed",
+        "B": "proceeded",
+        "C": "proceeding",
+        "D": "proceeds"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền đứng sau cấu trúc \"voted to\". Theo sau động từ \"vote\" khi diễn tả một quyết định thường là động từ nguyên mẫu có \"to\" (to + V-inf).\nVì sao đáp án đúng là chính xác: \"proceed\" là động từ nguyên mẫu (tiếp tục, tiến hành), phù hợp với cấu trúc \"vote to do something\". (Dịch: Hôm qua, hội đồng đã bỏ phiếu để tiếp tục thảo luận về việc mua lại Atlasburg Financial.)\nBẫy đề thi ETS: \n(B) \"proceeded\" là động từ chia ở thì quá khứ đơn hoặc quá khứ phân từ.\n(C) \"proceeding\" là danh động từ hoặc thì tiếp diễn.\n(D) \"proceeds\" là động từ chia ở ngôi thứ ba số ít hoặc danh từ số nhiều.\nCác lựa chọn này không phải là động từ nguyên mẫu và không phù hợp sau \"voted to\".\nMẹo phản xạ nhanh: Ghi nhớ các cấu trúc động từ phổ biến. \"Vote to do something\" là một cấu trúc cố định.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "94610a9d-6b51-5496-b450-4e858644e605",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 116,
+      "question_type_tag": "vocabulary",
+      "question_text": "Robles Corporation encourages employees to work toward a ------- goal, rather than pursuing individual interests.",
+      "options": {
+        "A": "common",
+        "B": "regular",
+        "C": "usual",
+        "D": "plain"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu này nói về việc Robles Corporation khuyến khích nhân viên làm việc hướng tới một mục tiêu nào đó, thay vì theo đuổi lợi ích cá nhân. Từ cần điền là một tính từ bổ nghĩa cho \"goal\" (mục tiêu).\nVì sao đáp án đúng là chính xác: \"common\" (chung, cộng đồng) là tính từ phù hợp nhất để đối lập với \"individual interests\" (lợi ích cá nhân). \"Common goal\" là mục tiêu chung. (Dịch: Tập đoàn Robles khuyến khích nhân viên làm việc hướng tới một mục tiêu chung, thay vì theo đuổi lợi ích cá nhân.)\nBẫy đề thi ETS: \n(B) \"regular\" (thường xuyên, đều đặn) không phù hợp về nghĩa.\n(C) \"usual\" (thông thường) không phù hợp về nghĩa.\n(D) \"plain\" (đơn giản, rõ ràng) không phù hợp về nghĩa.\nMẹo phản xạ nhanh: Chú ý các từ đối lập trong câu (\"common\" vs \"individual\"). Chọn từ có nghĩa đối lập phù hợp để hoàn thành ý nghĩa của câu.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "0f8a0199-3f75-5a22-a586-4866f0228702",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 117,
+      "question_type_tag": "noun",
+      "question_text": "The ------- in the brochure are an accurate representation of what guests staying at the resort can expect to find.",
+      "options": {
+        "A": "image",
+        "B": "images",
+        "C": "imaged",
+        "D": "imaging"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền là chủ ngữ của câu, đứng sau mạo từ \"The\" và trước động từ \"are\" (số nhiều). Do đó, từ cần điền phải là một danh từ số nhiều.\nVì sao đáp án đúng là chính xác: \"images\" là danh từ số nhiều (hình ảnh), phù hợp với động từ \"are\" và ngữ cảnh. (Dịch: Các hình ảnh trong tập quảng cáo là sự thể hiện chính xác về những gì khách lưu trú tại khu nghỉ dưỡng có thể mong đợi.)\nBẫy đề thi ETS: \n(A) \"image\" là danh từ số ít, không phù hợp với động từ \"are\".\n(C) \"imaged\" là quá khứ phân từ hoặc động từ chia ở thì quá khứ.\n(D) \"imaging\" là danh động từ hoặc danh từ chỉ quá trình, không phù hợp với ngữ cảnh \"an accurate representation\".\nMẹo phản xạ nhanh: Kiểm tra sự hòa hợp giữa chủ ngữ và động từ. Nếu động từ là số nhiều (are), chủ ngữ cũng phải là số nhiều.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "feec8928-ebb8-5899-9cc9-c37b4ad85b85",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 118,
+      "question_type_tag": "vocabulary",
+      "question_text": "Current employees interested in the new managerial position should ------- about the internal hiring process.",
+      "options": {
+        "A": "provide",
+        "B": "inquire",
+        "C": "evaluate",
+        "D": "control"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu này nói về việc nhân viên hiện tại quan tâm đến vị trí quản lý mới nên làm gì \"about the internal hiring process\" (về quy trình tuyển dụng nội bộ). Động từ cần điền phải phù hợp với giới từ \"about\" và ngữ cảnh tìm hiểu thông tin.\nVì sao đáp án đúng là chính xác: \"inquire\" (hỏi, tìm hiểu) là động từ phù hợp nhất, thường đi với \"about\" để hỏi về một vấn đề gì đó. (Dịch: Các nhân viên hiện tại quan tâm đến vị trí quản lý mới nên tìm hiểu về quy trình tuyển dụng nội bộ.)\nBẫy đề thi ETS: \n(A) \"provide\" (cung cấp) thường đi với tân ngữ trực tiếp hoặc \"for/to\".\n(C) \"evaluate\" (đánh giá) không phù hợp với \"about the process\" mà thường là \"evaluate the process\".\n(D) \"control\" (kiểm soát) không phù hợp về nghĩa.\nMẹo phản xạ nhanh: Khi thấy khoảng trống trước giới từ \"about\" và ngữ cảnh liên quan đến việc tìm kiếm thông tin, hãy cân nhắc \"inquire about\" hoặc \"ask about\".",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "add5e1f2-06ad-5a74-8ae7-f893962efe55",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 119,
+      "question_type_tag": "conjunction",
+      "question_text": "Colleagues in the accounting department consider the matter closed and ------- cannot provide more input.",
+      "options": {
+        "A": "large",
+        "B": "consequently",
+        "C": "very",
+        "D": "anyone"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền là một trạng từ nối hai mệnh đề, diễn tả mối quan hệ nguyên nhân-kết quả. Mệnh đề thứ nhất là \"consider the matter closed\" (coi vấn đề đã kết thúc), và mệnh đề thứ hai là \"cannot provide more input\" (không thể cung cấp thêm ý kiến).\nVì sao đáp án đúng là chính xác: \"consequently\" là trạng từ (do đó, kết quả là), phù hợp để diễn tả hệ quả của việc coi vấn đề đã kết thúc. (Dịch: Các đồng nghiệp trong bộ phận kế toán coi vấn đề đã kết thúc và do đó không thể cung cấp thêm ý kiến.)\nBẫy đề thi ETS: \n(A) \"large\" là tính từ (lớn).\n(C) \"very\" là trạng từ chỉ mức độ (rất).\n(D) \"anyone\" là đại từ (bất cứ ai).\nCác lựa chọn này không phải là trạng từ nối và không phù hợp về nghĩa hoặc ngữ pháp.\nMẹo phản xạ nhanh: Khi hai mệnh đề có mối quan hệ nhân quả, hãy tìm các trạng từ nối như \"consequently\", \"therefore\", \"as a result\".",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "79c8a17e-dc97-5b30-a743-af71518cffaf",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 120,
+      "question_type_tag": "vocabulary",
+      "question_text": "The CEO hopes that the consultant's advice will ultimately ------- higher profits for the company.",
+      "options": {
+        "A": "yield",
+        "B": "submit",
+        "C": "invent",
+        "D": "resolve"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu này nói về hy vọng của CEO rằng lời khuyên của nhà tư vấn cuối cùng sẽ mang lại điều gì đó cho công ty, cụ thể là \"higher profits\" (lợi nhuận cao hơn).\nVì sao đáp án đúng là chính xác: \"yield\" (mang lại, sản sinh ra) là động từ phù hợp nhất để diễn tả việc tạo ra lợi nhuận. (Dịch: CEO hy vọng rằng lời khuyên của nhà tư vấn cuối cùng sẽ mang lại lợi nhuận cao hơn cho công ty.)\nBẫy đề thi ETS: \n(B) \"submit\" (nộp, đệ trình) không phù hợp với \"profits\".\n(C) \"invent\" (phát minh) không phù hợp với \"profits\".\n(D) \"resolve\" (giải quyết) thường dùng với vấn đề, không dùng với lợi nhuận.\nMẹo phản xạ nhanh: Khi thấy ngữ cảnh liên quan đến kết quả kinh doanh (lợi nhuận, doanh thu), hãy cân nhắc các động từ như \"yield\", \"generate\", \"produce\".",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "25786b29-dda8-5ab5-80dc-7d4617570f29",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 121,
+      "question_type_tag": "vocabulary",
+      "question_text": "A team of experts is reviewing the contract from a financial ------- so please do not share it with the client yet.",
+      "options": {
+        "A": "perspective",
+        "B": "belief",
+        "C": "movement",
+        "D": "proportion"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu này nói về việc một nhóm chuyên gia đang xem xét hợp đồng từ một khía cạnh nào đó về tài chính. Từ cần điền là một danh từ đứng sau tính từ \"financial\" để tạo thành cụm danh từ.\nVì sao đáp án đúng là chính xác: \"perspective\" (góc độ, quan điểm) là danh từ phù hợp nhất để tạo thành cụm \"financial perspective\" (góc độ tài chính). (Dịch: Một nhóm chuyên gia đang xem xét hợp đồng từ góc độ tài chính, vì vậy xin đừng chia sẻ nó với khách hàng vội.)\nBẫy đề thi ETS: \n(B) \"belief\" (niềm tin) không phù hợp với \"financial\".\n(C) \"movement\" (sự di chuyển) không phù hợp với ngữ cảnh hợp đồng.\n(D) \"proportion\" (tỷ lệ) không phù hợp với ngữ cảnh xem xét hợp đồng.\nMẹo phản xạ nhanh: Khi thấy một tính từ (financial) và cần một danh từ theo sau, hãy chọn danh từ tạo thành một cụm từ có nghĩa logic. \"Financial perspective\" là một cụm từ thông dụng.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "b442832d-7791-58bd-9299-a821b9d61e57",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 122,
+      "question_type_tag": "adverb_of_frequency",
+      "question_text": "To prevent noise that is distracting to performers, the lobby gift shop is ------- open during performances.",
+      "options": {
+        "A": "almost",
+        "B": "even",
+        "C": "never",
+        "D": "soon"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu này nói về việc cửa hàng quà tặng ở sảnh làm gì trong suốt các buổi biểu diễn để ngăn tiếng ồn làm phiền người biểu diễn. Từ cần điền là một trạng từ chỉ tần suất hoặc cách thức.\nVì sao đáp án đúng là chính xác: \"never\" (không bao giờ) là trạng từ phù hợp nhất để diễn tả hành động đóng cửa hàng hoàn toàn trong suốt buổi biểu diễn nhằm tránh tiếng ồn. (Dịch: Để ngăn tiếng ồn làm phiền người biểu diễn, cửa hàng quà tặng ở sảnh không bao giờ mở cửa trong suốt các buổi biểu diễn.)\nBẫy đề thi ETS: \n(A) \"almost\" (gần như) không phù hợp vì mục đích là ngăn tiếng ồn hoàn toàn.\n(B) \"even\" (thậm chí) là trạng từ nhấn mạnh, không phù hợp ở đây.\n(D) \"soon\" (sớm) chỉ thời gian, không phù hợp với ý nghĩa ngăn tiếng ồn.\nMẹo phản xạ nhanh: Đọc kỹ mục đích của hành động (\"To prevent noise...\"). Để ngăn tiếng ồn, hành động phải là không mở cửa. Chọn trạng từ phủ định mạnh mẽ nhất.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "a2e7c48e-759d-5857-8f93-a8bc8d8d2aa2",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 123,
+      "question_type_tag": "word_form",
+      "question_text": "Zuper Brite lightbulbs ------- reduce energy consumption when compared with standard incandescent lightbulbs.",
+      "options": {
+        "A": "great",
+        "B": "greater",
+        "C": "greatest",
+        "D": "greatly"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền đứng trước động từ \"reduce\" (giảm) và bổ nghĩa cho động từ này. Do đó, đây phải là một trạng từ.\nVì sao đáp án đúng là chính xác: \"greatly\" là trạng từ (rất nhiều, đáng kể), bổ nghĩa cho động từ \"reduce\" để diễn tả mức độ giảm. (Dịch: Bóng đèn Zuper Brite giảm đáng kể mức tiêu thụ năng lượng khi so sánh với bóng đèn sợi đốt tiêu chuẩn.)\nBẫy đề thi ETS: \n(A) \"great\" là tính từ (tuyệt vời).\n(B) \"greater\" là tính từ so sánh hơn (lớn hơn).\n(C) \"greatest\" là tính từ so sánh nhất (lớn nhất).\nCác lựa chọn này đều là tính từ và không thể bổ nghĩa cho động từ \"reduce\".\nMẹo phản xạ nhanh: Khi cần bổ nghĩa cho động từ, hãy chọn trạng từ (thường có đuôi -ly).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "87e714d6-3c6b-5d16-b347-a288b5630ebf",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 124,
+      "question_type_tag": "vocabulary",
+      "question_text": "The airport's proposed ------- project will include two remodeled terminals and an updated transportation system.",
+      "options": {
+        "A": "encouragement",
+        "B": "modernization",
+        "C": "assistant",
+        "D": "importance"
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền là một danh từ đứng sau tính từ \"proposed\" (được đề xuất) và bổ nghĩa cho danh từ \"project\" (dự án). Từ cần điền phải mô tả bản chất của dự án.\nVì sao đáp án đúng là chính xác: \"modernization\" (sự hiện đại hóa) là danh từ phù hợp nhất để mô tả một dự án bao gồm việc tu sửa nhà ga và cập nhật hệ thống giao thông. (Dịch: Dự án hiện đại hóa được đề xuất của sân bay sẽ bao gồm hai nhà ga được tu sửa và một hệ thống giao thông được cập nhật.)\nBẫy đề thi ETS: \n(A) \"encouragement\" (sự khuyến khích) không phù hợp với ngữ cảnh dự án xây dựng.\n(C) \"assistant\" (trợ lý) là người, không phải dự án.\n(D) \"importance\" (tầm quan trọng) không mô tả bản chất của dự án.\nMẹo phản xạ nhanh: Đọc kỹ các chi tiết theo sau (remodeled terminals, updated transportation system) để suy luận bản chất của dự án. \"Modernization project\" là cụm từ có nghĩa.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "d36520e0-e2ea-52ab-b0f4-1812f9ee329e",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 125,
+      "question_type_tag": "word_form",
+      "question_text": "Market Research is the ------- of the company concerned with better understanding our clients' needs.",
+      "options": {
+        "A": "divisional",
+        "B": "divisible",
+        "C": "division",
+        "D": "divide"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền là một danh từ đứng sau mạo từ \"the\" và trước giới từ \"of\", tạo thành cụm danh từ \"the ------- of the company\". Câu này định nghĩa \"Market Research\" là gì.\nVì sao đáp án đúng là chính xác: \"division\" là danh từ (bộ phận, phòng ban), phù hợp với ngữ cảnh \"Market Research is the division of the company...\" (Nghiên cứu thị trường là bộ phận của công ty...). (Dịch: Nghiên cứu thị trường là bộ phận của công ty chuyên về việc hiểu rõ hơn nhu cầu của khách hàng.)\nBẫy đề thi ETS: \n(A) \"divisional\" là tính từ (thuộc về bộ phận).\n(B) \"divisible\" là tính từ (có thể chia được).\n(D) \"divide\" là động từ (chia) hoặc danh từ (sự chia cắt).\nCác lựa chọn này không phải là danh từ phù hợp để chỉ một bộ phận trong công ty.\nMẹo phản xạ nhanh: Khi định nghĩa một khái niệm là một phần của một tổ chức lớn hơn, hãy tìm danh từ chỉ bộ phận, phòng ban. \"Division\" là lựa chọn phổ hợp nhất.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "861f2cc9-1240-55dd-850a-e53c9ca64632",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 126,
+      "question_type_tag": "conjunction",
+      "question_text": "Mr. Tanaka was so pleased by the quarterly performance report ------- he canceled the weekly updates.",
+      "options": {
+        "A": "in case",
+        "B": "which",
+        "C": "that",
+        "D": "seldom"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Câu này sử dụng cấu trúc \"so + adjective/adverb + that + clause\" (quá ... đến nỗi mà ...). Vị trí cần điền là liên từ \"that\" để giới thiệu mệnh đề chỉ kết quả.\nVì sao đáp án đúng là chính xác: \"that\" là liên từ phù hợp để hoàn thành cấu trúc \"so pleased... that...\" (quá hài lòng đến nỗi mà...). (Dịch: Ông Tanaka rất hài lòng với báo cáo hiệu suất hàng quý đến nỗi ông đã hủy các bản cập nhật hàng tuần.)\nBẫy đề thi ETS: \n(A) \"in case\" (trong trường hợp) là liên từ chỉ điều kiện, không phù hợp với cấu trúc \"so...that...\".\n(B) \"which\" là đại từ quan hệ, không phù hợp với cấu trúc này.\n(D) \"seldom\" (hiếm khi) là trạng từ chỉ tần suất, không phù hợp với cấu trúc \"so...that...\".\nMẹo phản xạ nhanh: Khi thấy \"so + tính từ/trạng từ\" và cần một liên từ để giới thiệu kết quả, hãy chọn \"that\".",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "cec7ab17-9870-5c21-9bda-b7bdb14d844a",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 127,
+      "question_type_tag": "conjunction",
+      "question_text": "Quincycom's price increase is justifiable ------- there is an improvement in the quality of the Internet service we receive.",
+      "options": {
+        "A": "whereas",
+        "B": "likewise",
+        "C": "because of",
+        "D": "only if"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền là một liên từ hoặc cụm liên từ nối hai mệnh đề, diễn tả mối quan hệ điều kiện. Mệnh đề thứ nhất là \"price increase is justifiable\" (việc tăng giá là hợp lý), và mệnh đề thứ hai là \"there is an improvement...\" (có sự cải thiện...).\nVì sao đáp án đúng là chính xác: \"only if\" (chỉ khi nếu) là cụm liên từ chỉ điều kiện, phù hợp để diễn tả rằng việc tăng giá chỉ hợp lý khi có sự cải thiện về chất lượng dịch vụ. (Dịch: Việc tăng giá của Quincycom là hợp lý chỉ khi có sự cải thiện về chất lượng dịch vụ Internet mà chúng ta nhận được.)\nBẫy đề thi ETS: \n(A) \"whereas\" (trong khi đó) là liên từ chỉ sự tương phản.\n(B) \"likewise\" (tương tự) là trạng từ, không nối hai mệnh đề.\n(C) \"because of\" (bởi vì) là giới từ, theo sau là danh từ/cụm danh từ, không phải mệnh đề.\nMẹo phản xạ nhanh: Khi một điều kiện là bắt buộc để một điều khác xảy ra, hãy chọn \"only if\". Chú ý dạng từ theo sau (mệnh đề hay cụm danh từ).",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "df409222-1e2d-587c-a8fb-abdbb264516e",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 128,
+      "question_type_tag": "noun",
+      "question_text": "The chart attached to this e-mail presents a ------- of Vivasyco's latest smartphone with a model from Eustace Tech.",
+      "options": {
+        "A": "comparison",
+        "B": "pronouncement",
+        "C": "guideline",
+        "D": "publicity"
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền là một danh từ đứng sau mạo từ \"a\" và trước giới từ \"of\", tạo thành cụm danh từ \"a ------- of...\". Ngữ cảnh nói về việc biểu đồ so sánh hai mẫu điện thoại thông minh.\nVì sao đáp án đúng là chính xác: \"comparison\" (sự so sánh) là danh từ phù hợp nhất để diễn tả nội dung của biểu đồ khi nó trình bày hai mẫu điện thoại. (Dịch: Biểu đồ đính kèm e-mail này trình bày sự so sánh giữa điện thoại thông minh mới nhất của Vivasyco với một mẫu từ Eustace Tech.)\nBẫy đề thi ETS: \n(B) \"pronouncement\" (tuyên bố) không phù hợp với ngữ cảnh biểu đồ so sánh.\n(C) \"guideline\" (hướng dẫn) không phù hợp với ngữ cảnh so sánh sản phẩm.\n(D) \"publicity\" (sự công khai, quảng cáo) không phù hợp với việc trình bày thông tin chi tiết về hai sản phẩm.\nMẹo phản xạ nhanh: Khi thấy ngữ cảnh liên quan đến việc trình bày hai hoặc nhiều đối tượng cùng loại, hãy nghĩ đến danh từ \"comparison\".",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "7cf5c52c-a83f-5503-bd61-6c096bc84a4e",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 129,
+      "question_type_tag": "word_form",
+      "question_text": "It is the catering director's ------- to inform the chef of the intended menu well in advance of the event.",
+      "options": {
+        "A": "obliged",
+        "B": "obligated",
+        "C": "obligatory",
+        "D": "obligation"
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền là một danh từ đứng sau tính từ sở hữu \"catering director's\" (của giám đốc phục vụ) và trước động từ nguyên mẫu có \"to\" (to inform). Cấu trúc \"It is someone's + noun + to do something\" diễn tả trách nhiệm hoặc nghĩa vụ của ai đó.\nVì sao đáp án đúng là chính xác: \"obligation\" là danh từ (nghĩa vụ, bổn phận), phù hợp với cấu trúc \"It is someone's obligation to do something\". (Dịch: Đó là nghĩa vụ của giám đốc phục vụ phải thông báo cho đầu bếp về thực đơn dự kiến trước sự kiện.)\nBẫy đề thi ETS: \n(A) \"obliged\" là quá khứ phân từ hoặc tính từ (bị bắt buộc).\n(B) \"obligated\" là quá khứ phân từ hoặc tính từ (bị bắt buộc).\n(C) \"obligatory\" là tính từ (bắt buộc).\nCác lựa chọn này không phải là danh từ và không phù hợp với cấu trúc ngữ pháp của câu.\nMẹo phản xạ nhanh: Khi thấy cấu trúc \"It is someone's + khoảng trống + to do something\" và cần diễn tả trách nhiệm, hãy chọn danh từ chỉ nghĩa vụ hoặc trách nhiệm.",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    },
+    {
+      "id": "4095fd16-d2dd-5187-a1ef-e6a135d70e54",
+      "group_id": "581fa091-2bc5-59a4-840a-5381ce269b46",
+      "part": 5,
+      "question_number": 130,
+      "question_type_tag": "vocabulary",
+      "question_text": "Given her experience in health care, Ms. Chung is ------- well suited to manage the company's wellness program.",
+      "options": {
+        "A": "formerly",
+        "B": "expectantly",
+        "C": "particularly",
+        "D": "avoidably"
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích ngữ cảnh / cấu trúc ngữ pháp: Vị trí cần điền là một trạng từ bổ nghĩa cho cụm tính từ \"well suited\" (rất phù hợp). Trạng từ này sẽ nhấn mạnh mức độ phù hợp của Ms. Chung.\nVì sao đáp án đúng là chính xác: \"particularly\" là trạng từ (đặc biệt, đặc biệt là), phù hợp để nhấn mạnh rằng Ms. Chung đặc biệt phù hợp nhờ kinh nghiệm của mình. (Dịch: Với kinh nghiệm trong lĩnh vực chăm sóc sức khỏe, cô Chung đặc biệt phù hợp để quản lý chương trình chăm sóc sức khỏe của công ty.)\nBẫy đề thi ETS: \n(A) \"formerly\" (trước đây) chỉ thời gian, không phù hợp để bổ nghĩa cho \"well suited\".\n(B) \"expectantly\" (đầy mong đợi) không phù hợp về nghĩa.\n(D) \"avoidably\" (có thể tránh được) không phù hợp về nghĩa.\nMẹo phản xạ nhanh: Khi cần một trạng từ để nhấn mạnh một tính chất hoặc mức độ, hãy cân nhắc các trạng từ như \"particularly\", \"especially\", \"extremely\".",
+      "evidence_quote": null,
+      "paraphrase_pair": null
+    }
+  ]
+}

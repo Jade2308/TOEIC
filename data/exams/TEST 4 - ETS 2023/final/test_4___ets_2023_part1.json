@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "test_name": "ETS TOEIC 2023 - Test 4",
+    "part": 1,
+    "total_groups": 6,
+    "total_questions": 6
+  },
+  "question_groups": [
+    {
+      "id": "f042f570-978f-5724-a31a-0784ec89eec5",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test4/part1_q1.jpg",
+      "audio_url": "/audio/test4/part1_q1.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q1-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 3.9,
+          "text_en": "your answer sheet. Now, part 1 will begin. Number 1. Look at the picture marked number",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q1-2",
+          "speaker": "Speaker",
+          "start_time": 3.9,
+          "end_time": 12.34,
+          "text_en": "1 in your test book. A. A man is looking out a window. B. A man is fixing a ceiling",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q1-3",
+          "speaker": "Speaker",
+          "start_time": 12.34,
+          "end_time": 20.26,
+          "text_en": "tile. C. A man is reaching for a coat. D. A man is installing a wooden floor.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "f988955d-93ce-55ef-aa69-a42e7820e4c6",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test4/part1_q2.jpg",
+      "audio_url": "/audio/test4/part1_q2.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q2-1",
+          "speaker": "Speaker",
+          "start_time": 0.5,
+          "end_time": 8.2,
+          "text_en": "Number 2. Look at the picture marked number 2 in your test book. A. A wall is covered with",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-2",
+          "speaker": "Speaker",
+          "start_time": 8.2,
+          "end_time": 17.86,
+          "text_en": "vines. B. A tree is near a sign. C. There are puddles on the road. D. A tree has fallen",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q2-3",
+          "speaker": "Speaker",
+          "start_time": 17.86,
+          "end_time": 30.35,
+          "text_en": "onto the pavement. Go on to the next page. Number 3. Look at the picture marked number",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "e7e864c8-0200-5b84-8e91-6d6ee778134b",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test4/part1_q3.jpg",
+      "audio_url": "/audio/test4/part1_q3.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q3-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 3.46,
+          "text_en": "onto the pavement. Go on to the next page. Number 3. Look at the picture marked number",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q3-2",
+          "speaker": "Speaker",
+          "start_time": 3.46,
+          "end_time": 13.24,
+          "text_en": "3 in your test book. A. A construction worker is repairing a fence. B. A set of cones is",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q3-3",
+          "speaker": "Speaker",
+          "start_time": 13.24,
+          "end_time": 21.66,
+          "text_en": "blocking an entrance. C. Some lines are being painted on a roadway. D. A man is working outdoors.",
+          "text_vi": "",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "095fc0eb-8e5d-5aed-b51b-3d1a9e9aa1f8",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test4/part1_q4.jpg",
+      "audio_url": "/audio/test4/part1_q4.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q4-1",
+          "speaker": "Speaker",
+          "start_time": 0.5,
+          "end_time": 8.28,
+          "text_en": "Number 4. Look at the picture marked number 4 in your test book. A. A cupboard is filled",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q4-2",
+          "speaker": "Speaker",
+          "start_time": 8.28,
+          "end_time": 16.5,
+          "text_en": "with kitchen utensils. B. A woman is looking at an electrical outlet. C. Some papers have",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q4-3",
+          "speaker": "Speaker",
+          "start_time": 16.5,
+          "end_time": 25.86,
+          "text_en": "been placed on a counter. D. Some shelves are being adjusted. Number 5. Look at the picture marked",
+          "text_vi": "",
+          "is_trap": true
+        }
+      ]
+    },
+    {
+      "id": "e4496724-5bbc-530e-9dfb-294f28c7b772",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test4/part1_q5.jpg",
+      "audio_url": "/audio/test4/part1_q5.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q5-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 3.32,
+          "text_en": "been placed on a counter. D. Some shelves are being adjusted. Number 5. Look at the picture marked",
+          "text_vi": "",
+          "is_trap": true
+        },
+        {
+          "id": "seg-q5-2",
+          "speaker": "Speaker",
+          "start_time": 3.32,
+          "end_time": 12.86,
+          "text_en": "number 5 in your test book. A. Magazines are on a rack on the wall. B. A bookcase is next to a sofa.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q5-3",
+          "speaker": "Speaker",
+          "start_time": 13.64,
+          "end_time": 20.28,
+          "text_en": "C. A plant has been placed next to a chair. D. A ceiling lamp hangs over a carpet.",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    },
+    {
+      "id": "f73cf69f-6ffc-5e50-9a50-d6bd4468bc9c",
+      "test_name": "ETS TOEIC 2023 - Test 4",
+      "part": 1,
+      "passage_text": null,
+      "image_url": "/images/test4/part1_q6.jpg",
+      "audio_url": "/audio/test4/part1_q6.mp3",
+      "transcript_segments": [
+        {
+          "id": "seg-q6-1",
+          "speaker": "Speaker",
+          "start_time": 0.0,
+          "end_time": 0.5,
+          "text_en": "C. A plant has been placed next to a chair. D. A ceiling lamp hangs over a carpet.",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-2",
+          "speaker": "Speaker",
+          "start_time": 0.5,
+          "end_time": 14.27,
+          "text_en": "Number 6. Look at the picture marked number 6 in your test book. A. A man is crouching down",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-3",
+          "speaker": "Speaker",
+          "start_time": 14.27,
+          "end_time": 22.91,
+          "text_en": "next to a wall. B. A man is taking measurements of a room. C. A man is attaching a door to a",
+          "text_vi": "",
+          "is_trap": false
+        },
+        {
+          "id": "seg-q6-4",
+          "speaker": "Speaker",
+          "start_time": 22.91,
+          "end_time": 37.95,
+          "text_en": "frame. D. A man is standing on a ladder. Go on to the next page. Part 2. Directions. You will hear a",
+          "text_vi": "",
+          "is_trap": false
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "bca036ef-fe58-5aed-a87c-bdd60ed8086d",
+      "group_id": "f042f570-978f-5724-a31a-0784ec89eec5",
+      "part": 1,
+      "question_number": 1,
+      "question_type_tag": "inference",
+      "question_text": "Look at the picture marked number 1 in your testbook.",
+      "options": {
+        "A": "A man is looking out a window.",
+        "B": "A man is fixing a ceiling tile.",
+        "C": "A man is reaching for a coat.",
+        "D": "A man is installing a wooden floor."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích tranh: Một người nam đang đứng giơ tay để lấy/móc chiếc áo khoác trên giá treo tường. Đáp án C 'A man is reaching for a coat' (Người đàn ông đang với lấy một chiếc áo khoác) miêu tả chính xác hành động trong tranh. Bẫy: Các đáp án khác miêu tả sai hành động hoặc đối tượng (như nhìn ra cửa sổ, sửa trần nhà, hay lắp sàn gỗ). Mẹo: Trong Part 1, hãy tập trung quan sát hành động chính của nhân vật và các vật dụng xung quanh để loại trừ ngay các đáp án có hành động sai lệch.",
+      "evidence_quote": "A man is reaching for a coat.",
+      "paraphrase_pair": {
+        "original": "reaching for a coat",
+        "paraphrased": "taking a coat from a hook"
+      }
+    },
+    {
+      "id": "c70a694a-766b-5f53-9cfc-1bdb216a92e8",
+      "group_id": "f988955d-93ce-55ef-aa69-a42e7820e4c6",
+      "part": 1,
+      "question_number": 2,
+      "question_type_tag": "inference",
+      "question_text": "Look at the picture marked number 2 in your testbook.",
+      "options": {
+        "A": "A wall is covered with vines.",
+        "B": "A tree is near a sign.",
+        "C": "There are puddles on the road.",
+        "D": "A tree has fallen onto the pavement."
+      },
+      "correct_answer": "B",
+      "explanation_vi": "Phân tích tranh: Bức tranh ngoại cảnh có một cái cây lớn mọc ở gần một biển báo nhỏ bên cạnh lối đi và băng ghế đá. Đáp án B 'A tree is near a sign' (Có một cái cây ở gần một biển báo) hoàn toàn chính xác. Bẫy: A nói tường bị phủ dây leo (sai), C nói có vũng nước trên đường (không thấy vũng nước), D nói cây đổ xuống đường (sai thực tế). Mẹo: Với tranh phong cảnh, hãy chú ý các danh từ chỉ vị trí (near, next to, along) và đối tượng chính như cây cối, ghế đá, biển báo.",
+      "evidence_quote": "A tree is near a sign.",
+      "paraphrase_pair": {
+        "original": "A tree is near a sign",
+        "paraphrased": "A sign is located beside a tree"
+      }
+    },
+    {
+      "id": "c9ebc42a-359a-51b1-b269-21c2ad3572b3",
+      "group_id": "e7e864c8-0200-5b84-8e91-6d6ee778134b",
+      "part": 1,
+      "question_number": 3,
+      "question_type_tag": "inference",
+      "question_text": "Look at the picture marked number 3 in your testbook.",
+      "options": {
+        "A": "A construction worker is repairing a fence.",
+        "B": "A set of cones is blocking an entrance.",
+        "C": "Some lines are being painted on a roadway.",
+        "D": "A man is working outdoors."
+      },
+      "correct_answer": "D",
+      "explanation_vi": "Phân tích tranh: Một người đàn ông đội mũ bảo hộ đang đứng cạnh các cột giao thông hình nón trong một bãi đậu xe hoặc khu vực ngoài trời. Đáp án D 'A man is working outdoors' (Một người đàn ông đang làm việc ngoài trời) là phát biểu mang tính bao quát và chính xác nhất. Bẫy: A nói sửa hàng rào (sai), B nói cọc tiêu chặn lối vào (không chính xác), C nói kẻ vạch đường (không có hoạt động sơn vẽ). Mẹo: Nếu các đáp án chi tiết chứa từ vựng dễ gây nhầm lẫn mà không chắc chắn, hãy tìm câu có nghĩa tổng quát nhưng đúng sự thật như 'working outdoors'.",
+      "evidence_quote": "A man is working outdoors.",
+      "paraphrase_pair": {
+        "original": "working outdoors",
+        "paraphrased": "performing tasks outside"
+      }
+    },
+    {
+      "id": "5c03e1a2-5548-5ade-973d-8bdc41bf5b38",
+      "group_id": "095fc0eb-8e5d-5aed-b51b-3d1a9e9aa1f8",
+      "part": 1,
+      "question_number": 4,
+      "question_type_tag": "inference",
+      "question_text": "Look at the picture marked number 4 in your testbook.",
+      "options": {
+        "A": "A cupboard is filled with kitchen utensils.",
+        "B": "A woman is looking at an electrical outlet.",
+        "C": "Some papers have been placed on a counter.",
+        "D": "Some shelves are being adjusted."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích tranh: Một người phụ nữ đang mở tủ trên tường, và trên bề mặt quầy/bàn bên dưới có để một số tài liệu/giấy tờ. Đáp án C 'Some papers have been placed on a counter' (Một số giấy tờ đã được đặt trên quầy) miêu tả đúng vật thể tĩnh trong tranh. Bẫy: A tủ chứa đồ dùng nhà bếp (không thấy rõ), B nhìn ổ điện (sai), D điều chỉnh kệ (không phải hành động đang diễn ra). Mẹo: Chú ý cấu trúc bị động chỉ trạng thái (have been placed / are located) thường xuất hiện trong Part 1 để mô tả vị trí đồ vật.",
+      "evidence_quote": "Some papers have been placed on a counter.",
+      "paraphrase_pair": {
+        "original": "papers have been placed on a counter",
+        "paraphrased": "documents lie on the desk surface"
+      }
+    },
+    {
+      "id": "1f746862-164c-5188-bbba-9ba243044d84",
+      "group_id": "e4496724-5bbc-530e-9dfb-294f28c7b772",
+      "part": 1,
+      "question_number": 5,
+      "question_type_tag": "inference",
+      "question_text": "Look at the picture marked number 5 in your testbook.",
+      "options": {
+        "A": "Magazines are on a rack on the wall.",
+        "B": "A bookcase is next to a sofa.",
+        "C": "A plant has been placed next to a chair.",
+        "D": "A ceiling lamp hangs over a carpet."
+      },
+      "correct_answer": "C",
+      "explanation_vi": "Phân tích tranh: Cảnh phòng khách với các ghế bành và một chậu cây cảnh được đặt trên chiếc bàn nhỏ giữa hoặc cạnh ghế. Đáp án C 'A plant has been placed next to a chair' (Một chậu cây đã được đặt cạnh một chiếc ghế) là miêu tả chính xác. Bẫy: A tạp chí trên giá treo tường (sai, tranh treo tranh ảnh), B tủ sách cạnh ghế sofa (không thấy tủ sách), D đèn trần treo trên thảm (không khớp). Mẹo: Luôn kiểm tra kỹ các danh từ chỉ đồ vật trong phòng như plant, chair, table để tránh chọn nhầm đáp án chứa từ vựng không có trong ảnh.",
+      "evidence_quote": "A plant has been placed next to a chair.",
+      "paraphrase_pair": {
+        "original": "A plant has been placed next to a chair",
+        "paraphrased": "A potted plant sits beside an armchair"
+      }
+    },
+    {
+      "id": "aa29de6b-dbf3-5651-8ce9-5e54f557aa06",
+      "group_id": "f73cf69f-6ffc-5e50-9a50-d6bd4468bc9c",
+      "part": 1,
+      "question_number": 6,
+      "question_type_tag": "inference",
+      "question_text": "Look at the picture marked number 6 in your testbook.",
+      "options": {
+        "A": "A man is crouching down next to a wall.",
+        "B": "A man is taking measurements of a room.",
+        "C": "A man is attaching a door to a frame.",
+        "D": "A man is standing on a ladder."
+      },
+      "correct_answer": "A",
+      "explanation_vi": "Phân tích tranh: Có hai người đàn ông trong phòng đang sửa chữa; một người đang đứng vịn thang và một người đang ngồi xổm xuống sàn gần bức tường/cửa để làm việc. Đáp án A 'A man is crouching down next to a wall' (Một người đàn ông đang ngồi xổm cạnh bức tường) đúng với tư thế của người bên phải. Bẫy: B đo đạc phòng (sai), C lắp cửa vào khung (không đúng hành động chính), D đứng trên thang (chỉ đúng với người đứng bên trái, nhưng câu A chính xác miêu tả người đang ngồi xổm). Mẹo: Khi tranh có hai người, hãy quan sát cả hai để xem đáp án nào mô tả chính xác hành động của một trong hai người.",
+      "evidence_quote": "A man is crouching down next to a wall.",
+      "paraphrase_pair": {
+        "original": "crouching down next to a wall",
+        "paraphrased": "bending down near a partition"
+      }
+    }
+  ]
+}
