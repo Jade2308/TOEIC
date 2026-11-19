@@ -39,8 +39,7 @@ backups/
 
 # Raw materials and media storage (PDFs, full MP3s, sliced audio, images)
 # These large binary assets should be stored locally on the server/Samba share, not in Git
-data/raw/*
-!data/raw/.gitkeep
+data/raw/
 data/media/*
 !data/media/.gitkeep
 data/media/audio/*
